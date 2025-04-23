@@ -1,0 +1,220 @@
+{
+  "project": {
+    "name": "Hydra News",
+    "description": "Untamperable news verification system using quantum-inspired cryptography and distributed consensus",
+    "core_features": [
+      "Source Protection: Zero-knowledge proof identity verification for journalists and whistleblowers",
+      "Content Integrity: Logical entanglement to create tamper-evident content",
+      "Distributed Verification: Byzantine fault-tolerant network to resist attacks and censorship",
+      "Privacy-Preserving Location: Geolocation verification without revealing exact coordinates"
+    ]
+  },
+  "architecture": {
+    "layers": [
+      {
+        "name": "Source Authentication & Protection Layer",
+        "purpose": "Verifies sources without exposing identities",
+        "key_components": ["QZKP Identity Verification", "Geolocation Verification", "Anonymous Credential System"]
+      },
+      {
+        "name": "Content Processing & Validation Layer",
+        "purpose": "Processes and entangles content for verification",
+        "key_components": ["Content Submission Gateway", "Logical Entanglement Engine", "Layered Matrix Encoder"]
+      },
+      {
+        "name": "Distributed Verification Network",
+        "purpose": "Achieves consensus across multiple validation nodes",
+        "key_components": ["Consensus Node Network", "Multi-Dimensional Verification", "Byzantine Fault Tolerance"]
+      },
+      {
+        "name": "Public Distribution Layer",
+        "purpose": "Provides access to verified content with integrity proofs",
+        "key_components": ["Immutable Record Store", "Public Verification Interface", "Decentralized Content Delivery"]
+      }
+    ]
+  },
+  "components": {
+    "c": {
+      "purpose": "Core cryptographic primitives and logical entanglement",
+      "files": [
+        {
+          "name": "quantum_zkp.h",
+          "description": "Header file for Quantum Zero-Knowledge Proof system",
+          "key_structures": ["qzkp_superposition_t", "qzkp_proof_t", "qzkp_verify_params_t"],
+          "key_functions": [
+            "qzkp_create_superposition - Creates a superposition state from possible states",
+            "qzkp_apply_entanglement - Creates dependencies between states",
+            "qzkp_generate_proof - Generates a zero-knowledge proof for a secret",
+            "qzkp_verify_proof - Verifies a zero-knowledge proof",
+            "qzkp_probabilistic_encode - Creates privacy-preserving encoding"
+          ]
+        },
+        {
+          "name": "quantum_zkp.c",
+          "description": "Implementation of the Quantum-ZKP system using OpenSSL",
+          "key_algorithms": [
+            "Superposition state normalization and validation",
+            "Logical entanglement through XOR operations and hashing",
+            "Proof generation using challenge-response protocol",
+            "Probabilistic encoding for privacy preservation with true randomness"
+          ],
+          "updates": [
+            "FIXED: Enhanced probabilistic_encode function with true randomness using RAND_bytes",
+            "Added random nonce integration to ensure different encodings for identical inputs",
+            "Improved mixing of randomness with data-derived hash for stronger privacy guarantees"
+          ]
+        },
+        {
+          "name": "logical_entanglement.h",
+          "description": "Header for the logical entanglement system providing tamper-resistance",
+          "key_structures": ["entanglement_node_t", "entanglement_graph_t"],
+          "key_functions": [
+            "le_create_node - Creates a new entanglement node",
+            "le_add_dependency - Adds dependency between nodes",
+            "le_create_graph - Creates a graph from nodes",
+            "le_calculate_node_hash - Calculates hash for a node",
+            "le_verify_graph - Verifies the integrity of an entanglement graph"
+          ]
+        }
+      ]
+    },
+    "go": {
+      "purpose": "Distributed consensus and identity verification",
+      "files": [
+        {
+          "name": "consensus/consensus.go",
+          "description": "Implements the distributed verification process",
+          "key_structures": ["ConsensusNetwork", "VerificationResult", "Node"],
+          "key_functions": [
+            "RegisterNode - Adds a new verification node to the network",
+            "SubmitVerification - Submits a verification for content",
+            "GetVerification - Retrieves verification results",
+            "GetTrustScore - Calculates a trust score for content"
+          ]
+        },
+        {
+          "name": "consensus/bft.go",
+          "description": "Byzantine Fault Tolerance implementation",
+          "key_structures": ["BFTConsensus", "Message", "ConsensusResult"],
+          "key_functions": [
+            "ProposeContent - Initiates consensus for content verification",
+            "ProcessMessage - Processes consensus messages",
+            "signMessage/verifySignature - Message signing and verification"
+          ]
+        },
+        {
+          "name": "identity/zkp_identity.go",
+          "description": "Source protection and identity verification",
+          "key_structures": ["IdentityService", "SourceIdentity", "GeolocationData", "ZKPSession"],
+          "key_functions": [
+            "CreateSourceIdentity - Creates new identity with privacy protection",
+            "StartVerification - Begins ZKP-based verification",
+            "CompleteVerification - Verifies a source's response to challenge",
+            "GenerateAnonymousCredential - Creates anonymous credentials"
+          ]
+        }
+      ]
+    },
+    "python": {
+      "purpose": "Content processing and natural language analysis",
+      "files": [
+        {
+          "name": "content_processor.py",
+          "description": "Processes news content for verification",
+          "key_classes": ["ContentEntity", "ContentClaim", "NewsContent", "ContentProcessor", "CrossReferenceVerifier"],
+          "key_methods": [
+            "process_url - Fetches and processes content from URL",
+            "process_content - Processes a news content object",
+            "_extract_entities - Extracts named entities from content",
+            "_extract_claims - Extracts factual claims from content",
+            "_generate_entanglement_hash - Creates logical entanglement hash",
+            "verify_content - Cross-references with other sources"
+          ]
+        }
+      ]
+    },
+    "typescript": {
+      "purpose": "User interface and visualization",
+      "status": "Not fully implemented in the examined code"
+    }
+  },
+  "key_technologies": {
+    "quantum_zkp": {
+      "description": "Quantum Zero-Knowledge Proof system inspired by quantum computing principles",
+      "key_concepts": [
+        "Probabilistic Encoding (Superposition)",
+        "Logical Entanglement",
+        "Probabilistic Verification"
+      ],
+      "privacy_features": [
+        "Verification without revealing the secret",
+        "Probabilistic encoding to preserve privacy"
+      ]
+    },
+    "geolocation_verification": {
+      "description": "System for verifying source locations while preserving privacy",
+      "key_concepts": [
+        "BLAKE3 Hashing for address generation",
+        "Geolocation ZKP",
+        "Coordinate truncation for privacy"
+      ],
+      "privacy_features": [
+        "Truncated coordinates to protect exact location",
+        "Maximum allowed deviation (25km) for verification",
+        "Zero-knowledge location proof"
+      ]
+    },
+    "bft_consensus": {
+      "description": "Byzantine Fault Tolerance protocol for distributed verification",
+      "key_concepts": [
+        "Prepare and commit phases",
+        "View change protocol",
+        "2f+1 threshold for consensus (where f is max faulty nodes)"
+      ],
+      "security_features": [
+        "Resilience against up to f malicious nodes",
+        "Digital signatures for message authentication",
+        "Consensus requiring 2f+1 agreement"
+      ]
+    },
+    "content_verification": {
+      "description": "System to verify news content across multiple dimensions",
+      "key_concepts": [
+        "Entity extraction and claim detection",
+        "Cross-reference verification",
+        "Trust score calculation"
+      ],
+      "verification_features": [
+        "Multi-node verification",
+        "Cross-source claim checking",
+        "Entity-based verification scoring"
+      ]
+    }
+  },
+  "anonymity_features": {
+    "source_protection": {
+      "description": "Features that protect the identity of news sources",
+      "mechanisms": [
+        "Zero-knowledge proof identity verification",
+        "Anonymous credential system",
+        "Privacy-preserving geolocation"
+      ]
+    },
+    "credential_system": {
+      "description": "System for issuing anonymous but verifiable credentials",
+      "key_aspects": [
+        "Credential level without revealing identity",
+        "Signed credentials that don't expose the source",
+        "Time-limited validity"
+      ]
+    },
+    "geolocation_privacy": {
+      "description": "System to verify location without revealing exact coordinates",
+      "methods": [
+        "Coordinate truncation (approximately 10km precision)",
+        "Allowed deviation buffer (up to 25km)",
+        "Region/country verification without exact location"
+      ]
+    }
+  }
+}
