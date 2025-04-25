@@ -1,26 +1,23 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -I../c/src
 LDFLAGS = -lm -lcrypto
+
+# Source files
 SRCDIR = ../c/src
 TESTDIR = .
 
-# Source files
-SOURCES = $(SRCDIR)/quantum_zkp.c
-HEADERS = $(SRCDIR)/quantum_zkp.h $(SRCDIR)/logical_entanglement.h
-
-# Test files
-TEST_SRC = $(TESTDIR)/test_anonymity.c
-TEST_BIN = test_anonymity
+# Test executables
+CRYPTO_TEST = c_crypto_tests
 
 .PHONY: all clean run
 
-all: $(TEST_BIN)
+all: $(CRYPTO_TEST)
 
-$(TEST_BIN): $(TEST_SRC) $(SOURCES) $(HEADERS)
-	$(CC) $(CFLAGS) -o $@ $(TEST_SRC) $(SOURCES) $(LDFLAGS)
+$(CRYPTO_TEST): $(TESTDIR)/c_crypto_tests.c $(SRCDIR)/quantum_zkp.c
+	$(CC) $(CFLAGS) -o $@ $< $(SRCDIR)/quantum_zkp.c $(LDFLAGS)
 
-run: $(TEST_BIN)
-	./$(TEST_BIN)
+run: $(CRYPTO_TEST)
+	./$(CRYPTO_TEST)
 
 clean:
-	rm -f $(TEST_BIN)
+	rm -f $(CRYPTO_TEST)
