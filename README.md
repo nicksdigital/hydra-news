@@ -11,23 +11,40 @@ Hydra News is a decentralized system for verifying news content while protecting
 - **Distributed Verification**: Byzantine fault-tolerant network to resist attacks and censorship
 - **Privacy-Preserving Location**: Geolocation verification without revealing exact coordinates
 
-## Technologies
+## System Architecture
 
-- **C**: Core cryptographic primitives and logical entanglement
-- **Go**: Distributed consensus and identity verification
-- **Python**: Content processing and natural language analysis
-- **TypeScript**: User interface and visualization
+The Hydra News system consists of the following key components:
 
-## Architecture
+### 1. Core Cryptographic Layer (C)
 
-![Hydra News Architecture](docs/architecture.png)
+The foundation of the system is built with C code that implements:
 
-The system consists of four primary layers:
+- **Quantum Zero-Knowledge Proofs (QZKP)**: A cryptographic approach that enables verification without revealing sensitive information
+- **Logical Entanglement**: Creates cryptographic interdependencies between content elements to ensure tamper resistance
 
-1. **Source Authentication & Protection Layer**: Verifies sources without exposing identities
-2. **Content Processing & Validation Layer**: Processes and entangles content for verification
-3. **Distributed Verification Network**: Achieves consensus across multiple validation nodes 
-4. **Public Distribution Layer**: Provides access to verified content with integrity proofs
+### 2. Distributed Consensus Network (Go)
+
+The Go implementation handles:
+
+- **Byzantine Fault Tolerance**: Ensures system integrity even with potentially malicious nodes
+- **Identity Verification**: Protects source anonymity while validating authenticity
+- **API Layer**: RESTful API for interacting with the system
+
+### 3. Content Processing Engine (Python)
+
+The Python services provide:
+
+- **Entity Extraction**: Identifies key entities in news content
+- **Claim Detection**: Extracts and verifies factual claims
+- **Cross-Reference Verification**: Compares content with multiple sources
+
+### 4. User Interface (TypeScript/React)
+
+The frontend displays:
+
+- **Verification Status**: Visual indicators of content verification level
+- **Entity Highlighting**: Interactive visualization of identified entities
+- **Claim Analysis**: Breakdown of verified and disputed claims
 
 ## Getting Started
 
@@ -46,26 +63,59 @@ The system consists of four primary layers:
 git clone https://github.com/yourusername/hydra-news.git
 cd hydra-news
 
-# Build C libraries
-cd c
-make
-
-# Build Go components
-cd ../go
-go build ./...
-
-# Install Python dependencies
-cd ../python
-pip install -r requirements.txt
-
-# Install TypeScript/React dependencies
-cd ../typescript
-npm install
-
-# Start development servers
-cd ..
+# Build and start all services
 ./scripts/start_dev.sh
 ```
+
+This will:
+1. Compile the C cryptographic primitives
+2. Build the Go API service
+3. Start the Python content processor
+4. Launch the TypeScript frontend
+
+## API Documentation
+
+### Content Submission
+
+```
+POST /api/content/submit
+```
+
+Submit new content for processing and verification.
+
+### Content Verification
+
+```
+POST /api/content/verify
+```
+
+Verify content against other sources.
+
+### Content Retrieval
+
+```
+GET /api/content/{hash}
+```
+
+Retrieve content and its verification status by hash.
+
+## Security Features
+
+### Source Protection
+
+Sources are protected through:
+
+1. **Zero-Knowledge Identity Verification**: Verifies source credentials without exposing identity
+2. **Geolocation Verification**: Confirms location claims while obscuring exact coordinates
+3. **Anonymous Credential System**: Issues non-transferable credentials to verified sources
+
+### Content Integrity
+
+Content is protected through:
+
+1. **Logical Entanglement**: Creates cryptographic interdependencies to prevent tampering
+2. **Distributed Verification**: Multiple nodes verify content independently
+3. **Byzantine Fault Tolerance**: System remains secure even if some nodes are compromised
 
 ## Research Foundation
 
@@ -82,9 +132,3 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by the Hydra Curve project and its approach to distributed systems
-- Builds on decades of research in zero-knowledge proofs and Byzantine consensus
-- Leverages modern advances in natural language processing and cryptography
