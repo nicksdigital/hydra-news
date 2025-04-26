@@ -1,0 +1,4854 @@
+entity,type,count,num_sources,num_contexts,source_diversity
+Trump,PERSON,248,166,248,0.6693548387096774
+US,GSP,115,74,115,0.6434782608695652
+India,GPE,66,33,66,0.5
+FBI,ORGANIZATION,56,47,56,0.8392857142857143
+China,GPE,54,37,54,0.6851851851851852
+Pakistan,GPE,48,29,48,0.6041666666666666
+Myanmar,PERSON,45,36,45,0.8
+Canada,GPE,38,22,38,0.5789473684210527
+Donald Trump,ORG,37,30,37,0.8108108108108109
+Top Chef,ORG,37,22,37,0.5945945945945946
+Pahalgam,GPE,36,20,36,0.5555555555555556
+Abrego,GPE,35,32,35,0.9142857142857143
+Tahawwur Rana,PERSON,34,18,34,0.5294117647058824
+Wisconsin,GPE,33,26,33,0.7878787878787878
+FREE,ORGANIZATION,32,2,32,0.0625
+Supreme Court,ORGANIZATION,31,29,31,0.9354838709677419
+Chinese,GPE,30,20,30,0.6666666666666666
+New,GPE,30,28,30,0.9333333333333333
+Israel,GPE,29,19,29,0.6551724137931034
+Legislation,GPE,27,2,27,0.07407407407407407
+Indian,GPE,27,19,27,0.7037037037037037
+Meta,GPE,26,26,26,1.0
+Congress,ORGANIZATION,25,13,25,0.52
+Delhi,GPE,25,14,25,0.56
+French,GPE,25,18,25,0.72
+South Korea,GPE,25,17,25,0.68
+Russian,GPE,24,14,24,0.5833333333333334
+Tahawwur,PERSON,23,14,23,0.6086956521739131
+NIA,ORGANIZATION,23,17,23,0.7391304347826086
+Canadian,GPE,23,17,23,0.7391304347826086
+House,ORGANIZATION,23,13,23,0.5652173913043478
+Carney,PERSON,22,15,22,0.6818181818181818
+Health,PERSON,22,4,22,0.18181818181818182
+Punjab,GPE,22,16,22,0.7272727272727273
+Amazon Spring Sale,PERSON,21,1,21,0.047619047619047616
+North,GPE,21,18,21,0.8571428571428571
+Rana,ORGANIZATION,20,12,20,0.6
+Senate,ORGANIZATION,20,13,20,0.65
+Texas,GPE,19,13,19,0.6842105263157895
+BJP,ORGANIZATION,19,9,19,0.47368421052631576
+ICE,ORGANIZATION,19,15,19,0.7894736842105263
+Shin Bet,PERSON,18,13,18,0.7222222222222222
+Guide Michelin,ORG,18,14,18,0.7777777777777778
+WhatsApp,ORGANIZATION,18,18,18,1.0
+Science,GPE,18,14,18,0.7777777777777778
+Mark Carney,ORG,18,16,18,0.8888888888888888
+Abrego Garcia,PERSON,18,18,18,1.0
+Medical,GPE,18,12,18,0.6666666666666666
+New York,ORG,18,16,18,0.8888888888888888
+Milwaukee,GPE,17,10,17,0.5882352941176471
+Hannah Dugan,ORG,17,14,17,0.8235294117647058
+Parenthood,ORGANIZATION,17,17,17,1.0
+Education,GPE,17,17,17,1.0
+Russia,GPE,17,10,17,0.5882352941176471
+Medicaid,ORGANIZATION,17,17,17,1.0
+Marine Le Pen,ORG,17,15,17,0.8823529411764706
+Gaza,ORGANIZATION,17,15,17,0.8823529411764706
+Harvey Weinstein,ORG,15,14,15,0.9333333333333333
+Syria,GSP,15,15,15,1.0
+Japan,GPE,15,13,15,0.8666666666666667
+Mahmoud Khalil,PERSON,15,11,15,0.7333333333333333
+Israeli,GPE,14,13,14,0.9285714285714286
+Vietnam,PERSON,14,12,14,0.8571428571428571
+South,GPE,14,9,14,0.6428571428571429
+Michigan,ORGANIZATION,14,13,14,0.9285714285714286
+Florida,GPE,13,10,13,0.7692307692307693
+Death,PERSON,13,13,13,1.0
+Nigerian,GPE,13,7,13,0.5384615384615384
+National,ORGANIZATION,13,10,13,0.7692307692307693
+Anti,PERSON,12,12,12,1.0
+La Chine,ORG,12,9,12,0.75
+American,GPE,12,12,12,1.0
+Navy,ORGANIZATION,12,9,12,0.75
+DEI,ORGANIZATION,12,8,12,0.6666666666666666
+Lagos,GPE,12,7,12,0.5833333333333334
+County,ORGANIZATION,12,11,12,0.9166666666666666
+Toll,ORGANIZATION,11,11,11,1.0
+Korean,GPE,11,10,11,0.9090909090909091
+Opinion,GPE,11,7,11,0.6363636363636364
+Maine,PERSON,11,9,11,0.8181818181818182
+Magnitude Earthquake,PERSON,11,11,11,1.0
+Daniel Noboa,ORG,11,10,11,0.9090909090909091
+Netanyahu,PERSON,10,9,10,0.9
+EU,GPE,10,9,10,0.9
+Singh,PERSON,10,9,10,0.9
+Nigeria,GPE,10,6,10,0.6
+Sciences Po,ORG,10,6,10,0.6
+ITVBe,ORGANIZATION,10,1,10,0.1
+Election,GPE,10,9,10,0.9
+Mumbai,GPE,10,7,10,0.7
+Karen Read,PERSON,10,7,10,0.7
+Education Department,ORGANIZATION,10,7,10,0.7
+Africa,GPE,10,5,10,0.5
+Botched,GPE,10,1,10,0.1
+Winnipeg Free,PERSON,9,1,9,0.1111111111111111
+Organ,GPE,9,9,9,1.0
+Arrest,PERSON,9,9,9,1.0
+Nicolas Sarkozy,ORG,9,8,9,0.8888888888888888
+Abbott,GPE,9,6,9,0.6666666666666666
+Maritime,PERSON,9,7,9,0.7777777777777778
+NIH,ORGANIZATION,9,9,9,1.0
+CAMEROON News,ORG,9,1,9,0.1111111111111111
+Australia,GPE,9,7,9,0.7777777777777778
+Elon Musk,ORG,9,8,9,0.8888888888888888
+Charles Sandringham,PERSON,9,9,9,1.0
+Emmanuel Macron,ORG,9,9,9,1.0
+Poilievre,GPE,9,8,9,0.8888888888888888
+Sciences Po Strasbourg,ORG,9,8,9,0.8888888888888888
+City,GPE,9,9,9,1.0
+Joseph Kabila,ORG,9,7,9,0.7777777777777778
+Philippe Etchebest,ORG,9,9,9,1.0
+Alabama,GPE,9,4,9,0.4444444444444444
+Greece,GPE,9,9,9,1.0
+Le Mali,ORG,9,9,9,1.0
+Bill,PERSON,9,7,9,0.7777777777777778
+Australian,GPE,8,4,8,0.5
+Columbia,GPE,8,6,8,0.75
+Ukraine,GPE,8,5,8,0.625
+NATO,ORGANIZATION,8,6,8,0.75
+Beijing,GPE,8,5,8,0.625
+Pierre Poilievre,ORG,8,6,8,0.75
+Protest,GPE,8,8,8,1.0
+Harpreet Singh,PERSON,8,6,8,0.75
+Ukrainian,GPE,8,6,8,0.75
+Washington,GPE,8,6,8,0.75
+Karnataka,GPE,8,6,8,0.75
+Expert,PERSON,8,4,8,0.5
+Centre,GPE,8,5,8,0.625
+Tanzania,GPE,8,7,8,0.875
+Happy Passia,PERSON,8,4,8,0.5
+California,GPE,8,8,8,1.0
+San,GPE,8,6,8,0.75
+Nepal,GPE,8,8,8,1.0
+Sciences Po Paris,ORG,8,8,8,1.0
+Korea,PERSON,8,5,8,0.625
+News,GPE,7,6,7,0.8571428571428571
+Ile Maurice,ORG,7,1,7,0.14285714285714285
+Party,GPE,7,7,7,1.0
+English,GPE,7,7,7,1.0
+Stock Quote,PERSON,7,1,7,0.14285714285714285
+Newspaper,GPE,7,2,7,0.2857142857142857
+Singapore,GPE,7,7,7,1.0
+Bosnie Milorad Dodik,ORG,7,7,7,1.0
+Au Niger,ORG,7,7,7,1.0
+Iran,GPE,7,7,7,1.0
+Ministry,ORGANIZATION,7,6,7,0.8571428571428571
+Le FBI,ORG,7,7,7,1.0
+Uganda,GSP,7,7,7,1.0
+Hungary,GPE,7,6,7,0.8571428571428571
+NMC,ORGANIZATION,7,6,7,0.8571428571428571
+Boston,GPE,7,7,7,1.0
+GDP,ORGANIZATION,7,7,7,1.0
+Irish,GPE,7,3,7,0.42857142857142855
+General,ORGANIZATION,7,6,7,0.8571428571428571
+B,GPE,7,7,7,1.0
+Jean Imbert,ORG,7,7,7,1.0
+Terror,PERSON,7,6,7,0.8571428571428571
+Pak,GPE,7,6,7,0.8571428571428571
+Zimbabwe,GPE,7,3,7,0.42857142857142855
+Latest,GPE,6,5,6,0.8333333333333334
+Advance,GPE,6,3,6,0.5
+Department,ORGANIZATION,6,6,6,1.0
+Pentagon,FACILITY,6,5,6,0.8333333333333334
+Hezbollah,ORGANIZATION,6,4,6,0.6666666666666666
+الوطنية,ORGANIZATION,6,1,6,0.16666666666666666
+للإعلام,ORGANIZATION,6,1,6,0.16666666666666666
+Saudi,GPE,6,4,6,0.6666666666666666
+Hamas,PERSON,6,3,6,0.5
+Ex,GPE,6,5,6,0.8333333333333334
+European,GPE,6,6,6,1.0
+LA,GPE,6,6,6,1.0
+الوكالة,ORGANIZATION,6,1,6,0.16666666666666666
+Kashmir,PERSON,6,5,6,0.8333333333333334
+Board,PERSON,6,6,6,1.0
+African,GSP,6,6,6,1.0
+Polish,GPE,6,3,6,0.5
+Musk,PERSON,6,5,6,0.8333333333333334
+Karen,PERSON,6,5,6,0.8333333333333334
+United,GPE,6,5,6,0.8333333333333334
+Georgia,PERSON,6,6,6,1.0
+NaturalNews,ORGANIZATION,6,1,6,0.16666666666666666
+Bangkok,PERSON,6,2,6,0.3333333333333333
+Ghana,PERSON,6,3,6,0.5
+Taiwan,GPE,6,5,6,0.8333333333333334
+Maryland,GPE,6,4,6,0.6666666666666666
+Kentucky,PERSON,6,3,6,0.5
+ICC,ORGANIZATION,6,5,6,0.8333333333333334
+Daily Horoscope,PERSON,6,3,6,0.5
+La France,ORG,6,6,6,1.0
+Modi,PERSON,6,6,6,1.0
+Iowa,GPE,6,6,6,1.0
+Laurent Gbagbo,ORG,6,4,6,0.6666666666666666
+Court,GPE,6,6,6,1.0
+FY26,ORGANIZATION,6,6,6,1.0
+Yoon Suk Yeol,ORG,6,6,6,1.0
+Philippe Baptiste,ORG,6,6,6,1.0
+Assad,PERSON,6,6,6,1.0
+City Council,ORGANIZATION,6,6,6,1.0
+Tidjane Thiam,ORG,6,4,6,0.6666666666666666
+Incumbent,PERSON,6,6,6,1.0
+Ecuador,GSP,6,6,6,1.0
+NDP,ORGANIZATION,6,4,6,0.6666666666666666
+Labor,PERSON,6,4,6,0.6666666666666666
+Klaus Barbie,ORG,6,6,6,1.0
+Social,ORGANIZATION,5,5,5,1.0
+Telangana,PERSON,5,4,5,0.8
+AIKEYME,ORGANIZATION,5,4,5,0.8
+La Cour,ORG,5,5,5,1.0
+COVID,ORGANIZATION,5,5,5,1.0
+Kabila,PERSON,5,5,5,1.0
+Hospital,ORGANIZATION,5,5,5,1.0
+Kaiser,PERSON,5,5,5,1.0
+High,GPE,5,5,5,1.0
+Asia,GPE,5,5,5,1.0
+Global,PERSON,5,5,5,1.0
+School,PERSON,5,5,5,1.0
+Permanente Announces,ORGANIZATION,5,5,5,1.0
+Lee Jae,PERSON,5,4,5,0.8
+Carlos Ghosn,ORG,5,5,5,1.0
+Paul Watson,ORG,5,4,5,0.8
+Ntim Fordjour,PERSON,5,2,5,0.4
+Pontins,GPE,5,5,5,1.0
+North Korea,GPE,5,5,5,1.0
+Hands,ORGANIZATION,5,4,5,0.8
+Watch,GPE,5,4,5,0.8
+Waqf Bill,PERSON,5,4,5,0.8
+Bangladesh,GPE,5,5,5,1.0
+Nazi,ORGANIZATION,5,5,5,1.0
+Amit Shah,PERSON,5,4,5,0.8
+Jagmeet Singh,PERSON,5,5,5,1.0
+Thailand,GPE,5,5,5,1.0
+Le Sahel,ORG,5,2,5,0.4
+Hyderabad,ORGANIZATION,5,4,5,0.8
+Tornadoes,GPE,5,5,5,1.0
+Woman Who,PERSON,5,1,5,0.2
+Roundup,PERSON,5,5,5,1.0
+Joshlin,PERSON,5,1,5,0.2
+Pakistani,GPE,5,4,5,0.8
+Nasdaq,PERSON,5,1,5,0.2
+Terror Attack,PERSON,5,4,5,0.8
+PTI,ORGANIZATION,5,3,5,0.6
+Security,ORGANIZATION,5,5,5,1.0
+France,GPE,5,4,5,0.8
+Army,GPE,5,4,5,0.8
+Bengal,GPE,5,5,5,1.0
+Smith,ORGANIZATION,5,1,5,0.2
+Trial,GPE,5,5,5,1.0
+Students Accused Of Mocking,ORGANIZATION,5,1,5,0.2
+Tennessee,GPE,5,4,5,0.8
+INS,ORGANIZATION,5,5,5,1.0
+Diplomat,ORGANIZATION,5,1,5,0.2
+IDF,ORGANIZATION,5,1,5,0.2
+Dakota,PERSON,5,5,5,1.0
+Southeast Asia,LOCATION,5,2,5,0.4
+Moussa Dadis Camara,ORG,5,4,5,0.8
+Illinois,PERSON,5,4,5,0.8
+Read,ORGANIZATION,5,4,5,0.8
+Arizona,GPE,5,4,5,0.8
+St,ORGANIZATION,4,4,4,1.0
+Iranian,GPE,4,3,4,0.75
+Rivers,GPE,4,4,4,1.0
+Terrorist,PERSON,4,4,4,1.0
+Leader,ORGANIZATION,4,4,4,1.0
+Brice Clotaire Oligui Nguema,ORG,4,4,4,1.0
+Le Premier,ORG,4,4,4,1.0
+Poland,GPE,4,3,4,0.75
+Mohan Yadav,PERSON,4,2,4,0.5
+Montreal,PERSON,4,4,4,1.0
+Sonia Gandhi,PERSON,4,4,4,1.0
+Dutton,GPE,4,3,4,0.75
+K,GPE,4,4,4,1.0
+Zelenskyy,PERSON,4,3,4,0.75
+London,GPE,4,4,4,1.0
+Hong Kong,GPE,4,4,4,1.0
+Govt,GPE,4,4,4,1.0
+Kryvyi Rih,ORG,4,2,4,0.5
+Republican,ORGANIZATION,4,4,4,1.0
+Country,GPE,4,4,4,1.0
+La Syrie,ORG,4,4,4,1.0
+Ahmed Souab,ORG,4,4,4,1.0
+Post,GPE,4,1,4,0.25
+Burkina Faso,ORG,4,4,4,1.0
+Utah,GPE,4,3,4,0.75
+Mumbai News,PERSON,4,2,4,0.5
+David Pelicot,ORG,4,4,4,1.0
+Kenya,GPE,4,4,4,1.0
+Mark Zuckerberg,ORG,4,4,4,1.0
+Harvey,PERSON,4,4,4,1.0
+Lori,PERSON,4,3,4,0.75
+Gilbert Rozon,ORG,4,3,4,0.75
+Union,PERSON,4,3,4,0.75
+Le Panama,ORG,4,4,4,1.0
+Les Etats,ORG,4,4,4,1.0
+Common Stock,ORGANIZATION,4,1,4,0.25
+Idaho,PERSON,4,4,4,1.0
+La Birmanie,ORG,4,4,4,1.0
+Challenge All,ORGANIZATION,4,2,4,0.5
+Bay,ORGANIZATION,4,4,4,1.0
+IED,ORGANIZATION,4,4,4,1.0
+Shanghai,GPE,4,4,4,1.0
+BNP,ORGANIZATION,4,4,4,1.0
+Passia,GPE,4,4,4,1.0
+JD Vance,ORG,4,2,4,0.5
+Manhattan,GPE,4,4,4,1.0
+Sunayna,ORGANIZATION,4,4,4,1.0
+Ocean,LOCATION,4,4,4,1.0
+La Russie,ORG,4,3,4,0.75
+Waqf,PERSON,4,2,4,0.5
+Malaysia,GPE,4,4,4,1.0
+Tesla,PERSON,4,4,4,1.0
+British Steel,ORG,4,3,4,0.75
+NYSE,ORGANIZATION,4,2,4,0.5
+Mexico,GPE,4,4,4,1.0
+Sports,GPE,4,3,4,0.75
+First,GPE,4,4,4,1.0
+Free,GPE,4,4,4,1.0
+Dallas,GPE,4,3,4,0.75
+Swiss Music Awards,ORG,4,2,4,0.5
+Palestinian,GPE,4,4,4,1.0
+Assam,GPE,4,4,4,1.0
+Benjamin Netanyahu,ORG,4,4,4,1.0
+Sidharth Malhotra,PERSON,4,4,4,1.0
+Kharge,PERSON,4,4,4,1.0
+Arrests Wisconsin,PERSON,4,3,4,0.75
+German,GPE,4,3,4,0.75
+Student,PERSON,4,4,4,1.0
+Marco Mouly,ORG,4,4,4,1.0
+Weather,PERSON,4,2,4,0.5
+Firstpost,ORGANIZATION,4,1,4,0.25
+Council,GPE,4,4,4,1.0
+Long,GPE,4,4,4,1.0
+NASA,ORGANIZATION,4,4,4,1.0
+Denis Kadima,ORG,4,2,4,0.5
+Donald,PERSON,4,4,4,1.0
+Helene,GPE,4,3,4,0.75
+Democrats,ORGANIZATION,4,3,4,0.75
+AAAS,ORGANIZATION,4,1,4,0.25
+American Association,ORGANIZATION,4,2,4,0.5
+Side,ORGANIZATION,4,1,4,0.25
+Japanese,GPE,4,3,4,0.75
+Analysis,GPE,4,3,4,0.75
+Muslim,ORGANIZATION,4,4,4,1.0
+New Pics,ORGANIZATION,4,1,4,0.25
+Funny,GPE,4,1,4,0.25
+Equal Parts Smart,PERSON,4,1,4,0.25
+Imran,GPE,4,2,4,0.5
+GNC,ORGANIZATION,3,3,3,1.0
+Middle East,GPE,3,3,3,1.0
+GeM,ORGANIZATION,3,3,3,1.0
+Lawsuit,GPE,3,3,3,1.0
+Jammu,PERSON,3,3,3,1.0
+ISI,ORGANIZATION,3,3,3,1.0
+Liberia,GPE,3,1,3,0.3333333333333333
+Mental,ORGANIZATION,3,3,3,1.0
+Association,ORGANIZATION,3,2,3,0.6666666666666666
+Happy,GPE,3,3,3,1.0
+Dan Caine,ORG,3,3,3,1.0
+Affaire MIC,ORG,3,1,3,0.3333333333333333
+Port,GPE,3,3,3,1.0
+Fake,PERSON,3,3,3,1.0
+Thai,GPE,3,3,3,1.0
+Turkey,GPE,3,3,3,1.0
+Update,GPE,3,3,3,1.0
+Jordan,GPE,3,3,3,1.0
+Milorad Dodik,ORG,3,3,3,1.0
+Rym Renom,ORG,3,3,3,1.0
+California Edison,ORGANIZATION,3,3,3,1.0
+Mass,GPE,3,3,3,1.0
+FDA,ORGANIZATION,3,3,3,1.0
+Deadline,PERSON,3,2,3,0.6666666666666666
+En Bretagne,ORG,3,2,3,0.6666666666666666
+Pam Bondi Outlines,PERSON,3,1,3,0.3333333333333333
+FBI Arrest,ORGANIZATION,3,1,3,0.3333333333333333
+Wisconsin Judge,PERSON,3,1,3,0.3333333333333333
+Immigration,GPE,3,1,3,0.3333333333333333
+Europe,GPE,3,3,3,1.0
+Xcel,PERSON,3,3,3,1.0
+Pro,GPE,3,3,3,1.0
+Le Chef,ORG,3,1,3,0.3333333333333333
+Tokyo,GPE,3,3,3,1.0
+US House,ORGANIZATION,3,3,3,1.0
+Salaam,PERSON,3,3,3,1.0
+Dar,ORGANIZATION,3,3,3,1.0
+Signs Executive Order,PERSON,3,3,3,1.0
+Habs,PERSON,3,3,3,1.0
+De Gaulle,ORG,3,2,3,0.6666666666666666
+Sylvester Turner,PERSON,3,3,3,1.0
+Ayer,PERSON,3,1,3,0.3333333333333333
+Vienna,GSP,3,1,3,0.3333333333333333
+North Dakota,GPE,3,3,3,1.0
+Türkiye,GPE,3,2,3,0.6666666666666666
+Mahama,PERSON,3,1,3,0.3333333333333333
+Bihar,GPE,3,3,3,1.0
+Shah,GPE,3,3,3,1.0
+Sandringham,PERSON,3,3,3,1.0
+Tamil,PERSON,3,3,3,1.0
+New Mexico,GPE,3,2,3,0.6666666666666666
+Kyiv,PERSON,3,3,3,1.0
+Tatarstan,GPE,3,3,3,1.0
+Al,GPE,3,2,3,0.6666666666666666
+Report,GPE,3,3,3,1.0
+NFF,ORGANIZATION,3,2,3,0.6666666666666666
+NSW,ORGANIZATION,3,1,3,0.3333333333333333
+Massive,PERSON,3,2,3,0.6666666666666666
+Moscow,GPE,3,3,3,1.0
+Germany,GPE,3,3,3,1.0
+Mark,PERSON,3,3,3,1.0
+Southern,GPE,3,3,3,1.0
+Ethiopian,GPE,3,3,3,1.0
+Pennsylvania,GPE,3,1,3,0.3333333333333333
+Boubacar Diane,ORG,3,1,3,0.3333333333333333
+Waqf Act,PERSON,3,1,3,0.3333333333333333
+Defamation,GPE,3,3,3,1.0
+Delhi HC,PERSON,3,3,3,1.0
+Priya Ramani,PERSON,3,3,3,1.0
+Francisco,ORGANIZATION,3,2,3,0.6666666666666666
+Rival Episode,PERSON,3,1,3,0.3333333333333333
+Medha,GPE,3,3,3,1.0
+Microfinance,GPE,3,3,3,1.0
+Q4FY25,GPE,3,3,3,1.0
+Capitol,GPE,3,2,3,0.6666666666666666
+Colorado,GPE,3,2,3,0.6666666666666666
+NIB,ORGANIZATION,3,2,3,0.6666666666666666
+Mer Rouge,ORG,3,3,3,1.0
+Next,PERSON,3,2,3,0.6666666666666666
+Christopher Coutanceau,ORG,3,2,3,0.6666666666666666
+NBA,ORGANIZATION,3,1,3,0.3333333333333333
+Inter Miami,ORGANIZATION,3,1,3,0.3333333333333333
+Diddy,GPE,3,2,3,0.6666666666666666
+Indigenous,GPE,3,3,3,1.0
+Afenyo,PERSON,3,2,3,0.6666666666666666
+Markin,PERSON,3,2,3,0.6666666666666666
+Gay Pride,ORG,3,3,3,1.0
+NEET,ORGANIZATION,3,2,3,0.6666666666666666
+PG,ORGANIZATION,3,2,3,0.6666666666666666
+La Hongrie,ORG,3,3,3,1.0
+Abuja,GPE,3,3,3,1.0
+Palestine,GPE,3,3,3,1.0
+John Curtis,PERSON,3,2,3,0.6666666666666666
+Patel,PERSON,3,3,3,1.0
+Karmelo Anthony,PERSON,3,3,3,1.0
+Austin Metcalf,PERSON,3,3,3,1.0
+Netflix,GPE,3,2,3,0.6666666666666666
+PIP,ORGANIZATION,3,3,3,1.0
+Hands Off,PERSON,3,3,3,1.0
+DWP,ORGANIZATION,3,2,3,0.6666666666666666
+Control,ORGANIZATION,3,3,3,1.0
+America,GPE,3,3,3,1.0
+Cancer,GPE,3,2,3,0.6666666666666666
+DWP Help,ORGANIZATION,3,3,3,1.0
+University,ORGANIZATION,3,3,3,1.0
+Business,ORGANIZATION,3,3,3,1.0
+Philippines,GSP,3,3,3,1.0
+KBS WORLD French,ORG,3,1,3,0.3333333333333333
+Gap,ORGANIZATION,3,3,3,1.0
+Sussex,PERSON,3,3,3,1.0
+Tax Hike,PERSON,3,3,3,1.0
+Southeast,GPE,3,3,3,1.0
+Bengaluru,GPE,3,3,3,1.0
+Jury,GPE,3,3,3,1.0
+Healthy,PERSON,3,3,3,1.0
+NHS,ORGANIZATION,3,3,3,1.0
+SC,ORGANIZATION,3,3,3,1.0
+Weinstein,PERSON,3,3,3,1.0
+MeToo,ORGANIZATION,3,3,3,1.0
+Joshlin Smith,FACILITY,3,1,3,0.3333333333333333
+G,GPE,3,3,3,1.0
+Convoy,GSP,3,3,3,1.0
+Nationwide Protest,ORGANIZATION,3,2,3,0.6666666666666666
+Wall Street,ORG,3,2,3,0.6666666666666666
+CBI,ORGANIZATION,3,3,3,1.0
+Old,PERSON,3,3,3,1.0
+Answer Key,PERSON,3,1,3,0.3333333333333333
+Radio,ORGANIZATION,3,3,3,1.0
+Mauritius,PERSON,3,3,3,1.0
+South Africa,GPE,3,1,3,0.3333333333333333
+Sonia,GPE,3,3,3,1.0
+Same,PERSON,3,3,3,1.0
+Pre,GPE,3,3,3,1.0
+Tamil Nadu,PERSON,3,3,3,1.0
+Hatem Heni,ORG,3,1,3,0.3333333333333333
+United States,GPE,3,3,3,1.0
+Earthquake,GPE,3,3,3,1.0
+Record,PERSON,3,3,3,1.0
+Liberal,ORGANIZATION,3,3,3,1.0
+AB Science,ORG,3,2,3,0.6666666666666666
+AI,ORGANIZATION,3,3,3,1.0
+Beirut,GPE,3,2,3,0.6666666666666666
+Rana Extradition,PERSON,3,3,3,1.0
+Bruno Retailleau,ORG,3,2,3,0.6666666666666666
+Rajnath,PERSON,3,3,3,1.0
+Asahi,ORGANIZATION,3,2,3,0.6666666666666666
+Yannick Neuder,ORG,3,3,3,1.0
+La Tunisie,ORG,3,2,3,0.6666666666666666
+Fily Sissoko,ORG,3,2,3,0.6666666666666666
+Evacuation Sanitaire,ORG,3,2,3,0.6666666666666666
+NASDAQ,ORGANIZATION,3,1,3,0.3333333333333333
+Delta,ORGANIZATION,3,3,3,1.0
+Large,GPE,3,3,3,1.0
+Fire,ORGANIZATION,3,3,3,1.0
+Saskatchewan,GPE,3,2,3,0.6666666666666666
+CAGR,ORGANIZATION,3,3,3,1.0
+British,GPE,3,3,3,1.0
+Data,PERSON,3,3,3,1.0
+Edo,GPE,3,3,3,1.0
+Detectives,ORGANIZATION,3,1,3,0.3333333333333333
+Le Conseil,ORG,3,3,3,1.0
+Growth,GPE,3,3,3,1.0
+Warren,PERSON,3,3,3,1.0
+Elizabeth,PERSON,3,3,3,1.0
+Latest News India,ORGANIZATION,3,1,3,0.3333333333333333
+State,GPE,3,2,3,0.6666666666666666
+Romania,GPE,3,2,3,0.6666666666666666
+Brice Oligui Nguema,ORG,3,3,3,1.0
+Guy Marius Sagna,ORG,3,1,3,0.3333333333333333
+La Nouvelle Tribune,ORG,3,1,3,0.3333333333333333
+Asian,GPE,3,3,3,1.0
+Group,GPE,3,3,3,1.0
+Andrew,PERSON,3,2,3,0.6666666666666666
+Tantita,PERSON,3,2,3,0.6666666666666666
+Powell,PERSON,3,3,3,1.0
+Demand,GPE,3,3,3,1.0
+Malick Diaw,ORG,3,3,3,1.0
+Dublin,GPE,3,3,3,1.0
+Toronto,GPE,3,2,3,0.6666666666666666
+Punjab DGP,PERSON,2,2,2,1.0
+Gender,GPE,2,2,2,1.0
+Kannada,GPE,2,2,2,1.0
+La,PERSON,2,2,2,1.0
+Oregon,GPE,2,2,2,1.0
+Review,GPE,2,2,2,1.0
+Medical Debt,ORGANIZATION,2,2,2,1.0
+Coast Guard,LOCATION,2,2,2,1.0
+Top,PERSON,2,2,2,1.0
+Key Hamas,PERSON,2,1,2,0.5
+Israelis,GSP,2,2,2,1.0
+ISA,ORGANIZATION,2,1,2,0.5
+SPARK Matrix,ORGANIZATION,2,2,2,1.0
+P Named Top Global Leader,PERSON,2,2,2,1.0
+Exhibition,ORGANIZATION,2,2,2,1.0
+Kumari Anantham,PERSON,2,2,2,1.0
+Les Maldives,ORG,2,2,2,1.0
+Admiral,ORGANIZATION,2,2,2,1.0
+Dinesh K Tripathi,PERSON,2,2,2,1.0
+Karachi,GPE,2,2,2,1.0
+Paul Gaultier,ORG,2,1,2,0.5
+Honorary Doctorate,PERSON,2,1,2,0.5
+Result,GPE,2,2,2,1.0
+PCG,ORGANIZATION,2,2,2,1.0
+System Must,PERSON,2,2,2,1.0
+Oklahoma,GPE,2,2,2,1.0
+BOJ,ORGANIZATION,2,2,2,1.0
+Los Angeles,ORG,2,2,2,1.0
+Haut Katanga,ORG,2,2,2,1.0
+EgbetokunMustGo Protest,ORGANIZATION,2,1,2,0.5
+Met,ORGANIZATION,2,2,2,1.0
+Virtual,PERSON,2,2,2,1.0
+Elon,PERSON,2,1,2,0.5
+Drive Fleetwide,PERSON,2,2,2,1.0
+Action,GPE,2,2,2,1.0
+Nevada,GPE,2,2,2,1.0
+Sallaum,PERSON,2,2,2,1.0
+Education Policy,ORGANIZATION,2,2,2,1.0
+Title IX,PERSON,2,2,2,1.0
+Philippe Broquart,ORG,2,1,2,0.5
+Astrologer Vinayak Vishwas Karandikar,PERSON,2,1,2,0.5
+Seoul,GPE,2,1,2,0.5
+Krishnagiri,GPE,2,1,2,0.5
+Durgesh Pathak,PERSON,2,2,2,1.0
+Beibu,GPE,2,2,2,1.0
+Yobe,GPE,2,2,2,1.0
+GetInsured,ORGANIZATION,2,2,2,1.0
+Democratic,ORGANIZATION,2,2,2,1.0
+Guardian,GPE,2,2,2,1.0
+Table,PERSON,2,2,2,1.0
+Sopitas,GPE,2,1,2,0.5
+Archive,GPE,2,1,2,0.5
+Uttarakhand,GPE,2,2,2,1.0
+Rishikesh,GPE,2,1,2,0.5
+Pireaus,PERSON,2,2,2,1.0
+Ontario,ORGANIZATION,2,1,2,0.5
+SLAPP,ORGANIZATION,2,2,2,1.0
+Macky Sall,ORG,2,2,2,1.0
+McEntee,ORGANIZATION,2,2,2,1.0
+Le Maroc,ORG,2,2,2,1.0
+Hill,PERSON,2,2,2,1.0
+NYS,ORGANIZATION,2,2,2,1.0
+Bipartisan,GPE,2,2,2,1.0
+Helen,PERSON,2,2,2,1.0
+GOP,ORGANIZATION,2,1,2,0.5
+Ed Dept,PERSON,2,2,2,1.0
+Malta,GPE,2,2,2,1.0
+Wind,GPE,2,2,2,1.0
+Ltd,PERSON,2,1,2,0.5
+Annie,PERSON,2,2,2,1.0
+Medical Research,ORGANIZATION,2,2,2,1.0
+Gangster,PERSON,2,2,2,1.0
+Harpreet,PERSON,2,2,2,1.0
+American Terror,ORGANIZATION,2,2,2,1.0
+Sabha,ORGANIZATION,2,2,2,1.0
+Paul Chiang,ORG,2,2,2,1.0
+Haryana,PERSON,2,2,2,1.0
+Cyril Lignac,ORG,2,2,2,1.0
+John Nelson,ORG,2,2,2,1.0
+Arab Emirates,PERSON,2,1,2,0.5
+Le Directeur,ORG,2,2,2,1.0
+Eduwatch,PERSON,2,2,2,1.0
+Basel,PERSON,2,2,2,1.0
+Married,GPE,2,2,2,1.0
+KBS,ORGANIZATION,2,1,2,0.5
+Bull,PERSON,2,2,2,1.0
+Harris,PERSON,2,2,2,1.0
+Big Tech,ORG,2,2,2,1.0
+Denmark,PERSON,2,2,2,1.0
+Rebrands,ORGANIZATION,2,2,2,1.0
+NIMASA,ORGANIZATION,2,2,2,1.0
+Seeks,PERSON,2,2,2,1.0
+Medtec,PERSON,2,2,2,1.0
+Mudavadi,GPE,2,1,2,0.5
+Social Media,ORGANIZATION,2,2,2,1.0
+GPA,ORGANIZATION,2,2,2,1.0
+Session,ORGANIZATION,2,1,2,0.5
+Dems,PERSON,2,2,2,1.0
+Medical Device,PERSON,2,2,2,1.0
+Lok,PERSON,2,2,2,1.0
+SNAP,ORGANIZATION,2,2,2,1.0
+Hinduphobia,GPE,2,2,2,1.0
+Stena,PERSON,2,2,2,1.0
+Mozambican,GPE,2,2,2,1.0
+Ottawa,GPE,2,2,2,1.0
+American Enterprise,ORGANIZATION,2,1,2,0.5
+Direct Link,PERSON,2,1,2,0.5
+Law,ORGANIZATION,2,2,2,1.0
+Isabelle Huot,ORG,2,2,2,1.0
+Minority,GPE,2,2,2,1.0
+NDC,ORGANIZATION,2,1,2,0.5
+Ferozepur,GPE,2,2,2,1.0
+Digital,ORGANIZATION,2,2,2,1.0
+Texas House,PERSON,2,2,2,1.0
+Lok Sabha,PERSON,2,2,2,1.0
+Kwara,GPE,2,2,2,1.0
+Institute,ORGANIZATION,2,1,2,0.5
+Raj Bhavan,ORGANIZATION,2,2,2,1.0
+Speaker,PERSON,2,2,2,1.0
+ESA,ORGANIZATION,2,1,2,0.5
+Droupadi Murmu,PERSON,2,2,2,1.0
+Maharashtra,PERSON,2,2,2,1.0
+Launch,ORGANIZATION,2,2,2,1.0
+El,GPE,2,1,2,0.5
+Gunmen,GPE,2,2,2,1.0
+Prince William,ORG,2,2,2,1.0
+Jaishankar,GPE,2,2,2,1.0
+Tulsa,GPE,2,1,2,0.5
+Charleston,PERSON,2,2,2,1.0
+Charles III,ORG,2,2,2,1.0
+Norway,GPE,2,2,2,1.0
+Kulgam,GPE,2,2,2,1.0
+Damascus,PERSON,2,2,2,1.0
+Transit,GPE,2,1,2,0.5
+STEM,ORGANIZATION,2,2,2,1.0
+Massachusetts,GPE,2,2,2,1.0
+Algeria,GPE,2,2,2,1.0
+Trump DEI,PERSON,2,2,2,1.0
+CIO,ORGANIZATION,2,2,2,1.0
+Teachers,ORGANIZATION,2,2,2,1.0
+Lebanese,GPE,2,1,2,0.5
+Tompolo,PERSON,2,1,2,0.5
+SA,ORGANIZATION,2,2,2,1.0
+Sindh,GPE,2,2,2,1.0
+Rahul Gandhi,PERSON,2,2,2,1.0
+J,GPE,2,2,2,1.0
+John Mahama,PERSON,2,2,2,1.0
+Kuwait Public,PERSON,2,1,2,0.5
+PM Salam,ORGANIZATION,2,1,2,0.5
+Bringing,GPE,2,2,2,1.0
+Elton John,PERSON,2,2,2,1.0
+La CFDT,ORG,2,2,2,1.0
+Grand,GPE,2,2,2,1.0
+Oyetola,PERSON,2,2,2,1.0
+IOS,ORGANIZATION,2,2,2,1.0
+Think,GPE,2,2,2,1.0
+Capt Bjorn Hojgaard,PERSON,2,2,2,1.0
+Gaza Strip,LOCATION,2,2,2,1.0
+Railway,ORGANIZATION,2,1,2,0.5
+Ted Kotcheff,ORG,2,2,2,1.0
+Pablo Escobar,ORG,2,2,2,1.0
+AAP,ORGANIZATION,2,2,2,1.0
+El Fitr,ORG,2,1,2,0.5
+Earth,PERSON,2,2,2,1.0
+Market Trends,PERSON,2,1,2,0.5
+Tusk,ORGANIZATION,2,2,2,1.0
+Funduq,GPE,2,1,2,0.5
+Pradeep Bhandari,PERSON,2,2,2,1.0
+Hunt,GPE,2,2,2,1.0
+Tornado Terror,PERSON,2,1,2,0.5
+Defense News,ORGANIZATION,2,1,2,0.5
+Week,ORGANIZATION,2,1,2,0.5
+Patiala House,FACILITY,2,2,2,1.0
+En Syrie,ORG,2,2,2,1.0
+ÖVP,ORGANIZATION,2,2,2,1.0
+Maritime Academy,PERSON,2,2,2,1.0
+Local,PERSON,2,2,2,1.0
+Ireland,GPE,2,2,2,1.0
+NDelta,ORGANIZATION,2,1,2,0.5
+Belarus,GPE,2,2,2,1.0
+Virginia,GPE,2,2,2,1.0
+SBU,ORGANIZATION,2,1,2,0.5
+CIMR,ORGANIZATION,2,1,2,0.5
+Akhilesh Yadav,PERSON,2,2,2,1.0
+Green Party,ORGANIZATION,2,2,2,1.0
+Nations Unies,ORG,2,2,2,1.0
+Merit Medical Systems,PERSON,2,1,2,0.5
+KQ,ORGANIZATION,2,1,2,0.5
+Passenger,GPE,2,1,2,0.5
+Ive,PERSON,2,2,2,1.0
+UCI Gran Fondo,ORG,2,2,2,1.0
+El Turck,ORG,2,1,2,0.5
+African Cash,ORGANIZATION,2,1,2,0.5
+RON95,GPE,2,2,2,1.0
+Rare,GPE,2,2,2,1.0
+Rain,GPE,2,2,2,1.0
+College,ORGANIZATION,2,2,2,1.0
+Rana Canadian,PERSON,2,2,2,1.0
+Wilson,PERSON,2,2,2,1.0
+West Bank,LOCATION,2,2,2,1.0
+Le Pen,ORG,2,2,2,1.0
+Credit Acceptance Welcomes,ORGANIZATION,2,2,2,1.0
+Afghanistan,GPE,2,2,2,1.0
+Beauty,GPE,2,2,2,1.0
+Expand,GPE,2,2,2,1.0
+Arvind Kejriwal,PERSON,2,2,2,1.0
+Inc,PERSON,2,2,2,1.0
+PS5,ORGANIZATION,2,1,2,0.5
+PKR,ORGANIZATION,2,1,2,0.5
+En RDC,ORG,2,2,2,1.0
+Bursary,PERSON,2,1,2,0.5
+Ranchi News,PERSON,2,1,2,0.5
+York,GPE,2,2,2,1.0
+Madhya,PERSON,2,2,2,1.0
+MBBS,ORGANIZATION,2,2,2,1.0
+UiPath,ORGANIZATION,2,1,2,0.5
+En Jordanie,ORG,2,2,2,1.0
+En Russie,ORG,2,2,2,1.0
+Istanbul,GPE,2,2,2,1.0
+Conflict,ORGANIZATION,2,2,2,1.0
+Ilane Tinchant,ORG,2,2,2,1.0
+Transition Evergreen,ORG,2,2,2,1.0
+Joseph Facal,ORG,2,2,2,1.0
+Peter,PERSON,2,2,2,1.0
+Mohamed Amra,ORG,2,2,2,1.0
+Rana Extradition Live,PERSON,2,2,2,1.0
+Srinagar,ORGANIZATION,2,2,2,1.0
+Tihar,GPE,2,2,2,1.0
+Gujarat,GPE,2,2,2,1.0
+Southern California,LOCATION,2,2,2,1.0
+Gambia,GPE,2,2,2,1.0
+Moldova,GPE,2,1,2,0.5
+Amid,PERSON,2,2,2,1.0
+Charged Over Alleged Reconnaissance,ORGANIZATION,2,1,2,0.5
+G4S,GPE,2,1,2,0.5
+Land,GPE,2,2,2,1.0
+Sudan,GPE,2,2,2,1.0
+Globus Medical,PERSON,2,1,2,0.5
+Bollywood,GPE,2,2,2,1.0
+Save,PERSON,2,2,2,1.0
+Smart,PERSON,2,2,2,1.0
+Meet,PERSON,2,2,2,1.0
+Sidi Bouzid,ORG,2,2,2,1.0
+Muslim Brotherhood,PERSON,2,2,2,1.0
+Power,GPE,2,2,2,1.0
+Britain,GPE,2,2,2,1.0
+Partner,ORGANIZATION,2,1,2,0.5
+Security Cooperation,ORGANIZATION,2,1,2,0.5
+Children,GPE,2,1,2,0.5
+Rasamny,PERSON,2,1,2,0.5
+Arabiya,PERSON,2,1,2,0.5
+Beirut Port,ORGANIZATION,2,1,2,0.5
+Kazakhstan,GPE,2,2,2,1.0
+Kuwait,GPE,2,1,2,0.5
+ECI,ORGANIZATION,2,2,2,1.0
+Audit,GPE,2,2,2,1.0
+COMMUNIQUE DU CONSEIL DES MINISTRES DU MERCREDI,ORG,2,2,2,1.0
+Putin,PERSON,2,2,2,1.0
+Elections,GPE,2,2,2,1.0
+SPF,ORGANIZATION,2,1,2,0.5
+NA,ORGANIZATION,2,2,2,1.0
+Greg,GPE,2,2,2,1.0
+Voting,GPE,2,2,2,1.0
+Crans Montana Forum,ORG,2,2,2,1.0
+Harris County,PERSON,2,2,2,1.0
+Caricom,GPE,2,2,2,1.0
+Medicine,ORGANIZATION,2,2,2,1.0
+Nice Tattoo Festival,ORG,2,2,2,1.0
+Gary Vaynerchuk,ORG,2,2,2,1.0
+La SAAQ,ORG,2,2,2,1.0
+Fort Worth,ORGANIZATION,2,1,2,0.5
+Wien,PERSON,2,1,2,0.5
+Wahl,PERSON,2,1,2,0.5
+Ousmane Sonko,ORG,2,2,2,1.0
+Commonwealth,ORGANIZATION,2,2,2,1.0
+La CEI,ORG,2,1,2,0.5
+Le Forum,ORG,2,2,2,1.0
+Miss Landes,ORG,2,1,2,0.5
+Oligui Nguema,ORG,2,2,2,1.0
+Miss France,ORG,2,2,2,1.0
+Six,PERSON,2,2,2,1.0
+Eligibility,GPE,2,1,2,0.5
+Bizerte Nord,ORG,2,2,2,1.0
+AU CAMEROUN,ORG,2,1,2,0.5
+Ukachukwu,PERSON,2,2,2,1.0
+ET DE,ORG,2,1,2,0.5
+Christine Dalloz,ORG,2,2,2,1.0
+Turkish,GPE,2,2,2,1.0
+Cameroonians,GPE,2,2,2,1.0
+Quake,GPE,2,2,2,1.0
+NJ Counties Declared,ORGANIZATION,2,2,2,1.0
+Areas Due,PERSON,2,2,2,1.0
+Drought,PERSON,2,2,2,1.0
+Viksit Bharat,PERSON,2,2,2,1.0
+Finland,GPE,2,2,2,1.0
+UNE QUESTION DE,ORG,2,1,2,0.5
+Alert System,PERSON,2,2,2,1.0
+Nigerian News,GPE,2,1,2,0.5
+Derek OBrien,PERSON,2,2,2,1.0
+Sagarika Ghose,PERSON,2,2,2,1.0
+Saket Gokhale,PERSON,2,2,2,1.0
+Women Protest,PERSON,2,1,2,0.5
+Lich,PERSON,2,2,2,1.0
+Barber,PERSON,2,2,2,1.0
+Chennai,GPE,2,1,2,0.5
+Man,PERSON,2,2,2,1.0
+Size,PERSON,2,2,2,1.0
+Spain,GPE,2,2,2,1.0
+Benue,GPE,2,2,2,1.0
+APC,ORGANIZATION,2,2,2,1.0
+SDP,ORGANIZATION,2,2,2,1.0
+Masterclass,GPE,2,2,2,1.0
+BJD Atanu Sabyasachi Nayak,ORGANIZATION,2,2,2,1.0
+Wright,ORGANIZATION,2,1,2,0.5
+GMA,ORGANIZATION,2,2,2,1.0
+Devendra Fadnavis,PERSON,2,2,2,1.0
+Excelsior,GPE,2,1,2,0.5
+Anambra,PERSON,2,2,2,1.0
+Vienna Election,PERSON,2,1,2,0.5
+ECP,ORGANIZATION,2,2,2,1.0
+Fired,GPE,2,2,2,1.0
+Worker Case,PERSON,2,2,2,1.0
+FEMA,ORGANIZATION,2,2,2,1.0
+Latest Nigeria,PERSON,2,1,2,0.5
+Nigeria News,PERSON,2,1,2,0.5
+Sweden,GPE,2,2,2,1.0
+Mexico Turquoise,PERSON,2,2,2,1.0
+Lawyer,GPE,2,2,2,1.0
+Gensol,GPE,2,1,2,0.5
+SME,ORGANIZATION,2,1,2,0.5
+Shyam Sekhar,PERSON,2,1,2,0.5
+Hollywood,GPE,2,2,2,1.0
+Sex,GPE,2,2,2,1.0
+Gandhi,ORGANIZATION,2,2,2,1.0
+Ambedkar,PERSON,2,2,2,1.0
+Native,GPE,2,2,2,1.0
+Turquoise Alert System,PERSON,2,2,2,1.0
+Festival,PERSON,2,2,2,1.0
+Takedown,ORGANIZATION,2,2,2,1.0
+Liberals,ORGANIZATION,2,2,2,1.0
+Songon Agban,ORG,2,1,2,0.5
+Imed Khlifi,ORG,2,1,2,0.5
+Le SYNABEF,ORG,2,1,2,0.5
+Military Friendly School,PERSON,2,2,2,1.0
+Technology,ORGANIZATION,2,2,2,1.0
+Innovation,ORGANIZATION,2,1,2,0.5
+Best,GPE,2,2,2,1.0
+En Equateur,ORG,2,1,2,0.5
+Fast,PERSON,2,2,2,1.0
+Jobs,PERSON,2,2,2,1.0
+NBC,ORGANIZATION,2,2,2,1.0
+Sciences Po Menton,ORG,2,2,2,1.0
+Science Factor,ORG,2,2,2,1.0
+Indiana,GPE,2,2,2,1.0
+IPO,ORGANIZATION,2,2,2,1.0
+Chubb,PERSON,2,2,2,1.0
+Launches New,PERSON,2,2,2,1.0
+ShanghaiTech University,ORGANIZATION,2,1,2,0.5
+South China,GPE,2,2,2,1.0
+Tout,GPE,2,2,2,1.0
+Bangladeshi,GPE,2,1,2,0.5
+Discovery,GPE,2,2,2,1.0
+Ktaka,GPE,2,1,2,0.5
+Mangaluru,GPE,2,1,2,0.5
+Waqt Act,PERSON,2,1,2,0.5
+Navi,PERSON,2,1,2,0.5
+Duna Blanca,ORG,2,2,2,1.0
+En Charente,ORG,2,2,2,1.0
+Exports Exceed,PERSON,2,1,2,0.5
+PDP,ORGANIZATION,2,2,2,1.0
+Support,GPE,2,2,2,1.0
+Life Science CRO,ORG,2,2,2,1.0
+Xi Jinping,ORG,2,2,2,1.0
+Emmanuel Moulin,ORG,2,2,2,1.0
+Arab Academy,PERSON,2,1,2,0.5
+Karwar Naval Base,PERSON,2,2,2,1.0
+Crowley,PERSON,2,1,2,0.5
+Future Maritime,ORGANIZATION,2,1,2,0.5
+Logistics,PERSON,2,1,2,0.5
+Green,GPE,2,2,2,1.0
+Schools,GPE,2,2,2,1.0
+Kottayam Science City,PERSON,2,1,2,0.5
+Mae Jemison,PERSON,2,2,2,1.0
+UAFS,ORGANIZATION,2,2,2,1.0
+Science Fiction Convention,ORGANIZATION,2,2,2,1.0
+Kingston Whig,ORGANIZATION,2,1,2,0.5
+Warsaw,ORGANIZATION,2,1,2,0.5
+Insightful Sci,PERSON,2,2,0,1.0
+Ricardo,PERSON,2,1,2,0.5
+Possible,GPE,2,2,2,1.0
+Midwest,ORGANIZATION,2,1,2,0.5
+Computer Science,ORGANIZATION,2,2,2,1.0
+Business Recorder,ORGANIZATION,2,1,2,0.5
+Mnangagwa,GPE,2,2,2,1.0
+Employer,ORGANIZATION,2,2,2,1.0
+EOR,ORGANIZATION,2,2,2,1.0
+QKS Group,ORGANIZATION,2,2,2,1.0
+Fiscal,GPE,2,2,2,1.0
+Murray,PERSON,2,2,2,1.0
+Santa,PERSON,2,2,2,1.0
+White House,FACILITY,2,2,2,1.0
+Bahrain,GPE,2,2,2,1.0
+MoUs,ORGANIZATION,2,2,2,1.0
+Plea,GPE,2,2,2,1.0
+Lord Ram,ORGANIZATION,2,2,2,1.0
+Red Zone,ORGANIZATION,2,1,2,0.5
+Balochistan,GPE,2,1,2,0.5
+Luigi Mangione,ORG,2,1,2,0.5
+Sonia Dahmani,ORG,2,2,2,1.0
+La CGT,ORG,2,2,2,1.0
+Berrien,PERSON,2,1,2,0.5
+County Address,ORGANIZATION,2,1,2,0.5
+American Morning,ORGANIZATION,2,2,2,1.0
+Futures Fall,PERSON,2,2,2,1.0
+Bonds Rally,PERSON,2,2,2,1.0
+Investors Negotiate Market Turmoil,ORGANIZATION,2,2,2,1.0
+IIT,ORGANIZATION,2,2,2,1.0
+AP,ORGANIZATION,2,2,2,1.0
+Academy,ORGANIZATION,2,2,2,1.0
+Climate,PERSON,2,2,2,1.0
+Center,ORGANIZATION,2,2,2,1.0
+Alameda,PERSON,2,1,2,0.5
+Dothan,GPE,2,1,2,0.5
+Maurice Papon,ORG,2,2,2,1.0
+Marco Rubio,ORG,2,2,2,1.0
+Sushilkumar Shinde,PERSON,2,2,2,1.0
+PM Modi,ORGANIZATION,2,2,2,1.0
+LG,ORGANIZATION,2,2,2,1.0
+Key,PERSON,2,2,2,1.0
+Louis,PERSON,2,2,2,1.0
+Beverly Cannone,PERSON,2,2,2,1.0
+FY25,ORGANIZATION,2,2,2,1.0
+Ironwood,GPE,2,1,2,0.5
+MN,ORGANIZATION,2,2,2,1.0
+Tyler Perry House,PERSON,2,1,0,0.5
+Spirit,GPE,2,2,2,1.0
+UN,ORGANIZATION,2,2,2,1.0
+Barcelona,GPE,2,1,2,0.5
+LA Dodgers,ORGANIZATION,2,1,2,0.5
+RuPaul Drag Race,ORGANIZATION,2,2,2,1.0
+Duterte,GPE,2,2,2,1.0
+Trump Myanmar,PERSON,2,2,2,1.0
+DC,GPE,2,2,2,1.0
+Airlines,ORGANIZATION,2,2,2,1.0
+WHIO Radio,ORGANIZATION,2,1,2,0.5
+Suffolk,GPE,2,2,2,1.0
+SNL,ORGANIZATION,2,2,2,1.0
+Springfield,GPE,2,2,2,1.0
+NBA Playoffs,ORGANIZATION,2,1,2,0.5
+Dauphin County,PERSON,2,2,2,1.0
+WATCH,ORGANIZATION,2,1,2,0.5
+Payne Season,PERSON,2,1,0,0.5
+Diddy Combs,PERSON,2,2,1,1.0
+Power Book,PERSON,2,1,2,0.5
+Kanan Season,PERSON,2,1,0,0.5
+Boston Marathon,ORGANIZATION,2,2,2,1.0
+CBSE,ORGANIZATION,2,2,2,1.0
+Expert Advice,PERSON,2,1,2,0.5
+Brighter Future,PERSON,2,1,2,0.5
+Physician,GPE,2,2,2,1.0
+Real Madrid,ORGANIZATION,2,1,2,0.5
+Arvinas,GPE,2,1,2,0.5
+Sean,GPE,2,2,2,1.0
+Tunisia,GPE,2,2,2,1.0
+Ford,ORGANIZATION,2,2,2,1.0
+Hassen Mezni,ORG,2,1,2,0.5
+Federal Lands,ORGANIZATION,2,1,2,0.5
+Border Gives Us Extra Charges,PERSON,2,1,2,0.5
+File Against Crossers,PERSON,2,1,2,0.5
+Academia,GPE,2,1,2,0.5
+African Lion,ORG,2,2,2,1.0
+PMDC,ORGANIZATION,2,2,2,1.0
+Select,PERSON,2,1,2,0.5
+Organization,ORGANIZATION,2,2,2,1.0
+South Carolina,GPE,2,1,2,0.5
+Medical Debuts,ORGANIZATION,2,2,2,1.0
+VeriSee,ORGANIZATION,2,2,2,1.0
+Malaysian,GPE,2,2,2,1.0
+Ophthalmology Society Annual,ORGANIZATION,2,2,2,1.0
+Alliance,ORGANIZATION,2,2,2,1.0
+Medtec Free,ORGANIZATION,2,2,2,1.0
+Kicks Off,PERSON,2,2,2,1.0
+Local Enterprises,ORGANIZATION,2,2,2,1.0
+Medical Corporation,ORGANIZATION,2,2,2,1.0
+Luc Lahaye,ORG,2,2,2,1.0
+Pacific,GPE,2,2,2,1.0
+Call,GPE,2,2,2,1.0
+Judith Suminwa,ORG,2,2,2,1.0
+Rochelle Agglo,ORG,2,1,2,0.5
+INFO OUEST,ORG,2,2,2,1.0
+Ladministration Trump,ORG,2,2,2,1.0
+Maritime Authority,PERSON,2,1,2,0.5
+Yellow,GPE,2,2,2,1.0
+National Maritime,ORGANIZATION,2,2,2,1.0
+Auburn,GPE,2,1,2,0.5
+Salt Lake County,PERSON,2,2,2,1.0
+Paxlovid,PERSON,2,2,2,1.0
+Teen Mom,PERSON,2,1,2,0.5
+Nov,PERSON,2,2,2,1.0
+Dolphin,PERSON,2,2,2,1.0
+PG College,ORGANIZATION,2,2,2,1.0
+Grand Annual Function Symphony,PERSON,2,2,0,1.0
+Splendour,PERSON,2,2,2,1.0
+NCAA,ORGANIZATION,2,1,2,0.5
+Houston,PERSON,2,2,2,1.0
+Acer,PERSON,2,2,2,1.0
+En Turquie,ORG,2,2,2,1.0
+Benyamin Netanyahou,ORG,2,2,2,1.0
+La CPI,ORG,2,2,2,1.0
+Trademark Group,ORGANIZATION,2,2,2,1.0
+Parish,PERSON,2,2,2,1.0
+HIV,ORGANIZATION,2,2,2,1.0
+Louisiana,PERSON,2,1,2,0.5
+Portland,GPE,2,2,2,1.0
+Adventist,PERSON,2,2,2,1.0
+Boeing,GPE,2,2,2,1.0
+Sea Shepherd France,ORG,2,2,2,1.0
+State Park,ORGANIZATION,2,2,2,1.0
+Humanitarian,GPE,2,2,2,1.0
+Baba Vanga,PERSON,2,2,2,1.0
+Asheville,GPE,2,2,2,1.0
+Gilmore,GPE,2,2,2,1.0
+Japan News,GPE,2,1,2,0.5
+PHOTOS,ORGANIZATION,2,2,2,1.0
+Panel,GPE,2,2,2,1.0
+North West,PERSON,2,2,2,1.0
+Linfluenceuse Rym Renom,ORG,2,1,2,0.5
+Rahul,PERSON,2,2,2,1.0
+United Trademark Group,ORGANIZATION,2,2,2,1.0
+Strategic Partner,PERSON,2,2,2,1.0
+WAVES,ORGANIZATION,2,2,2,1.0
+Global Brand,PERSON,2,2,2,1.0
+Good,GPE,2,2,2,1.0
+Atlanta,ORGANIZATION,2,2,2,1.0
+Reason,ORGANIZATION,2,2,2,1.0
+Anurag Thakur,PERSON,2,2,2,1.0
+Pharmacist,GPE,2,2,2,1.0
+Saif Ali Khan,PERSON,2,2,2,1.0
+Aoun,GPE,2,1,2,0.5
+Photos,PERSON,2,2,2,1.0
+Haiti,PERSON,2,1,2,0.5
+Ramban,GPE,2,2,2,1.0
+Mine,GPE,2,2,2,1.0
+Arkansas,ORGANIZATION,2,2,2,1.0
+Simon Faye,ORG,2,1,2,0.5
+Co,ORGANIZATION,2,2,2,1.0
+Energy,PERSON,2,2,2,1.0
+Saif,PERSON,2,2,2,1.0
+Trinidad,GPE,2,1,2,0.5
+Tobago,PERSON,2,1,2,0.5
+Swiss,GPE,2,2,2,1.0
+Mehdi Nemmouche,ORG,2,2,2,1.0
+Averett,PERSON,2,2,2,1.0
+Rotorua,PERSON,2,1,2,0.5
+Darnique Te Aonui,PERSON,2,1,2,0.5
+Turns Focus,PERSON,2,2,2,1.0
+Potentially Privatizing Commissaries,PERSON,2,2,2,1.0
+Easter,PERSON,2,2,2,1.0
+Daybell,ORGANIZATION,2,2,2,1.0
+Sandrine Josso,ORG,2,2,2,1.0
+Eye,ORGANIZATION,2,2,2,1.0
+Greek,GPE,2,2,2,1.0
+Focus,GPE,2,2,2,1.0
+Fitch,GPE,2,2,2,1.0
+Constance,ORGANIZATION,2,1,2,0.5
+Narooma News,PERSON,2,1,2,0.5
+Mandalay CM,PERSON,2,2,2,1.0
+Army Field Hospital,ORGANIZATION,2,2,2,1.0
+Cabinet,ORGANIZATION,2,2,2,1.0
+Arkansas Democrat,ORGANIZATION,2,1,2,0.5
+Gazette,PERSON,2,1,2,0.5
+Orban,PERSON,2,2,2,1.0
+Ben Peters,PERSON,2,1,2,0.5
+Joint,PERSON,2,2,2,1.0
+Kampala,GSP,2,2,2,1.0
+High School,PERSON,2,1,2,0.5
+Military Exchanges,PERSON,2,2,2,1.0
+Orders,ORGANIZATION,2,2,2,1.0
+Glen,PERSON,2,2,2,1.0
+Patrol Adviser,PERSON,2,1,2,0.5
+Hindu,GPE,2,2,2,1.0
+Faculty,GPE,2,2,2,1.0
+Whare,GPE,2,1,2,0.5
+Hannah Dugan Arrested,PERSON,2,2,2,1.0
+Mengal,GPE,2,2,2,1.0
+Quetta,GPE,2,2,2,1.0
+Conroe,PERSON,2,2,2,1.0
+Operation Brahma,ORGANIZATION,2,2,2,1.0
+Indo,GPE,2,2,2,1.0
+Border,PERSON,2,1,2,0.5
+Kareena Neisius,ORG,1,1,1,1.0
+Drake,PERSON,1,1,1,1.0
+Live,GPE,1,1,1,1.0
+Vancouver,PERSON,1,1,1,1.0
+Le Cap,ORG,1,1,1,1.0
+Houthis VS US Navy,ORG,1,1,1,1.0
+OMA Group,ORG,1,1,1,1.0
+Charentes Tourisme,ORG,1,1,1,1.0
+Sidi Ghazi,ORG,1,1,1,1.0
+Dr Fatou Diouf,ORG,1,1,1,1.0
+Pacifique Nord,ORG,1,1,1,1.0
+Gal Doumbouya,ORG,1,1,1,1.0
+Forum Crans Montana,ORG,1,1,1,1.0
+Minority Whip,ORGANIZATION,1,1,1,1.0
+Minority Leader,ORGANIZATION,1,1,1,1.0
+Assembly,PERSON,1,1,1,1.0
+Dudley Labour,PERSON,1,1,1,1.0
+LATEST,ORGANIZATION,1,1,1,1.0
+Omar Ayub,PERSON,1,1,1,1.0
+Bureaucracy,GPE,1,1,1,1.0
+Golden Ocean,ORG,1,1,1,1.0
+Karwar,ORGANIZATION,1,1,1,1.0
+Guard Ship Huravee,PERSON,1,1,1,1.0
+Maldivian,GPE,1,1,1,1.0
+Navy Completes,ORGANIZATION,1,1,1,1.0
+Rise,ORGANIZATION,1,1,1,1.0
+WAEC,ORGANIZATION,1,1,1,1.0
+Health Literacy,ORGANIZATION,1,1,1,1.0
+Download Semester Marksheet,PERSON,1,1,1,1.0
+BSAEU,ORGANIZATION,1,1,1,1.0
+Trans Athlete Ban,PERSON,1,1,1,1.0
+Education Issues Final,ORGANIZATION,1,1,1,1.0
+Dept,GPE,1,1,1,1.0
+Elizabeth Warren,PERSON,1,1,1,1.0
+National Educational Policy,ORGANIZATION,1,1,1,1.0
+Alef,PERSON,1,1,1,1.0
+Groningen,ORGANIZATION,1,1,1,1.0
+Centre University,ORGANIZATION,1,1,1,1.0
+San Francisco,PERSON,1,1,1,1.0
+Least,GPE,1,1,1,1.0
+Elementary Education,ORGANIZATION,1,1,1,1.0
+Dont,PERSON,1,1,1,1.0
+Condemns Exam Fees,ORGANIZATION,1,1,1,1.0
+MSU,ORGANIZATION,1,1,1,1.0
+Choctaw,PERSON,1,1,1,1.0
+Mizoram,GPE,1,1,1,1.0
+Staff Wants,PERSON,1,1,1,1.0
+Digital Hub,ORGANIZATION,1,1,1,1.0
+Reform Faculty Contribute,PERSON,1,1,1,1.0
+Inclusion,ORGANIZATION,1,1,1,1.0
+Skills,PERSON,1,1,1,1.0
+NOW Best,ORGANIZATION,1,1,1,1.0
+Slams Modi,PERSON,1,1,1,1.0
+Says Congress Leader Sonia Gandhi,PERSON,1,1,1,1.0
+Public Education Must End,ORGANIZATION,1,1,1,1.0
+Boost Regional Education,PERSON,1,1,1,1.0
+Gehlot Unveils Engineering Books,PERSON,1,1,1,1.0
+Edutech,GPE,1,1,1,1.0
+Lynneth Renberg,PERSON,1,1,1,1.0
+Of Expansive,ORGANIZATION,1,1,1,1.0
+Smart Indonesia Card,PERSON,1,1,1,1.0
+Innovation Summit,ORGANIZATION,1,1,1,1.0
+Macao Greater Bay Area Education,PERSON,1,1,1,1.0
+Guangdong,GPE,1,1,1,1.0
+Secure Children,ORGANIZATION,1,1,1,1.0
+Enhanced Educare Launched,PERSON,1,1,1,1.0
+Overhaul America Broken Education System,PERSON,1,1,1,1.0
+The Bit,FACILITY,1,1,1,1.0
+RUCKER,ORGANIZATION,1,1,1,1.0
+NELSON And,ORGANIZATION,1,1,1,1.0
+Education West Virginia,PERSON,1,1,1,1.0
+Immediate,ORGANIZATION,1,1,1,1.0
+Calls,PERSON,1,1,1,1.0
+Public,GPE,1,1,1,1.0
+Polytechnic,ORGANIZATION,1,1,1,1.0
+Seneca,PERSON,1,1,1,1.0
+Kaduna,GPE,1,1,1,1.0
+Education Encourages States,ORGANIZATION,1,1,1,1.0
+Austin,PERSON,1,1,1,1.0
+Online Education Group Files Annual Report,PERSON,1,1,1,1.0
+FLN Cship,ORGANIZATION,1,1,1,1.0
+IET,GPE,1,1,1,1.0
+Hopeful,GPE,1,1,1,1.0
+Beginnings,ORGANIZATION,1,1,1,1.0
+EdTech,ORGANIZATION,1,1,1,1.0
+Education Company,ORGANIZATION,1,1,1,1.0
+Education Honored,PERSON,1,1,1,1.0
+Trump Seeks,PERSON,1,1,1,1.0
+Stocks Hit Highs,PERSON,1,1,1,1.0
+Stock,PERSON,1,1,1,1.0
+Of Elementary,ORGANIZATION,1,1,1,1.0
+Pradesh Cabinet Elevates Directorate,PERSON,1,1,1,1.0
+West Virginia,LOCATION,1,1,1,1.0
+Martial Jardel,ORG,1,1,1,1.0
+Dr Sudesh Kumar Gungadin,ORG,1,1,1,1.0
+David Gaiqui,ORG,1,1,1,1.0
+La Ciotat,ORG,1,1,1,1.0
+Adip Lorraine,ORG,1,1,1,1.0
+The Pitt,ORG,1,1,1,1.0
+Noah Wyle,ORG,1,1,1,1.0
+Pourquoi Yohann,ORG,1,1,1,1.0
+Li Hongling,ORG,1,1,1,1.0
+John Traynor,ORG,1,1,1,1.0
+Salon International,ORG,1,1,1,1.0
+Himachal,PERSON,1,1,1,1.0
+GLS University,ORGANIZATION,1,1,1,1.0
+Education Outcomes,PERSON,1,1,1,1.0
+Ethiopia,GPE,1,1,1,1.0
+Ogamba Launches Scholarship Program,PERSON,1,1,1,1.0
+DISRUPTOR,ORGANIZATION,1,1,1,1.0
+NEP,ORGANIZATION,1,1,1,1.0
+Shudra,PERSON,1,1,1,1.0
+Jhanjeri,ORGANIZATION,1,1,1,1.0
+CGC Mohali,ORGANIZATION,1,1,1,1.0
+Education Conclave,ORGANIZATION,1,1,1,1.0
+Deal,GPE,1,1,1,1.0
+Currituck County,PERSON,1,1,1,1.0
+Chandigarh News,ORGANIZATION,1,1,1,1.0
+Aaron,PERSON,1,1,1,1.0
+Orleans,ORGANIZATION,1,1,1,1.0
+Jaryn Crouson,PERSON,1,1,1,1.0
+Oversee Schools Till,PERSON,1,1,1,1.0
+HCA Healthcare,ORG,1,1,1,1.0
+MG France,ORG,1,1,1,1.0
+Murat Dizdar,PERSON,1,1,1,1.0
+Education Stabilization Fund,ORGANIZATION,1,1,1,1.0
+Education Equity,PERSON,1,1,1,1.0
+Strong,PERSON,1,1,1,1.0
+Level Steering Group,PERSON,1,1,1,1.0
+Netherlands,GPE,1,1,1,1.0
+Welcomes Sigrid Kaag,PERSON,1,1,1,1.0
+Zambry,GPE,1,1,1,1.0
+National Strategic Asset,ORGANIZATION,1,1,1,1.0
+Lose Federal Education,ORGANIZATION,1,1,1,1.0
+Discrimination Commitment,ORGANIZATION,1,1,1,1.0
+Claude,GPE,1,1,1,1.0
+Angara,GPE,1,1,1,1.0
+Qualified Workforce,PERSON,1,1,1,1.0
+OSDE,ORGANIZATION,1,1,1,1.0
+Sukanta Majumdar,PERSON,1,1,1,1.0
+First Art Education Symposium,PERSON,1,1,1,1.0
+Art Presents Esteemed Scholar Gloria J,PERSON,1,1,1,1.0
+La Loano,ORG,1,1,1,1.0
+CVS Health,ORG,1,1,1,1.0
+Alexy Faure,ORG,1,1,1,1.0
+Critique PULSE,ORG,1,1,1,1.0
+Antonietta Raco,ORG,1,1,1,1.0
+Samuel Sarr,ORG,1,1,1,1.0
+Suaire Famille,ORG,1,1,1,1.0
+Health Tourism Industry,ORG,1,1,1,1.0
+Median Technologies,ORG,1,1,1,1.0
+Nicole Cadenel,ORG,1,1,1,1.0
+Fondation Cheikh Zayed,ORG,1,1,1,1.0
+Le Centre,ORG,1,1,1,1.0
+William F,PERSON,1,1,1,1.0
+Education Department Overhaul,ORGANIZATION,1,1,1,1.0
+House Democrats,ORGANIZATION,1,1,1,1.0
+McMahon Meets With,ORGANIZATION,1,1,1,1.0
+Children Living,ORGANIZATION,1,1,1,1.0
+Haruna Iddrisu,PERSON,1,1,1,1.0
+Pradhan,PERSON,1,1,1,1.0
+BJP Tarun,ORGANIZATION,1,1,1,1.0
+Sarawak,GPE,1,1,1,1.0
+National Teachers,ORGANIZATION,1,1,1,1.0
+Kim Seong,PERSON,1,1,1,1.0
+Healthcare Education Market,ORGANIZATION,1,1,1,1.0
+Lebanon,GPE,1,1,1,1.0
+Zoho Sridhar Vembu,PERSON,1,1,1,1.0
+Pectaa,PERSON,1,1,1,1.0
+Newly,GPE,1,1,1,1.0
+Real Food Academy Expands Nationally,ORGANIZATION,1,1,1,1.0
+Embrace,GPE,1,1,1,1.0
+Bechir Hamza,ORG,1,1,1,1.0
+Les Aghlabides,ORG,1,1,1,1.0
+OSS3O,ORGANIZATION,1,1,1,1.0
+Siriraj,PERSON,1,1,1,1.0
+Eyes Of 17 Experts,ORGANIZATION,1,1,1,1.0
+Analyst Verdict,ORGANIZATION,1,1,1,1.0
+Regional Medical Center,ORGANIZATION,1,1,1,1.0
+Clara County,PERSON,1,1,1,1.0
+PoGB,GPE,1,1,1,1.0
+Raja Abid,PERSON,1,1,1,1.0
+Houses,ORGANIZATION,1,1,1,1.0
+Flint,GPE,1,1,1,1.0
+SEC Faculty,ORGANIZATION,1,1,1,1.0
+McComas,PERSON,1,1,1,1.0
+TN,ORGANIZATION,1,1,1,1.0
+Jill Underly,PERSON,1,1,1,1.0
+WBank,ORGANIZATION,1,1,1,1.0
+Hry,GPE,1,1,1,1.0
+WI Edu,ORGANIZATION,1,1,1,1.0
+New Powys,GPE,1,1,1,1.0
+Haribhau Bagde,PERSON,1,1,1,1.0
+Says Rajasthan,PERSON,1,1,1,1.0
+NEP Introduced For Holistic Development Of Students,ORGANIZATION,1,1,1,1.0
+David,PERSON,1,1,1,1.0
+Limbo,GPE,1,1,1,1.0
+Trump DEI Demands Leave States,PERSON,1,1,1,1.0
+HGSE,ORGANIZATION,1,1,1,1.0
+OCR Head Catherine Lhamon Talks Ed Department Cuts,ORGANIZATION,1,1,1,1.0
+Agartala,GPE,1,1,1,1.0
+Zim Unveils Indigenous Higher Education System,PERSON,1,1,1,1.0
+WHX Labs,ORGANIZATION,1,1,1,1.0
+WHX,ORGANIZATION,1,1,1,1.0
+Medlab Asia Rebrands,PERSON,1,1,1,1.0
+MOH,ORGANIZATION,1,1,1,1.0
+Abang Belon,PERSON,1,1,1,1.0
+Continues Family Military Legacy,PERSON,1,1,1,1.0
+Officer Poyla Ghosh Wins Top Honours,PERSON,1,1,1,1.0
+AFMC,ORGANIZATION,1,1,1,1.0
+State Medical Examiner,ORGANIZATION,1,1,1,1.0
+Polk,GPE,1,1,1,1.0
+Baptist Memorial,ORGANIZATION,1,1,1,1.0
+Prof,ORGANIZATION,1,1,1,1.0
+National Reforms,ORGANIZATION,1,1,1,1.0
+Blog,ORGANIZATION,1,1,1,1.0
+Education Workshop,PERSON,1,1,1,1.0
+V,GPE,1,1,1,1.0
+Ed Sheeran,ORG,1,1,1,1.0
+Harry Styles,ORG,1,1,1,1.0
+Zone Interdite,ORG,1,1,1,1.0
+Bac Sport,ORG,1,1,1,1.0
+Quimper Bretagne Occidentale,ORG,1,1,1,1.0
+CT,ORGANIZATION,1,1,1,1.0
+Pair,GPE,1,1,1,1.0
+Mancini,ORGANIZATION,1,1,1,1.0
+Education Reforms,PERSON,1,1,1,1.0
+Praises,PERSON,1,1,1,1.0
+SDUSD,ORGANIZATION,1,1,1,1.0
+EDU,ORGANIZATION,1,1,1,1.0
+HOPE,ORGANIZATION,1,1,1,1.0
+Indoctrinate,GPE,1,1,1,1.0
+Schools Teach Teachers How,PERSON,1,1,1,1.0
+Kuala Lumpur,GPE,1,1,1,1.0
+Jimmy Rakotofiringa,ORG,1,1,1,1.0
+Sport Automobile,ORG,1,1,1,1.0
+DE LA TRANSITION,ORG,1,1,1,1.0
+SON SOUTIEN AUX,ORG,1,1,1,1.0
+RIGUEUR ET,ORG,1,1,1,1.0
+ATIR CONDAMNE AVEC LA,ORG,1,1,1,1.0
+CONTRE LE MALI,ORG,1,1,1,1.0
+AGRESSION DE,ORG,1,1,1,1.0
+La Roche,ORG,1,1,1,1.0
+Banque Africaine,ORG,1,1,1,1.0
+La CSQ,ORG,1,1,1,1.0
+Corsica Sole,ORG,1,1,1,1.0
+ALEF Education,ORG,1,1,1,1.0
+Charles Zerbib,ORG,1,1,1,1.0
+Up Day,ORG,1,1,1,1.0
+Bourse Direct,ORG,1,1,1,1.0
+Bernard Arnault,ORG,1,1,1,1.0
+Mamady Doumbouya,ORG,1,1,1,1.0
+La CGEM,ORG,1,1,1,1.0
+Monsieur Bernard Drainville,ORG,1,1,1,1.0
+Navin Ramgoolam,ORG,1,1,1,1.0
+Docteur Edouard Zotomou Kpogomou,ORG,1,1,1,1.0
+Catherine Pierre,ORG,1,1,1,1.0
+Lassociation Territoire,ORG,1,1,1,1.0
+Renault Trucks,ORG,1,1,1,1.0
+Rachida Dati,ORG,1,1,1,1.0
+Les Gabonais,ORG,1,1,1,1.0
+Transition Brenne,ORG,1,1,1,1.0
+Vro Gwengamp,ORG,1,1,1,1.0
+Le Grand Bleu,ORG,1,1,1,1.0
+Notre Dame Divine,ORG,1,1,1,1.0
+Helge Lund,ORG,1,1,1,1.0
+La Paillade,ORG,1,1,1,1.0
+En Alsace,ORG,1,1,1,1.0
+Hind Kabawat,ORG,1,1,1,1.0
+Acquire Assets,ORGANIZATION,1,1,1,1.0
+Kendrapada,GPE,1,1,1,1.0
+Sharan Prakash Patil,PERSON,1,1,1,1.0
+RGUHS Act,ORGANIZATION,1,1,1,1.0
+Central Arabian Sea,ORGANIZATION,1,1,1,1.0
+INS Trikand,ORGANIZATION,1,1,1,1.0
+Kirstin Ferguson,PERSON,1,1,1,1.0
+Journalist,PERSON,1,1,1,1.0
+Due,PERSON,1,1,1,1.0
+Aesthetics Market,ORGANIZATION,1,1,1,1.0
+FMCSA,GPE,1,1,1,1.0
+High Court Issues Guidelines For Prompt Legal Guidance To Minor Rape Victims,ORGANIZATION,1,1,1,1.0
+Chhattisgarh Assembly,PERSON,1,1,1,1.0
+UnitedHealth,ORGANIZATION,1,1,1,1.0
+Application,ORGANIZATION,1,1,1,1.0
+Applied Adhesives And Sealants Market Size,ORGANIZATION,1,1,1,1.0
+Zionism,PERSON,1,1,1,1.0
+Zionism Isnt Anti,PERSON,1,1,1,1.0
+Zionist Free Speech,PERSON,1,1,1,1.0
+Australia Attack Anti,PERSON,1,1,1,1.0
+Zionist,GPE,1,1,1,1.0
+ESR,ORGANIZATION,1,1,1,1.0
+Lalit,GPE,1,1,1,1.0
+Fresh LRs,PERSON,1,1,1,1.0
+Oval Office,FACILITY,1,1,1,1.0
+BANS Associated,ORGANIZATION,1,1,1,1.0
+Nouhoum Sarr,ORG,1,1,1,1.0
+Cellou Dalein Diallo,ORG,1,1,1,1.0
+Ponts Jumeaux,ORG,1,1,1,1.0
+Donates Multimillion Naira State,PERSON,1,1,1,1.0
+Security Partnership,ORGANIZATION,1,1,1,1.0
+Deepens,ORGANIZATION,1,1,1,1.0
+Yeshiva,ORGANIZATION,1,1,1,1.0
+Assassinate Rabbi Shneur Segal,ORGANIZATION,1,1,1,1.0
+Azerbaijan Foiled Iran Plot,PERSON,1,1,1,1.0
+Ghana Immigration Service,PERSON,1,1,1,1.0
+Aduamoa,PERSON,1,1,1,1.0
+Kwahu,PERSON,1,1,1,1.0
+MI5,ORGANIZATION,1,1,1,1.0
+Prince,GPE,1,1,1,1.0
+Slain Tantita,PERSON,1,1,1,1.0
+Delta Activists,PERSON,1,1,1,1.0
+St Mary,PERSON,1,1,1,1.0
+Charles Jr,PERSON,1,1,1,1.0
+SPLA,ORGANIZATION,1,1,1,1.0
+Palatine,GPE,1,1,1,1.0
+Art Police,PERSON,1,1,1,1.0
+MP,ORGANIZATION,1,1,1,1.0
+Apollo Hospital,PERSON,1,1,1,1.0
+Impressive Sales Trends,ORGANIZATION,1,1,1,1.0
+Market Worldwide,PERSON,1,1,1,1.0
+Smyrna,GPE,1,1,1,1.0
+Fine,PERSON,1,1,1,1.0
+ER,ORGANIZATION,1,1,1,1.0
+Medical Center,ORGANIZATION,1,1,1,1.0
+Newton,GPE,1,1,1,1.0
+Justice Department,ORGANIZATION,1,1,1,1.0
+Seventh Circuit Says,ORGANIZATION,1,1,1,1.0
+Employees With Disabilities,ORGANIZATION,1,1,1,1.0
+ADA Recovery Is,ORGANIZATION,1,1,1,1.0
+Emerging Growth Conference,ORGANIZATION,1,1,1,1.0
+Automation Center,ORGANIZATION,1,1,1,1.0
+Seed,GPE,1,1,1,1.0
+Riptides,PERSON,1,1,1,1.0
+Congo,GSP,1,1,1,1.0
+Telegram,ORGANIZATION,1,1,1,1.0
+Ijaw,PERSON,1,1,1,1.0
+Violence Between Itsekiri,PERSON,1,1,1,1.0
+Youths Accuse Evangelist,PERSON,1,1,1,1.0
+Gbaramatu,PERSON,1,1,1,1.0
+Arrow Fire,PERSON,1,1,1,1.0
+Safety,PERSON,1,1,1,1.0
+Barker Fire,PERSON,1,1,1,1.0
+Pye,PERSON,1,1,1,1.0
+PE,GPE,1,1,1,1.0
+ZDL,ORGANIZATION,1,1,1,1.0
+Cyberfort,PERSON,1,1,1,1.0
+Niger,GPE,1,1,1,1.0
+Sultan Qaboos Grand Mosque,ORGANIZATION,1,1,1,1.0
+Eid Al Fitr Prayers,PERSON,1,1,1,1.0
+Sultan,GPE,1,1,1,1.0
+Reach,PERSON,1,1,1,1.0
+Tables Market,PERSON,1,1,1,1.0
+Steel Pipes Market,PERSON,1,1,1,1.0
+Hanoi,GPE,1,1,1,1.0
+GOUNH,ORGANIZATION,1,1,1,1.0
+Security Guard Service,ORGANIZATION,1,1,1,1.0
+LTA,ORGANIZATION,1,1,1,1.0
+ITB,ORGANIZATION,1,1,1,1.0
+VNM,ORGANIZATION,1,1,1,1.0
+UNDP,ORGANIZATION,1,1,1,1.0
+Notices,ORGANIZATION,1,1,1,1.0
+Excellence Market,ORGANIZATION,1,1,1,1.0
+Denounces Hostile Designs Targeting Jordan,PERSON,1,1,1,1.0
+GCC,ORGANIZATION,1,1,1,1.0
+And Mea Finance And Accounting Managed Services Industry,ORGANIZATION,1,1,1,1.0
+Apac,GPE,1,1,1,1.0
+SBC Medical,ORGANIZATION,1,1,1,1.0
+BDS,ORGANIZATION,1,1,1,1.0
+Health Journalism Award,PERSON,1,1,1,1.0
+FMGE,ORGANIZATION,1,1,1,1.0
+Lee,PERSON,1,1,1,1.0
+DP,ORGANIZATION,1,1,1,1.0
+Orange County Global Medical Center,ORGANIZATION,1,1,1,1.0
+FIREHAWK Helicopter,ORGANIZATION,1,1,1,1.0
+County Fire,ORGANIZATION,1,1,1,1.0
+Orange,PERSON,1,1,1,1.0
+Chinese Institutes,ORGANIZATION,1,1,1,1.0
+Slain Tantita Company Worker,PERSON,1,1,1,1.0
+Battle,GPE,1,1,1,1.0
+CDS,ORGANIZATION,1,1,1,1.0
+Geagea,PERSON,1,1,1,1.0
+Sharjah,PERSON,1,1,1,1.0
+PMC Commissioner Rajendra Bhosale,ORGANIZATION,1,1,1,1.0
+Letter,GPE,1,1,1,1.0
+Alleges MPCC Leader Sanjay Balgude,PERSON,1,1,1,1.0
+Looted Funds,PERSON,1,1,1,1.0
+Fake Employee List,PERSON,1,1,1,1.0
+Pune,GPE,1,1,1,1.0
+Survey Sensitive Sites,PERSON,1,1,1,1.0
+Use,ORGANIZATION,1,1,1,1.0
+Wellness Center Introduces,ORGANIZATION,1,1,1,1.0
+Pain,ORGANIZATION,1,1,1,1.0
+DoALL Sawing Products Names Craig Freking,ORGANIZATION,1,1,1,1.0
+Lamarr Timepiece Unveils,PERSON,1,1,1,1.0
+Azerbaijan,GPE,1,1,1,1.0
+Cancer Research,PERSON,1,1,1,1.0
+Principal,PERSON,1,1,1,1.0
+Tip,GPE,1,1,1,1.0
+Char Dham,PERSON,1,1,1,1.0
+Xinjiang,PERSON,1,1,1,1.0
+Thomson Medical Centre,PERSON,1,1,1,1.0
+OKs,ORGANIZATION,1,1,1,1.0
+Meet Healthcare Demands,PERSON,1,1,1,1.0
+PG Seats,ORGANIZATION,1,1,1,1.0
+Medical Schemes,ORGANIZATION,1,1,1,1.0
+Healthcare Funders,ORGANIZATION,1,1,1,1.0
+Balsam,GPE,1,1,1,1.0
+SZH,ORGANIZATION,1,1,1,1.0
+محاكم,ORGANIZATION,1,1,1,1.0
+Awula Serwah,PERSON,1,1,1,1.0
+Lessons,PERSON,1,1,1,1.0
+POLITICO,ORGANIZATION,1,1,1,1.0
+FT,ORGANIZATION,1,1,1,1.0
+Aqsa Mosque,PERSON,1,1,1,1.0
+Agentic AI,PERSON,1,1,1,1.0
+Compliance,ORGANIZATION,1,1,1,1.0
+Exposure Management,PERSON,1,1,1,1.0
+Response,GPE,1,1,1,1.0
+Unveils Invinsense,PERSON,1,1,1,1.0
+Infopercept,PERSON,1,1,1,1.0
+Rome,GPE,1,1,1,1.0
+IRIDE,ORGANIZATION,1,1,1,1.0
+Mystery,GPE,1,1,1,1.0
+Jill Dando,PERSON,1,1,1,1.0
+Spy,GPE,1,1,1,1.0
+Saga,PERSON,1,1,1,1.0
+CDP,ORGANIZATION,1,1,1,1.0
+Harry,PERSON,1,1,1,1.0
+Kate Middleton,PERSON,1,1,1,1.0
+Arrest Tunisian Fugitive Wanted,PERSON,1,1,1,1.0
+Mohammed V Airport,PERSON,1,1,1,1.0
+Storm,PERSON,1,1,1,1.0
+Bryansk,GPE,1,1,1,1.0
+EW,ORGANIZATION,1,1,1,1.0
+NIPR,ORGANIZATION,1,1,1,1.0
+Dele Oyewale,PERSON,1,1,1,1.0
+EFCC,ORGANIZATION,1,1,1,1.0
+Bawku,PERSON,1,1,1,1.0
+Kebbi,GPE,1,1,1,1.0
+Charlotte Maxeke,PERSON,1,1,1,1.0
+Bara,GPE,1,1,1,1.0
+Nairobi,GPE,1,1,1,1.0
+Career Growth,PERSON,1,1,1,1.0
+SeaStar,ORGANIZATION,1,1,1,1.0
+Grants,PERSON,1,1,1,1.0
+Through Medical Crises,PERSON,1,1,1,1.0
+Rochel Bikur Cholim,PERSON,1,1,1,1.0
+Lev,PERSON,1,1,1,1.0
+Shareholder Class,PERSON,1,1,1,1.0
+ALERT,PERSON,1,1,1,1.0
+Freedom Act,PERSON,1,1,1,1.0
+Brad Little,PERSON,1,1,1,1.0
+Sambhajinagar,ORGANIZATION,1,1,1,1.0
+IndiGo,GPE,1,1,1,1.0
+Puttur,GPE,1,1,1,1.0
+Networks Partners Infopercept,PERSON,1,1,1,1.0
+Mart,PERSON,1,1,1,1.0
+Study Regional Cultures,PERSON,1,1,1,1.0
+PNG,ORGANIZATION,1,1,1,1.0
+Defund Social Security Advisory Board,PERSON,1,1,1,1.0
+Administration,ORGANIZATION,1,1,1,1.0
+Renewed Crisis,PERSON,1,1,1,1.0
+French Interior Minister,PERSON,1,1,1,1.0
+الأوسط,ORGANIZATION,1,1,1,1.0
+الشرق,ORGANIZATION,1,1,1,1.0
+Kursk,GPE,1,1,1,1.0
+Paul,PERSON,1,1,1,1.0
+Pope Franci,PERSON,1,1,1,1.0
+Huge,GPE,1,1,1,1.0
+Nobody,GPE,1,1,1,1.0
+Diplomacy,PERSON,1,1,1,1.0
+Charles,PERSON,1,1,1,1.0
+Cybersecurity Solutions,ORGANIZATION,1,1,1,1.0
+BCSO,ORGANIZATION,1,1,1,1.0
+Parliament Calls For Strengthening Sanctions Against Lukashenka,ORGANIZATION,1,1,1,1.0
+ZTNA,GPE,1,1,1,1.0
+Fubara,GPE,1,1,1,1.0
+Airport,PERSON,1,1,1,1.0
+Islamist,ORGANIZATION,1,1,1,1.0
+Kenya Power,PERSON,1,1,1,1.0
+Chillisoft,GPE,1,1,1,1.0
+Tye,ORGANIZATION,1,1,1,1.0
+Justin,PERSON,1,1,1,1.0
+Walang,PERSON,1,1,1,1.0
+POLITICS,ORGANIZATION,1,1,1,1.0
+Jack Bloom,PERSON,1,1,1,1.0
+Tembisa Hospital,PERSON,1,1,1,1.0
+Arson,PERSON,1,1,1,1.0
+Groundless,GPE,1,1,1,1.0
+U15,ORGANIZATION,1,1,1,1.0
+Concorde,ORGANIZATION,1,1,1,1.0
+Protect Doctors Who,ORGANIZATION,1,1,1,1.0
+Zhengzhou University,ORGANIZATION,1,1,1,1.0
+Henan Medical College,PERSON,1,1,1,1.0
+Postdoctoral,ORGANIZATION,1,1,1,1.0
+Young Faculty,PERSON,1,1,1,1.0
+Medical Without,ORGANIZATION,1,1,1,1.0
+Says Expert,PERSON,1,1,1,1.0
+Negligence,GPE,1,1,1,1.0
+Medical Treatment,ORGANIZATION,1,1,1,1.0
+Connect,PERSON,1,1,1,1.0
+Consumer,GSP,1,1,1,1.0
+Verify Data,PERSON,1,1,1,1.0
+Colleges,PERSON,1,1,1,1.0
+For Medical Courses,ORGANIZATION,1,1,1,1.0
+Releases Seat Details,PERSON,1,1,1,1.0
+Policemen Forcefully Take,LOCATION,1,1,1,1.0
+Equatoria,GSP,1,1,1,1.0
+Kiir,GPE,1,1,1,1.0
+ET Telecom,ORGANIZATION,1,1,1,1.0
+Verizon Business,PERSON,1,1,1,1.0
+APAC,ORGANIZATION,1,1,1,1.0
+Closure of Barberton Home Affairs,ORGANIZATION,1,1,1,1.0
+Home Affairs Chairperson,PERSON,1,1,1,1.0
+Other Leadership,PERSON,1,1,1,1.0
+Announces Mike Wright,PERSON,1,1,1,1.0
+CampusGuard,ORGANIZATION,1,1,1,1.0
+Beauty Devices Market,ORGANIZATION,1,1,1,1.0
+Ronen Bar,PERSON,1,1,1,1.0
+Bet,ORGANIZATION,1,1,1,1.0
+Shin,PERSON,1,1,1,1.0
+International Group Announces,ORGANIZATION,1,1,1,1.0
+Bollywood Newswrap,PERSON,1,1,1,1.0
+Pulse,PERSON,1,1,1,1.0
+Steps,PERSON,1,1,1,1.0
+Patna ESIC,FACILITY,1,1,1,1.0
+Medical Tourism,PERSON,1,1,1,1.0
+USF,ORGANIZATION,1,1,1,1.0
+Taipei Times,GPE,1,1,1,1.0
+Unjust,GPE,1,1,1,1.0
+Kalaignar,PERSON,1,1,1,1.0
+Hyderabad News,ORGANIZATION,1,1,1,1.0
+Saveetha Medical College Provides Essential Healthcare,PERSON,1,1,1,1.0
+Transnistria,GSP,1,1,1,1.0
+Central Asia,ORGANIZATION,1,1,1,1.0
+Soft,ORGANIZATION,1,1,1,1.0
+Harcourt,ORGANIZATION,1,1,1,1.0
+Paralysed Mum,ORGANIZATION,1,1,1,1.0
+Orders Confidentiality,ORGANIZATION,1,1,1,1.0
+Return Home Since December,ORGANIZATION,1,1,1,1.0
+Donetsk,GSP,1,1,1,1.0
+Zelensky,GPE,1,1,1,1.0
+Ampol,PERSON,1,1,1,1.0
+Cyclone Alfred,PERSON,1,1,1,1.0
+Azu Ishiekwene,PERSON,1,1,1,1.0
+Mohanlal,PERSON,1,1,1,1.0
+Delhi News,PERSON,1,1,1,1.0
+Gun,GPE,1,1,1,1.0
+PAP,ORGANIZATION,1,1,1,1.0
+Rights Activist Adeyanju Celebrates Tompolo,PERSON,1,1,1,1.0
+Human,PERSON,1,1,1,1.0
+Imran Khan,PERSON,1,1,1,1.0
+Bhumi Pednekar,PERSON,1,1,1,1.0
+Aamir Khan,PERSON,1,1,1,1.0
+Cone,PERSON,1,1,1,1.0
+Kidnappers,ORGANIZATION,1,1,1,1.0
+Bandits,GPE,1,1,1,1.0
+Ransom,PERSON,1,1,1,1.0
+Ribadu Asks,PERSON,1,1,1,1.0
+NSA,ORGANIZATION,1,1,1,1.0
+Housing,ORGANIZATION,1,1,1,1.0
+Secure,ORGANIZATION,1,1,1,1.0
+Strike,PERSON,1,1,1,1.0
+Capture,ORGANIZATION,1,1,1,1.0
+Ruto,PERSON,1,1,1,1.0
+Machar,GPE,1,1,1,1.0
+Ghanaian,GPE,1,1,1,1.0
+Interior,ORGANIZATION,1,1,1,1.0
+Festival Fraud,PERSON,1,1,1,1.0
+Ya,GPE,1,1,1,1.0
+Montgomery,PERSON,1,1,1,1.0
+Oduor,PERSON,1,1,1,1.0
+Mama Ida,PERSON,1,1,1,1.0
+Classified School Employees,PERSON,1,1,1,1.0
+Napa,PERSON,1,1,1,1.0
+DEM Cup,ORGANIZATION,1,1,1,1.0
+Tumbe,PERSON,1,1,1,1.0
+High Alert Amid Calls,ORGANIZATION,1,1,0,1.0
+ATM,ORGANIZATION,1,1,1,1.0
+Armed ATM Escort,PERSON,1,1,1,1.0
+Guard Service,PERSON,1,1,1,1.0
+Relations Warm,PERSON,1,1,1,1.0
+Relations Warm France Calls,PERSON,1,1,1,1.0
+Calls Morocco,PERSON,1,1,1,1.0
+Citizen View,PERSON,1,1,1,1.0
+National Security,ORGANIZATION,1,1,1,1.0
+CHU UCL Namur,ORG,1,1,1,1.0
+Radio Okapi,ORG,1,1,1,1.0
+Patrick Adonis Numbi,ORG,1,1,1,1.0
+Iaroslav Moskali,ORG,1,1,1,1.0
+Majority Stake Acquisition,ORGANIZATION,1,1,1,1.0
+GRC Capabilities,ORGANIZATION,1,1,1,1.0
+Strengthens Cybersecurity,PERSON,1,1,1,1.0
+INT,ORGANIZATION,1,1,1,1.0
+Kremlin,PERSON,1,1,1,1.0
+Yaroslav Moskalik,PERSON,1,1,1,1.0
+NPP Ama Daaku,ORGANIZATION,1,1,1,1.0
+Three Cocaine Hauls,PERSON,1,1,1,1.0
+Steele,PERSON,1,1,1,1.0
+Charles House,PERSON,1,1,1,1.0
+Drones,PERSON,1,1,1,1.0
+Threat,PERSON,1,1,1,1.0
+Habib Bourguiba,ORG,1,1,1,1.0
+Le Burkina,ORG,1,1,1,1.0
+Multi,GPE,1,1,1,1.0
+New WA,GPE,1,1,1,1.0
+Gateshead,PERSON,1,1,1,1.0
+Rockefeller,PERSON,1,1,1,1.0
+Harvard Medical School,ORGANIZATION,1,1,1,1.0
+Significantly Cuts,PERSON,1,1,1,1.0
+Powered Medical Record,PERSON,1,1,1,1.0
+Unveils AI,PERSON,1,1,1,1.0
+Of Internship Period,ORGANIZATION,1,1,1,1.0
+Against Increase,PERSON,1,1,1,1.0
+Student Plea Who,ORGANIZATION,1,1,1,1.0
+Pradesh HC Issues Notice,PERSON,1,1,1,1.0
+Prison,GPE,1,1,1,1.0
+Gendarmerie Nationale,ORG,1,1,1,1.0
+Presse Africaine,ORG,1,1,1,1.0
+Moses Turahirwa,ORG,1,1,1,1.0
+Fox News,ORG,1,1,1,1.0
+Le Monde,ORG,1,1,1,1.0
+Daniel Ngoy Mulunda,ORG,1,1,1,1.0
+Volodmyr Zelensky,ORG,1,1,1,1.0
+Jeffrey Goldberg,ORG,1,1,1,1.0
+RD Congo,ORG,1,1,1,1.0
+Les FAMa,ORG,1,1,1,1.0
+Petro Congo,ORG,1,1,1,1.0
+Olena Zelenska,ORG,1,1,1,1.0
+Le Parlement,ORG,1,1,1,1.0
+Journal Matin,ORG,1,1,1,1.0
+Emmanuel Shadary,ORG,1,1,1,1.0
+Ksenia Karelina,ORG,1,1,1,1.0
+Jacques Chirac,ORG,1,1,1,1.0
+Hobbycraft,GPE,1,1,1,1.0
+Lines Affect,PERSON,1,1,1,1.0
+Macron,GPE,1,1,1,1.0
+Loke,PERSON,1,1,1,1.0
+Dec,GPE,1,1,1,1.0
+Toyota,GPE,1,1,1,1.0
+Car News,ORGANIZATION,1,1,1,1.0
+LUTTE CONTRE LE CRIME,ORG,1,1,1,1.0
+Wandy Simaga,ORG,1,1,1,1.0
+La Presse,ORG,1,1,1,1.0
+DANS LARRESTATION DE LAGENT CONSULAIRE,ORG,1,1,1,1.0
+LA BARBOUZERIE,ORG,1,1,1,1.0
+SOFIANE CHAIB,ORG,1,1,1,1.0
+Sidi Kacem,ORG,1,1,1,1.0
+Bir El Djir,ORG,1,1,1,1.0
+El Jadida,ORG,1,1,1,1.0
+Lebanon County,GPE,1,1,1,1.0
+Ed,PERSON,1,1,1,1.0
+Burlington,GPE,1,1,1,1.0
+Returns Ill,PERSON,1,1,1,1.0
+Stops Medical Parole,PERSON,1,1,1,1.0
+Nonprofit,GPE,1,1,1,1.0
+Cybersecurity,GPE,1,1,1,1.0
+Release First Quarter,PERSON,1,1,1,1.0
+Apyx,PERSON,1,1,1,1.0
+Auditor,GPE,1,1,1,1.0
+RESULTS,ORGANIZATION,1,1,1,1.0
+Medical School Admissions Quota Freeze,ORGANIZATION,1,1,1,1.0
+Community Positive,ORGANIZATION,1,1,1,1.0
+Certain,GPE,1,1,1,1.0
+Restrict Non,PERSON,1,1,1,1.0
+Bill Introduced,PERSON,1,1,1,1.0
+Runnels,GPE,1,1,1,1.0
+Hemorrhagic Disease,ORGANIZATION,1,1,1,1.0
+Rabbit,PERSON,1,1,1,1.0
+Intel,GPE,1,1,1,1.0
+Trump Tariffs Could Mean,PERSON,1,1,1,1.0
+Warren Buffett,PERSON,1,1,1,1.0
+Gross,PERSON,1,1,1,1.0
+Affect Belarus,PERSON,1,1,1,1.0
+Will,PERSON,1,1,1,1.0
+Echoes,ORGANIZATION,1,1,1,1.0
+Petro,PERSON,1,1,1,1.0
+Q2,GPE,1,1,1,1.0
+CDC,ORGANIZATION,1,1,1,1.0
+Powerful Blow,PERSON,1,1,1,1.0
+Brazilian,GPE,1,1,1,1.0
+Parkinson Awareness Month,PERSON,1,1,1,1.0
+Tariffs Threaten,PERSON,1,1,1,1.0
+Sleep,GPE,1,1,1,1.0
+Naija Ratels,PERSON,1,1,1,1.0
+Ibom Angels,GPE,1,1,1,1.0
+Slurry,GPE,1,1,1,1.0
+Avia,PERSON,1,1,1,1.0
+Aviation,GPE,1,1,1,1.0
+Mac,ORGANIZATION,1,1,1,1.0
+VPNs for Canada,ORGANIZATION,1,1,1,1.0
+Musk SpaceX,PERSON,1,1,1,1.0
+Bilingual Release Wont Impact Ajay Devgn Hindi Version,PERSON,1,1,1,1.0
+Mohanlal Drishyam,PERSON,1,1,1,1.0
+Washington Examiner,ORGANIZATION,1,1,1,1.0
+Hongkongers,ORGANIZATION,1,1,1,1.0
+Stephen Chow,PERSON,1,1,1,1.0
+Bishop,PERSON,1,1,1,1.0
+Ohio,PERSON,1,1,1,1.0
+Nintendo,PERSON,1,1,1,1.0
+B2C,PERSON,1,1,1,1.0
+DHL,ORGANIZATION,1,1,1,1.0
+Range,PERSON,1,1,1,1.0
+Affect MPG,PERSON,1,1,1,1.0
+AppleInsider Forums,ORGANIZATION,1,1,1,1.0
+General Discussion Discussions,ORGANIZATION,1,1,1,1.0
+Uncertainty,GPE,1,1,1,1.0
+Reserve Bank,PERSON,1,1,1,1.0
+PM Carney,ORGANIZATION,1,1,1,1.0
+Somerset Live,PERSON,1,1,1,1.0
+Bristol,GPE,1,1,1,1.0
+Transform Your Mental Health,PERSON,1,1,1,1.0
+Lifestyle Changes,PERSON,1,1,1,1.0
+Ozempic,PERSON,1,1,1,1.0
+Mend,ORGANIZATION,1,1,1,1.0
+Thomas Friedman,PERSON,1,1,1,1.0
+Columnist,PERSON,1,1,1,1.0
+Evansville,GPE,1,1,1,1.0
+Truck,GPE,1,1,1,1.0
+Tariffs Will Eventually Touch Travel,PERSON,1,1,1,1.0
+Announce Biggest Tariffs,PERSON,1,1,1,1.0
+Bloomberg,GPE,1,1,1,1.0
+Counter Trump Reciprocal Tariffs,PERSON,1,1,1,1.0
+International Students,ORGANIZATION,1,1,1,1.0
+Varsity,ORGANIZATION,1,1,1,1.0
+WSB,ORGANIZATION,1,1,1,1.0
+Flexi,PERSON,1,1,1,1.0
+VCs,ORGANIZATION,1,1,1,1.0
+Trump Trade War,FACILITY,1,1,1,1.0
+Tech Trends,ORGANIZATION,1,1,1,1.0
+Samsung,GPE,1,1,1,1.0
+Spring Sale,ORGANIZATION,1,1,1,1.0
+SHL Medical,ORGANIZATION,1,1,1,1.0
+Madras Medical College,PERSON,1,1,1,1.0
+Dean,GPE,1,1,1,1.0
+Avanos,PERSON,1,1,1,1.0
+NMIA Launch,ORGANIZATION,1,1,1,1.0
+Hospitals Ahead Of,ORGANIZATION,1,1,1,1.0
+Holds Key Meeting,PERSON,1,1,1,1.0
+Municipal Corporation Plans Medical Tourism Boost,PERSON,1,1,1,1.0
+Panvel,PERSON,1,1,1,1.0
+Pitt Show,ORGANIZATION,1,1,1,1.0
+New Medical Drama,ORGANIZATION,1,1,1,1.0
+HealthCare Fort Washington Medical Center,ORGANIZATION,1,1,1,1.0
+Effort So Far,PERSON,1,1,1,1.0
+Largest,GPE,1,1,1,1.0
+Antibiotic Use,ORGANIZATION,1,1,1,1.0
+QCA,ORGANIZATION,1,1,1,1.0
+Hindi Movie News,PERSON,1,1,1,1.0
+Hrithik,GPE,1,1,1,1.0
+Schall Law Firm,ORGANIZATION,1,1,1,1.0
+Fraud Investigation,PERSON,1,1,1,1.0
+ICU Medical,ORGANIZATION,1,1,1,1.0
+Zaliha,PERSON,1,1,1,1.0
+Re,GPE,1,1,1,1.0
+Advocate,ORGANIZATION,1,1,1,1.0
+Gras,PERSON,1,1,1,1.0
+Mardi,PERSON,1,1,1,1.0
+LPG,ORGANIZATION,1,1,1,1.0
+Niña,ORGANIZATION,1,1,1,1.0
+Bose,GPE,1,1,1,1.0
+TCL,ORGANIZATION,1,1,1,1.0
+TVs,ORGANIZATION,1,1,1,1.0
+Photoshop,ORGANIZATION,1,1,1,1.0
+GIMP,ORGANIZATION,1,1,1,1.0
+Urgent,GPE,1,1,1,1.0
+Study,GPE,1,1,1,1.0
+Tofu,GPE,1,1,1,1.0
+Steel Tariffs Amid Tense Trade Talks,PERSON,1,1,1,1.0
+Ease Auto,PERSON,1,1,1,1.0
+Urges U,PERSON,1,1,1,1.0
+ASX,ORGANIZATION,1,1,1,1.0
+IVF,ORGANIZATION,1,1,1,1.0
+Monash,PERSON,1,1,1,1.0
+Rahman,PERSON,1,1,1,1.0
+Finds New Study,PERSON,1,1,1,1.0
+Higher Obesity Risk,PERSON,1,1,1,1.0
+Toddlers,GPE,1,1,1,1.0
+FTC Click,ORGANIZATION,1,1,1,1.0
+Others,ORGANIZATION,1,1,1,1.0
+Vaal,GPE,1,1,1,1.0
+Risk To RMB,PERSON,1,1,1,1.0
+Scott,PERSON,1,1,1,1.0
+Carbon,GPE,1,1,1,1.0
+Rates,PERSON,1,1,1,1.0
+Economy,PERSON,1,1,1,1.0
+Hammack Sees Wide,PERSON,1,1,1,1.0
+Fed,PERSON,1,1,1,1.0
+Mill Schools,PERSON,1,1,1,1.0
+Tucson,PERSON,1,1,1,1.0
+Genjutsu So Underpowered,PERSON,1,1,1,1.0
+Naruto,GPE,1,1,1,1.0
+Dzulkefly,PERSON,1,1,1,1.0
+Trips,PERSON,1,1,1,1.0
+Toll Charges,PERSON,1,1,1,1.0
+Road Journeys,PERSON,1,1,1,1.0
+Allergy Eyes,PERSON,1,1,1,1.0
+Dev Bhoomi,PERSON,1,1,1,1.0
+LOréal,ORGANIZATION,1,1,1,1.0
+Yiwu,PERSON,1,1,1,1.0
+SM Lee,ORGANIZATION,1,1,1,1.0
+US Jobs Amid Tariff,ORGANIZATION,1,1,1,1.0
+Volvo,GPE,1,1,1,1.0
+ASML,ORGANIZATION,1,1,1,1.0
+Critical,GPE,1,1,1,1.0
+Malaysians,GPE,1,1,1,1.0
+Jerusalem Post,ORGANIZATION,1,1,1,1.0
+Smotrich,ORGANIZATION,1,1,1,1.0
+Bezalel,PERSON,1,1,1,1.0
+Cancel,GPE,1,1,1,1.0
+Nicholas,PERSON,1,1,1,1.0
+Time Fiona Bruce,PERSON,1,1,1,1.0
+Sky Witness HD,PERSON,1,1,1,1.0
+Jewish,GPE,1,1,1,1.0
+Judaica,ORGANIZATION,1,1,1,1.0
+CISO,ORGANIZATION,1,1,1,1.0
+Mail,ORGANIZATION,1,1,1,1.0
+Moosa,PERSON,1,1,1,1.0
+Mischka,PERSON,1,1,1,1.0
+Draft,PERSON,1,1,1,1.0
+VPNs,ORGANIZATION,1,1,1,1.0
+GFCI,ORGANIZATION,1,1,1,1.0
+Amazon Big Spring Sale,PERSON,1,1,1,1.0
+Tan Cheng Bock,PERSON,1,1,1,1.0
+Página,GPE,1,1,1,1.0
+National Highways,ORGANIZATION,1,1,1,1.0
+Pittsburgh,GPE,1,1,1,1.0
+Medical Malpractice,ORGANIZATION,1,1,1,1.0
+Abrams Expands,PERSON,1,1,1,1.0
+Pape Malick Ndour,ORG,1,1,1,1.0
+Meghan Markle,ORG,1,1,1,1.0
+Novo Nordisk,ORG,1,1,1,1.0
+Boualem Sansal,ORG,1,1,1,1.0
+Le Creusot,ORG,1,1,1,1.0
+Figaro Magazine,ORG,1,1,1,1.0
+Le SPNH,ORG,1,1,1,1.0
+Thierry Grasset,ORG,1,1,1,1.0
+MPY Telecom,ORG,1,1,1,1.0
+John Williams,ORG,1,1,1,1.0
+Gastroenterologist,GPE,1,1,1,1.0
+America News Network,ORGANIZATION,1,1,1,1.0
+Capaldi,ORGANIZATION,1,1,1,1.0
+Jonathan Roumie,ORG,1,1,1,1.0
+Forum Diplomatique,ORG,1,1,1,1.0
+Le Canada,ORG,1,1,1,1.0
+Nouvel Obs,ORG,1,1,1,1.0
+Global Participation,PERSON,1,1,1,1.0
+CMEF,ORGANIZATION,1,1,1,1.0
+Real Doctors,ORGANIZATION,1,1,1,1.0
+Realistic Medical Shows,ORGANIZATION,1,1,1,1.0
+Medical Malpractice Cases Work,PERSON,1,1,1,1.0
+How,PERSON,1,1,1,1.0
+Aadhaar,PERSON,1,1,1,1.0
+ESIC,GPE,1,1,1,1.0
+NMA,ORGANIZATION,1,1,1,1.0
+AIbom,ORGANIZATION,1,1,1,1.0
+Misdiagnosis Cases Soar,PERSON,1,1,1,1.0
+Western Pennsylvania,LOCATION,1,1,1,1.0
+Hardberger Park,FACILITY,1,1,1,1.0
+Haute Gironde,ORG,1,1,1,1.0
+Dou Boucaou,ORG,1,1,1,1.0
+Le Kenya,ORG,1,1,1,1.0
+Barry Callebaut,ORG,1,1,1,1.0
+Eric Lombard,ORG,1,1,1,1.0
+Le PJD,ORG,1,1,1,1.0
+Taxes US,ORG,1,1,1,1.0
+ICICI Bank,ORG,1,1,1,1.0
+Unis Donald Trump,ORG,1,1,1,1.0
+United Airlines,ORG,1,1,1,1.0
+Une IA,ORG,1,1,1,1.0
+Nord Franche,ORG,1,1,1,1.0
+LE CHANGEMENT NE PEUT PAS SE FAIRE EN QUELQUES MOIS,ORG,1,1,1,1.0
+Mme Bunge,ORG,1,1,1,1.0
+The Chosen,ORG,1,1,1,1.0
+Assisted Suicide Defeated,ORGANIZATION,1,1,1,1.0
+Alberta,GPE,1,1,1,1.0
+Moore,GPE,1,1,1,1.0
+Do,GPE,1,1,1,1.0
+Upstate New York,ORGANIZATION,1,1,1,1.0
+Excellus,GPE,1,1,1,1.0
+LETTER,ORGANIZATION,1,1,1,1.0
+Lost Canadian,ORGANIZATION,1,1,1,1.0
+Motu Strike Down Subordinate,PERSON,1,1,1,1.0
+Writ,GPE,1,1,1,1.0
+Too,PERSON,1,1,1,1.0
+Shut Down Welfare Checks,PERSON,1,1,1,1.0
+Month Continuing Resolution,PERSON,1,1,1,1.0
+Opposing,GPE,1,1,1,1.0
+CCP,ORGANIZATION,1,1,1,1.0
+Scoop,GPE,1,1,1,1.0
+Seattle,GPE,1,1,1,1.0
+Week Eight,PERSON,1,1,1,1.0
+Skill,GPE,1,1,1,1.0
+Lowenthal,PERSON,1,1,1,1.0
+Video Goes Viral,PERSON,1,1,1,1.0
+Patient Mocked By Med Students Files,ORGANIZATION,1,1,1,1.0
+Fractal,GPE,1,1,1,1.0
+UNIUYO Over Welfare,ORGANIZATION,1,1,1,1.0
+Strike Notice,PERSON,1,1,1,1.0
+Ibom Doctors,ORGANIZATION,1,1,1,1.0
+Akwa,PERSON,1,1,1,1.0
+Strengthen Healthcare Ecosystem,PERSON,1,1,1,1.0
+Acquire Bethesda Medical,PERSON,1,1,1,1.0
+Medical Group Signs,ORGANIZATION,1,1,1,1.0
+Mangaluru News,PERSON,1,1,1,1.0
+Natl,PERSON,1,1,1,1.0
+Kestra,PERSON,1,1,1,1.0
+Medical Association,ORGANIZATION,1,1,1,1.0
+SAR,ORGANIZATION,1,1,1,1.0
+Macao,PERSON,1,1,1,1.0
+Medical School Admissions Quota,ORGANIZATION,1,1,1,1.0
+Riccelli,PERSON,1,1,1,1.0
+Got,GPE,1,1,1,1.0
+NTPL,ORGANIZATION,1,1,1,1.0
+Walk,PERSON,1,1,1,1.0
+New TN,GPE,1,1,1,1.0
+Teen Access,PERSON,1,1,1,1.0
+Strikes Down Ohio Law,PERSON,1,1,1,1.0
+Youth,GPE,1,1,1,1.0
+Select Committee,PERSON,1,1,1,1.0
+Principles,ORGANIZATION,1,1,1,1.0
+Treaty,PERSON,1,1,1,1.0
+Crypto,GPE,1,1,1,1.0
+Regulatory Structure,PERSON,1,1,1,1.0
+Constitutional Court,ORGANIZATION,1,1,1,1.0
+Nominee,GPE,1,1,1,1.0
+Week Nine,PERSON,1,1,1,1.0
+Scottsdale,PERSON,1,1,1,1.0
+Axon,GPE,1,1,1,1.0
+Support Taiwan Global Standing,PERSON,1,1,1,1.0
+Caucus,ORGANIZATION,1,1,1,1.0
+Freedom,PERSON,1,1,1,1.0
+TMID,GPE,1,1,1,1.0
+Benefits Could Be,PERSON,1,1,1,1.0
+HFSS,ORGANIZATION,1,1,1,1.0
+Nashville News,ORGANIZATION,1,1,1,1.0
+General Assembly,ORGANIZATION,1,1,1,1.0
+Medical Technologies,ORGANIZATION,1,1,1,1.0
+Senate Passes Legislation,ORGANIZATION,1,1,1,1.0
+DELAYED,ORGANIZATION,1,1,1,1.0
+Affordable Housing Incentives Get Initial Green,ORGANIZATION,1,1,1,1.0
+Hialeah,PERSON,1,1,1,1.0
+Online Regulation,PERSON,1,1,1,1.0
+Korea Risky Bet,PERSON,1,1,1,1.0
+Hurd,GPE,1,1,1,1.0
+Does Netanyahu Judicial Overhaul Stand,PERSON,1,1,1,1.0
+Bird,PERSON,1,1,1,1.0
+Alston,PERSON,1,1,1,1.0
+Licensure,GPE,1,1,1,1.0
+Moore Signs,PERSON,1,1,1,1.0
+Grid,PERSON,1,1,1,1.0
+VILLIERS,ORGANIZATION,1,1,1,1.0
+DE,PERSON,1,1,1,1.0
+CECILE,ORGANIZATION,1,1,1,1.0
+Local Control,ORGANIZATION,1,1,1,1.0
+Dorado County,PERSON,1,1,1,1.0
+Emergency Legislation,PERSON,1,1,1,1.0
+Liv,PERSON,1,1,1,1.0
+PURA Commissioner,ORGANIZATION,1,1,1,1.0
+Sorensen,GPE,1,1,1,1.0
+Charlene Bielema,PERSON,1,1,1,1.0
+Steve Marco,PERSON,1,1,1,1.0
+Line,PERSON,1,1,1,1.0
+Talk,PERSON,1,1,1,1.0
+Local Radio,ORGANIZATION,1,1,1,1.0
+Shaw,PERSON,1,1,1,1.0
+Hillsborough,GPE,1,1,1,1.0
+Women Prisons,PERSON,1,1,1,1.0
+Men Out,PERSON,1,1,1,1.0
+Bill Seeks,PERSON,1,1,1,1.0
+New York Black,GPE,1,1,1,1.0
+MPs,ORGANIZATION,1,1,1,1.0
+Hurricane Sky Ranch,PERSON,1,1,1,1.0
+CPA,ORGANIZATION,1,1,1,1.0
+Healthcare News,ORGANIZATION,1,1,1,1.0
+Acquires Orlando Medical Institute,PERSON,1,1,1,1.0
+CMVC,ORGANIZATION,1,1,1,1.0
+OMSA,ORGANIZATION,1,1,1,1.0
+Medical Technologies Corporation,ORGANIZATION,1,1,1,1.0
+NeuroOne,ORGANIZATION,1,1,1,1.0
+Ashish Sood,PERSON,1,1,1,1.0
+Global Strategic Business Report,PERSON,1,1,1,1.0
+Tech Medical,PERSON,1,1,1,1.0
+Hi,GPE,1,1,1,1.0
+Cutoff,PERSON,1,1,1,1.0
+Reintroduce Bill,PERSON,1,1,1,1.0
+Parent Bill,ORGANIZATION,1,1,1,1.0
+Pacific Palisades,PERSON,1,1,1,1.0
+Alex Padilla,PERSON,1,1,1,1.0
+Tax Social Media Gathers Momentum,PERSON,1,1,1,1.0
+Missouri,PERSON,1,1,1,1.0
+Kansas,PERSON,1,1,1,1.0
+Texas Senate,PERSON,1,1,1,1.0
+Tax,GPE,1,1,1,1.0
+Burrows,ORGANIZATION,1,1,1,1.0
+Christian,GPE,1,1,1,1.0
+Tariffs,GPE,1,1,1,1.0
+Block Congress,PERSON,1,1,1,1.0
+African Law,ORGANIZATION,1,1,1,1.0
+Ledger,PERSON,1,1,1,1.0
+Sexual,GPE,1,1,1,1.0
+Jewish Coalition Calls,PERSON,1,1,1,1.0
+Tip Of The Month,ORGANIZATION,1,1,1,1.0
+March,PERSON,1,1,1,1.0
+Mundelein,GPE,1,1,1,1.0
+Wirtz,PERSON,1,1,1,1.0
+THCA,ORGANIZATION,1,1,1,1.0
+Beshear,GPE,1,1,1,1.0
+Tax And Spending,ORGANIZATION,1,1,1,1.0
+Alabama House,PERSON,1,1,1,1.0
+Lulu,GPE,1,1,1,1.0
+Shelby County Schools,PERSON,1,1,1,1.0
+Memphis,GPE,1,1,1,1.0
+Malliotakis,GPE,1,1,1,1.0
+Bhendi,GPE,1,1,1,1.0
+Fragmented Privacy,ORGANIZATION,1,1,1,1.0
+Iowa Gov,PERSON,1,1,1,1.0
+Rights,ORGANIZATION,1,1,1,1.0
+Class,PERSON,1,1,1,1.0
+College Students,PERSON,1,1,1,1.0
+Hold Mega,PERSON,1,1,1,1.0
+Ameren,GPE,1,1,1,1.0
+Protect Federal Workers,ORGANIZATION,1,1,1,1.0
+Introduced,ORGANIZATION,1,1,1,1.0
+Mayor Bowser,PERSON,1,1,1,1.0
+DC Council,ORGANIZATION,1,1,1,1.0
+Ruggerio,PERSON,1,1,1,1.0
+Dominick J,PERSON,1,1,1,1.0
+Child,GPE,1,1,1,1.0
+Chase Field,ORGANIZATION,1,1,1,1.0
+Diamondbacks,PERSON,1,1,1,1.0
+Hobbs,GPE,1,1,1,1.0
+Hogan Lovells,PERSON,1,1,1,1.0
+Bill Revisits Noncompete Ban,PERSON,1,1,1,1.0
+Palestinians,GPE,1,1,1,1.0
+Maldives,GPE,1,1,1,1.0
+Tánaiste,GPE,1,1,1,1.0
+Trump Agenda,PERSON,1,1,1,1.0
+Admission,ORGANIZATION,1,1,1,1.0
+Medical Colleges,ORGANIZATION,1,1,1,1.0
+UG,ORGANIZATION,1,1,1,1.0
+For Medical Faculty,ORGANIZATION,1,1,1,1.0
+Makes BCMET Course Mandatory,PERSON,1,1,1,1.0
+Check,PERSON,1,1,1,1.0
+Medical Group Ltd,ORGANIZATION,1,1,1,1.0
+Increase Seats Nationwide Amid Surge,PERSON,1,1,1,1.0
+Urges National Medical,PERSON,1,1,1,1.0
+Getting Involved,FACILITY,1,1,1,1.0
+Congress Looks,ORGANIZATION,1,1,1,1.0
+Leftist Judges Thwart Trump Agenda,PERSON,1,1,1,1.0
+La Liga,ORG,1,1,1,1.0
+Metro Express,ORG,1,1,1,1.0
+Affaire Patrice Neveu,ORG,1,1,1,1.0
+Affaire Riad Ben Fadhel,ORG,1,1,1,1.0
+Samir Obeid,ORG,1,1,1,1.0
+Delta Capita Group Limited,ORG,1,1,1,1.0
+La Maison,ORG,1,1,1,1.0
+Ras Jedir,ORG,1,1,1,1.0
+Bagama Mining,ORG,1,1,1,1.0
+Carrefour Citoyen,ORG,1,1,1,1.0
+Michel Bianco,ORG,1,1,1,1.0
+En Slovaquie,ORG,1,1,1,1.0
+Sandra Regol,ORG,1,1,1,1.0
+Cheikh Diba,ORG,1,1,1,1.0
+Toulouse Capitole,ORG,1,1,1,1.0
+Le Val,ORG,1,1,1,1.0
+Abu Dhabi,ORG,1,1,1,1.0
+Concord Medical Services Holdings Limited American,ORGANIZATION,1,1,1,1.0
+New Episodes,GPE,1,1,1,1.0
+Denis Medical Returns,PERSON,1,1,0,1.0
+Tonight,PERSON,1,1,1,1.0
+Denis Medical,PERSON,1,1,1,1.0
+Announce First,PERSON,1,1,1,1.0
+Medical Holdings Corporation,ORGANIZATION,1,1,1,1.0
+Credit Card To Cover,ORGANIZATION,1,1,1,1.0
+Medicine Sciences,ORGANIZATION,1,1,1,1.0
+Medical Schools,ORGANIZATION,1,1,1,1.0
+En Europe,ORG,1,1,1,1.0
+La FCC,ORG,1,1,1,1.0
+Volodymyr Zelensky,ORG,1,1,1,1.0
+Ousmane Diagne,ORG,1,1,1,1.0
+Maroc Telecom,ORG,1,1,1,1.0
+NCAA Elite,ORGANIZATION,1,1,1,1.0
+Elite Eight,PERSON,1,1,1,1.0
+BHU,ORGANIZATION,1,1,1,1.0
+Report Exposes,PERSON,1,1,1,1.0
+Journey,PERSON,1,1,1,1.0
+UConn,ORGANIZATION,1,1,1,1.0
+Han Duck,ORG,1,1,1,1.0
+En Tunisie,ORG,1,1,1,1.0
+La BCT,ORG,1,1,1,1.0
+Yassine Mami,ORG,1,1,1,1.0
+Henri Pinault,ORG,1,1,1,1.0
+Anne Tournieroux,ORG,1,1,1,1.0
+Helios Towers,ORG,1,1,1,1.0
+La Garenne,ORG,1,1,1,1.0
+Le Bloc,ORG,1,1,1,1.0
+Le BVG,ORG,1,1,1,1.0
+Shares,PERSON,1,1,1,1.0
+Maple Leafs,PERSON,1,1,1,1.0
+Panthers,ORGANIZATION,1,1,1,1.0
+Rockets,ORGANIZATION,1,1,1,1.0
+Mediation Before Trial,ORGANIZATION,1,1,1,1.0
+Must,PERSON,1,1,1,1.0
+Gauteng High Court Civil,PERSON,1,1,1,1.0
+Appollis,PERSON,1,1,1,1.0
+Man United,PERSON,1,1,1,1.0
+Manchester Derby,PERSON,1,1,1,1.0
+Messi,PERSON,1,1,1,1.0
+Chicago Bulls,PERSON,1,1,1,1.0
+NCAA Final,ORGANIZATION,1,1,1,1.0
+Every Song,PERSON,1,1,1,1.0
+Nintendo Music,PERSON,1,1,1,1.0
+Emblem Engage,PERSON,1,1,1,1.0
+NHL,ORGANIZATION,1,1,1,1.0
+Blue Jackets,ORGANIZATION,1,1,1,1.0
+Capitals,GPE,1,1,1,1.0
+Cassie Ventura,PERSON,1,1,1,1.0
+World Health,PERSON,1,1,1,1.0
+Manuel Valls,ORG,1,1,1,1.0
+Journal Soir,ORG,1,1,1,1.0
+Ont,PERSON,1,1,1,1.0
+Guelph,PERSON,1,1,1,1.0
+DNA,ORGANIZATION,1,1,1,1.0
+Dengue,GPE,1,1,1,1.0
+Make,GPE,1,1,1,1.0
+SAUNA,ORGANIZATION,1,1,1,1.0
+NM Supreme Court,ORGANIZATION,1,1,1,1.0
+Mock,GPE,1,1,1,1.0
+Axsome Therapeutics,PERSON,1,1,1,1.0
+Michael,PERSON,1,1,1,1.0
+Nuggets,ORGANIZATION,1,1,1,1.0
+Jokic,PERSON,1,1,1,1.0
+Hunger,GPE,1,1,1,1.0
+Josh Third Serving,PERSON,1,1,1,1.0
+Hallmark Hearts,PERSON,1,1,0,1.0
+Lifetime Sinister Surgeon,PERSON,1,1,0,1.0
+APD,ORGANIZATION,1,1,1,1.0
+Pannun,GPE,1,1,1,1.0
+MLB,ORGANIZATION,1,1,1,1.0
+Concacaf,ORGANIZATION,1,1,1,1.0
+Cleveland Cavaliers,PERSON,1,1,1,1.0
+NY Knicks,ORGANIZATION,1,1,1,1.0
+Dakota Dunes,PERSON,1,1,1,1.0
+Richin,PERSON,1,1,1,1.0
+Kouri,PERSON,1,1,1,1.0
+Clock,GPE,1,1,1,1.0
+Music,PERSON,1,1,1,1.0
+Watson,ORGANIZATION,1,1,1,1.0
+Shane,PERSON,1,1,1,1.0
+Armizan,GPE,1,1,1,1.0
+Family Resource Fair,PERSON,1,1,1,1.0
+Wert County Health,PERSON,1,1,1,1.0
+Van,PERSON,1,1,1,1.0
+Electronic,GPE,1,1,1,1.0
+Insurer,GPE,1,1,1,1.0
+OKC,ORGANIZATION,1,1,1,1.0
+Detroit Pistons,PERSON,1,1,1,1.0
+Wild NHL,PERSON,1,1,1,1.0
+Devils,GPE,1,1,1,1.0
+Berkeley,GPE,1,1,1,1.0
+Colucci,PERSON,1,1,1,1.0
+NY Mets,ORGANIZATION,1,1,1,1.0
+Royals MLB,PERSON,1,1,1,1.0
+Yankees,ORGANIZATION,1,1,1,1.0
+Manchester United,PERSON,1,1,1,1.0
+LA Clippers,ORGANIZATION,1,1,1,1.0
+Tops,GPE,1,1,1,1.0
+Defamation Case,ORGANIZATION,1,1,1,1.0
+Patkar Moves Delhi High Court Against,PERSON,1,1,1,1.0
+Sioux Falls Live,PERSON,1,1,1,1.0
+Crumbley,ORGANIZATION,1,1,1,1.0
+James,PERSON,1,1,1,1.0
+Swansea,PERSON,1,1,1,1.0
+Chicago Cubs,PERSON,1,1,1,1.0
+Real Betis,PERSON,1,1,1,1.0
+Boston Celtics,ORGANIZATION,1,1,1,1.0
+Phoenix Suns,PERSON,1,1,1,1.0
+SmackDown,ORGANIZATION,1,1,1,1.0
+WWE,ORGANIZATION,1,1,1,1.0
+Vancouver Champions,PERSON,1,1,1,1.0
+Atlanta Braves,ORGANIZATION,1,1,1,1.0
+Lieutenant,ORGANIZATION,1,1,1,1.0
+Lancaster County,PERSON,1,1,1,1.0
+Harrisburg,GSP,1,1,1,1.0
+Shapiro,PERSON,1,1,1,1.0
+Group CEO,PERSON,1,1,1,1.0
+Mohamed Ali Bouabane,PERSON,1,1,1,1.0
+AIG,ORGANIZATION,1,1,1,1.0
+Salama,GPE,1,1,1,1.0
+Southend,PERSON,1,1,1,1.0
+Lancet,PERSON,1,1,1,1.0
+Astaxanthin,GPE,1,1,1,1.0
+Girona LaLiga,PERSON,1,1,1,1.0
+James Crumbley,PERSON,1,1,1,1.0
+MJ Akbar,ORGANIZATION,1,1,1,1.0
+LalapaRuza Smackdown,ORGANIZATION,1,1,1,1.0
+National Herald,ORGANIZATION,1,1,1,1.0
+NCAA Women Gymnastics,ORGANIZATION,1,1,1,1.0
+Sonya Massey,PERSON,1,1,1,1.0
+Crank,ORGANIZATION,1,1,1,1.0
+Kendal,PERSON,1,1,1,1.0
+ALS,ORGANIZATION,1,1,1,1.0
+Amyotrophic,GPE,1,1,1,1.0
+EAP,ORGANIZATION,1,1,1,1.0
+Expanded Access Program,PERSON,1,1,1,1.0
+Hollywood Demon Online,PERSON,1,1,1,1.0
+FDA Wants Another Trial For Gastrointestinal Drug,ORGANIZATION,1,1,1,1.0
+Pharmaceuticals Stock Plunges,ORGANIZATION,1,1,1,1.0
+Patkar,PERSON,1,1,1,1.0
+Bucks NBA Playoffs,PERSON,1,1,1,1.0
+Pacers,ORGANIZATION,1,1,1,1.0
+NFL Draft,ORGANIZATION,1,1,1,1.0
+GYNs,ORGANIZATION,1,1,1,1.0
+Atlanta OB,PERSON,1,1,1,1.0
+Bolton,GPE,1,1,1,1.0
+Bank,GPE,1,1,1,1.0
+People Living,PERSON,1,1,1,1.0
+Sisters,ORGANIZATION,1,1,1,1.0
+For Class,ORGANIZATION,1,1,1,1.0
+Anupriya Patel,PERSON,1,1,1,1.0
+Health Camp,ORGANIZATION,1,1,1,1.0
+Liver Health,ORGANIZATION,1,1,1,1.0
+J P Nadda,PERSON,1,1,1,1.0
+Me Back My Daughter,PERSON,1,1,1,1.0
+Oxford High School,ORGANIZATION,1,1,1,1.0
+Disposal Of Matters,ORGANIZATION,1,1,1,1.0
+Supreme Court Asks,ORGANIZATION,1,1,1,1.0
+Lifetime Fame,PERSON,1,1,0,1.0
+Airlines Crash,ORGANIZATION,1,1,1,1.0
+Michele Fiore,PERSON,1,1,1,1.0
+Vegas,ORGANIZATION,1,1,1,1.0
+Las,PERSON,1,1,1,1.0
+Human Study,ORGANIZATION,1,1,1,1.0
+Potential Parkinson Treatment Shows Positive Data,PERSON,1,1,1,1.0
+Episode,ORGANIZATION,1,1,1,1.0
+Caught,PERSON,1,1,1,1.0
+Barcelona El Clasico Copa Del Rey,PERSON,1,1,0,1.0
+Women Final,PERSON,1,1,1,1.0
+Prajwal Revanna,PERSON,1,1,1,1.0
+Grand Rapid,PERSON,1,1,1,1.0
+Sister Wives Season,PERSON,1,1,1,1.0
+Moody,PERSON,1,1,1,1.0
+Vanguard Pai Lung,ORGANIZATION,1,1,1,1.0
+Supreme Court Reinforces,ORGANIZATION,1,1,1,1.0
+North Carolina,LOCATION,1,1,1,1.0
+Medha Patkar,PERSON,1,1,1,1.0
+Tyre,GPE,1,1,1,1.0
+WHIO,ORGANIZATION,1,1,1,1.0
+Double,PERSON,1,1,1,1.0
+Summit Therapeutics,ORGANIZATION,1,1,1,1.0
+MSK,ORGANIZATION,1,1,1,1.0
+Phase,GPE,1,1,1,1.0
+EDC,ORGANIZATION,1,1,1,1.0
+EHR,ORGANIZATION,1,1,1,1.0
+IgniteData,ORGANIZATION,1,1,1,1.0
+Tenant,GPE,1,1,1,1.0
+Especially Landlord,PERSON,1,1,1,1.0
+Cassie,PERSON,1,1,1,1.0
+Of Bribery,ORGANIZATION,1,1,1,1.0
+Bob Menendez Wife Found Guilty,PERSON,1,1,1,1.0
+Daily,GPE,1,1,1,1.0
+Peter Dale,PERSON,1,1,1,1.0
+LISTEN,ORGANIZATION,1,1,1,1.0
+Bancassurance,GPE,1,1,1,1.0
+Daily Legal News,PERSON,1,1,1,1.0
+Coalition,ORGANIZATION,1,1,1,1.0
+Modern Medicine Are,PERSON,1,1,1,1.0
+Alternative Therapies,PERSON,1,1,1,1.0
+Leprosy,PERSON,1,1,1,1.0
+Study Warns,PERSON,1,1,1,1.0
+Gastrointestinal Cancer,ORGANIZATION,1,1,1,1.0
+Eggs,ORGANIZATION,1,1,1,1.0
+Chicken,GPE,1,1,1,1.0
+South Florence,GPE,1,1,1,1.0
+AstraZeneca,ORGANIZATION,1,1,1,1.0
+Tunisian,GPE,1,1,1,1.0
+Kuldeep Singh Sengar,PERSON,1,1,1,1.0
+Unnao,GPE,1,1,1,1.0
+Brandi Carlile,PERSON,1,1,1,1.0
+Jack Black,PERSON,1,1,1,1.0
+Dominican,GPE,1,1,1,1.0
+Plus,GPE,1,1,1,1.0
+Walmart,PERSON,1,1,1,1.0
+Bob Menendez,PERSON,1,1,1,1.0
+Nadine Menendez,PERSON,1,1,1,1.0
+Competitive Season,ORGANIZATION,1,1,1,1.0
+Strong Finish,PERSON,1,1,1,1.0
+Mesa County,PERSON,1,1,1,1.0
+Verdict Due,PERSON,1,1,1,1.0
+Timberwolves,ORGANIZATION,1,1,1,1.0
+Heat NBA Playoffs,PERSON,1,1,1,1.0
+Cavaliers,ORGANIZATION,1,1,1,1.0
+Magic NBA Playoffs,PERSON,1,1,1,1.0
+Celtics,PERSON,1,1,1,1.0
+LIVESTREAM,ORGANIZATION,1,1,1,1.0
+Overweight Conditions,PERSON,1,1,1,1.0
+Obesity,ORGANIZATION,1,1,1,1.0
+Patients,GPE,1,1,1,1.0
+CX11,ORGANIZATION,1,1,1,1.0
+CORXEL Receives Study,ORGANIZATION,1,1,1,1.0
+Humby,ORGANIZATION,1,1,1,1.0
+Tony,PERSON,1,1,1,1.0
+Zuckerberg,ORGANIZATION,1,1,1,1.0
+Kouri Richins,PERSON,1,1,1,1.0
+Lakers,ORGANIZATION,1,1,1,1.0
+Question,ORGANIZATION,1,1,1,1.0
+Jury Trial,PERSON,1,1,1,1.0
+Murder Case,PERSON,1,1,1,1.0
+Bombay,PERSON,1,1,1,1.0
+Metro,ORGANIZATION,1,1,1,1.0
+Arsenal,ORGANIZATION,1,1,1,1.0
+Kerala HC,PERSON,1,1,1,1.0
+PMLA,ORGANIZATION,1,1,1,1.0
+Humansville,GPE,1,1,1,1.0
+Charge,PERSON,1,1,1,1.0
+Dylann Roof,PERSON,1,1,1,1.0
+AME,ORGANIZATION,1,1,1,1.0
+Emanuel,PERSON,1,1,1,1.0
+Sean Diddy Combs,PERSON,1,1,0,1.0
+Grace,ORGANIZATION,1,1,1,1.0
+Nancy,PERSON,1,1,1,1.0
+National Assembly Committee,ORGANIZATION,1,1,1,1.0
+Duale Reviews Digital Health Regulations,PERSON,1,1,1,1.0
+Saket,PERSON,1,1,1,1.0
+Rival Season,PERSON,1,1,1,1.0
+UCCS,ORGANIZATION,1,1,1,1.0
+Anderson City Court,PERSON,1,1,1,1.0
+Boards,PERSON,1,1,1,1.0
+Gastric,GPE,1,1,1,1.0
+Leading Cancer,ORGANIZATION,1,1,1,1.0
+Successful Deployment,PERSON,1,1,1,1.0
+IgniteData Advances Clinical Trial,ORGANIZATION,1,1,1,1.0
+Trial Court,ORGANIZATION,1,1,1,1.0
+Healey,GPE,1,1,1,1.0
+Clarifies LinkedIn Premium Trial Eligibility,PERSON,1,1,1,1.0
+LinkedIn,ORGANIZATION,1,1,1,1.0
+Knight LLP,PERSON,1,1,1,1.0
+Vallow Daybell,PERSON,1,1,1,1.0
+Defer,GPE,1,1,1,1.0
+Van Rhyn,PERSON,1,1,1,1.0
+LG Saxena,ORGANIZATION,1,1,1,1.0
+Auckland,GPE,1,1,1,1.0
+Boy,GPE,1,1,1,1.0
+EYES,ORGANIZATION,1,1,1,1.0
+Maria Ludewig,PERSON,1,1,1,1.0
+Ilse,PERSON,1,1,1,1.0
+BR,ORGANIZATION,1,1,1,1.0
+Laboratories Pakistan Limited,ORGANIZATION,1,1,1,1.0
+East Africa,GPE,1,1,1,1.0
+Gut Health,PERSON,1,1,1,1.0
+Everyone Got,PERSON,1,1,1,1.0
+Just Common,ORGANIZATION,1,1,1,1.0
+Are,PERSON,1,1,1,1.0
+Zied El Heni,ORG,1,1,1,1.0
+Ridha Belhaj,ORG,1,1,1,1.0
+Ghazi Chaouachi,ORG,1,1,1,1.0
+Me Souab,ORG,1,1,1,1.0
+Noureddine Bhiri,ORG,1,1,1,1.0
+Canada Junior,ORG,1,1,1,1.0
+Bastiais Gabriel Le Bomin,ORG,1,1,1,1.0
+Clinical Trial Services Market,PERSON,1,1,1,1.0
+Berlin,GPE,1,1,1,1.0
+Ann Arbor,PERSON,1,1,1,1.0
+Kelly Smith,PERSON,1,1,1,1.0
+Unwell,PERSON,1,1,1,1.0
+Orlando Magic,PERSON,1,1,1,1.0
+Dallas Mavericks,PERSON,1,1,1,1.0
+Conspiracy Case Sham,ORGANIZATION,1,1,0,1.0
+Teen,GPE,1,1,1,1.0
+Bruno Bidjang,ORG,1,1,1,1.0
+GABON News,ORG,1,1,1,1.0
+Noureddin Bongo,ORG,1,1,1,1.0
+Daiichi Sankyo,ORG,1,1,1,1.0
+Affaire Gabriel Fortin,ORG,1,1,1,1.0
+Dominique Laroche,ORG,1,1,1,1.0
+Bertrand Cantat,ORG,1,1,1,1.0
+Marie Trintignant,ORG,1,1,1,1.0
+Marine Le Pen,ORG,1,1,1,1.0
+Lassassin Al Ballouz,ORG,1,1,1,1.0
+Google Antitrust,ORG,1,1,1,1.0
+Nadine Lauverjat,ORG,1,1,1,1.0
+Sylvain Maillard,ORG,1,1,1,1.0
+Pascal Praud,ORG,1,1,1,1.0
+Nadia El Bouroumi,ORG,1,1,1,1.0
+Hells Angels,ORG,1,1,1,1.0
+Samuel Paty,ORG,1,1,1,1.0
+Patrick Maisonneuve,ORG,1,1,1,1.0
+Suicide,GPE,1,1,1,1.0
+CEB,ORGANIZATION,1,1,1,1.0
+Bak Poya,PERSON,1,1,1,1.0
+Modern,GPE,1,1,1,1.0
+Air Purifiers,ORGANIZATION,1,1,1,1.0
+Basin,PERSON,1,1,1,1.0
+Significant,GPE,1,1,1,1.0
+Michigan Dies From Rabies,ORGANIZATION,1,1,1,1.0
+Transplant Patient,ORGANIZATION,1,1,1,1.0
+Benton County,PERSON,1,1,1,1.0
+Matata Ponyo,ORG,1,1,1,1.0
+Paul Touvier,ORG,1,1,1,1.0
+Sur France,ORG,1,1,1,1.0
+Martinez Zogo,ORG,1,1,1,1.0
+Sound Alarm,PERSON,1,1,1,1.0
+MARK,GPE,1,1,1,1.0
+Ryan,ORGANIZATION,1,1,1,1.0
+Katherine,PERSON,1,1,1,1.0
+Might Save,PERSON,1,1,1,1.0
+Oral Health,ORGANIZATION,1,1,1,1.0
+Link,ORGANIZATION,1,1,1,1.0
+Summer,GPE,1,1,1,1.0
+Edo Community,PERSON,1,1,1,1.0
+Hartlepool,GPE,1,1,1,1.0
+YouTuber Rajab Butt,ORGANIZATION,1,1,1,1.0
+Farrukh Khokhar,PERSON,1,1,1,1.0
+Gestapo,PERSON,1,1,1,1.0
+Karnataka High Court,PERSON,1,1,1,1.0
+BMW,ORGANIZATION,1,1,1,1.0
+Homeland Security,PERSON,1,1,1,1.0
+Traitor,PERSON,1,1,1,1.0
+County Circuit,ORGANIZATION,1,1,1,1.0
+Torre,PERSON,1,1,1,1.0
+Marcos,PERSON,1,1,1,1.0
+FACT,ORGANIZATION,1,1,1,1.0
+Hakeem Jeffries,ORGANIZATION,1,1,1,1.0
+FBI Director,ORGANIZATION,1,1,1,1.0
+Extreme,GPE,1,1,1,1.0
+CNN,ORGANIZATION,1,1,1,1.0
+Heights Police,PERSON,1,1,1,1.0
+Arrests,PERSON,1,1,1,1.0
+Christ,ORGANIZATION,1,1,1,1.0
+Remand,GPE,1,1,1,1.0
+Supreme Court Sets Aside Arrest,ORGANIZATION,1,1,1,1.0
+Supplying Grounds Of Arrest,ORGANIZATION,1,1,1,1.0
+Arrest Memo,PERSON,1,1,1,1.0
+Sterling,GPE,1,1,1,1.0
+Dpty Prokopiv,ORGANIZATION,1,1,1,1.0
+Klitschko,PERSON,1,1,1,1.0
+Suspect,PERSON,1,1,1,1.0
+Richard Ahiagbah,PERSON,1,1,1,1.0
+Ntim,PERSON,1,1,1,1.0
+Director Kash Patel,PERSON,1,1,1,1.0
+Brussels,GPE,1,1,1,1.0
+Rubio,PERSON,1,1,1,1.0
+Belgium,GPE,1,1,1,1.0
+Bob Unruh,PERSON,1,1,1,1.0
+HRW,ORGANIZATION,1,1,1,1.0
+Kash Patel,PERSON,1,1,1,1.0
+Frenzy Online,ORGANIZATION,1,1,1,1.0
+MAGA,ORGANIZATION,1,1,1,1.0
+FBI Arrest Works,ORGANIZATION,1,1,1,1.0
+Ranya,PERSON,1,1,1,1.0
+High Court,ORGANIZATION,1,1,1,1.0
+Kash Patel Says,PERSON,1,1,1,1.0
+Obstructing,GPE,1,1,1,1.0
+Nitiwul,PERSON,1,1,1,1.0
+FBI For Allegedly Helping,ORGANIZATION,1,1,1,1.0
+Kunal Kamra,PERSON,1,1,1,1.0
+Bombay HC Grants Interim,PERSON,1,1,1,1.0
+P,PERSON,1,1,1,1.0
+Stewart,PERSON,1,1,1,1.0
+Smoak,PERSON,1,1,1,1.0
+Nash,GPE,1,1,1,1.0
+Deakins,PERSON,1,1,1,1.0
+Wisconsin Supreme Court Holds Arrest Record Encompasses Noncriminal Civil Violations,PERSON,1,1,0,1.0
+Kamath,PERSON,1,1,1,1.0
+Nithin,PERSON,1,1,1,1.0
+Andhra,PERSON,1,1,1,1.0
+Cumberland,GPE,1,1,1,1.0
+Objectionable Remarks,ORGANIZATION,1,1,1,1.0
+Pradesh School Owner Arrested,PERSON,1,1,1,1.0
+Money Laundering Act,PERSON,1,1,1,1.0
+DOJ,ORGANIZATION,1,1,1,1.0
+Brian Schultz,PERSON,1,1,1,1.0
+ISD Snyder Elementary School,ORGANIZATION,1,1,1,1.0
+POCSO,GPE,1,1,1,1.0
+Father,GPE,1,1,1,1.0
+Balochistan Govt,PERSON,1,1,1,1.0
+Akhtar,PERSON,1,1,1,1.0
+Woman,PERSON,1,1,1,1.0
+Suit,GPE,1,1,1,1.0
+Colonel,ORGANIZATION,1,1,1,1.0
+Migrant,PERSON,1,1,1,1.0
+Pam Bondi Reminds Sanctuary Lefties No One,PERSON,1,1,0,1.0
+Delaware,GPE,1,1,1,1.0
+Deletes Tweet,PERSON,1,1,1,1.0
+Dodik,PERSON,1,1,1,1.0
+Serb,GPE,1,1,1,1.0
+Bosnia,GPE,1,1,1,1.0
+Illegal Immigrant Hide,PERSON,1,1,1,1.0
+Mexican,GPE,1,1,1,1.0
+Catholic,ORGANIZATION,1,1,1,1.0
+Sarpanch Murder Case,PERSON,1,1,1,1.0
+Tarn,GPE,1,1,1,1.0
+DWI,ORGANIZATION,1,1,1,1.0
+County Sheriff,ORGANIZATION,1,1,1,1.0
+Brunswick,PERSON,1,1,1,1.0
+PSR Anjaneyulu,ORGANIZATION,1,1,1,1.0
+Pradesh IPS,PERSON,1,1,1,1.0
+Ipswich,GPE,1,1,1,1.0
+Street,GPE,1,1,1,1.0
+Communicable Diseases Survey,ORGANIZATION,1,1,1,1.0
+Non,GPE,1,1,1,1.0
+Easy,PERSON,1,1,1,1.0
+Western New England University School,ORGANIZATION,1,1,1,1.0
+MoH,ORGANIZATION,1,1,1,1.0
+CS Barasa,ORGANIZATION,1,1,1,1.0
+Functions,PERSON,1,1,1,1.0
+Eye Health,PERSON,1,1,1,1.0
+Vitamin C,PERSON,1,1,1,1.0
+Wellness Grants,ORGANIZATION,1,1,1,1.0
+New Hampshire,GPE,1,1,1,1.0
+Choto Sazzad,PERSON,1,1,1,1.0
+Hegseth Signal Phone,PERSON,1,1,1,1.0
+Pete,PERSON,1,1,1,1.0
+Victoria,GPE,1,1,1,1.0
+Hayden,GPE,1,1,1,1.0
+Pope Francis Funeral,PERSON,1,1,1,1.0
+Trump Heads,PERSON,1,1,1,1.0
+Bajwa,PERSON,1,1,1,1.0
+Punjab Congress,PERSON,1,1,1,1.0
+Delray,GPE,1,1,1,1.0
+Tulip Siddiq,PERSON,1,1,1,1.0
+Bangladesh Court Issues Arrest Warrant,ORGANIZATION,1,1,1,1.0
+Operators,ORGANIZATION,1,1,1,1.0
+Baby Factory,PERSON,1,1,1,1.0
+Soft Drinks To Bandits,ORGANIZATION,1,1,1,1.0
+Security Guards Arrest Suspect For,ORGANIZATION,1,1,1,1.0
+Zamfara,PERSON,1,1,1,1.0
+Local News,ORGANIZATION,1,1,1,1.0
+Pikes Peak Arts Council,PERSON,1,1,1,1.0
+Milwaukee County Circuit,PERSON,1,1,1,1.0
+Heart Safe,PERSON,1,1,1,1.0
+Owensboro,PERSON,1,1,1,1.0
+WA,ORGANIZATION,1,1,1,1.0
+Everett,GPE,1,1,1,1.0
+Columbia Mall,GPE,1,1,1,1.0
+Broken Glass Cuts Boy,PERSON,1,1,1,1.0
+Law Attacked,PERSON,1,1,1,1.0
+Brother,GPE,1,1,1,1.0
+Boulder City,PERSON,1,1,1,1.0
+UPDF Swoops,ORGANIZATION,1,1,1,1.0
+Migrant From,PERSON,1,1,1,1.0
+Who,PERSON,1,1,1,1.0
+Miller Slams Dem Response,PERSON,1,1,1,1.0
+Stephen,PERSON,1,1,1,1.0
+Malacañang,GPE,1,1,1,1.0
+Sonya,GPE,1,1,1,1.0
+Ricardo Burbano,PERSON,1,1,1,1.0
+ICE Arrest,ORGANIZATION,1,1,1,1.0
+Milwaukee County,PERSON,1,1,1,1.0
+Retaliate,ORGANIZATION,1,1,1,1.0
+Arrest Fake,PERSON,1,1,1,1.0
+Uromi,GPE,1,1,1,1.0
+Conn,GSP,1,1,1,1.0
+Arrest Drunk Men,PERSON,1,1,1,1.0
+Bihar Villagers Attack Cops Who,PERSON,1,1,1,1.0
+Camera,GPE,1,1,1,1.0
+Vermont,GPE,1,1,1,1.0
+Tufts,GPE,1,1,1,1.0
+FBI Kash Patel,ORGANIZATION,1,1,1,1.0
+Courthouse,ORGANIZATION,1,1,1,1.0
+Federal Authorities,ORGANIZATION,1,1,1,1.0
+Comprehensive Medical Camp,ORGANIZATION,1,1,1,1.0
+Trident Group Advocates Employee Well,ORGANIZATION,1,1,1,1.0
+Victorian,GPE,1,1,1,1.0
+Brazil,PERSON,1,1,1,1.0
+Collor,GPE,1,1,1,1.0
+Fernando,PERSON,1,1,1,1.0
+VPD Task Force Barrage,ORGANIZATION,1,1,0,1.0
+Noncitizen IL,PERSON,1,1,1,1.0
+Proven Guilty,PERSON,1,1,1,1.0
+Suspects Presumed Innocent,PERSON,1,1,1,1.0
+Brevard,GPE,1,1,1,1.0
+Arrest Netanyahu,PERSON,1,1,1,1.0
+Faces ICC,PERSON,1,1,1,1.0
+Orbán,PERSON,1,1,1,1.0
+Suspicious,GPE,1,1,1,1.0
+Jashore,GPE,1,1,1,1.0
+Interpol Gambie,ORG,1,1,1,1.0
+Blood Family Mafia,ORG,1,1,1,1.0
+Justice Ministry,ORGANIZATION,1,1,1,1.0
+Chhoto Sazzad,PERSON,1,1,1,1.0
+Mental Health,ORGANIZATION,1,1,1,1.0
+Grove Township Awards,PERSON,1,1,1,1.0
+Elk,PERSON,1,1,1,1.0
+Rumginae School,ORGANIZATION,1,1,1,1.0
+Aquarius,PERSON,1,1,1,1.0
+THC,ORGANIZATION,1,1,1,1.0
+Upstate,PERSON,1,1,1,1.0
+HealthCare Physician Alliance,ORGANIZATION,1,1,1,1.0
+Culina,GPE,1,1,1,1.0
+Horoscope Pisces,PERSON,1,1,1,1.0
+Weekly,PERSON,1,1,1,1.0
+Scorpio,PERSON,1,1,1,1.0
+Une Iranienne,ORG,1,1,1,1.0
+Sen Tv,ORG,1,1,1,1.0
+La Manouba,ORG,1,1,1,1.0
+Salva Kiir,ORG,1,1,1,1.0
+Finances Padayachy,ORG,1,1,1,1.0
+Me Bhadain,ORG,1,1,1,1.0
+Shahin Hezami,ORG,1,1,1,1.0
+Virginia Giuffre,ORG,1,1,1,1.0
+Fernando Collor,ORG,1,1,1,1.0
+Renganaden Padayachy,ORG,1,1,1,1.0
+Bureau Interpol Gambie,ORG,1,1,1,1.0
+De Wever,ORG,1,1,1,1.0
+Pie VII,ORG,1,1,1,1.0
+Bruneau Laurette,ORG,1,1,1,1.0
+Affaire Huawei,ORG,1,1,1,1.0
+Bart De Wever,ORG,1,1,1,1.0
+Aux Etats,ORG,1,1,1,1.0
+Laurent Vinatier,ORG,1,1,1,1.0
+Rakesh Gooljaury,ORG,1,1,1,1.0
+The Press Project,ORG,1,1,1,1.0
+Simon Choice,PERSON,1,1,1,1.0
+WHP,ORGANIZATION,1,1,1,1.0
+Nilphamari Medical College,PERSON,1,1,1,1.0
+DGME,ORGANIZATION,1,1,1,1.0
+Ready,PERSON,1,1,1,1.0
+Taurus,GPE,1,1,1,1.0
+Holmes,PERSON,1,1,1,1.0
+Must Read,PERSON,1,1,1,1.0
+Mitolyn,PERSON,1,1,1,1.0
+Lives Through Early Diagnosis,PERSON,1,1,1,1.0
+Newborn,GPE,1,1,1,1.0
+Amnesty International,ORG,1,1,1,1.0
+Herefordshire,ORGANIZATION,1,1,1,1.0
+Adolescence,GPE,1,1,1,1.0
+Jews,PERSON,1,1,1,1.0
+Tashkent,GPE,1,1,1,1.0
+Brands,PERSON,1,1,1,1.0
+Déjà,GPE,1,1,1,1.0
+Comment Pikachu,ORG,1,1,1,1.0
+VRAI OU FAUX,ORG,1,1,1,1.0
+Jean Raquel Jolicoeur,ORG,1,1,1,1.0
+La Turquie,ORG,1,1,1,1.0
+Keur Massar,ORG,1,1,1,1.0
+White Dream,ORG,1,1,1,1.0
+Ousmane Diatta,ORG,1,1,1,1.0
+Un MRE,ORG,1,1,1,1.0
+Harvesh Seegolam,ORG,1,1,1,1.0
+Le SYNPICS,ORG,1,1,1,1.0
+Arabia,PERSON,1,1,1,1.0
+Xcel Brands Brings,PERSON,1,1,1,1.0
+Comment,ORGANIZATION,1,1,1,1.0
+Sh3m,ORGANIZATION,1,1,1,1.0
+Ayushman,GPE,1,1,1,1.0
+Lancashire Telegraph,PERSON,1,1,1,1.0
+Lancashire,GPE,1,1,1,1.0
+Love,PERSON,1,1,1,1.0
+Sagittarius Moon,PERSON,1,1,1,1.0
+CCSD,ORGANIZATION,1,1,1,1.0
+Indira IVF ₹3,PERSON,1,1,1,1.0
+SEBI,ORGANIZATION,1,1,1,1.0
+Palmer,GPE,1,1,1,1.0
+Rinehart,PERSON,1,1,1,1.0
+WAVES Summit,ORGANIZATION,1,1,1,1.0
+Trump Reacts As China Announces Tariff,PERSON,1,1,1,1.0
+Parag,ORGANIZATION,1,1,1,1.0
+Riyan,PERSON,1,1,1,1.0
+PR Katie,ORGANIZATION,1,1,1,1.0
+Plots,GPE,1,1,1,1.0
+The Hollywood,FACILITY,1,1,1,1.0
+OConnor Named,ORGANIZATION,1,1,1,1.0
+EDM,ORGANIZATION,1,1,1,1.0
+Meghalaya,GPE,1,1,1,1.0
+Paytm,PERSON,1,1,1,1.0
+PhonePe,ORGANIZATION,1,1,1,1.0
+Business Fails,ORGANIZATION,1,1,1,1.0
+Past Shame,PERSON,1,1,1,1.0
+Finance,GPE,1,1,1,1.0
+Real Estate,ORGANIZATION,1,1,1,1.0
+Latest News,PERSON,1,1,1,1.0
+Arabian,GPE,1,1,1,1.0
+West,ORGANIZATION,1,1,1,1.0
+Kanye,PERSON,1,1,1,1.0
+Welsh,PERSON,1,1,1,1.0
+Strategic Investment,PERSON,1,1,1,1.0
+UTG,ORGANIZATION,1,1,1,1.0
+Parliament,ORGANIZATION,1,1,1,1.0
+Star,ORGANIZATION,1,1,1,1.0
+Khan,ORGANIZATION,1,1,1,1.0
+Feroze,PERSON,1,1,1,1.0
+Pope,ORGANIZATION,1,1,1,1.0
+Melania,GPE,1,1,1,1.0
+Mark Zuckerberg Instagram,PERSON,1,1,1,1.0
+Elon Musk X,PERSON,1,1,1,1.0
+Sam,PERSON,1,1,1,1.0
+Husband Body,ORGANIZATION,1,1,1,1.0
+Propped,PERSON,1,1,1,1.0
+Anurga Thakur,PERSON,1,1,1,1.0
+Student Showcases,PERSON,1,1,1,1.0
+Lineup,PERSON,1,1,1,1.0
+Comm Week With Star,ORGANIZATION,1,1,1,1.0
+CSUF,ORGANIZATION,1,1,1,1.0
+Norfolk,GPE,1,1,1,1.0
+Hampton Blvd,PERSON,1,1,1,1.0
+Resonate,ORGANIZATION,1,1,1,1.0
+Vardanyan,GPE,1,1,1,1.0
+Victim,GPE,1,1,1,1.0
+Earned,GPE,1,1,1,1.0
+Katie Eastment,PERSON,1,1,1,1.0
+Plots Appoints,PERSON,1,1,1,1.0
+HHS,ORGANIZATION,1,1,1,1.0
+Heil Hitler,PERSON,1,1,1,1.0
+Twitch,GPE,1,1,1,1.0
+Obama Official Calling,PERSON,1,1,1,1.0
+Corporations Fund,ORGANIZATION,1,1,1,1.0
+Says Anurag Thakur Remarks,ORGANIZATION,1,1,1,1.0
+MediaCast,ORGANIZATION,1,1,1,1.0
+Aiper,GPE,1,1,1,1.0
+Hegde,PERSON,1,1,1,1.0
+Pooja,PERSON,1,1,1,1.0
+Haj,ORGANIZATION,1,1,1,1.0
+Sahil Bloom,PERSON,1,1,1,1.0
+Stanford,ORGANIZATION,1,1,1,1.0
+IKEA,ORGANIZATION,1,1,1,1.0
+Hania Aamir,PERSON,1,1,1,1.0
+Meerub Ali,PERSON,1,1,1,1.0
+Safina,ORGANIZATION,1,1,1,1.0
+Ali,PERSON,1,1,1,1.0
+Mallikarjun,GPE,1,1,1,1.0
+Mughal Prince Urges,PERSON,1,1,0,1.0
+Yakub Habeebuddin,PERSON,1,1,1,1.0
+Boakai,PERSON,1,1,1,1.0
+Luxury,ORGANIZATION,1,1,1,1.0
+Zardari,PERSON,1,1,1,1.0
+HIT,ORGANIZATION,1,1,1,1.0
+George,PERSON,1,1,1,1.0
+Motley Fool,ORGANIZATION,1,1,1,1.0
+Trump Media Stock,PERSON,1,1,1,1.0
+Wed,PERSON,1,1,1,1.0
+Tickets,ORGANIZATION,1,1,1,1.0
+INST,ORGANIZATION,1,1,1,1.0
+George Yeo,PERSON,1,1,1,1.0
+Fireside,ORGANIZATION,1,1,1,1.0
+Book,PERSON,1,1,1,1.0
+Whiteness,ORGANIZATION,1,1,1,1.0
+Abayomi,PERSON,1,1,1,1.0
+Jewel,PERSON,1,1,1,1.0
+Hugh Riminton,PERSON,1,1,1,1.0
+Bharat Jodo Yatra,PERSON,1,1,1,1.0
+Felt,PERSON,1,1,1,1.0
+Rakul Preet,PERSON,1,1,1,1.0
+Harshvardhan Rane,PERSON,1,1,1,1.0
+Ramesh Taurani,PERSON,1,1,1,1.0
+Ukranian Bioweapon Claims,PERSON,1,1,1,1.0
+Hampton Boulevard,PERSON,1,1,1,1.0
+Real Estate Ads,ORGANIZATION,1,1,1,1.0
+Of Regulatory Details,ORGANIZATION,1,1,1,1.0
+Mandates Prominent Display,PERSON,1,1,1,1.0
+MahaRERA,ORGANIZATION,1,1,1,1.0
+Nagpur Violence,PERSON,1,1,1,1.0
+Aurangzeb Tomb,PERSON,1,1,1,1.0
+Jalen Suggs,PERSON,1,1,1,1.0
+Van Lith Boyfriend,PERSON,1,1,1,1.0
+Hailey,PERSON,1,1,1,1.0
+Jaideep Ahlawat,PERSON,1,1,1,1.0
+Texarkana,GPE,1,1,1,1.0
+UA Hope,ORGANIZATION,1,1,1,1.0
+HVAC,ORGANIZATION,1,1,1,1.0
+Welding,GPE,1,1,1,1.0
+Azalea Festival,PERSON,1,1,1,1.0
+General Hospital,ORGANIZATION,1,1,1,1.0
+Lancaster,PERSON,1,1,1,1.0
+Him,GPE,1,1,1,1.0
+Girlfriend Cheating,PERSON,1,1,1,1.0
+Commits Suicide,ORGANIZATION,1,1,1,1.0
+Akwa Ibom,GPE,1,1,1,1.0
+Practitioner Shares,ORGANIZATION,1,1,1,1.0
+Kūkākūkā,PERSON,1,1,1,1.0
+Kaukau,GPE,1,1,1,1.0
+Fuels Buzz Around Possible,PERSON,1,1,1,1.0
+Basu Drops Nostalgic Race Song Clip Early,PERSON,1,1,1,1.0
+Bipasha,PERSON,1,1,1,1.0
+Facebook,ORGANIZATION,1,1,1,1.0
+Quotes,GPE,1,1,1,1.0
+Messages,GPE,1,1,1,1.0
+Eid Mubarak Wishes,PERSON,1,1,1,1.0
+Eid,ORGANIZATION,1,1,1,1.0
+Zed,GPE,1,1,1,1.0
+Zee,PERSON,1,1,1,1.0
+Cryptocurrency Scams,PERSON,1,1,1,1.0
+Abuse Claims,PERSON,1,1,1,1.0
+Tiffany Smith Relationship,PERSON,1,1,1,1.0
+Piper Rockelle,PERSON,1,1,1,1.0
+Cartier,PERSON,1,1,1,1.0
+Rolex,PERSON,1,1,1,1.0
+National Autism Registry,ORGANIZATION,1,1,1,1.0
+RFK Jr,ORGANIZATION,1,1,1,1.0
+NBC Los Angeles,ORGANIZATION,1,1,1,1.0
+Tgana,PERSON,1,1,1,1.0
+Aliens,ORGANIZATION,1,1,1,1.0
+Women Murdered,PERSON,1,1,1,1.0
+BJP Foundation,ORGANIZATION,1,1,1,1.0
+AICC,GPE,1,1,1,1.0
+Media Account,ORGANIZATION,1,1,1,1.0
+Faces Historic Antitrust Trial,PERSON,1,1,1,1.0
+Media,GPE,1,1,1,1.0
+Women,GPE,1,1,1,1.0
+Brenton Awa,PERSON,1,1,1,1.0
+Hawaii State,PERSON,1,1,1,1.0
+Aveiro,GPE,1,1,1,1.0
+Maratona,GPE,1,1,1,1.0
+Social Chess,ORGANIZATION,1,1,1,1.0
+FIDE,ORGANIZATION,1,1,1,1.0
+South Florida,GPE,1,1,1,1.0
+Little Sausage Dog Found,ORGANIZATION,1,1,1,1.0
+Valerie,GPE,1,1,1,1.0
+Line Amid Bangladesh,PERSON,1,1,1,1.0
+Ukraine Peace Deal,PERSON,1,1,1,1.0
+Digest,PERSON,1,1,1,1.0
+NBC10 Philadelphia,ORGANIZATION,1,1,1,1.0
+Kancha Gachibowli,PERSON,1,1,1,1.0
+Hyderabad University,ORGANIZATION,1,1,1,1.0
+Victory,GPE,1,1,1,1.0
+LEIPZIG,ORGANIZATION,1,1,1,1.0
+IWC Won,ORGANIZATION,1,1,1,1.0
+Health Sector Short,PERSON,1,1,1,1.0
+Man Slumps,PERSON,1,1,1,1.0
+Picture,PERSON,1,1,1,1.0
+Brand Of Toothpaste Is,ORGANIZATION,1,1,1,1.0
+Which,PERSON,1,1,1,1.0
+Imo,GPE,1,1,1,1.0
+Eating Rice,PERSON,1,1,1,1.0
+Antenatal Class,ORGANIZATION,1,1,1,1.0
+Nurse Says,PERSON,1,1,1,1.0
+Pregnancy,GPE,1,1,1,1.0
+Style Isnt Good,PERSON,1,1,1,1.0
+Diabetes,PERSON,1,1,1,1.0
+Slept,GPE,1,1,1,1.0
+Overhead Water Tanks Fell,PERSON,1,1,1,1.0
+Numbers Rival,ORGANIZATION,1,1,1,1.0
+Cory Booker Talkathon,PERSON,1,1,1,1.0
+Kancha,GPE,1,1,1,1.0
+HCU,ORGANIZATION,1,1,1,1.0
+Grateful,GPE,1,1,1,1.0
+Tufigno,PERSON,1,1,1,1.0
+Michele,PERSON,1,1,1,1.0
+Zozibini Tunzi,PERSON,1,1,1,1.0
+MoU,ORGANIZATION,1,1,1,1.0
+JNU,ORGANIZATION,1,1,1,1.0
+RSS,ORGANIZATION,1,1,1,1.0
+TARIFFIED Shirt,ORGANIZATION,1,1,0,1.0
+Slams Trump,PERSON,1,1,1,1.0
+Lizzo,PERSON,1,1,1,1.0
+Sophie Shine,PERSON,1,1,1,1.0
+Insta,PERSON,1,1,1,1.0
+Shikhar Dhawan,PERSON,1,1,1,1.0
+Gabbar,GPE,1,1,1,1.0
+Bring,GPE,1,1,1,1.0
+GITEX Africa,ORGANIZATION,1,1,1,1.0
+Ultimate Guide,ORGANIZATION,1,1,1,1.0
+Netflix Adolescence,PERSON,1,1,1,1.0
+Branded Fortified Edible Oil,PERSON,1,1,1,1.0
+UNN Begin Campaign,ORGANIZATION,1,1,1,1.0
+CS,ORGANIZATION,1,1,1,1.0
+McNally,ORGANIZATION,1,1,1,1.0
+Keith,PERSON,1,1,1,1.0
+Joy,PERSON,1,1,1,1.0
+AI Innovation,ORGANIZATION,1,1,1,1.0
+Indomie,GPE,1,1,1,1.0
+Brands Brings,PERSON,1,1,1,1.0
+Marketing Partnerships,PERSON,1,1,1,1.0
+Matador Technologies Announces Investor Relations,ORGANIZATION,1,1,1,1.0
+Ali Khan Sidharth Malhotra,PERSON,1,1,1,1.0
+Tejashwi,PERSON,1,1,1,1.0
+Begusarai,PERSON,1,1,1,1.0
+Madhubani,GPE,1,1,1,1.0
+Porras Molina,PERSON,1,1,1,1.0
+Hernan,PERSON,1,1,1,1.0
+Allianz Arena,ORGANIZATION,1,1,1,1.0
+Bayern Munich,PERSON,1,1,1,1.0
+Antar,PERSON,1,1,1,1.0
+Badih,PERSON,1,1,1,1.0
+Executive Editor,PERSON,1,1,1,1.0
+Chaacha Mwita,PERSON,1,1,1,1.0
+Standard Group,ORGANIZATION,1,1,1,1.0
+Rhythm Psychosis,PERSON,1,1,1,1.0
+Syndrome,ORGANIZATION,1,1,1,1.0
+Yunyun,PERSON,1,1,1,1.0
+Colony Group Acquires Orange Digital,ORGANIZATION,1,1,1,1.0
+Baltimore,GPE,1,1,1,1.0
+Kim Sae Ron,PERSON,1,1,1,1.0
+Kim Soo Hyun,PERSON,1,1,1,1.0
+Sulli,GPE,1,1,1,1.0
+Netizens Cry Foul,PERSON,1,1,1,1.0
+Ngemi,PERSON,1,1,1,1.0
+Sahani Declares Bihar Grand Alliance Unbreakable,PERSON,1,1,1,1.0
+Mukesh,PERSON,1,1,1,1.0
+Billboard Book Club,PERSON,1,1,1,1.0
+Billboard,PERSON,1,1,1,1.0
+Florida GOP,PERSON,1,1,1,1.0
+Donalds,PERSON,1,1,1,1.0
+HVAC Business,ORGANIZATION,1,1,1,1.0
+Coke,PERSON,1,1,1,1.0
+Beats,PERSON,1,1,1,1.0
+Yadav Leads Bihar Mahagathbandhan,PERSON,1,1,1,1.0
+Labour Starts,PERSON,1,1,1,1.0
+Trois Belges,ORG,1,1,1,1.0
+Katel Le Cuillier,ORG,1,1,1,1.0
+Bhajan Lal,PERSON,1,1,1,1.0
+Vasundhara Raje,PERSON,1,1,1,1.0
+Ogilvy,PERSON,1,1,1,1.0
+Cola,GPE,1,1,1,1.0
+Coca,GPE,1,1,1,1.0
+Lori OConnor EVP,PERSON,1,1,1,1.0
+NBA Abu,ORGANIZATION,1,1,1,1.0
+Knicks,GPE,1,1,1,1.0
+Misinformation Mania,ORGANIZATION,1,1,1,1.0
+Covid,GPE,1,1,1,1.0
+Instagram,GPE,1,1,1,1.0
+Jeanette Vizguerra,PERSON,1,1,1,1.0
+Freddie Gray,PERSON,1,1,1,1.0
+Mame Libasse Lahi,ORG,1,1,1,1.0
+CK Hutchison,ORG,1,1,1,1.0
+Plan Alerte,ORG,1,1,1,1.0
+Cristiano Ronaldo,ORG,1,1,1,1.0
+Lady,GPE,1,1,1,1.0
+Bath,PERSON,1,1,1,1.0
+Egg Donation,PERSON,1,1,1,1.0
+Ladies Share,ORGANIZATION,1,1,1,1.0
+Gen,ORGANIZATION,1,1,1,1.0
+Reimagine,PERSON,1,1,1,1.0
+Us,PERSON,1,1,1,1.0
+Malaria,GPE,1,1,1,1.0
+Infection,ORGANIZATION,1,1,1,1.0
+Addiction,PERSON,1,1,1,1.0
+Condom Usage,ORGANIZATION,1,1,1,1.0
+Midwife,GPE,1,1,1,1.0
+Aminatou Ahidjo,ORG,1,1,1,1.0
+Grand Pontarlier Excellence,ORG,1,1,1,1.0
+Le Journal,ORG,1,1,1,1.0
+Pourquoi McDonald,ORG,1,1,1,1.0
+La Bourse,ORG,1,1,1,1.0
+Affaire Base Toliara,ORG,1,1,1,1.0
+Le Danemark,ORG,1,1,1,1.0
+Philippe Vedovini,ORG,1,1,1,1.0
+Denis Sassou NGuesso,ORG,1,1,1,1.0
+Marie Auffret,ORG,1,1,1,1.0
+Astrid Panosyan,ORG,1,1,1,1.0
+La FAA,ORG,1,1,1,1.0
+Teen Accounts,ORG,1,1,1,1.0
+LInstitut Pasteur,ORG,1,1,1,1.0
+Bernard Guetta,ORG,1,1,1,1.0
+Trevor Milton,ORG,1,1,1,1.0
+Congressional,ORGANIZATION,1,1,1,1.0
+Manager,PERSON,1,1,1,1.0
+Koh Kood,ORG,1,1,1,1.0
+Binh Duong,ORG,1,1,1,1.0
+Ragnarok Landverse,ORG,1,1,1,1.0
+Journal Web,ORG,1,1,1,1.0
+LE CLAN DES,ORG,1,1,1,1.0
+Samsung Galaxy,ORG,1,1,1,1.0
+World Liberty Financial,ORG,1,1,1,1.0
+La Start Up Toulousaine Goojet,ORG,1,1,1,1.0
+Hugues SEUMO,ORG,1,1,1,1.0
+Hugues Seumo,ORG,1,1,1,1.0
+Comment Violette Dorange,ORG,1,1,1,1.0
+Lilly France,ORG,1,1,1,1.0
+Go Habs Go,ORG,1,1,1,1.0
+Calixthe Beyala,ORG,1,1,1,1.0
+Accuse Trump,PERSON,1,1,1,1.0
+Nursing Institutions,ORGANIZATION,1,1,1,1.0
+Care,GPE,1,1,1,1.0
+Vienna Election Steady,PERSON,1,1,1,1.0
+Vagina Area,GPE,1,1,1,1.0
+Crazeclown,GPE,1,1,1,1.0
+Electrocuted,ORGANIZATION,1,1,1,1.0
+Landikotal,GPE,1,1,1,1.0
+Expo Mauritanie,ORG,1,1,1,1.0
+Risques Climatiques,ORG,1,1,1,1.0
+Programme Africain,ORG,1,1,1,1.0
+Africa PresseTchad,ORG,1,1,1,1.0
+Moetai BROTHERSON,ORG,1,1,1,1.0
+Agence Afrique,ORG,1,1,1,1.0
+Polls,GPE,1,1,1,1.0
+APA,ORGANIZATION,1,1,1,1.0
+Anambra APC,PERSON,1,1,1,1.0
+Ozigbo,GPE,1,1,1,1.0
+Greg Abbott,PERSON,1,1,1,1.0
+Five Eligible,FACILITY,1,1,1,1.0
+Vancouver City Council,PERSON,1,1,1,1.0
+OneCity,ORGANIZATION,1,1,1,1.0
+COPE,ORGANIZATION,1,1,1,1.0
+Umno,GPE,1,1,1,1.0
+Penang DAP,PERSON,1,1,1,1.0
+Arvin,GPE,1,1,1,1.0
+Rap,PERSON,1,1,1,1.0
+Word,ORGANIZATION,1,1,1,1.0
+Karl Mahrer,PERSON,1,1,1,1.0
+Bahnlinie,GPE,1,1,1,1.0
+U,ORGANIZATION,1,1,1,1.0
+Angenehmste,GPE,1,1,1,1.0
+Burns,PERSON,1,1,1,1.0
+Moghalu,PERSON,1,1,1,1.0
+Nwosu,PERSON,1,1,1,1.0
+Dr Franklin Nyamsi,ORG,1,1,1,1.0
+Abdourahamane Tiani,ORG,1,1,1,1.0
+Franklin Nyamsi,ORG,1,1,1,1.0
+Me Amadou,ORG,1,1,1,1.0
+Ousmane Sonko Veut Un Renforcement Du Dispositif De,ORG,1,1,1,1.0
+Administration Publique,ORG,1,1,1,1.0
+Procurement Notices,ORG,1,1,1,1.0
+Mahamat Tahir Abderrahmane,ORG,1,1,1,1.0
+Kebbi Ouest,ORG,1,1,1,1.0
+Wadi Fira,ORG,1,1,1,1.0
+Le Ministre,ORG,1,1,1,1.0
+Logan,PERSON,1,1,1,1.0
+Greens,GPE,1,1,1,1.0
+DCs of,ORGANIZATION,1,1,1,1.0
+DEOs,ORGANIZATION,1,1,1,1.0
+Mansukh Mandaviya,PERSON,1,1,1,1.0
+Gore,PERSON,1,1,1,1.0
+Bush,PERSON,1,1,1,1.0
+Griffin North Carolina,PERSON,1,1,1,1.0
+Riggs,GPE,1,1,1,1.0
+Musk DOGE,PERSON,1,1,1,1.0
+ODIHR,ORGANIZATION,1,1,1,1.0
+Lagos LG Polls,PERSON,1,1,1,1.0
+Campaign Timetable,PERSON,1,1,1,1.0
+LASIEC Announces Election Date,ORGANIZATION,1,1,1,1.0
+Inside Polling Station,PERSON,1,1,1,1.0
+View,PERSON,1,1,1,1.0
+Jairam Ramesh,PERSON,1,1,1,1.0
+Cambria,GPE,1,1,1,1.0
+Rajya Sabha,PERSON,1,1,1,1.0
+SCDMV,GPE,1,1,1,1.0
+Aerial And Unmanned Aircraft Activities,ORGANIZATION,1,1,1,1.0
+Speaker Corner,PERSON,1,1,1,1.0
+Assembly Centres,PERSON,1,1,1,1.0
+Election Meetings,ORGANIZATION,1,1,1,1.0
+Next Election,ORGANIZATION,1,1,1,1.0
+Trump Is Already,PERSON,1,1,1,1.0
+Ward VI,PERSON,1,1,1,1.0
+Albany City,PERSON,1,1,1,1.0
+Brown,PERSON,1,1,1,1.0
+Diana,PERSON,1,1,1,1.0
+WNC,ORGANIZATION,1,1,1,1.0
+Dakota Senate,PERSON,1,1,1,1.0
+Fernandes Anderson,PERSON,1,1,1,1.0
+District,ORGANIZATION,1,1,1,1.0
+SLCO Clerk,ORGANIZATION,1,1,1,1.0
+Kilgore,GPE,1,1,1,1.0
+Return,GPE,1,1,1,1.0
+Georgia Legislature,PERSON,1,1,1,1.0
+Broad,GPE,1,1,1,1.0
+Tense,GPE,1,1,1,1.0
+LASIEC,ORGANIZATION,1,1,1,1.0
+Champaign,PERSON,1,1,1,1.0
+Yoon,PERSON,1,1,1,1.0
+Chris Krebs,PERSON,1,1,1,1.0
+CISA,ORGANIZATION,1,1,1,1.0
+Former,ORGANIZATION,1,1,1,1.0
+Revokes Security Clearance,PERSON,1,1,1,1.0
+Dillon City Council,PERSON,1,1,1,1.0
+Tight,GPE,1,1,1,1.0
+Vijayasai Reddy,PERSON,1,1,1,1.0
+Carolina Could,PERSON,1,1,1,1.0
+Panchayat Elections,PERSON,1,1,1,1.0
+Exams Due,PERSON,1,1,1,1.0
+Cancels Remaining,PERSON,1,1,1,1.0
+Party Coalition,PERSON,1,1,1,1.0
+Three,PERSON,1,1,1,1.0
+Mood Test,PERSON,1,1,1,1.0
+Luzerne,PERSON,1,1,1,1.0
+Retribution,GPE,1,1,1,1.0
+Asue Ighodalo,PERSON,1,1,1,1.0
+Chicago Tribune,PERSON,1,1,1,1.0
+Ducsu,GPE,1,1,1,1.0
+DHS,ORGANIZATION,1,1,1,1.0
+Into Ex,ORGANIZATION,1,1,1,1.0
+Backlash Over Stalinesque,PERSON,1,1,0,1.0
+Madnes,GPE,1,1,1,1.0
+Credit Suisse,ORGANIZATION,1,1,1,1.0
+OGorman,ORGANIZATION,1,1,1,1.0
+Roderic,PERSON,1,1,1,1.0
+Shanmugam,PERSON,1,1,1,1.0
+Nee,GPE,1,1,1,1.0
+GE2025,GPE,1,1,1,1.0
+MP Craig Williams,ORGANIZATION,1,1,1,1.0
+Nomination,ORGANIZATION,1,1,1,1.0
+Congres Latest Election Bill,ORGANIZATION,1,1,1,1.0
+Dangers,ORGANIZATION,1,1,1,1.0
+Tania Fernandes Anderson,PERSON,1,1,1,1.0
+Wike,GPE,1,1,1,1.0
+Tinubu,GPE,1,1,1,1.0
+Commission,ORGANIZATION,1,1,1,1.0
+Conservatives,ORGANIZATION,1,1,1,1.0
+Ballots Thrown Out,PERSON,1,1,1,1.0
+BN,ORGANIZATION,1,1,1,1.0
+MIC,ORGANIZATION,1,1,1,1.0
+Turner,GPE,1,1,1,1.0
+Han,PERSON,1,1,1,1.0
+National Clearinghouse Award,ORGANIZATION,1,1,1,1.0
+Nebraska,GPE,1,1,1,1.0
+Ballot,GPE,1,1,1,1.0
+Abbott Delays Calling Special Election,PERSON,1,1,1,1.0
+Election Worker,PERSON,1,1,1,1.0
+Circuit,ORGANIZATION,1,1,1,1.0
+Ninth,PERSON,1,1,1,1.0
+Phagwara Mayor,PERSON,1,1,1,1.0
+Buhangin,GPE,1,1,1,1.0
+Comelec,GPE,1,1,1,1.0
+Higher Secondary,PERSON,1,1,1,1.0
+Ivory,GPE,1,1,1,1.0
+Tribune,PERSON,1,1,1,1.0
+San Diego Union,PERSON,1,1,1,1.0
+UK,ORGANIZATION,1,1,1,1.0
+Defy Trump,PERSON,1,1,1,1.0
+Leftist Groups Urge Election Agency,ORGANIZATION,1,1,1,1.0
+McKelvie,ORGANIZATION,1,1,1,1.0
+Oklahoma County,PERSON,1,1,1,1.0
+Lowe,GPE,1,1,1,1.0
+UPDATED,ORGANIZATION,1,1,1,1.0
+Panchayat,GPE,1,1,1,1.0
+IHC,ORGANIZATION,1,1,1,1.0
+Ayub,ORGANIZATION,1,1,1,1.0
+Omar,PERSON,1,1,1,1.0
+TikTok,GPE,1,1,1,1.0
+Anambra Nov Poll,PERSON,1,1,1,1.0
+Emerges APC,PERSON,1,1,1,1.0
+Budget Deficit Drops,PERSON,1,1,1,1.0
+EBC,ORGANIZATION,1,1,1,1.0
+Labrador,ORGANIZATION,1,1,1,1.0
+Newfoundland,GPE,1,1,1,1.0
+Murphy,GPE,1,1,1,1.0
+Jeffries,ORGANIZATION,1,1,1,1.0
+Hakeem,PERSON,1,1,1,1.0
+House Committee,ORGANIZATION,1,1,1,1.0
+Place,PERSON,1,1,1,1.0
+Announces General Election,PERSON,1,1,1,1.0
+Military Chief Says,PERSON,1,1,1,1.0
+Race,GPE,1,1,1,1.0
+Into Election Fraud,ORGANIZATION,1,1,1,1.0
+Emergency Investigation,PERSON,1,1,1,1.0
+PPP,ORGANIZATION,1,1,1,1.0
+RUCSU,ORGANIZATION,1,1,1,1.0
+NPP,ORGANIZATION,1,1,1,1.0
+Yunus,PERSON,1,1,1,1.0
+Christianity Divide,ORGANIZATION,1,1,1,1.0
+Election Data Might Show,PERSON,1,1,1,1.0
+Easton,GPE,1,1,1,1.0
+Parks,PERSON,1,1,1,1.0
+Golf Courses,ORGANIZATION,1,1,1,1.0
+Passes Bill Banning Pickleball,PERSON,1,1,1,1.0
+Amid Rising Tax Refunds,PERSON,1,1,1,1.0
+Public Debt Soars,ORGANIZATION,1,1,1,1.0
+Defence,ORGANIZATION,1,1,1,1.0
+Slovenia Times,ORGANIZATION,1,1,1,1.0
+August,GPE,1,1,1,1.0
+HUF,ORGANIZATION,1,1,1,1.0
+Agenda,GSP,1,1,1,1.0
+Montana,PERSON,1,1,1,1.0
+Paul Biya,ORG,1,1,1,1.0
+Conseil Constitutionnel,ORG,1,1,1,1.0
+Monique OULI NDONGO,ORG,1,1,1,1.0
+FRANCE News,ORG,1,1,1,1.0
+Le FPI,ORG,1,1,1,1.0
+Le MDVC,ORG,1,1,1,1.0
+LEAD Gabon,ORG,1,1,1,1.0
+Gnangbo Kacou,ORG,1,1,1,1.0
+Maurice Kamto,ORG,1,1,1,1.0
+SAVE Act,ORG,1,1,1,1.0
+Les Togolais,ORG,1,1,1,1.0
+Le PPA,ORG,1,1,1,1.0
+La CENI,ORG,1,1,1,1.0
+Tibo Inshape,ORG,1,1,1,1.0
+Edouard Leclerc,ORG,1,1,1,1.0
+Cyril Hanouna,ORG,1,1,1,1.0
+Le NEC,ORG,1,1,1,1.0
+Eurozone,GPE,1,1,1,1.0
+Barbara County,PERSON,1,1,1,1.0
+Industrial Output Contracts,ORGANIZATION,1,1,1,1.0
+Swedish,GPE,1,1,1,1.0
+Data Exposes Global Healthcare,ORGANIZATION,1,1,1,1.0
+New Taxes,GPE,1,1,1,1.0
+For Labor,ORGANIZATION,1,1,1,1.0
+Test,GPE,1,1,1,1.0
+Grotesque Than,PERSON,1,1,1,1.0
+WEF,ORGANIZATION,1,1,1,1.0
+Spending,GPE,1,1,1,1.0
+Minibus,ORGANIZATION,1,1,1,1.0
+Tailor,GPE,1,1,1,1.0
+QUAND LA CEI CONVOQUE LES RELIGIONS POUR MAQUILLER UNE CRISE POLITIQUE,ORG,1,1,1,1.0
+LR Marie,ORG,1,1,1,1.0
+PAEMST,ORGANIZATION,1,1,1,1.0
+Mississippi,ORGANIZATION,1,1,1,1.0
+Singer,PERSON,1,1,1,1.0
+Vanessa Douillet,ORG,1,1,1,1.0
+Lida Kouassi Moise,ORG,1,1,1,1.0
+Philippe Poutou,ORG,1,1,1,1.0
+Eve Gilles,ORG,1,1,1,1.0
+David Douillet,ORG,1,1,1,1.0
+Le PPT,ORG,1,1,1,1.0
+Rafael Correa,ORG,1,1,1,1.0
+Simone Gbagbo,ORG,1,1,1,1.0
+Steven Wood,ORG,1,1,1,1.0
+Umaro Sissoco,ORG,1,1,1,1.0
+Abdouraman Hamadou Babba,ORG,1,1,1,1.0
+La RADDHO,ORG,1,1,1,1.0
+Le CEP,ORG,1,1,1,1.0
+Liu,PERSON,1,1,1,1.0
+PG Marksheet,ORGANIZATION,1,1,1,1.0
+Download Winter UG,PERSON,1,1,1,1.0
+MUHS,ORGANIZATION,1,1,1,1.0
+Expert Forecasts,PERSON,1,1,1,1.0
+Technical Analysis,PERSON,1,1,1,1.0
+BSE Rates,ORGANIZATION,1,1,1,1.0
+Live NSE,PERSON,1,1,1,1.0
+Science And Technology Share,ORGANIZATION,1,1,1,1.0
+Clean,GPE,1,1,1,1.0
+Amount Paid,PERSON,1,1,1,1.0
+Benefits,PERSON,1,1,1,1.0
+Apply Online,PERSON,1,1,1,1.0
+Scholarship Scheme,PERSON,1,1,1,1.0
+POSE,ORGANIZATION,1,1,1,1.0
+Science Education,ORGANIZATION,1,1,1,1.0
+Maurice Info,PERSON,1,1,1,1.0
+Rate Index,ORGANIZATION,1,1,1,1.0
+Mani,PERSON,1,1,1,1.0
+Jose K,PERSON,1,1,1,1.0
+The University,ORGANIZATION,1,1,1,1.0
+Ben Hirani,PERSON,1,1,1,1.0
+Reshma,PERSON,1,1,1,1.0
+Antiquity,ORGANIZATION,1,1,1,1.0
+Maya,ORGANIZATION,1,1,1,1.0
+Question Paper,PERSON,1,1,1,1.0
+Official,ORGANIZATION,1,1,1,1.0
+PLOS,GPE,1,1,1,1.0
+Trump Assault,PERSON,1,1,0,1.0
+Sign Petition,PERSON,1,1,1,1.0
+Paul Darren Bieniasz,PERSON,1,1,1,1.0
+Cixin,PERSON,1,1,1,1.0
+CIMA Animal Health Company,ORGANIZATION,1,1,1,1.0
+Download PDF,PERSON,1,1,1,1.0
+Computer Science Question,ORGANIZATION,1,1,1,1.0
+Scientific,GPE,1,1,1,1.0
+Yuma,PERSON,1,1,1,1.0
+X,ORGANIZATION,1,1,1,1.0
+Kaieteur News,ORGANIZATION,1,1,1,1.0
+Invitation,GPE,1,1,1,1.0
+Of Notification Of Data,ORGANIZATION,1,1,1,1.0
+Barbs Over Handling,PERSON,1,1,1,1.0
+Guthrie,PERSON,1,1,1,1.0
+Phillips,ORGANIZATION,1,1,1,1.0
+Bartlesville,PERSON,1,1,1,1.0
+Burrow,PERSON,1,1,1,1.0
+Row Corners,ORGANIZATION,1,1,1,1.0
+Partager,PERSON,1,1,1,1.0
+Science Division,ORGANIZATION,1,1,1,1.0
+Horrible,GPE,1,1,1,1.0
+Forum,GPE,1,1,1,1.0
+Vishal Midha,PERSON,1,1,1,1.0
+Wage,PERSON,1,1,1,1.0
+Holocaust,GPE,1,1,1,1.0
+Lost,GPE,1,1,1,1.0
+Consul,ORGANIZATION,1,1,1,1.0
+Burt,GPE,1,1,1,1.0
+Democrat,ORGANIZATION,1,1,1,1.0
+STEAM Award,ORGANIZATION,1,1,1,1.0
+Banaguas,ORGANIZATION,1,1,1,1.0
+Glenn,PERSON,1,1,1,1.0
+Lewent Science Center,PERSON,1,1,1,1.0
+Goucher,PERSON,1,1,1,1.0
+Acquires Astaria Global,PERSON,1,1,1,1.0
+Jessup University Awarded,ORGANIZATION,1,1,1,1.0
+Biblical,ORGANIZATION,1,1,1,1.0
+Multnomah,PERSON,1,1,1,1.0
+Schmidt Science Fellows Is Announced,PERSON,1,1,1,1.0
+Information Science,ORGANIZATION,1,1,1,1.0
+Library,GPE,1,1,1,1.0
+BDU,ORGANIZATION,1,1,1,1.0
+Decision,ORGANIZATION,1,1,1,1.0
+Science Potpourri,ORGANIZATION,1,1,1,1.0
+Science Fiction,ORGANIZATION,1,1,1,1.0
+ITDI,ORGANIZATION,1,1,1,1.0
+DOST,ORGANIZATION,1,1,1,1.0
+Performance,GPE,1,1,1,1.0
+Introduces Science,ORGANIZATION,1,1,1,1.0
+IFF,ORGANIZATION,1,1,1,1.0
+Distinguished Alumni Awards,ORGANIZATION,1,1,1,1.0
+NFU,ORGANIZATION,1,1,1,1.0
+Nanjing Forestry University,PERSON,1,1,1,1.0
+Metasequoia Talents,ORGANIZATION,1,1,1,1.0
+Forestry University Recruits Metasequoia Scholars,ORGANIZATION,1,1,1,1.0
+Kolkata,GPE,1,1,1,1.0
+Science City,FACILITY,1,1,1,1.0
+Hope,PERSON,1,1,1,1.0
+NASA Science,ORGANIZATION,1,1,1,1.0
+Level Event,PERSON,1,1,1,1.0
+Extinction,ORGANIZATION,1,1,1,1.0
+Brutal Cuts,PERSON,1,1,1,1.0
+West Fargo,LOCATION,1,1,1,1.0
+Moorhead,PERSON,1,1,1,1.0
+InForum,ORGANIZATION,1,1,1,1.0
+High Eagleson,PERSON,1,1,1,1.0
+Sheyenne,PERSON,1,1,1,1.0
+Audio Summaries,ORGANIZATION,1,1,1,1.0
+Bring AI,GPE,1,1,1,1.0
+arXiv Partner,ORGANIZATION,1,1,1,1.0
+ScienceCast,GPE,1,1,1,1.0
+Gervais,GPE,1,1,1,1.0
+Ricky,PERSON,1,1,1,1.0
+Mock Interviews,PERSON,1,1,1,1.0
+Interview,ORGANIZATION,1,1,1,1.0
+FAANG Data,ORGANIZATION,1,1,1,1.0
+Quantum,PERSON,1,1,1,1.0
+Swartz Endowed Chair,PERSON,1,1,1,1.0
+Baptist Appointed Sylvia G,PERSON,1,1,1,1.0
+Jefferson,PERSON,1,1,1,1.0
+Science Discovery,ORGANIZATION,1,1,1,1.0
+Online Schools Are,PERSON,1,1,1,1.0
+Labs,PERSON,1,1,1,1.0
+Northwestern,GPE,1,1,1,1.0
+Public Health,ORGANIZATION,1,1,1,1.0
+Journal,ORGANIZATION,1,1,1,1.0
+Magazine Unfairly,PERSON,1,1,1,1.0
+Centerville,GSP,1,1,1,1.0
+Real Doctors Brought The Pitt,ORGANIZATION,1,1,0,1.0
+PDF Download,ORGANIZATION,1,1,1,1.0
+Paper,PERSON,1,1,1,1.0
+SSC Biological Science Exam,ORGANIZATION,1,1,1,1.0
+Cantwell,PERSON,1,1,1,1.0
+Files,PERSON,1,1,1,1.0
+Conspiracy,GPE,1,1,1,1.0
+Iowa Board,PERSON,1,1,1,1.0
+Burgess Hill Girls,ORGANIZATION,1,1,1,1.0
+Travel,PERSON,1,1,1,1.0
+Ochieng,PERSON,1,1,1,1.0
+New Discoveries,ORGANIZATION,1,1,1,1.0
+Missions,ORGANIZATION,1,1,1,1.0
+Admit Card,PERSON,1,1,1,1.0
+NIOS,ORGANIZATION,1,1,1,1.0
+RESA,ORGANIZATION,1,1,1,1.0
+Trump Destroy,PERSON,1,1,1,1.0
+Science Youre,ORGANIZATION,1,1,1,1.0
+Dear,PERSON,1,1,1,1.0
+Industry Releases,ORGANIZATION,1,1,1,1.0
+Wine,GPE,1,1,1,1.0
+Orlando Science,PERSON,1,1,1,1.0
+Trustee Award,PERSON,1,1,1,1.0
+Riverhead,PERSON,1,1,1,1.0
+Island Science Center,ORGANIZATION,1,1,1,1.0
+Current,PERSON,1,1,1,1.0
+DeSci Boom And Bust Token Cycles,ORGANIZATION,1,1,1,1.0
+Advanced Reaction Dynamics,PERSON,1,1,1,1.0
+IBS,ORGANIZATION,1,1,1,1.0
+Basic Science,PERSON,1,1,1,1.0
+Senior Researcher,ORGANIZATION,1,1,1,1.0
+MOF Synthesis,ORGANIZATION,1,1,1,1.0
+Synthesis,ORGANIZATION,1,1,1,1.0
+Inorganic,PERSON,1,1,1,1.0
+Starmus,PERSON,1,1,1,1.0
+Kip Thorne,PERSON,1,1,1,1.0
+Christopher Nolan,PERSON,1,1,1,1.0
+Data Science,PERSON,1,1,1,1.0
+Unveils Transformative Role,PERSON,1,1,1,1.0
+Author,PERSON,1,1,1,1.0
+Lees,GPE,1,1,1,1.0
+Tom,PERSON,1,1,1,1.0
+NASA Data Archives Accelerate Science,ORGANIZATION,1,1,1,1.0
+Antibiotic,ORGANIZATION,1,1,1,1.0
+Sweet New,ORGANIZATION,1,1,1,1.0
+Baltimore Bridge Collapse,ORGANIZATION,1,1,1,1.0
+IDR,ORGANIZATION,1,1,1,1.0
+Aldermen,GPE,1,1,1,1.0
+Trump EO,PERSON,1,1,1,1.0
+Habba,PERSON,1,1,1,1.0
+Alina,GPE,1,1,1,1.0
+Cognizant,ORGANIZATION,1,1,1,1.0
+airBaltic,ORGANIZATION,1,1,1,1.0
+Failure,GPE,1,1,1,1.0
+Makerere University,ORGANIZATION,1,1,1,1.0
+IGG,ORGANIZATION,1,1,1,1.0
+Meals Gone,PERSON,1,1,1,1.0
+Calif,GPE,1,1,1,1.0
+Simulation,GPE,1,1,1,1.0
+Loud House,FACILITY,1,1,1,1.0
+The Kennedy Center,FACILITY,1,1,1,1.0
+Stephen Hawking Medal Junior,PERSON,1,1,1,1.0
+STARMUS,ORGANIZATION,1,1,1,1.0
+San Diego,PERSON,1,1,1,1.0
+Pfizer,GPE,1,1,1,1.0
+Fully Funded,PERSON,1,1,1,1.0
+Young South Africans,PERSON,1,1,1,1.0
+Foundation Mainstream,ORGANIZATION,1,1,1,1.0
+Sasol,PERSON,1,1,1,1.0
+UNZA,ORGANIZATION,1,1,1,1.0
+Zambia,GPE,1,1,1,1.0
+Media OutReach Newswire,PERSON,1,1,1,1.0
+News Center,ORGANIZATION,1,1,1,1.0
+Hansen Service Honored,PERSON,1,1,1,1.0
+Amazon,GPE,1,1,1,1.0
+Belize,GPE,1,1,1,1.0
+Interns,ORGANIZATION,1,1,1,1.0
+Voices,ORGANIZATION,1,1,1,1.0
+Diverse,GPE,1,1,1,1.0
+Monty,PERSON,1,1,1,1.0
+Artificial General Intelligence Could Mean,PERSON,1,1,1,1.0
+Busch Stadium,FACILITY,1,1,1,1.0
+Join,PERSON,1,1,1,1.0
+Green Bay News,PERSON,1,1,1,1.0
+Watch Jessie Story,PERSON,1,1,1,1.0
+Patrick Star Show,PERSON,1,1,1,1.0
+Climate Tech,PERSON,1,1,1,1.0
+PAID,ORGANIZATION,1,1,1,1.0
+LibriVox,ORGANIZATION,1,1,1,1.0
+CGIAR Science Week Closes,ORGANIZATION,1,1,1,1.0
+Food Security,PERSON,1,1,1,1.0
+Miller Auditorium,PERSON,1,1,1,1.0
+Tyson,PERSON,1,1,1,1.0
+Neil,GPE,1,1,1,1.0
+Nevada Dairy Farmers,PERSON,1,1,1,1.0
+Wide Science Fair,PERSON,1,1,1,1.0
+Category,ORGANIZATION,1,1,1,1.0
+Check Subject,PERSON,1,1,1,1.0
+Dec Session,PERSON,1,1,1,1.0
+NET Expected Cut,ORGANIZATION,1,1,1,1.0
+CSIR,ORGANIZATION,1,1,1,1.0
+Positions Open,ORGANIZATION,1,1,1,1.0
+AGEMS,ORGANIZATION,1,1,1,1.0
+Artificial Intelligence,ORGANIZATION,1,1,1,1.0
+Hons,ORGANIZATION,1,1,1,1.0
+Guwahati,GPE,1,1,1,1.0
+Blue Hole,PERSON,1,1,1,1.0
+HSC,ORGANIZATION,1,1,1,1.0
+GSEB,ORGANIZATION,1,1,1,1.0
+Allentown,PERSON,1,1,1,1.0
+WNY,ORGANIZATION,1,1,1,1.0
+Young,GPE,1,1,1,1.0
+IUN,ORGANIZATION,1,1,1,1.0
+Exoplanet Maybe,PERSON,1,1,1,1.0
+Signature Of Life Detected,ORGANIZATION,1,1,1,1.0
+Science Diplomacy,ORGANIZATION,1,1,1,1.0
+UNESCO Dialogue,ORGANIZATION,1,1,1,1.0
+Graduate,ORGANIZATION,1,1,1,1.0
+AI Course,ORGANIZATION,1,1,1,1.0
+HBS,ORGANIZATION,1,1,1,1.0
+Horns,PERSON,1,1,1,1.0
+Blade,PERSON,1,1,1,1.0
+Lokiceratops,ORGANIZATION,1,1,1,1.0
+Coolest,GPE,1,1,1,1.0
+Bioprocess Businesses Forward,ORGANIZATION,1,1,1,1.0
+Asahi Kasei Establishes Asahi Kasei Life Science,PERSON,1,1,1,1.0
+Kasei Corp,PERSON,1,1,1,1.0
+Google Apple Amazon Interview Questions,PERSON,1,1,1,1.0
+Climate Ambition Accelerator,PERSON,1,1,1,1.0
+Nations,ORGANIZATION,1,1,1,1.0
+Regional Education Service Agency,ORGANIZATION,1,1,1,1.0
+Utica University Regional Science Fair,PERSON,1,1,1,1.0
+Compete,ORGANIZATION,1,1,1,1.0
+Science Cafe,PERSON,1,1,1,1.0
+Cheers,GPE,1,1,1,1.0
+Science Festival,ORGANIZATION,1,1,1,1.0
+Cheltenham,GPE,1,1,1,1.0
+Transform,ORGANIZATION,1,1,1,1.0
+Innovate,GPE,1,1,1,1.0
+Robinson,ORGANIZATION,1,1,1,1.0
+Tommy,PERSON,1,1,1,1.0
+Contempt,ORGANIZATION,1,1,1,1.0
+Viksit Bharat Goal,PERSON,1,1,1,1.0
+GDP Spend,ORGANIZATION,1,1,1,1.0
+NBC Chicago,ORGANIZATION,1,1,1,1.0
+NBC Bay Area,ORGANIZATION,1,1,1,1.0
+Swears,ORGANIZATION,1,1,1,1.0
+Salem,GPE,1,1,1,1.0
+Winston,GPE,1,1,1,1.0
+African Regional Science,ORGANIZATION,1,1,1,1.0
+Daily Mail Online,PERSON,1,1,1,1.0
+Museum,PERSON,1,1,1,1.0
+Food Systems,ORGANIZATION,1,1,1,1.0
+Year Research Portfolio,PERSON,1,1,1,1.0
+Food,PERSON,1,1,1,1.0
+Craven,ORGANIZATION,1,1,1,1.0
+Scientist Case,ORGANIZATION,1,1,1,1.0
+Simply,PERSON,1,1,1,1.0
+Mass Media Science,PERSON,1,1,1,1.0
+Administration Cancels,ORGANIZATION,1,1,1,1.0
+Annual Meeting,PERSON,1,1,1,1.0
+Students Present Research,PERSON,1,1,1,1.0
+Pasco,GPE,1,1,1,1.0
+Basin College,PERSON,1,1,1,1.0
+Wong,PERSON,1,1,1,1.0
+Life,GPE,1,1,1,1.0
+Science Center,ORGANIZATION,1,1,1,1.0
+Technical Interview,PERSON,1,1,1,1.0
+Stargate Atlantis,ORGANIZATION,1,1,1,1.0
+David Hewlett McKay,PERSON,1,1,1,1.0
+Africa Sustainable Future,PERSON,1,1,1,1.0
+Americans Work,GPE,1,1,1,1.0
+ACM,ORGANIZATION,1,1,1,1.0
+GenAI,ORGANIZATION,1,1,1,1.0
+Senate Committee Advances,ORGANIZATION,1,1,1,1.0
+Atlantic,PERSON,1,1,1,1.0
+Dempsey,GPE,1,1,1,1.0
+Bugweri,GPE,1,1,1,1.0
+Budapest Times,ORGANIZATION,1,1,1,1.0
+Deficit,GPE,1,1,1,1.0
+Roger Partridge,PERSON,1,1,1,1.0
+Converging Paths,ORGANIZATION,1,1,1,1.0
+Term Commitment,PERSON,1,1,1,1.0
+Veterinary Health Underscores Long,ORGANIZATION,1,1,1,1.0
+Mars,PERSON,1,1,1,1.0
+Riyadh,ORGANIZATION,1,1,1,1.0
+STEM Week,ORGANIZATION,1,1,1,1.0
+Fondation Groupe,ORG,1,1,1,1.0
+Choose France,ORG,1,1,1,1.0
+Seth Rogen,ORG,1,1,1,1.0
+Sciences Po Bordeaux,ORG,1,1,1,1.0
+Edwin Le,ORG,1,1,1,1.0
+Ben Arous,ORG,1,1,1,1.0
+Life Sciences,ORG,1,1,1,1.0
+Sciences Po Paris Luis Vassy,ORG,1,1,1,1.0
+Thierry Burger Helmchen,ORG,1,1,1,1.0
+Albert Moukheiber,ORG,1,1,1,1.0
+Stand Up For Science,ORG,1,1,1,1.0
+Paul Emmanuel Vanderriele,ORG,1,1,1,1.0
+Science Infuze,ORG,1,1,1,1.0
+Seth Rogen Jab,PERSON,1,1,1,1.0
+Economic Impact Study,PERSON,1,1,1,1.0
+STEMM Jobs Accounting,ORGANIZATION,1,1,1,1.0
+Novo Holdings,ORG,1,1,1,1.0
+Louis Pasteur,ORG,1,1,1,1.0
+Khalil Amine,ORG,1,1,1,1.0
+Fabien Roussel,ORG,1,1,1,1.0
+La NASA,ORG,1,1,1,1.0
+Sciences Po Reims,ORG,1,1,1,1.0
+Joseph Vallot,ORG,1,1,1,1.0
+Wan Gang,ORG,1,1,1,1.0
+Rendre Visible,ORG,1,1,1,1.0
+En France,ORG,1,1,1,1.0
+Star Wars,ORG,1,1,1,1.0
+Paul Rouve,ORG,1,1,1,1.0
+Les Tuche,ORG,1,1,1,1.0
+Luis Vassy,ORG,1,1,1,1.0
+Projet Varuna,ORG,1,1,1,1.0
+Tony Couet,ORG,1,1,1,1.0
+Lloyd,PERSON,1,1,1,1.0
+Parametrics,ORGANIZATION,1,1,1,1.0
+ASEAN,GPE,1,1,1,1.0
+Kyoto,ORGANIZATION,1,1,1,1.0
+San Francisco Earthquake,PERSON,1,1,1,1.0
+Magnitude Earthquake Rocks Myanmar,PERSON,1,1,1,1.0
+Revue Presse,ORG,1,1,1,1.0
+Le LIST,ORG,1,1,1,1.0
+Festival La Grande,ORG,1,1,1,1.0
+Gilead Sciences,ORG,1,1,1,1.0
+Neda Abdelkader,ORG,1,1,1,1.0
+Tour Eiffel,ORG,1,1,1,1.0
+Par Alassane,ORG,1,1,1,1.0
+Abdou Ngeer,ORG,1,1,1,1.0
+La SPE,ORG,1,1,1,1.0
+Jeanne Ayache,ORG,1,1,1,1.0
+Afghans,GPE,1,1,1,1.0
+Scrap Deportation Protections,PERSON,1,1,1,1.0
+Burmese,GPE,1,1,1,1.0
+Crown,GPE,1,1,1,1.0
+Barbara Lee,PERSON,1,1,1,1.0
+Oakland,GPE,1,1,1,1.0
+Hart LLP,PERSON,1,1,1,1.0
+Community Project,ORGANIZATION,1,1,1,1.0
+Appropriations Committee Issues Fiscal,ORGANIZATION,1,1,1,1.0
+Away,PERSON,1,1,1,1.0
+Public Schools,PERSON,1,1,1,1.0
+Against Decoupling,PERSON,1,1,1,1.0
+Fight,PERSON,1,1,1,1.0
+Vows,ORGANIZATION,1,1,1,1.0
+Economy Watch,PERSON,1,1,1,1.0
+Canopius,PERSON,1,1,1,1.0
+Sloan,GPE,1,1,1,1.0
+IMD,ORGANIZATION,1,1,1,1.0
+Ada,PERSON,1,1,1,1.0
+Tornado,GPE,1,1,1,1.0
+WAAX,ORGANIZATION,1,1,1,1.0
+Severe Weather Alert,PERSON,1,1,1,1.0
+Adityanath Assures,ORGANIZATION,1,1,1,1.0
+Yogi,PERSON,1,1,1,1.0
+US Cant Save Myanmar Post,ORGANIZATION,1,1,1,1.0
+Trump Fault,PERSON,1,1,1,1.0
+Acadia,GPE,1,1,1,1.0
+Valley,GPE,1,1,1,1.0
+Wee Waa,PERSON,1,1,1,1.0
+Carson City Rotary,FACILITY,1,1,1,1.0
+Sky Replay,PERSON,1,1,1,1.0
+Manifest,GPE,1,1,1,1.0
+moveBuddha,ORGANIZATION,1,1,1,1.0
+IAG,ORGANIZATION,1,1,1,1.0
+Laos,GPE,1,1,1,1.0
+Gang Covers Album,ORGANIZATION,1,1,0,1.0
+Run Scumbags Might Make Front License,PERSON,1,1,1,1.0
+And,GPE,1,1,1,1.0
+Hit,GPE,1,1,1,1.0
+Democratic Sen Schiff,ORGANIZATION,1,1,1,1.0
+Watermelon,GPE,1,1,1,1.0
+Windham,GPE,1,1,1,1.0
+IMF,ORGANIZATION,1,1,1,1.0
+Muscatine,PERSON,1,1,1,1.0
+Songs,PERSON,1,1,1,1.0
+Bahamas Wish Joel Plaskett Happy,PERSON,1,1,1,1.0
+Colour,GPE,1,1,1,1.0
+Sheepdogs,ORGANIZATION,1,1,1,1.0
+Chinas,GPE,1,1,1,1.0
+Pharmacy,GPE,1,1,1,1.0
+Las Vegas Sun News,PERSON,1,1,1,1.0
+Windsor,GPE,1,1,1,1.0
+Preston,PERSON,1,1,1,1.0
+Economy News,PERSON,1,1,1,1.0
+Apple,GPE,1,1,1,1.0
+OK,ORGANIZATION,1,1,1,1.0
+WW3,ORGANIZATION,1,1,1,1.0
+Yadgir,GPE,1,1,1,1.0
+Mango,GPE,1,1,1,1.0
+LA Wildfires,ORGANIZATION,1,1,1,1.0
+ADPD,ORGANIZATION,1,1,1,1.0
+Risk Natural Disaster Zones,PERSON,1,1,1,1.0
+Reveals Public Opinion,PERSON,1,1,1,1.0
+LLC,ORGANIZATION,1,1,1,1.0
+Diego Border Patrol,PERSON,1,1,1,1.0
+Edisto Beach,PERSON,1,1,1,1.0
+International Issues,ORGANIZATION,1,1,1,1.0
+Sewa,PERSON,1,1,1,1.0
+Univ,GPE,1,1,1,1.0
+Destroys Properties,ORGANIZATION,1,1,1,1.0
+Rainstorm,GPE,1,1,1,1.0
+Ashley,GPE,1,1,1,1.0
+Mysuru,PERSON,1,1,1,1.0
+Ends,ORGANIZATION,1,1,1,1.0
+Stillwater Mayor,PERSON,1,1,1,1.0
+Signs Natural Disaster Revolving Fund Bill,PERSON,1,1,1,1.0
+Petoskey,GPE,1,1,1,1.0
+Bulgarian,GPE,1,1,1,1.0
+Ribadu,PERSON,1,1,1,1.0
+AG600,ORGANIZATION,1,1,1,1.0
+Borneo Bulletin Online,PERSON,1,1,1,1.0
+PWD,ORGANIZATION,1,1,1,1.0
+Famous,GPE,1,1,1,1.0
+Chicago,GPE,1,1,1,1.0
+DEP,ORGANIZATION,1,1,1,1.0
+Savings Rate Dips,PERSON,1,1,1,1.0
+Households,ORGANIZATION,1,1,1,1.0
+Gukurahundi,GPE,1,1,1,1.0
+Ambassador,ORGANIZATION,1,1,1,1.0
+Earlier Predicted COVID,PERSON,1,1,1,1.0
+Ryo Tatsuki Predicts Massive Tsunami,PERSON,1,1,1,1.0
+Japenese,GPE,1,1,1,1.0
+REALTORS,ORGANIZATION,1,1,1,1.0
+Hurricane Helene,PERSON,1,1,1,1.0
+HaitiLibre,ORGANIZATION,1,1,1,1.0
+Haitian,GPE,1,1,1,1.0
+Grinston,GPE,1,1,1,1.0
+Universal,ORGANIZATION,1,1,1,1.0
+Comedy,ORGANIZATION,1,1,1,1.0
+Apatow,PERSON,1,1,1,1.0
+Judd,GPE,1,1,1,1.0
+Tiger Triumph,PERSON,1,1,1,1.0
+Masters,ORGANIZATION,1,1,1,1.0
+Greenwood,GPE,1,1,1,1.0
+National Disaster Medical System Pilot,ORGANIZATION,1,1,1,1.0
+Health Shreveport,PERSON,1,1,1,1.0
+LSU,ORGANIZATION,1,1,1,1.0
+Delta Flood,ORGANIZATION,1,1,1,1.0
+Faults APC,PERSON,1,1,1,1.0
+Someone,GPE,1,1,1,1.0
+Covington,GPE,1,1,1,1.0
+Rock Complex,FACILITY,1,1,1,1.0
+P Global Ratings Raises Italy Credit Rating,PERSON,1,1,1,1.0
+Caricris,GPE,1,1,1,1.0
+Sadio Camara,ORG,1,1,1,1.0
+Le Parti,ORG,1,1,1,1.0
+LP Paysages,ORG,1,1,1,1.0
+Christophe Aribert,ORG,1,1,1,1.0
+Yves Camdeborde,ORG,1,1,1,1.0
+Michel Sarran,ORG,1,1,1,1.0
+Mohamed Cheikh,ORG,1,1,1,1.0
+Les Conservateurs,ORG,1,1,1,1.0
+Philippe Etchbest,ORG,1,1,1,1.0
+Radio France,ORG,1,1,1,1.0
+People,PERSON,1,1,1,1.0
+Hotel,GPE,1,1,1,1.0
+Huntington,GPE,1,1,1,1.0
+Army Emergency,PERSON,1,1,1,1.0
+EKY,ORGANIZATION,1,1,1,1.0
+Golden Harvest,PERSON,1,1,1,1.0
+Augusta,PERSON,1,1,1,1.0
+Hyundai,PERSON,1,1,1,1.0
+Spirits Business,ORGANIZATION,1,1,1,1.0
+Trace,ORGANIZATION,1,1,1,1.0
+Buffalo,PERSON,1,1,1,1.0
+Apocalyptic,GPE,1,1,1,1.0
+Lewiston,PERSON,1,1,1,1.0
+Deadliest Earthquake,ORGANIZATION,1,1,1,1.0
+Rayne,GPE,1,1,1,1.0
+ShelterBox,ORGANIZATION,1,1,1,1.0
+National Guard,ORGANIZATION,1,1,1,1.0
+Texans,GPE,1,1,1,1.0
+BBB,ORGANIZATION,1,1,1,1.0
+Full,GPE,1,1,1,1.0
+Farooq,PERSON,1,1,1,1.0
+Judd Apatow,PERSON,1,1,1,1.0
+Bolivar Peninsula,PERSON,1,1,1,1.0
+Myanmar Quake About Trump,ORGANIZATION,1,1,0,1.0
+News Managed,ORGANIZATION,1,1,1,1.0
+Sky,PERSON,1,1,1,1.0
+Van Vleck,PERSON,1,1,1,1.0
+Foreign,ORGANIZATION,1,1,1,1.0
+Taiwanese,GPE,1,1,1,1.0
+Lanzarote,GPE,1,1,1,1.0
+Òran Mor,PERSON,1,1,1,1.0
+Volcanic Eruption,PERSON,1,1,1,1.0
+Pet Owners,ORGANIZATION,1,1,1,1.0
+Anchorage,PERSON,1,1,1,1.0
+Disaster Response,PERSON,1,1,1,1.0
+Boost Key Industries,PERSON,1,1,1,1.0
+Supervisors,GPE,1,1,1,1.0
+Armenia,GPE,1,1,1,1.0
+Bain,PERSON,1,1,1,1.0
+Buffalo Trace Distillery,ORGANIZATION,1,1,1,1.0
+BTC,ORGANIZATION,1,1,1,1.0
+Cable,PERSON,1,1,1,1.0
+Out Island,PERSON,1,1,1,1.0
+Oracle,ORGANIZATION,1,1,1,1.0
+Palau,GPE,1,1,1,1.0
+Franklin,GPE,1,1,1,1.0
+FDNY,ORGANIZATION,1,1,1,1.0
+Service,ORGANIZATION,1,1,1,1.0
+Mandalay,GPE,1,1,1,1.0
+Army Humanitarian,ORGANIZATION,1,1,1,1.0
+Intervene After Ramban Calamity,ORGANIZATION,1,1,1,1.0
+Abdullah Urges PM Modi,PERSON,1,1,1,1.0
+RD CONGO,ORG,1,1,1,1.0
+Southern California Edison,ORG,1,1,1,1.0
+Le Collectif,ORG,1,1,1,1.0
+Yohan Daligand,ORG,1,1,1,1.0
+Patrick Muyaya,ORG,1,1,1,1.0
+Depuis Abu Dhabi,ORG,1,1,1,1.0
+Brigitte Macron,ORG,1,1,1,1.0
+En Italie,ORG,1,1,1,1.0
+Cyclone Garance,ORG,1,1,1,1.0
+Convenience,GSP,1,1,1,1.0
+Buncombe,PERSON,1,1,1,1.0
+Times,PERSON,1,1,1,1.0
+NIST,ORGANIZATION,1,1,1,1.0
+Boulder,ORGANIZATION,1,1,1,1.0
+CBP One,ORGANIZATION,1,1,1,1.0
+Legal,GPE,1,1,1,1.0
+Hugo Roellinger,ORG,1,1,1,1.0
+Monsieur Wencai ZHANG,ORG,1,1,1,1.0
+Juan Arbelaez,ORG,1,1,1,1.0
+Matamba Lukasu,ORG,1,1,1,1.0
+La Casa,ORG,1,1,1,1.0
+Programme TV,ORG,1,1,1,1.0
+Ramzan Kadyrov,ORG,1,1,1,1.0
+Sky News,ORG,1,1,1,1.0
+Harry Potter,ORG,1,1,1,1.0
+Tom Hanks,ORG,1,1,1,1.0
+De Michelle Obama,ORG,1,1,1,1.0
+Foumakoye Zakari,ORG,1,1,1,1.0
+Les Soudanais,ORG,1,1,1,1.0
+Mary Celeste,ORG,1,1,1,1.0
+CONGO DEMOCRATIC News,ORG,1,1,1,1.0
+La RDC,ORG,1,1,1,1.0
+Les FSR,ORG,1,1,1,1.0
+Erwan Botrel,ORG,1,1,1,1.0
+Romain Barthe,ORG,1,1,1,1.0
+Paul Gauguin,ORG,1,1,1,1.0
+Le Quellec,ORG,1,1,1,1.0
+American Terror Doc,ORGANIZATION,1,1,0,1.0
+Doc Oklahoma City Bombing,PERSON,1,1,0,1.0
+Netflix Trailer,PERSON,1,1,1,1.0
+Österreich,PERSON,1,1,1,1.0
+Terrorwarnung,PERSON,1,1,1,1.0
+Bihar Dy CM,PERSON,1,1,1,1.0
+Biggest,GPE,1,1,1,1.0
+IAF,ORGANIZATION,1,1,1,1.0
+Mastermind,GPE,1,1,1,1.0
+Manoirs Ronald McDonaldMD Canada,ORG,1,1,1,1.0
+Daniele Rustioni,ORG,1,1,1,1.0
+Rise And Fall Of Tahawwur Rana,ORGANIZATION,1,1,1,1.0
+Kill,PERSON,1,1,1,1.0
+DZ Mafia,ORG,1,1,1,1.0
+Heston Blumenthal,ORG,1,1,1,1.0
+John,PERSON,1,1,1,1.0
+Rajasthan Dalit,PERSON,1,1,1,1.0
+Ram,GPE,1,1,1,1.0
+Indians,GPE,1,1,1,1.0
+Heal,GPE,1,1,1,1.0
+Oklahoma City Bombing,PERSON,1,1,1,1.0
+Punjab DGP Gaurav Yadav,PERSON,1,1,1,1.0
+Date,ORGANIZATION,1,1,1,1.0
+Oklahoma City,GPE,1,1,1,1.0
+Mamadi Doumbouya,ORG,1,1,1,1.0
+Patrice Collet,ORG,1,1,1,1.0
+Kakwa Ima,ORG,1,1,1,1.0
+Terrorist Involved,PERSON,1,1,1,1.0
+FBI Arrests Harpreet Singh,ORGANIZATION,1,1,1,1.0
+Interrogates Tahawwur Rana To Unravel Larger Conspiracy,ORGANIZATION,1,1,1,1.0
+RDX,ORGANIZATION,1,1,1,1.0
+Pak Foreign,PERSON,1,1,1,1.0
+Taufiq,PERSON,1,1,1,1.0
+Rajiv Shukla,PERSON,1,1,1,1.0
+Strict,GPE,1,1,1,1.0
+Scores Injured,PERSON,1,1,1,1.0
+Enugu,GPE,1,1,1,1.0
+Lands,GPE,1,1,1,1.0
+From US,PERSON,1,1,1,1.0
+PA,ORGANIZATION,1,1,1,1.0
+PLO,ORGANIZATION,1,1,1,1.0
+Likely,PERSON,1,1,1,1.0
+Noon,PERSON,1,1,1,1.0
+TIME Most Influential Leaders List,ORGANIZATION,1,1,1,1.0
+Bangladesh Yunus Feature,PERSON,1,1,1,1.0
+FIR,ORGANIZATION,1,1,1,1.0
+HC,ORGANIZATION,1,1,1,1.0
+Partap Singh Bajwa,PERSON,1,1,1,1.0
+OBC,ORGANIZATION,1,1,1,1.0
+Search,GPE,1,1,1,1.0
+SBCA,ORGANIZATION,1,1,1,1.0
+Paris,GPE,1,1,1,1.0
+Martin Luther King,PERSON,1,1,1,1.0
+Trump Election,PERSON,1,1,1,1.0
+Sikh Heritage Month,PERSON,1,1,1,1.0
+Chalmers,PERSON,1,1,1,1.0
+Terror Module Held,PERSON,1,1,1,1.0
+Lahore,GPE,1,1,1,1.0
+Attacks,GPE,1,1,1,1.0
+Digvijay Singh,ORGANIZATION,1,1,1,1.0
+Idiot,GPE,1,1,1,1.0
+Respond,PERSON,1,1,1,1.0
+Assam CM Himanta Biswa Sarma,PERSON,1,1,1,1.0
+Arab Israeli,PERSON,1,1,1,1.0
+Erdoğan,PERSON,1,1,1,1.0
+Shechem,GPE,1,1,1,1.0
+Mumbai Terror Attack Case,PERSON,1,1,1,1.0
+Appoints Special Public,ORGANIZATION,1,1,1,1.0
+LeT,ORGANIZATION,1,1,1,1.0
+Dubai,PERSON,1,1,1,1.0
+Renewal,PERSON,1,1,1,1.0
+UAV,ORGANIZATION,1,1,1,1.0
+Union Territory,ORGANIZATION,1,1,1,1.0
+Shri Amit Shah,PERSON,1,1,1,1.0
+Cooperation,GPE,1,1,1,1.0
+Taliban,PERSON,1,1,1,1.0
+Tahawwur Rana Goes Viral,PERSON,1,1,1,1.0
+Edan Alexander,PERSON,1,1,1,1.0
+Quran,GPE,1,1,1,1.0
+Probe Agency NIA,PERSON,1,1,1,1.0
+Mastermind Tahawwur,ORGANIZATION,1,1,1,1.0
+Fears Instability News24,PERSON,1,1,1,1.0
+Brink,ORGANIZATION,1,1,1,1.0
+TTP,ORGANIZATION,1,1,1,1.0
+BLA,ORGANIZATION,1,1,1,1.0
+Gangster Happy Passia Arrested,PERSON,1,1,0,1.0
+Babbar Khalsa,PERSON,1,1,1,1.0
+Fresh,GPE,1,1,1,1.0
+Pakistanis,ORGANIZATION,1,1,1,1.0
+Visa,PERSON,1,1,1,1.0
+Indus Water Treaty,PERSON,1,1,1,1.0
+Terror Attack Live,PERSON,1,1,1,1.0
+Nottingham,PERSON,1,1,1,1.0
+Sanjay Jha,PERSON,1,1,1,1.0
+Jagmeet,PERSON,1,1,1,1.0
+Issue,ORGANIZATION,1,1,1,1.0
+Jonathan Pedneault,PERSON,1,1,1,1.0
+Azam Swati,PERSON,1,1,1,1.0
+Arif Alvi,PERSON,1,1,1,1.0
+Austrian,GPE,1,1,1,1.0
+Manipur,PERSON,1,1,1,1.0
+Janivara,PERSON,1,1,1,1.0
+Ugrappa,GPE,1,1,1,1.0
+Opposition,ORGANIZATION,1,1,1,1.0
+Buhari Residence Hours,PERSON,1,1,1,1.0
+Hours Daily By,ORGANIZATION,1,1,1,1.0
+Mumbai Terror Attacks Mastermind Tahawwur Rana Being Interrogated,PERSON,1,1,1,1.0
+Secret Extradition Mission,ORGANIZATION,1,1,1,1.0
+Stakes,PERSON,1,1,1,1.0
+Operation Rana,PERSON,1,1,1,1.0
+BKI,ORGANIZATION,1,1,1,1.0
+Arrive,GPE,1,1,1,1.0
+Set,PERSON,1,1,1,1.0
+Explainer,GPE,1,1,1,1.0
+Terror Suspect Happy Passia Nabbed,PERSON,1,1,1,1.0
+Kapil Sibal,PERSON,1,1,1,1.0
+UPA,ORGANIZATION,1,1,1,1.0
+Mirwaiz Umar Farooq,PERSON,1,1,1,1.0
+Mehbooba Mufti,PERSON,1,1,1,1.0
+Says PM Shehbaz Sharif,PERSON,1,1,1,1.0
+Ready For Neutral Probe,ORGANIZATION,1,1,0,1.0
+Arabs,PERSON,1,1,1,1.0
+Israel Katz,GPE,1,1,1,1.0
+Goldy Dhillon,PERSON,1,1,1,1.0
+Eliminates Hezbollah,ORGANIZATION,1,1,1,1.0
+Aircraft,GPE,1,1,1,1.0
+Tahawwur Rana Tried,PERSON,1,1,1,1.0
+Torture Claim,PERSON,1,1,1,1.0
+David Headley Call,PERSON,1,1,1,1.0
+Terror Outfits,PERSON,1,1,1,1.0
+Will Help India Get Info,PERSON,1,1,1,1.0
+Than Just Optics,PERSON,1,1,1,1.0
+Vance,GPE,1,1,1,1.0
+Latin,PERSON,1,1,1,1.0
+Aleppo,PERSON,1,1,1,1.0
+YPG,ORGANIZATION,1,1,1,1.0
+Piyush Goyal,PERSON,1,1,1,1.0
+Kiev,PERSON,1,1,1,1.0
+FSB,ORGANIZATION,1,1,1,1.0
+Diplomatic,GPE,1,1,1,1.0
+Rajnath Singh,PERSON,1,1,1,1.0
+Terror Attack News,PERSON,1,1,1,1.0
+Terrorism,GPE,1,1,1,1.0
+Twisted Reimagining,PERSON,1,1,1,1.0
+Grisly,GPE,1,1,1,1.0
+White,FACILITY,1,1,1,1.0
+Snow,PERSON,1,1,1,1.0
+Trollenberg Terror,ORGANIZATION,1,1,1,1.0
+UNSC Strongly Condemn,ORGANIZATION,1,1,0,1.0
+Three Terrorists Demolished Overnight,PERSON,1,1,1,1.0
+Pahalgam Terror,ORGANIZATION,1,1,1,1.0
+Pratap Sarnaik,PERSON,1,1,1,1.0
+MoS,ORGANIZATION,1,1,1,1.0
+Revenge,PERSON,1,1,1,1.0
+US Marshals,ORGANIZATION,1,1,1,1.0
+Sri Ravishankar,ORGANIZATION,1,1,1,1.0
+Sri,PERSON,1,1,1,1.0
+Kishtwar,GPE,1,1,1,1.0
+JeM,ORGANIZATION,1,1,1,1.0
+Saifullah,PERSON,1,1,1,1.0
+Sitharaman,PERSON,1,1,1,1.0
+Karnataka CM Siddaramaiah,PERSON,1,1,1,1.0
+Pahalgham,PERSON,1,1,1,1.0
+Jabaliya,GPE,1,1,1,1.0
+Pahalgam Attack,PERSON,1,1,1,1.0
+Wont Spare,PERSON,1,1,1,1.0
+Heavy Heart Paid,PERSON,1,1,1,1.0
+Raina,ORGANIZATION,1,1,1,1.0
+Samay,PERSON,1,1,1,1.0
+Sandeep Unnikrishnan,PERSON,1,1,1,1.0
+Sandeep,PERSON,1,1,1,1.0
+Likens Asim Munir,PERSON,1,1,1,1.0
+State Sponsor Of Terrorism,ORGANIZATION,1,1,1,1.0
+Label,PERSON,1,1,1,1.0
+Sri Sri Ravishankar,PERSON,1,1,1,1.0
+Extradited,PERSON,1,1,1,1.0
+Mumbai Attacks,PERSON,1,1,1,1.0
+Horrors,ORGANIZATION,1,1,1,1.0
+Terror House,PERSON,1,1,1,1.0
+TERRORIST,ORGANIZATION,1,1,1,1.0
+NYT,ORGANIZATION,1,1,1,1.0
+Doda SSP,PERSON,1,1,1,1.0
+Leaders Condemn Pahalgam Terror,ORGANIZATION,1,1,1,1.0
+Italian,GPE,1,1,1,1.0
+David Headley,PERSON,1,1,1,1.0
+Mumbai Logistics,PERSON,1,1,1,1.0
+Confront Tahawwur Rana With Protected,ORGANIZATION,1,1,1,1.0
+La Jeune Femme,ORG,1,1,1,1.0
+Brigitte Bardot,ORG,1,1,1,1.0
+Pourquoi Robespierre,ORG,1,1,1,1.0
+Saddam Hussein,ORG,1,1,1,1.0
+Last Sky,ORG,1,1,1,1.0
+Alberto Lamelas,ORG,1,1,1,1.0
+Mary Shelley,ORG,1,1,1,1.0
+Bernard Minier,ORG,1,1,1,1.0
+John Carpenter,ORG,1,1,1,1.0
+Oct,GPE,1,1,1,1.0
+Jabalya,GPE,1,1,1,1.0
+MHA,ORGANIZATION,1,1,1,1.0
+Narendra Mann,PERSON,1,1,1,1.0
+Manchester Arena,PERSON,1,1,1,1.0
+Martyn,GPE,1,1,1,1.0
+Bin Laden,PERSON,1,1,1,1.0
+Borg,PERSON,1,1,1,1.0
+Alex,PERSON,1,1,1,1.0
+Stade Toulousain,ORG,1,1,1,1.0
+EN IMAGES,ORG,1,1,1,1.0
+World Press Photo,ORG,1,1,1,1.0
+Studio Tamani,ORG,1,1,1,1.0
+LES TITRES DU,ORG,1,1,1,1.0
+Thierry Wolton,ORG,1,1,1,1.0
+Phnom Penh,ORG,1,1,1,1.0
+Incarner Frantz Fanon,ORG,1,1,1,1.0
+Alexandre Bouyer,ORG,1,1,1,1.0
+Giuliano Da Empoli,ORG,1,1,1,1.0
+Yana Vagner,ORG,1,1,1,1.0
+Le Tunnel,ORG,1,1,1,1.0
+Fadel Afana,ORG,1,1,1,1.0
+De Rafah,ORG,1,1,1,1.0
+Colin Farrell,ORG,1,1,1,1.0
+Journal Midi,ORG,1,1,1,1.0
+Un Si Grand Soleil,ORG,1,1,1,1.0
+Alain Paraillous,ORG,1,1,1,1.0
+Leads APC,PERSON,1,1,1,1.0
+Ganduje,PERSON,1,1,1,1.0
+Bloc,GPE,1,1,1,1.0
+Trudeau,GPE,1,1,1,1.0
+K Annamalai,PERSON,1,1,1,1.0
+AIADMK,ORGANIZATION,1,1,1,1.0
+Nainar Nagendran,PERSON,1,1,1,1.0
+Partap Bajwa,PERSON,1,1,1,1.0
+Insecure,GPE,1,1,1,1.0
+Mysuru News,PERSON,1,1,1,1.0
+Trojan,GPE,1,1,1,1.0
+Bernard Grech,PERSON,1,1,1,1.0
+Denver,PERSON,1,1,1,1.0
+Disabled,GPE,1,1,1,1.0
+Middle,GPE,1,1,1,1.0
+Toki,PERSON,1,1,1,1.0
+Waqf Law Protest,PERSON,1,1,1,1.0
+Of Nod For May,ORGANIZATION,1,1,1,1.0
+Army Denial,PERSON,1,1,1,1.0
+AIMPLB Plea,ORGANIZATION,1,1,1,1.0
+Calcutta,GPE,1,1,1,1.0
+Ross,PERSON,1,1,1,1.0
+IPAS,ORGANIZATION,1,1,1,1.0
+Enrico Macias,ORG,1,1,1,1.0
+Dominic Ongwen,ORG,1,1,1,1.0
+Dani Alves,ORG,1,1,1,1.0
+Au Palais Garnier,ORG,1,1,1,1.0
+Taoufik Jebali,ORG,1,1,1,1.0
+Cheruiyot,ORGANIZATION,1,1,1,1.0
+Wiper,PERSON,1,1,1,1.0
+Shameful,GPE,1,1,1,1.0
+Hockey Game,PERSON,1,1,1,1.0
+Scrums,PERSON,1,1,1,1.0
+LILLEY,GPE,1,1,1,1.0
+Hakeem Jeffries Isnt Stepping,PERSON,1,1,1,1.0
+Yell Leader,PERSON,1,1,1,1.0
+Mahayuti,PERSON,1,1,1,1.0
+Shinde,PERSON,1,1,1,1.0
+Kumari Ananthan,PERSON,1,1,1,1.0
+Wall St,PERSON,1,1,1,1.0
+Vashi,GPE,1,1,1,1.0
+Burns Govt Order,PERSON,1,1,1,1.0
+MNS Stages Protest Against Hindi Imposition,ORGANIZATION,1,1,1,1.0
+Hands Off Protest,PERSON,1,1,0,1.0
+Massacre,PERSON,1,1,1,1.0
+Melbourne,GPE,1,1,1,1.0
+Activists,PERSON,1,1,1,1.0
+Tear Gas,PERSON,1,1,1,1.0
+ASHA,ORGANIZATION,1,1,1,1.0
+Kerala,PERSON,1,1,1,1.0
+Bhopal,GPE,1,1,1,1.0
+Faisal Javed,PERSON,1,1,1,1.0
+UT,ORGANIZATION,1,1,1,1.0
+Collin,GPE,1,1,1,1.0
+Pasoans,ORGANIZATION,1,1,1,1.0
+Rickshaw,GPE,1,1,1,1.0
+NPF Cautions Against Ill,ORGANIZATION,1,1,1,1.0
+Concord,GSP,1,1,1,1.0
+Protest Tesla Showroom,PERSON,1,1,1,1.0
+Kalonzo,PERSON,1,1,1,1.0
+Frederick,ORGANIZATION,1,1,1,1.0
+Mastung,PERSON,1,1,1,1.0
+Shivamogga,PERSON,1,1,1,1.0
+Kuykendall Stadium,FACILITY,1,1,1,1.0
+Frisco,GPE,1,1,1,1.0
+Flathead,GPE,1,1,1,1.0
+Of Pahalgam,ORGANIZATION,1,1,1,1.0
+Markets Shut Down,PERSON,1,1,1,1.0
+Peaceful Protesters,ORGANIZATION,1,1,1,1.0
+Back Movement Coordinator,PERSON,1,1,1,1.0
+Security Agents Arrest Take,ORGANIZATION,1,1,1,1.0
+Balearic Island,ORGANIZATION,1,1,1,1.0
+Majorca,GPE,1,1,1,1.0
+Besigye,GPE,1,1,1,1.0
+First Time,PERSON,1,1,1,1.0
+Kashmir Valley Observes Shutdown,PERSON,1,1,1,1.0
+MNS Injection Morcha Forces,ORGANIZATION,1,1,0,1.0
+Labour,PERSON,1,1,1,1.0
+Traders Association,ORGANIZATION,1,1,1,1.0
+Naval,PERSON,1,1,1,1.0
+TERFs,ORGANIZATION,1,1,1,1.0
+Deployment,ORGANIZATION,1,1,1,1.0
+Alerts Officers,PERSON,1,1,1,1.0
+Luas,PERSON,1,1,1,1.0
+LIVE,ORGANIZATION,1,1,1,1.0
+Of Locations For Surveillance,ORGANIZATION,1,1,1,1.0
+List Dozens,PERSON,1,1,1,1.0
+Protest Outside ED,PERSON,1,1,1,1.0
+Shaheed,ORGANIZATION,1,1,1,1.0
+Abbasi,PERSON,1,1,1,1.0
+Dharwad,GPE,1,1,1,1.0
+Canary Islands,PERSON,1,1,1,1.0
+Protesters Clash,ORGANIZATION,1,1,1,1.0
+Emergency Rule Protest,PERSON,1,1,1,1.0
+CP Approval,ORGANIZATION,1,1,1,1.0
+Constitutional,ORGANIZATION,1,1,1,1.0
+Senior,ORGANIZATION,1,1,1,1.0
+DMK,ORGANIZATION,1,1,1,1.0
+Fadnavis,GPE,1,1,1,1.0
+Bishnoi Link,PERSON,1,1,1,1.0
+Cops Find,PERSON,1,1,1,1.0
+Arrested,GPE,1,1,1,1.0
+Blast,PERSON,1,1,1,1.0
+Peter Dutton,PERSON,1,1,1,1.0
+Back Movement Tackles Delta,PERSON,1,1,1,1.0
+Muslim Association,PERSON,1,1,1,1.0
+DW,ORGANIZATION,1,1,1,1.0
+Confirmation,ORGANIZATION,1,1,1,1.0
+Bajrang Dal,PERSON,1,1,1,1.0
+Deliberate Attempt,ORGANIZATION,1,1,1,1.0
+Timed,GPE,1,1,1,1.0
+Ill,PERSON,1,1,1,1.0
+Shelve,ORGANIZATION,1,1,1,1.0
+ED,ORGANIZATION,1,1,1,1.0
+ECI Protest Case,ORGANIZATION,1,1,1,1.0
+Court Summons,ORGANIZATION,1,1,1,1.0
+Matatiele,GPE,1,1,1,1.0
+GBV Protest,ORGANIZATION,1,1,1,1.0
+Answers Over Unlawful,ORGANIZATION,1,1,1,1.0
+Kakinada,GPE,1,1,1,1.0
+Tension,GPE,1,1,1,1.0
+JFJ,ORGANIZATION,1,1,1,1.0
+Bournemouth,GPE,1,1,1,1.0
+Port Harcourt,GPE,1,1,1,1.0
+Sister,PERSON,1,1,1,1.0
+Kidnap Pregnant Wife,PERSON,1,1,1,1.0
+Kill Edo Resident,PERSON,1,1,1,1.0
+Of Emergency Rule,ORGANIZATION,1,1,1,1.0
+Aide Reacts,PERSON,1,1,1,1.0
+Bannon,ORGANIZATION,1,1,1,1.0
+COLUMN,GPE,1,1,1,1.0
+EC,ORGANIZATION,1,1,1,1.0
+Trinamool MPs,PERSON,1,1,1,1.0
+City Hall,FACILITY,1,1,1,1.0
+PM Modi With Their Blood,ORGANIZATION,1,1,1,1.0
+Indoreans,GPE,1,1,1,1.0
+Candle March Taken Out,PERSON,1,1,1,1.0
+Bhopal Announces Bandh,PERSON,1,1,0,1.0
+Garfield,GPE,1,1,1,1.0
+Northern Nigeria,GPE,1,1,1,1.0
+myRepublica,ORGANIZATION,1,1,1,1.0
+Tinkune,GPE,1,1,1,1.0
+Morale,GPE,1,1,1,1.0
+Weapons,PERSON,1,1,1,1.0
+Elon Musk US,PERSON,1,1,1,1.0
+Back Movement Announces Nationwide Protest Against Tinubu Emergency Rule,PERSON,1,1,0,1.0
+Take,GPE,1,1,1,1.0
+Johns Town Center,PERSON,1,1,1,1.0
+Cay,ORGANIZATION,1,1,1,1.0
+Tega,PERSON,1,1,1,1.0
+Dropkick Murphys,PERSON,1,1,1,1.0
+Concerns,ORGANIZATION,1,1,1,1.0
+Cancel Rally,PERSON,1,1,1,1.0
+School Attempt,PERSON,1,1,1,1.0
+University Students Protest,ORGANIZATION,1,1,1,1.0
+Hebrew,PERSON,1,1,1,1.0
+Clock Tower,PERSON,1,1,1,1.0
+Plateau,GPE,1,1,1,1.0
+Utomi,ORGANIZATION,1,1,1,1.0
+Pat,PERSON,1,1,1,1.0
+Garbarino Patchogue,PERSON,1,1,1,1.0
+Mobile No,PERSON,1,1,0,1.0
+Dismissing Builder Defamation Case,ORGANIZATION,1,1,1,1.0
+Demonstrate,GPE,1,1,1,1.0
+Supreme Court Upholds Homeowner,ORGANIZATION,1,1,1,1.0
+Home,GPE,1,1,1,1.0
+Northland,GPE,1,1,1,1.0
+Huntersville,GPE,1,1,1,1.0
+Anadolu Ajansı,PERSON,1,1,1,1.0
+Belgian,GPE,1,1,1,1.0
+Latest News Articles,PERSON,1,1,1,1.0
+Times Partner,PERSON,1,1,1,1.0
+Yale,ORGANIZATION,1,1,1,1.0
+Petrol,GPE,1,1,1,1.0
+VeShanduko Son Critically Injured,ORGANIZATION,1,1,1,1.0
+Madzibaba,PERSON,1,1,1,1.0
+ASR,ORGANIZATION,1,1,1,1.0
+My Feet,PERSON,1,1,1,1.0
+Candlelight,GPE,1,1,1,1.0
+Indus River Canals,PERSON,1,1,1,1.0
+UNM,ORGANIZATION,1,1,1,1.0
+Rakesh,PERSON,1,1,1,1.0
+Tawi,ORGANIZATION,1,1,1,1.0
+Bhangar,GPE,1,1,1,1.0
+Nine,GPE,1,1,1,1.0
+Oyo,PERSON,1,1,1,1.0
+Back Movement,PERSON,1,1,1,1.0
+Shakeel,PERSON,1,1,1,1.0
+Lagos APC,PERSON,1,1,1,1.0
+Again,GPE,1,1,1,1.0
+Assistant Municipal,ORGANIZATION,1,1,1,1.0
+Ward Office,PERSON,1,1,1,1.0
+East,GPE,1,1,1,1.0
+Municipal Mazdoor Union Protests Outside BMC K,PERSON,1,1,1,1.0
+Parle Jain Temple Demolition,ORGANIZATION,1,1,1,1.0
+Vile,PERSON,1,1,1,1.0
+Yale University,ORGANIZATION,1,1,1,1.0
+Rangpur,GPE,1,1,1,1.0
+Daily Sundial,PERSON,1,1,1,1.0
+Flood Downtown,PERSON,1,1,1,1.0
+Planned,PERSON,1,1,1,1.0
+Alert,PERSON,1,1,1,1.0
+Gvir,GPE,1,1,1,1.0
+Ben,GPE,1,1,1,1.0
+Reverse,PERSON,1,1,1,1.0
+Thoothukudi,GPE,1,1,1,1.0
+Longmont,GPE,1,1,1,1.0
+Community,ORGANIZATION,1,1,1,1.0
+Rhode Island,GPE,1,1,1,1.0
+Nazmi,ORGANIZATION,1,1,1,1.0
+Nik,PERSON,1,1,1,1.0
+College News,ORGANIZATION,1,1,1,1.0
+Campus,PERSON,1,1,1,1.0
+Against Israel Gaza,PERSON,1,1,1,1.0
+Solidarity Protests,ORGANIZATION,1,1,1,1.0
+Nadu Thowheed Jamath,ORGANIZATION,1,1,1,1.0
+Reddy,ORGANIZATION,1,1,1,1.0
+Kishan,PERSON,1,1,1,1.0
+AIIMS,ORGANIZATION,1,1,1,1.0
+PGIMER,ORGANIZATION,1,1,1,1.0
+Abusive Response,PERSON,1,1,1,1.0
+Argentina,GPE,1,1,1,1.0
+Columbia University,ORGANIZATION,1,1,1,1.0
+Students Warn FG,PERSON,1,1,1,1.0
+Myung,PERSON,1,1,1,1.0
+Golden Coral,PERSON,1,1,1,1.0
+Gallery,GPE,1,1,1,1.0
+Hindus,PERSON,1,1,1,1.0
+Saskatchewan MLA,PERSON,1,1,1,1.0
+CBC,ORGANIZATION,1,1,1,1.0
+Debates Commission,PERSON,1,1,1,1.0
+Bhabesh Chandra Roy,PERSON,1,1,1,1.0
+LoP,ORGANIZATION,1,1,1,1.0
+Tripura,PERSON,1,1,1,1.0
+Dhananjay Munde,PERSON,1,1,1,1.0
+Telecom Tariff Or Face Protest,ORGANIZATION,1,1,1,1.0
+TER Belfort,ORG,1,1,1,1.0
+Le Syntras,ORG,1,1,1,1.0
+Florent Rakotoarisoa,ORG,1,1,1,1.0
+La Correspondante,ORG,1,1,1,1.0
+Adelheid Duvanel,ORG,1,1,1,1.0
+RT France,ORG,1,1,1,1.0
+Xenia Fedorova,ORG,1,1,1,1.0
+Maud Royer,ORG,1,1,1,1.0
+CM Reddy,ORGANIZATION,1,1,1,1.0
+Waqf Act Protest,ORGANIZATION,1,1,1,1.0
+Stone,PERSON,1,1,1,1.0
+Bengal Tension,PERSON,1,1,1,1.0
+World News,ORGANIZATION,1,1,1,1.0
+Abhinandan,GPE,1,1,1,1.0
+Hostages,ORGANIZATION,1,1,1,1.0
+Movement Demands Nigerian,ORGANIZATION,1,1,1,1.0
+Best Retail,ORGANIZATION,1,1,1,1.0
+Le Cnopt,ORG,1,1,1,1.0
+En Chine,ORG,1,1,1,1.0
+Le Floch,ORG,1,1,1,1.0
+Joan Baez,ORG,1,1,1,1.0
+Maurice Ulrich,ORG,1,1,1,1.0
+Pussy Riot,ORG,1,1,1,1.0
+Au Groenland,ORG,1,1,1,1.0
+Des Sahraouis,ORG,1,1,1,1.0
+Tesla Takedown,ORG,1,1,1,1.0
+De Lausanne,ORG,1,1,1,1.0
+Amadou Tall,ORG,1,1,1,1.0
+Rockn Causse,ORG,1,1,1,1.0
+Lactrice Bette Midler,ORG,1,1,1,1.0
+Bette Midler,ORG,1,1,1,1.0
+Ici Azur,ORG,1,1,1,1.0
+Annual Courageous Kids Contest,PERSON,1,1,1,1.0
+App,PERSON,1,1,1,1.0
+Richland County Schools Recognized,PERSON,1,1,1,1.0
+Forces,ORGANIZATION,1,1,1,1.0
+Doug Ford,PERSON,1,1,1,1.0
+Volta,ORGANIZATION,1,1,1,1.0
+Mulcair,PERSON,1,1,1,1.0
+Jalandhar,GPE,1,1,1,1.0
+DGP,ORGANIZATION,1,1,1,1.0
+SNP,ORGANIZATION,1,1,1,1.0
+Reform,PERSON,1,1,1,1.0
+Farage,PERSON,1,1,1,1.0
+Nigel,PERSON,1,1,1,1.0
+Jim Molyneaux,PERSON,1,1,1,1.0
+Gold Award,ORGANIZATION,1,1,1,1.0
+ASU,ORGANIZATION,1,1,1,1.0
+Taraba,GPE,1,1,1,1.0
+Troops,GPE,1,1,1,1.0
+UNOH,ORGANIZATION,1,1,1,1.0
+Military Spouse Friendly School,PERSON,1,1,1,1.0
+Military,PERSON,1,1,1,1.0
+GCSC,ORGANIZATION,1,1,1,1.0
+Morocco,PERSON,1,1,1,1.0
+For Migrant Ops,ORGANIZATION,1,1,1,1.0
+Three States,GPE,1,1,1,1.0
+Seize Land,PERSON,1,1,1,1.0
+Will Korea,PERSON,1,1,1,1.0
+Column,PERSON,1,1,1,1.0
+Delaware News,ORGANIZATION,1,1,1,1.0
+Schools Earn Delaware Purple Star Recognition,PERSON,1,1,1,1.0
+Ghana Air Force,ORGANIZATION,1,1,1,1.0
+North Carolina Has,PERSON,1,1,1,1.0
+Trans Medical Care Again,PERSON,1,1,0,1.0
+Pentagon Forced,PERSON,1,1,1,1.0
+DMZ,ORGANIZATION,1,1,1,1.0
+Andrei Martyanov,PERSON,1,1,1,1.0
+Says Wont Accept US,ORGANIZATION,1,1,1,1.0
+Panama,PERSON,1,1,1,1.0
+Industry,ORGANIZATION,1,1,1,1.0
+Army Act,ORGANIZATION,1,1,1,1.0
+Springs,ORGANIZATION,1,1,1,1.0
+Egypt,PERSON,1,1,1,1.0
+Prabowo Subianto,PERSON,1,1,1,1.0
+Quiet Militarization,PERSON,1,1,1,1.0
+Indonesia,GPE,1,1,1,1.0
+Hassan Rizvi,PERSON,1,1,1,1.0
+Prabowo,ORGANIZATION,1,1,1,1.0
+Oxford English,PERSON,1,1,1,1.0
+Huthis,PERSON,1,1,1,1.0
+UUP,ORGANIZATION,1,1,1,1.0
+Belsen,GPE,1,1,1,1.0
+Bergen,GPE,1,1,1,1.0
+Pawan Khera,PERSON,1,1,1,1.0
+Brown University,ORGANIZATION,1,1,1,1.0
+CC,GPE,1,1,1,1.0
+Infosys,GPE,1,1,1,1.0
+Sanjay Raut PM Modi,PERSON,1,1,1,1.0
+Must Come,PERSON,1,1,1,1.0
+Woke Politics,PERSON,1,1,0,1.0
+Readiness,ORGANIZATION,1,1,1,1.0
+Rand,ORGANIZATION,1,1,1,1.0
+SANDF,ORGANIZATION,1,1,1,1.0
+Military Lethality,PERSON,1,1,1,1.0
+Uniform,ORGANIZATION,1,1,1,1.0
+JAG Stand For In The Military,ORGANIZATION,1,1,1,1.0
+Houthis,ORGANIZATION,1,1,1,1.0
+National Defense University,ORGANIZATION,1,1,1,1.0
+Im,GPE,1,1,1,1.0
+Hilarious,GPE,1,1,1,1.0
+US Admiral,ORGANIZATION,1,1,1,1.0
+Woke,PERSON,1,1,1,1.0
+Desert,PERSON,1,1,1,1.0
+Completes New,ORGANIZATION,1,1,1,1.0
+Public Land Along U,ORGANIZATION,1,1,1,1.0
+Profit,GPE,1,1,1,1.0
+National Non,ORGANIZATION,1,1,1,1.0
+Food Waste,PERSON,1,1,1,1.0
+Military Housing Community Recognized,PERSON,1,1,1,1.0
+Liberty,PERSON,1,1,1,1.0
+Trump Has Extravagant,PERSON,1,1,1,1.0
+Korea Calls US B,PERSON,1,1,1,1.0
+INDRA,ORGANIZATION,1,1,1,1.0
+Spanish,GPE,1,1,1,1.0
+Oman,GPE,1,1,1,1.0
+Jonathan Moyo,PERSON,1,1,1,1.0
+Chinono,GPE,1,1,1,1.0
+Martial,PERSON,1,1,1,1.0
+Patterson Faces Court,PERSON,1,1,1,1.0
+US Accelerates Hemispheric,ORGANIZATION,1,1,0,1.0
+Southern Border,LOCATION,1,1,1,1.0
+Kryvyi,GPE,1,1,1,1.0
+Footage,GPE,1,1,1,1.0
+Supreme,GPE,1,1,1,1.0
+Casualties,PERSON,1,1,1,1.0
+Coup,GPE,1,1,1,1.0
+Defense,GPE,1,1,1,1.0
+Philippine,GPE,1,1,1,1.0
+Ukraine Armed Forces,PERSON,1,1,1,1.0
+Nasirov,GPE,1,1,1,1.0
+India News,ORGANIZATION,1,1,1,1.0
+Answers Is,ORGANIZATION,1,1,1,1.0
+Neutrality,GPE,1,1,1,1.0
+Ammo Trading Work,PERSON,1,1,1,1.0
+Military Base,PERSON,1,1,1,1.0
+Troops Repel Boko Haram Attack,PERSON,1,1,1,1.0
+Main,GPE,1,1,1,1.0
+Peace,GPE,1,1,1,1.0
+Summary,PERSON,1,1,1,1.0
+Black Sea,PERSON,1,1,1,1.0
+Awsat,PERSON,1,1,1,1.0
+Asharq Al,PERSON,1,1,1,1.0
+Joint Drill,PERSON,1,1,1,1.0
+Yemen,GPE,1,1,1,1.0
+Zimbabwean,GPE,1,1,1,1.0
+Rev,PERSON,1,1,1,1.0
+Interaction,ORGANIZATION,1,1,1,1.0
+Visit Brown University,PERSON,1,1,1,1.0
+Leader Rahul Gandhi,PERSON,1,1,1,1.0
+Justin Trudeau,PERSON,1,1,1,1.0
+Junta,GPE,1,1,1,1.0
+Hand,GPE,1,1,1,1.0
+Rebels Prepare,PERSON,1,1,1,1.0
+Bench,PERSON,1,1,1,1.0
+Amasiri,PERSON,1,1,1,1.0
+Ebonyi,GPE,1,1,1,1.0
+ARMY,ORGANIZATION,1,1,1,1.0
+BTS,ORGANIZATION,1,1,1,1.0
+Does,PERSON,1,1,1,1.0
+Antoine Wardini,ORG,1,1,1,1.0
+Grand Nord,ORG,1,1,1,1.0
+USS Harry Truman,ORG,1,1,1,1.0
+Bassirou Diomaye Faye,ORG,1,1,1,1.0
+Ben Gourion,ORG,1,1,1,1.0
+Colonel Melingui Nkolo Pacifique,ORG,1,1,1,1.0
+Exercice African Lion,ORG,1,1,1,1.0
+Justice Militaire,ORG,1,1,1,1.0
+Le CEMGA,ORG,1,1,1,1.0
+Fabien Dunia,ORG,1,1,1,1.0
+Guy Kabongo,ORG,1,1,1,1.0
+La Maison Blanche,ORG,1,1,1,1.0
+Theo Francken,ORG,1,1,1,1.0
+Base,GPE,1,1,1,1.0
+Military Withdraws,PERSON,1,1,1,1.0
+Indonesian,GPE,1,1,1,1.0
+Operation,PERSON,1,1,1,1.0
+Ned Ryun,PERSON,1,1,1,1.0
+Fight Back,PERSON,1,1,1,1.0
+Administrative,ORGANIZATION,1,1,1,1.0
+Island,GPE,1,1,1,1.0
+Paria,GPE,1,1,1,1.0
+SEA,ORGANIZATION,1,1,1,1.0
+PNM,ORGANIZATION,1,1,1,1.0
+Infinite,ORGANIZATION,1,1,1,1.0
+Jeremie,PERSON,1,1,1,1.0
+Ravina Shamdasani,ORG,1,1,1,1.0
+Olivier Kleitz,ORG,1,1,1,1.0
+Le Hezbollah,ORG,1,1,1,1.0
+Djoulem Lakhdar,ORG,1,1,1,1.0
+Manlio Dinucci,ORG,1,1,1,1.0
+La MONUSCO,ORG,1,1,1,1.0
+Tribhuvan Sahkari University,PERSON,1,1,1,1.0
+Announcement,ORGANIZATION,1,1,1,1.0
+IFFCO,GPE,1,1,1,1.0
+Docks Clinic,PERSON,1,1,1,1.0
+Clinic,PERSON,1,1,1,1.0
+Western Docks,LOCATION,1,1,1,1.0
+Spire,GPE,1,1,1,1.0
+WCC,ORGANIZATION,1,1,1,1.0
+Church,GPE,1,1,1,1.0
+Driver Side Mirror And Left,ORGANIZATION,1,1,1,1.0
+Punched My Car,PERSON,1,1,1,1.0
+Someone Either,PERSON,1,1,1,1.0
+Tesla Model,PERSON,1,1,1,1.0
+VAT,ORGANIZATION,1,1,1,1.0
+Yacht,GPE,1,1,1,1.0
+Harvard,PERSON,1,1,1,1.0
+Caucus Leadership,PERSON,1,1,1,1.0
+Maritime Sector,PERSON,1,1,1,1.0
+Strengthen Maritime Sector,PERSON,1,1,1,1.0
+Maritime Awareness Walkathon,PERSON,1,1,1,1.0
+Sarbabanda Sonowal,PERSON,1,1,1,1.0
+Significance,GPE,1,1,1,1.0
+History,PERSON,1,1,1,1.0
+Mubarick Masawudu,PERSON,1,1,1,1.0
+LORS DUNE,ORG,1,1,1,1.0
+Mbaye Dione,ORG,1,1,1,1.0
+Houston Landing,ORGANIZATION,1,1,1,1.0
+Chronicle,PERSON,1,1,1,1.0
+Bhatia,PERSON,1,1,1,1.0
+UPDATE,ORGANIZATION,1,1,1,1.0
+Trump Protest,PERSON,1,1,1,1.0
+Bilkul Online,PERSON,1,1,1,1.0
+Press Release,ORGANIZATION,1,1,1,1.0
+West Sea,LOCATION,1,1,1,1.0
+Latest Odisha News,PERSON,1,1,1,1.0
+ProgressIndia Strengthens Maritime Future,ORGANIZATION,1,1,1,1.0
+Kemi Badenoch,PERSON,1,1,1,1.0
+Wes Streeting,PERSON,1,1,1,1.0
+Abure,PERSON,1,1,1,1.0
+Afam Ogene,PERSON,1,1,1,1.0
+Gujarat Polls,PERSON,1,1,1,1.0
+Raids AAP Leader Durgesh Pathak Residence,PERSON,1,1,1,1.0
+Nishikant Dubey,PERSON,1,1,1,1.0
+COMMENT,ORGANIZATION,1,1,1,1.0
+FULL,ORGANIZATION,1,1,1,1.0
+AAP Gujarat,ORGANIZATION,1,1,1,1.0
+LP,ORGANIZATION,1,1,1,1.0
+Appointment,ORGANIZATION,1,1,1,1.0
+Multinational Crew,ORGANIZATION,1,1,1,1.0
+Naval Diplomacy Charts New Course,PERSON,1,1,1,1.0
+High Seas,ORGANIZATION,1,1,1,1.0
+Announces Availability,PERSON,1,1,1,1.0
+Maritime Partners,PERSON,1,1,1,1.0
+Navios,PERSON,1,1,1,1.0
+Lines Selects Inmarsat,PERSON,1,1,1,1.0
+Dialogue,PERSON,1,1,1,1.0
+IMU Campuses,ORGANIZATION,1,1,1,1.0
+Sarbananda Sonowal Inaugurates Rs,PERSON,1,1,1,1.0
+Reclaim Maritime Dominance,PERSON,1,1,1,1.0
+Bid,GPE,1,1,1,1.0
+African Coastal States,ORGANIZATION,1,1,1,1.0
+MARPOL Annex,ORGANIZATION,1,1,1,1.0
+Maritime Cooperation Dialogue Between China,PERSON,1,1,1,1.0
+Fifth Round,FACILITY,1,1,1,1.0
+Defence Research,ORGANIZATION,1,1,1,1.0
+Trump Restores America Maritime Dominance,PERSON,1,1,1,1.0
+Donald J,PERSON,1,1,1,1.0
+Maritime Industry,PERSON,1,1,1,1.0
+Blow,GPE,1,1,1,1.0
+Coast Guard Shutters,PERSON,1,1,1,1.0
+SIFAX Group,ORGANIZATION,1,1,1,1.0
+Navy Western Command Deepens Rapport,ORGANIZATION,1,1,1,1.0
+Targets Global Leadership,PERSON,1,1,1,1.0
+NSML,ORGANIZATION,1,1,1,1.0
+Inaugural,GPE,1,1,1,1.0
+Maritime Administrator,PERSON,1,1,1,1.0
+Sadler,PERSON,1,1,1,1.0
+Heritage Congratulates,ORGANIZATION,1,1,1,1.0
+Abiodun Komolafe,PERSON,1,1,1,1.0
+Mobereola,PERSON,1,1,1,1.0
+Amid China Maritime Dominance,PERSON,1,1,1,1.0
+Comprehensive Maritime Doctrine,ORGANIZATION,1,1,1,1.0
+Kuala Miri,PERSON,1,1,1,1.0
+MMEA,ORGANIZATION,1,1,1,1.0
+Singh Dallewal,PERSON,1,1,1,1.0
+Jagjit,PERSON,1,1,1,1.0
+Rebel,PERSON,1,1,1,1.0
+Blanchet,PERSON,1,1,1,1.0
+BJP Annamalai,ORGANIZATION,1,1,1,1.0
+Nadu,GPE,1,1,1,1.0
+Schumer,PERSON,1,1,1,1.0
+Pelosi,GPE,1,1,1,1.0
+Bernie Against Biden,PERSON,1,1,1,1.0
+AOC,ORGANIZATION,1,1,1,1.0
+McCarthy,PERSON,1,1,1,1.0
+Announces European Entity,PERSON,1,1,1,1.0
+Perak,GPE,1,1,1,1.0
+Cambodian,GPE,1,1,1,1.0
+Status,PERSON,1,1,1,1.0
+Hospital Beds Market,ORGANIZATION,1,1,1,1.0
+Giants,ORGANIZATION,1,1,1,1.0
+Travel Market Next,PERSON,1,1,1,1.0
+Silver,PERSON,1,1,1,1.0
+Senyar,ORGANIZATION,1,1,1,1.0
+Signs Talent Development Mou,PERSON,1,1,1,1.0
+ABS,ORGANIZATION,1,1,1,1.0
+Ship,GPE,1,1,1,1.0
+Helicopter,ORGANIZATION,1,1,1,1.0
+Guide,PERSON,1,1,1,1.0
+Kikilias,GPE,1,1,1,1.0
+Order To Restore America Maritime Dominance,PERSON,1,1,1,1.0
+Executive,GPE,1,1,1,1.0
+Black Sea Maritime Forum,PERSON,1,1,1,1.0
+Partners Gather,ORGANIZATION,1,1,1,1.0
+CMF Red Sea Task Force,ORGANIZATION,1,1,1,1.0
+Navy Assumes Command,ORGANIZATION,1,1,1,1.0
+Egyptian,GPE,1,1,1,1.0
+SCS,ORGANIZATION,1,1,1,1.0
+America Maritime Dominance,ORGANIZATION,1,1,1,1.0
+Issues Executive Order,PERSON,1,1,1,1.0
+Scarborough,GPE,1,1,1,1.0
+PH,ORGANIZATION,1,1,1,1.0
+Naval Exercise,PERSON,1,1,1,1.0
+Safer Waterways,PERSON,1,1,1,1.0
+Efforts,PERSON,1,1,1,1.0
+Bayelsa,PERSON,1,1,1,1.0
+IMU,ORGANIZATION,1,1,1,1.0
+Sonowal,PERSON,1,1,1,1.0
+Sea Admiral Monrovia Vessel,ORGANIZATION,1,1,0,1.0
+LiMA Commissioner Graces Grand,ORGANIZATION,1,1,1,1.0
+Advance Strategic Maritime,PERSON,1,1,1,1.0
+Lighe Engages South Korea Make Group,PERSON,1,1,1,1.0
+GLOBALink,ORGANIZATION,1,1,1,1.0
+Bridges,GPE,1,1,1,1.0
+West Philippine Sea,LOCATION,1,1,1,1.0
+Phuket,PERSON,1,1,1,1.0
+Industry Associations Launch,ORGANIZATION,1,1,1,1.0
+South China Sea,LOCATION,1,1,1,1.0
+Tincan,GPE,1,1,1,1.0
+Apapa,GPE,1,1,1,1.0
+Combat Shadow Fleet Risks,ORGANIZATION,1,1,0,1.0
+Expands Maritime Reporting,PERSON,1,1,1,1.0
+Western,GPE,1,1,1,1.0
+BRP Gabriela Silang,ORGANIZATION,1,1,1,1.0
+Trouble,GPE,1,1,1,1.0
+Quebec,GPE,1,1,1,1.0
+Nadu Assembly,PERSON,1,1,1,1.0
+Debate,ORGANIZATION,1,1,1,1.0
+Limited Speaking Time,PERSON,1,1,1,1.0
+Jagjit Singh Dallewal,PERSON,1,1,1,1.0
+Allow,GPE,1,1,1,1.0
+Private Equity Firms,ORGANIZATION,1,1,1,1.0
+Asset Managers,PERSON,1,1,1,1.0
+Deliver Quality,PERSON,1,1,1,1.0
+Enhance Value Creation,PERSON,1,1,1,1.0
+Exceptional Client Service,ORGANIZATION,1,1,1,1.0
+Tackle Seafarer,PERSON,1,1,1,1.0
+Report Outlines Roadmap,PERSON,1,1,1,1.0
+ARRIVES,ORGANIZATION,1,1,1,1.0
+SUNAYNA,ORGANIZATION,1,1,1,1.0
+Sagar Mission,PERSON,1,1,1,1.0
+Mozambique,GPE,1,1,1,1.0
+Ankara,GPE,1,1,1,1.0
+Medusa,PERSON,1,1,1,1.0
+USV,ORGANIZATION,1,1,1,1.0
+Ultra Maritime,PERSON,1,1,1,1.0
+Marine,ORGANIZATION,1,1,1,1.0
+Ghostworks,PERSON,1,1,1,1.0
+Port Qasim,ORGANIZATION,1,1,1,1.0
+Visakhapatnam,ORGANIZATION,1,1,1,1.0
+UH,ORGANIZATION,1,1,1,1.0
+Folk Maritime,PERSON,1,1,1,1.0
+PIF,ORGANIZATION,1,1,1,1.0
+DOGE,ORGANIZATION,1,1,1,1.0
+Rooftop Brewing,PERSON,1,1,1,1.0
+Bandari Maritime Academy,ORGANIZATION,1,1,1,1.0
+Avikus,PERSON,1,1,1,1.0
+ReCAAP,ORGANIZATION,1,1,1,1.0
+Chafekar,PERSON,1,1,1,1.0
+Trump Executive Order,PERSON,1,1,1,1.0
+P34,PERSON,1,1,1,1.0
+Enugu Trade Fair,FACILITY,1,1,1,1.0
+Woos Investors,ORGANIZATION,1,1,1,1.0
+Showcases Maritime Opportunities,PERSON,1,1,1,1.0
+Communications Adviser,ORGANIZATION,1,1,1,1.0
+Appoints Bolaji Akinola Media,ORGANIZATION,1,1,1,1.0
+Kochi,ORGANIZATION,1,1,1,1.0
+IOS Sagar,ORGANIZATION,1,1,1,1.0
+INS Kesari,ORGANIZATION,1,1,1,1.0
+INS Chennai,ORGANIZATION,1,1,1,1.0
+Pepper Locke,PERSON,1,1,1,1.0
+US Maritime Industry,ORGANIZATION,1,1,1,1.0
+Candlelight Is Back,PERSON,1,1,1,1.0
+Night,GPE,1,1,1,1.0
+Singh Flags Off,PERSON,1,1,1,1.0
+Disputed Islands Area,ORGANIZATION,1,1,1,1.0
+Modern Cruise Ships,PERSON,1,1,1,1.0
+Vital Role Of Maritime Pilots,ORGANIZATION,1,1,1,1.0
+Submits Plans On Maritime Use,ORGANIZATION,1,1,1,1.0
+Malau,ORGANIZATION,1,1,1,1.0
+Forward Operating Base,PERSON,1,1,1,1.0
+RFMF,ORGANIZATION,1,1,1,1.0
+Tabbutt Prioritizes Workforce,PERSON,1,1,1,1.0
+Saltchuk,PERSON,1,1,1,1.0
+Very Small Aperture,ORGANIZATION,1,1,1,1.0
+VSAT,ORGANIZATION,1,1,1,1.0
+Ocean Ship Sagar,LOCATION,1,1,1,1.0
+Joins Consortium Working,PERSON,1,1,1,1.0
+Illegal Oil Sites Destroyed,PERSON,1,1,1,1.0
+Merchant Marine,ORGANIZATION,1,1,1,1.0
+Ground,GPE,1,1,1,1.0
+Tanzanian,GPE,1,1,1,1.0
+Strategic Leadership Appointments,PERSON,1,1,1,1.0
+KPMG Announces,ORGANIZATION,1,1,1,1.0
+KPMG,ORGANIZATION,1,1,1,1.0
+Relevant,GPE,1,1,1,1.0
+Annamalai,PERSON,1,1,1,1.0
+Which Poilievre,PERSON,1,1,1,1.0
+Front,GPE,1,1,1,1.0
+Navy Chief Admiral Dinesh Tripathi,PERSON,1,1,1,1.0
+South Pacific,LOCATION,1,1,1,1.0
+Hickam,PERSON,1,1,1,1.0
+Pearl Harbor,PERSON,1,1,1,1.0
+USS Shiloh,ORGANIZATION,1,1,1,1.0
+NETS,ORGANIZATION,1,1,1,1.0
+ARRESTS,ORGANIZATION,1,1,1,1.0
+OP,ORGANIZATION,1,1,1,1.0
+BERNAMA,ORGANIZATION,1,1,1,1.0
+Skipper,PERSON,1,1,1,1.0
+Coromandel,GPE,1,1,1,1.0
+Boat,GPE,1,1,1,1.0
+Sea Bill,PERSON,1,1,1,1.0
+Goods,GPE,1,1,1,1.0
+Dehradun,GPE,1,1,1,1.0
+Best Merchant Navy,ORGANIZATION,1,1,1,1.0
+Shiptracks,PERSON,1,1,1,1.0
+Immaculate,ORGANIZATION,1,1,1,1.0
+Global Seafarer Minimum Wage Set,PERSON,1,1,1,1.0
+New Agreement,GPE,1,1,1,1.0
+Ondo,GPE,1,1,1,1.0
+Mina Pre,PERSON,1,1,1,1.0
+Doha Port,ORGANIZATION,1,1,1,1.0
+Commence,ORGANIZATION,1,1,1,1.0
+Oyetola Orders,PERSON,1,1,1,1.0
+Historic Move,GPE,1,1,1,1.0
+Lines Selects Inmarsat Nexuswave,PERSON,1,1,1,1.0
+INDIA,ORGANIZATION,1,1,1,1.0
+AFRICA,ORGANIZATION,1,1,1,1.0
+Austin High,PERSON,1,1,1,1.0
+Chevron,GPE,1,1,1,1.0
+Take Part,PERSON,1,1,1,1.0
+Navika Sagar Parikrama II,PERSON,1,1,1,1.0
+Cape Town,PERSON,1,1,1,1.0
+Tarini,PERSON,1,1,1,1.0
+INSV,ORGANIZATION,1,1,1,1.0
+FINES,ORGANIZATION,1,1,1,1.0
+Old Doha Port,ORGANIZATION,1,1,1,1.0
+Maritime Spatial Plan,ORGANIZATION,1,1,1,1.0
+Five Suezmax Vessels,PERSON,1,1,1,1.0
+Bulk,ORGANIZATION,1,1,1,1.0
+Mluru,GPE,1,1,1,1.0
+Conduct,ORGANIZATION,1,1,1,1.0
+AUKUS,ORGANIZATION,1,1,1,1.0
+Navigate Compliance With Confidence,ORGANIZATION,1,1,1,1.0
+Austin High School,PERSON,1,1,1,1.0
+Chevron Shipping,PERSON,1,1,1,1.0
+Maritime Use,PERSON,1,1,1,1.0
+Submits Plans,ORGANIZATION,1,1,1,1.0
+WW1,ORGANIZATION,1,1,1,1.0
+Marine Systems,PERSON,1,1,1,1.0
+SRT,ORGANIZATION,1,1,1,1.0
+Boat Show,PERSON,1,1,1,1.0
+Beyond,PERSON,1,1,1,1.0
+CIBC Innovation Basking,ORGANIZATION,1,1,1,1.0
+Communications,ORGANIZATION,1,1,1,1.0
+Sedna,PERSON,1,1,1,1.0
+Yellow Sea,PERSON,1,1,1,1.0
+Aden,GPE,1,1,1,1.0
+New Zealand Navy,GPE,1,1,1,1.0
+Passex,PERSON,1,1,1,1.0
+INS Tarkash,ORGANIZATION,1,1,1,1.0
+IMO Tightens Climate Compliance Rules,ORGANIZATION,1,1,1,1.0
+LNG Leads,ORGANIZATION,1,1,1,1.0
+Latest Market News,PERSON,1,1,1,1.0
+FuelEU,ORGANIZATION,1,1,1,1.0
+Finco,GPE,1,1,1,1.0
+Smuggled,ORGANIZATION,1,1,1,1.0
+Navy Intercepts,ORGANIZATION,1,1,1,1.0
+Aux Sables,ORG,1,1,1,1.0
+BIO UV,ORG,1,1,1,1.0
+La Marine Nationale,ORG,1,1,1,1.0
+La Rochelle,ORG,1,1,1,1.0
+Samuel Hnepeune,ORG,1,1,1,1.0
+Avec MSC,ORG,1,1,1,1.0
+Oum Labouir,ORG,1,1,1,1.0
+Marc Desbois,ORG,1,1,1,1.0
+Arvin Boolell,ORG,1,1,1,1.0
+Semaine Maritime Afrique,ORG,1,1,1,1.0
+Mistral AI,ORG,1,1,1,1.0
+FNSEA Nouvelle,ORG,1,1,1,1.0
+Michel Denisot,ORG,1,1,1,1.0
+Le Grand Entretien,ORG,1,1,1,1.0
+Mount Whitney,ORG,1,1,1,1.0
+Laeticia Hallyday,ORG,1,1,1,1.0
+Anthropic,GPE,1,1,1,1.0
+Education Holding Co,PERSON,1,1,1,1.0
+Lixiang,PERSON,1,1,1,1.0
+Sharp Rebuttal,PERSON,1,1,1,1.0
+Of Centre,ORGANIZATION,1,1,1,1.0
+Gandhi Article Critical,PERSON,1,1,1,1.0
+Her Speak,PERSON,1,1,1,1.0
+Linda McMahon,PERSON,1,1,1,1.0
+DG Rajiv Servansingh,ORG,1,1,1,1.0
+Maritime Group,ORG,1,1,1,1.0
+Le Togo,ORG,1,1,1,1.0
+Alain Rousset,ORG,1,1,1,1.0
+Maritime Ltd,ORG,1,1,1,1.0
+Kareena Neisus,ORG,1,1,1,1.0
+Afrique Australe,ORG,1,1,1,1.0
+La Troupe,ORG,1,1,1,1.0

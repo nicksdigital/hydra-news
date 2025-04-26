@@ -60,3 +60,103 @@
 2025-04-26 23:37:31,173 [INFO] Creating source distribution plots
 2025-04-26 23:37:32,118 [INFO] Saved source distribution plots to analysis_gdelt_advanced10
 2025-04-26 23:37:32,118 [INFO] Creating theme correlation heatmap
+2025-04-26 23:37:32,751 [INFO] Saved theme correlation heatmap to analysis_gdelt_advanced10/theme_correlation.png
+2025-04-26 23:37:32,751 [INFO] Creating topic word clouds
+2025-04-26 23:37:32,752 [WARNING] wordcloud package not available. Skipping word cloud generation.
+2025-04-26 23:37:32,752 [INFO] Creating time series plot
+2025-04-26 23:37:33,001 [INFO] Saved time series plot to analysis_gdelt_advanced10/time_series.png
+2025-04-26 23:37:33,001 [INFO] Created all visualizations in analysis_gdelt_advanced10
+2025-04-26 23:37:33,001 [INFO] Generating report...
+2025-04-26 23:37:33,001 [INFO] Generating report
+2025-04-26 23:37:33,004 [INFO] Generated report at analysis_gdelt_advanced10/report.md
+2025-04-26 23:37:33,004 [INFO] Generating JSON summary...
+2025-04-26 23:37:33,004 [INFO] Generating JSON summary
+2025-04-26 23:37:33,005 [INFO] Generated JSON summary at analysis_gdelt_advanced10/analysis_summary.json
+2025-04-26 23:37:33,005 [INFO] Generating CSV exports...
+2025-04-26 23:37:33,005 [INFO] Generating CSV exports
+2025-04-26 23:37:33,007 [INFO] Exported theme counts to analysis_gdelt_advanced10/exports/theme_counts.csv
+2025-04-26 23:37:33,008 [INFO] Exported date counts to analysis_gdelt_advanced10/exports/date_counts.csv
+2025-04-26 23:37:33,058 [INFO] Exported topic assignments to analysis_gdelt_advanced10/exports/topic_assignments.csv
+2025-04-26 23:37:33,059 [INFO] Generated all CSV exports in analysis_gdelt_advanced10/exports
+2025-04-26 23:37:33,059 [INFO] Extracting entities...
+2025-04-26 23:37:33,059 [INFO] Extracting entities from DataFrame
+2025-04-26 23:37:42,790 [INFO] Extracted 9117 entities from 6816 articles
+2025-04-26 23:37:42,792 [INFO] Calculating entity statistics
+2025-04-26 23:37:42,805 [INFO] Calculated statistics for 4853 entities
+2025-04-26 23:37:42,854 [INFO] Saved 9117 entity mentions to analysis_gdelt_advanced10/entities.csv
+2025-04-26 23:37:42,866 [INFO] Saved statistics for 4853 entities to analysis_gdelt_advanced10/entity_stats.csv
+2025-04-26 23:37:42,867 [INFO] Calculating trust scores for entities...
+2025-04-26 23:37:42,867 [INFO] Calculating trust scores for entities
+2025-04-26 23:37:42,873 [INFO] Calculated trust scores for 4853 entities
+2025-04-26 23:37:42,893 [INFO] Saved trust scores for 4853 entities to analysis_gdelt_advanced10/entity_trust.csv
+2025-04-26 23:37:42,893 [INFO] Calculating trust scores for articles...
+2025-04-26 23:37:42,893 [INFO] Calculating trust scores for articles
+2025-04-26 23:37:42,907 [INFO] Calculated trust scores for 6816 articles
+2025-04-26 23:37:42,966 [INFO] Saved trust scores for 6816 articles to analysis_gdelt_advanced10/article_trust.csv
+2025-04-26 23:37:42,966 [INFO] Storing data in database...
+2025-04-26 23:37:42,967 [INFO] Connected to database: analysis_gdelt_advanced10/gdelt_news.db
+2025-04-26 23:37:42,977 [INFO] Created database tables
+2025-04-26 23:37:43,475 [INFO] Updated statistics for 1210 sources
+2025-04-26 23:37:43,481 [INFO] Updated statistics for 20 themes
+2025-04-26 23:37:43,488 [INFO] Stored 20 articles in the database
+2025-04-26 23:37:43,491 [INFO] Stored 20 articles in database
+2025-04-26 23:37:44,440 [INFO] Stored 4853 entities in the database
+2025-04-26 23:37:44,444 [INFO] Stored 4853 entities in database
+2025-04-26 23:37:44,455 [INFO] Generated database summary
+2025-04-26 23:37:44,455 [INFO] Saved database summary to analysis_gdelt_advanced10/db_summary.json
+2025-04-26 23:37:44,456 [INFO] Generating entity timelines...
+2025-04-26 23:37:44,456 [INFO] Generating timeline for entity: Russia
+2025-04-26 23:37:44,456 [INFO] Generating timeline for entity: Russia
+2025-04-26 23:37:44,458 [INFO] Found 17 articles mentioning 'Russia'
+2025-04-26 23:37:44,663 [INFO] Created timeline visualization for 'Russia' at analysis_gdelt_advanced10/timelines/Russia_timeline.png
+2025-04-26 23:37:44,663 [INFO] Generated timeline for 'Russia' saved to analysis_gdelt_advanced10/timelines
+2025-04-26 23:37:44,663 [INFO] Generated timeline report for 'Russia' saved to analysis_gdelt_advanced10/timelines/Russia_report.md
+2025-04-26 23:37:44,664 [INFO] Generating event timeline for entity: Russia
+2025-04-26 23:37:44,666 [INFO] Found 17 articles mentioning 'Russia'
+2025-04-26 23:37:44,671 [INFO] Identified 1 significant events for 'Russia'
+2025-04-26 23:37:44,876 [INFO] Created event visualization for 'Russia' at analysis_gdelt_advanced10/timelines/Russia_events.png
+2025-04-26 23:37:44,876 [INFO] Generated event timeline for 'Russia' saved to analysis_gdelt_advanced10/timelines/Russia_events.json
+2025-04-26 23:37:44,876 [INFO] Generated event timeline report for 'Russia' saved to analysis_gdelt_advanced10/timelines/Russia_events_report.md
+2025-04-26 23:37:44,876 [INFO] Generating timeline for entity: Ukraine
+2025-04-26 23:37:44,876 [INFO] Generating timeline for entity: Ukraine
+2025-04-26 23:37:44,878 [INFO] Found 8 articles mentioning 'Ukraine'
+2025-04-26 23:37:45,056 [INFO] Created timeline visualization for 'Ukraine' at analysis_gdelt_advanced10/timelines/Ukraine_timeline.png
+2025-04-26 23:37:45,057 [INFO] Generated timeline for 'Ukraine' saved to analysis_gdelt_advanced10/timelines
+2025-04-26 23:37:45,057 [INFO] Generated timeline report for 'Ukraine' saved to analysis_gdelt_advanced10/timelines/Ukraine_report.md
+2025-04-26 23:37:45,057 [INFO] Generating event timeline for entity: Ukraine
+2025-04-26 23:37:45,059 [INFO] Found 8 articles mentioning 'Ukraine'
+2025-04-26 23:37:45,065 [INFO] Identified 2 significant events for 'Ukraine'
+2025-04-26 23:37:45,264 [INFO] Created event visualization for 'Ukraine' at analysis_gdelt_advanced10/timelines/Ukraine_events.png
+2025-04-26 23:37:45,265 [INFO] Generated event timeline for 'Ukraine' saved to analysis_gdelt_advanced10/timelines/Ukraine_events.json
+2025-04-26 23:37:45,265 [INFO] Generated event timeline report for 'Ukraine' saved to analysis_gdelt_advanced10/timelines/Ukraine_events_report.md
+2025-04-26 23:37:45,265 [INFO] Generating comparison timeline for top entities
+2025-04-26 23:37:45,265 [INFO] Generating comparison timeline for entities: Russia, Ukraine
+2025-04-26 23:37:45,271 [INFO] Found 17 articles mentioning 'Russia'
+2025-04-26 23:37:45,276 [INFO] Found 8 articles mentioning 'Ukraine'
+2025-04-26 23:37:45,492 [INFO] Created comparison visualization for ['Russia', 'Ukraine'] at analysis_gdelt_advanced10/timelines/entity_comparison_Russia_Ukraine.png
+2025-04-26 23:37:45,495 [INFO] Generated comparison timeline saved to analysis_gdelt_advanced10/timelines/entity_comparison_Russia_Ukraine.json
+2025-04-26 23:37:45,496 [INFO] Generated timelines for 3 entities
+2025-04-26 23:37:45,496 [INFO] Generated timeline summary at analysis_gdelt_advanced10/timelines/timeline_summary.md
+2025-04-26 23:37:45,496 [INFO] Generating sentiment analysis by event...
+2025-04-26 23:37:46,770 [INFO] Loaded sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-26 23:37:46,771 [INFO] Analyzing sentiment for entity 'Russia' over time
+2025-04-26 23:37:46,773 [INFO] Found 7 articles for entity 'Russia'
+2025-04-26 23:38:06,677 [INFO] Created sentiment timeline visualization for 'Russia' at analysis_gdelt_advanced10/timelines/Russia_sentiment_timeline.png
+2025-04-26 23:38:06,678 [INFO] Saved sentiment timeline results to analysis_gdelt_advanced10/timelines/Russia_sentiment_timeline.json
+2025-04-26 23:38:06,890 [INFO] Created sentiment timeline visualization for 'Russia' at analysis_gdelt_advanced10/timelines/Russia_sentiment_timeline.png
+2025-04-26 23:38:06,890 [INFO] Generated event sentiment report for 'Russia' saved to analysis_gdelt_advanced10/timelines/Russia_event_sentiment_report.md
+2025-04-26 23:38:06,891 [INFO] Analyzing sentiment for entity 'Ukraine' over time
+2025-04-26 23:38:06,893 [INFO] Found 3 articles for entity 'Ukraine'
+2025-04-26 23:38:15,394 [INFO] Created sentiment timeline visualization for 'Ukraine' at analysis_gdelt_advanced10/timelines/Ukraine_sentiment_timeline.png
+2025-04-26 23:38:15,395 [INFO] Saved sentiment timeline results to analysis_gdelt_advanced10/timelines/Ukraine_sentiment_timeline.json
+2025-04-26 23:38:15,612 [INFO] Created sentiment timeline visualization for 'Ukraine' at analysis_gdelt_advanced10/timelines/Ukraine_sentiment_timeline.png
+2025-04-26 23:38:15,613 [INFO] Generated event sentiment report for 'Ukraine' saved to analysis_gdelt_advanced10/timelines/Ukraine_event_sentiment_report.md
+2025-04-26 23:38:15,834 [INFO] Created sentiment comparison visualization at analysis_gdelt_advanced10/timelines/entity_sentiment_comparison_Russia_Ukraine.png
+2025-04-26 23:38:16,045 [INFO] Created sentiment heatmap at analysis_gdelt_advanced10/timelines/entity_sentiment_heatmap_Russia_Ukraine.png
+2025-04-26 23:38:16,062 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-26 23:38:16,067 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-26 23:38:16,261 [INFO] Created sentiment distribution visualization at analysis_gdelt_advanced10/timelines/entity_sentiment_distribution_Russia_Ukraine.png
+2025-04-26 23:38:16,261 [INFO] Generated sentiment comparison report saved to analysis_gdelt_advanced10/timelines/sentiment_comparison_report_Russia_Ukraine.md
+2025-04-26 23:38:16,261 [INFO] Generated advanced timeline summary saved to analysis_gdelt_advanced10/timelines/advanced_timeline_summary.md
+2025-04-26 23:38:16,262 [INFO] Closed database connection
+2025-04-26 23:38:16,262 [INFO] Analysis complete! Results saved to analysis_gdelt_advanced10
