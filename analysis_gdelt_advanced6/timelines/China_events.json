@@ -1,0 +1,399 @@
+{
+  "entity": "China",
+  "total_events": 7,
+  "events": [
+    {
+      "start_date": "2025-03-26",
+      "end_date": "2025-04-01",
+      "peak_date": "2025-03-29",
+      "article_count": 8,
+      "peak_count": 3,
+      "themes": {
+        "SCIENCE": 5,
+        "MARITIME": 1,
+        "NATURAL_DISASTER": 1
+      },
+      "sources": {
+        "china.org.cn": 4,
+        "thediplomat.com": 1,
+        "9news.com.au": 1,
+        "news24online.com": 1,
+        "theplosblog.plos.org": 1
+      },
+      "top_articles": [
+        {
+          "title": "China releases top 10 scientific advances of 2024 - China . org . cn",
+          "url": "http://www.china.org.cn/china/2025-03/28/content_117792218.htm",
+          "date": "2025-03-28",
+          "source": "china.org.cn",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China releases top 10 scientific advances of 2024 - China . org . cn",
+          "url": "http://www.china.org.cn/china/2025-03/28/content_117792218.htm",
+          "date": "2025-03-28",
+          "source": "china.org.cn",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China sci - fi industry total revenue hits 108 . 96B yuan in 2024",
+          "url": "http://www.china.org.cn/arts/2025-03/29/content_117794344.htm",
+          "date": "2025-03-29",
+          "source": "china.org.cn",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China Science Fiction Convention 2025 opens in Beijing with futuristic spectacle",
+          "url": "http://www.china.org.cn/arts/2025-03/29/content_117794783.htm",
+          "date": "2025-03-29",
+          "source": "china.org.cn",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "PLOS announces new partnership in China - The Official PLOS Blog",
+          "url": "https://theplosblog.plos.org/2025/04/plos-announces-new-partnership-in-china/",
+          "date": "2025-04-01",
+          "source": "theplosblog.plos.org",
+          "trust_score": 0.8500000000000001
+        }
+      ]
+    },
+    {
+      "start_date": "2025-03-30",
+      "end_date": "2025-04-05",
+      "peak_date": "2025-04-02",
+      "article_count": 10,
+      "peak_count": 3,
+      "themes": {
+        "SCIENCE": 4,
+        "MARITIME": 2,
+        "TERROR": 1
+      },
+      "sources": {
+        "9news.com.au": 1,
+        "news24online.com": 1,
+        "theplosblog.plos.org": 1,
+        "portal.sina.com.hk": 1,
+        "manilatimes.net": 1
+      },
+      "top_articles": [
+        {
+          "title": "China Science Fiction Convention Concludes with Insightful  Sci - Fi+  Forums Exploring Future Frontiers",
+          "url": "https://portal.sina.com.hk/finance/finance-prnewswire/prnasia/2025/04/02/1153543/china-science-fiction-convention-concludes-with-insightful-sci-fi-forums-exploring-future-frontiers/",
+          "date": "2025-04-02",
+          "source": "portal.sina.com.hk",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "PLOS announces new partnership in China - The Official PLOS Blog",
+          "url": "https://theplosblog.plos.org/2025/04/plos-announces-new-partnership-in-china/",
+          "date": "2025-04-01",
+          "source": "theplosblog.plos.org",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China Science Fiction Convention Concludes with Insightful  Sci - Fi+  Forums Exploring Future Frontiers",
+          "url": "https://www.manilatimes.net/2025/04/02/tmt-newswire/pr-newswire/china-science-fiction-convention-concludes-with-insightful-sci-fi-forums-exploring-future-frontiers/2084827",
+          "date": "2025-04-02",
+          "source": "manilatimes.net",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China museum to screen international science movies",
+          "url": "http://www.china.org.cn/arts/2025-04/02/content_117801241.htm",
+          "date": "2025-04-02",
+          "source": "china.org.cn",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "Madhya Pradesh HC Issues Notice On Student Plea Who Completed MBBS From China , Against Increase Of Internship Period To Three Years",
+          "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-hearing-plea-against-mbbs-students-internship-period-extension-288531",
+          "date": "2025-04-05",
+          "source": "livelaw.in",
+          "trust_score": 0.8000000000000002
+        }
+      ]
+    },
+    {
+      "start_date": "2025-04-01",
+      "end_date": "2025-04-07",
+      "peak_date": "2025-04-04",
+      "article_count": 9,
+      "peak_count": 2,
+      "themes": {
+        "SCIENCE": 4,
+        "MARITIME": 2,
+        "TERROR": 1
+      },
+      "sources": {
+        "news24online.com": 1,
+        "theplosblog.plos.org": 1,
+        "portal.sina.com.hk": 1,
+        "manilatimes.net": 1,
+        "china.org.cn": 1
+      },
+      "top_articles": [
+        {
+          "title": "PLOS announces new partnership in China - The Official PLOS Blog",
+          "url": "https://theplosblog.plos.org/2025/04/plos-announces-new-partnership-in-china/",
+          "date": "2025-04-01",
+          "source": "theplosblog.plos.org",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China Science Fiction Convention Concludes with Insightful  Sci - Fi+  Forums Exploring Future Frontiers",
+          "url": "https://www.manilatimes.net/2025/04/02/tmt-newswire/pr-newswire/china-science-fiction-convention-concludes-with-insightful-sci-fi-forums-exploring-future-frontiers/2084827",
+          "date": "2025-04-02",
+          "source": "manilatimes.net",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China Science Fiction Convention Concludes with Insightful  Sci - Fi+  Forums Exploring Future Frontiers",
+          "url": "https://portal.sina.com.hk/finance/finance-prnewswire/prnasia/2025/04/02/1153543/china-science-fiction-convention-concludes-with-insightful-sci-fi-forums-exploring-future-frontiers/",
+          "date": "2025-04-02",
+          "source": "portal.sina.com.hk",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China museum to screen international science movies",
+          "url": "http://www.china.org.cn/arts/2025-04/02/content_117801241.htm",
+          "date": "2025-04-02",
+          "source": "china.org.cn",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "Madhya Pradesh HC Issues Notice On Student Plea Who Completed MBBS From China , Against Increase Of Internship Period To Three Years",
+          "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-hearing-plea-against-mbbs-students-internship-period-extension-288531",
+          "date": "2025-04-05",
+          "source": "livelaw.in",
+          "trust_score": 0.8000000000000002
+        }
+      ]
+    },
+    {
+      "start_date": "2025-04-07",
+      "end_date": "2025-04-13",
+      "peak_date": "2025-04-10",
+      "article_count": 11,
+      "peak_count": 2,
+      "themes": {
+        "MEDIA_SOCIAL": 4,
+        "MEDICAL": 2,
+        "MILITARY": 2
+      },
+      "sources": {
+        "yahoo.com": 2,
+        "china.org.cn": 1,
+        "tribune.com.pk": 1,
+        "moneycontrol.com": 1,
+        "economictimes.indiatimes.com": 1
+      },
+      "top_articles": [
+        {
+          "title": "Tip - off service launched to combat medical insurance fraud - China . org . cn",
+          "url": "http://www.china.org.cn/china/2025-04/08/content_117810774.htm",
+          "date": "2025-04-08",
+          "source": "china.org.cn",
+          "trust_score": 0.8000000000000002
+        },
+        {
+          "title": "Indian medical device makers prepare for US push , sensing opportunity from China tariffs",
+          "url": "https://www.moneycontrol.com/news/business/companies/indian-medical-device-makers-prepare-for-us-push-sensing-opportunity-from-china-tariffs-12991910.html",
+          "date": "2025-04-11",
+          "source": "moneycontrol.com",
+          "trust_score": 0.8000000000000002
+        },
+        {
+          "title": "Zelensky claims China - linked soldiers captured in Donetsk battle",
+          "url": "https://tribune.com.pk/story/2538808/zelensky-claims-china-linked-soldiers-captured-in-donetsk-battle",
+          "date": "2025-04-09",
+          "source": "tribune.com.pk",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Trump sics DOGE on the Navy but ignores China port fees",
+          "url": "https://www.yahoo.com/news/trump-sics-doge-navy-ignores-151023507.html",
+          "date": "2025-04-10",
+          "source": "yahoo.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "UK sends military chief to China for first visit in 10 years",
+          "url": "https://www.yahoo.com/news/uk-sends-military-chief-china-184335305.html",
+          "date": "2025-04-10",
+          "source": "yahoo.com",
+          "trust_score": 0.7500000000000001
+        }
+      ]
+    },
+    {
+      "start_date": "2025-04-13",
+      "end_date": "2025-04-19",
+      "peak_date": "2025-04-16",
+      "article_count": 15,
+      "peak_count": 6,
+      "themes": {
+        "MEDIA_SOCIAL": 4,
+        "MARITIME": 4,
+        "SECURITY_SERVICES": 3
+      },
+      "sources": {
+        "politico.eu": 2,
+        "cnbc.com": 1,
+        "nbcmiami.com": 1,
+        "nbcphiladelphia.com": 1,
+        "dawn.com": 1
+      },
+      "top_articles": [
+        {
+          "title": "Trump decimation of US science and workforce funding is a gift to China",
+          "url": "https://thehill.com/opinion/white-house/5250224-trump-attacks-american-science/",
+          "date": "2025-04-16",
+          "source": "thehill.com",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China urges Trump to correct mistakes and heed  rational voice on reciprocal tariffs \u2013 NBC Los Angeles",
+          "url": "https://www.nbclosangeles.com/news/business/money-report/china-urges-trump-to-correct-mistakes-and-heed-rational-voices-on-reciprocal-tariffs/3677738/",
+          "date": "2025-04-13",
+          "source": "nbclosangeles.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "China urges Trump to heed  rational voice on reciprocal tariffs",
+          "url": "https://www.cnbc.com/2025/04/13/china-urges-trump-to-heed-rational-voices-on-reciprocal-tariffs.html",
+          "date": "2025-04-13",
+          "source": "cnbc.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "China urges Trump to correct mistakes and heed  rational voice on reciprocal tariffs \u2013 NBC10 Philadelphia",
+          "url": "https://www.nbcphiladelphia.com/news/business/money-report/china-urges-trump-to-correct-mistakes-and-heed-rational-voices-on-reciprocal-tariffs/4159416/",
+          "date": "2025-04-13",
+          "source": "nbcphiladelphia.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "China keen on Port Qasim desalination project - Newspaper",
+          "url": "https://www.dawn.com/news/1904542/china-keen-on-port-qasim-desalination-project",
+          "date": "2025-04-16",
+          "source": "dawn.com",
+          "trust_score": 0.7500000000000001
+        }
+      ]
+    },
+    {
+      "start_date": "2025-04-15",
+      "end_date": "2025-04-21",
+      "peak_date": "2025-04-18",
+      "article_count": 14,
+      "peak_count": 3,
+      "themes": {
+        "MARITIME": 6,
+        "SECURITY_SERVICES": 3,
+        "AFFECT": 2
+      },
+      "sources": {
+        "globalsecurity.org": 2,
+        "politico.eu": 2,
+        "radio.gov.pk": 1,
+        "dawn.com": 1,
+        "brecorder.com": 1
+      },
+      "top_articles": [
+        {
+          "title": "Trump decimation of US science and workforce funding is a gift to China",
+          "url": "https://thehill.com/opinion/white-house/5250224-trump-attacks-american-science/",
+          "date": "2025-04-16",
+          "source": "thehill.com",
+          "trust_score": 0.8500000000000001
+        },
+        {
+          "title": "China keen on Port Qasim desalination project - Newspaper",
+          "url": "https://www.dawn.com/news/1904542/china-keen-on-port-qasim-desalination-project",
+          "date": "2025-04-16",
+          "source": "dawn.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Pakistan , China vow to deepen bilateral ties in maritime domain",
+          "url": "https://www.radio.gov.pk/16-04-2025/pakistan-china-vow-to-deepen-bilateral-ties-in-maritime-domain",
+          "date": "2025-04-16",
+          "source": "radio.gov.pk",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Pakistan , China agree to strengthen coordination , cooperation on maritime policies - Pakistan",
+          "url": "https://www.brecorder.com/news/40357936/pakistan-china-agree-to-strengthen-coordination-cooperation-on-maritime-policies",
+          "date": "2025-04-16",
+          "source": "brecorder.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "China , Vietnam agree to manage and resolve maritime issues",
+          "url": "https://www.globalsecurity.org/military/library/news/2025/04/mil-250415-prc-mnd01.htm",
+          "date": "2025-04-16",
+          "source": "globalsecurity.org",
+          "trust_score": 0.7500000000000001
+        }
+      ]
+    },
+    {
+      "start_date": "2025-04-19",
+      "end_date": "2025-04-25",
+      "peak_date": "2025-04-22",
+      "article_count": 17,
+      "peak_count": 4,
+      "themes": {
+        "MARITIME": 6,
+        "MILITARY": 6,
+        "SECURITY_SERVICES": 2
+      },
+      "sources": {
+        "globalsecurity.org": 2,
+        "yahoo.com": 2,
+        "koreaherald.com": 2,
+        "manilatimes.net": 1,
+        "asia.nikkei.com": 1
+      },
+      "top_articles": [
+        {
+          "title": "China denies allegations of supplying weapons to Russia amid Ukraine conflict",
+          "url": "https://www.khaama.com/china-denies-allegations-of-supplying-weapons-to-russia-amid-ukraine-conflict/",
+          "date": "2025-04-19",
+          "source": "khaama.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Multiple Chinese industry associations oppose US restrictions on China maritime , logistics , shipbuilding sectors",
+          "url": "https://www.globalsecurity.org/wmd/library/news/china/2025/04/china-250419-globaltimes02.htm",
+          "date": "2025-04-20",
+          "source": "globalsecurity.org",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "LOr\u00e9al plans major layoffs in China amid sales slump",
+          "url": "https://asia.nikkei.com/Spotlight/Caixin/L-Oreal-plans-major-layoffs-in-China-amid-sales-slump",
+          "date": "2025-04-21",
+          "source": "asia.nikkei.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "China says it  warned off  PH navy frigate in Scarborough Shoal",
+          "url": "https://www.manilatimes.net/2025/04/22/news/national/china-says-it-warned-off-ph-navy-frigate-in-scarborough-shoal/2095906",
+          "date": "2025-04-21",
+          "source": "manilatimes.net",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Myanmar Rebels Prepare To Hand Key City Back To Junta , China Says",
+          "url": "https://www.ibtimes.com/myanmar-rebels-prepare-hand-key-city-back-junta-china-says-3770904",
+          "date": "2025-04-22",
+          "source": "ibtimes.com",
+          "trust_score": 0.7500000000000001
+        }
+      ]
+    }
+  ],
+  "event_timeline_chart": "analysis_gdelt_advanced6/timelines/China_events.png"
+}

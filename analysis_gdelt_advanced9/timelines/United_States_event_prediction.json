@@ -1,0 +1,8 @@
+{
+  "entity": "United States",
+  "prediction_start_date": "2025-04-12",
+  "prediction_end_date": "2025-04-25",
+  "event_threshold": 3,
+  "predicted_events": [],
+  "event_prediction_chart": "analysis_gdelt_advanced9/timelines/United_States_event_prediction.png"
+}

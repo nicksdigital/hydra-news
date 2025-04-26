@@ -1,0 +1,25 @@
+{
+  "entities": [
+    "United States",
+    "Russia",
+    "Ukraine",
+    "China"
+  ],
+  "co_occurrences": {
+    "United States": {},
+    "Russia": {
+      "Ukraine": 4,
+      "China": 3
+    },
+    "Ukraine": {
+      "Russia": 4,
+      "China": 1
+    },
+    "China": {
+      "Russia": 3,
+      "Ukraine": 1
+    }
+  },
+  "network_chart": "analysis_gdelt_advanced8/timelines/entity_network_United_States_Russia_Ukraine.png",
+  "matrix_chart": "analysis_gdelt_advanced8/timelines/entity_matrix_United_States_Russia_Ukraine.png"
+}

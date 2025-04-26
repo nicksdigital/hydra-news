@@ -2,12 +2,13 @@ import React, { useState, useEffect } from 'react';
 import VerifiedNewsCard from './components/VerifiedNewsCard';
 import VerificationDetails from './components/VerificationDetails';
 import ContentSubmissionForm from './components/ContentSubmissionForm';
+import VerificationDemo from './components/VerificationDemo';
 import { getRecentContent, verifyContent, getVerification } from './services/ApiService';
 import { NewsContent, VerificationResult } from './types/NewsContent';
 import './App.css';
 
 const App: React.FC = () => {
-  const [activeTab, setActiveTab] = useState<'browse' | 'submit'>('browse');
+  const [activeTab, setActiveTab] = useState<'browse' | 'submit' | 'demo'>('browse');
   const [newsItems, setNewsItems] = useState<NewsContent[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -45,16 +46,16 @@ const App: React.FC = () => {
     try {
       setLoading(true);
       setError(null);
-      
+
       // Fetch verification result if not already available
       let verificationResult: VerificationResult;
-      
+
       if (content.verification_result) {
         verificationResult = content.verification_result;
       } else {
         verificationResult = await getVerification(content.content_hash);
       }
-      
+
       setSelectedContent(content);
       setSelectedVerification(verificationResult);
       setShowDetails(true);
@@ -80,36 +81,42 @@ const App: React.FC = () => {
           <h1 className="app-title">Hydra News</h1>
           <div className="app-subtitle">Untamperable News Verification System</div>
         </div>
-        
+
         <nav className="app-nav">
-          <button 
+          <button
             className={`nav-button ${activeTab === 'browse' ? 'active' : ''}`}
             onClick={() => setActiveTab('browse')}
           >
             Browse Verified News
           </button>
-          <button 
+          <button
             className={`nav-button ${activeTab === 'submit' ? 'active' : ''}`}
             onClick={() => setActiveTab('submit')}
           >
             Submit Content
           </button>
+          <button
+            className={`nav-button ${activeTab === 'demo' ? 'active' : ''}`}
+            onClick={() => setActiveTab('demo')}
+          >
+            Verification Demo
+          </button>
         </nav>
       </header>
-      
+
       <main className="app-content">
         {activeTab === 'browse' ? (
           <div className="news-browser">
             <h2 className="section-title">Recently Verified News</h2>
-            
+
             {loading && <div className="loading-indicator">Loading content...</div>}
-            
+
             {error && <div className="error-message">{error}</div>}
-            
+
             {!loading && !error && newsItems.length === 0 && (
               <div className="empty-state">
                 <p>No verified news content available yet.</p>
-                <button 
+                <button
                   className="action-button"
                   onClick={() => setActiveTab('submit')}
                 >
@@ -117,7 +124,7 @@ const App: React.FC = () => {
                 </button>
               </div>
             )}
-            
+
             <div className="news-items-list">
               {newsItems.map((item) => (
                 <VerifiedNewsCard
@@ -138,13 +145,17 @@ const App: React.FC = () => {
               ))}
             </div>
           </div>
-        ) : (
+        ) : activeTab === 'submit' ? (
           <div className="content-submission">
             <ContentSubmissionForm onSubmissionComplete={handleContentSubmission} />
           </div>
+        ) : (
+          <div className="verification-demo-container">
+            <VerificationDemo />
+          </div>
         )}
       </main>
-      
+
       {showDetails && selectedContent && selectedVerification && (
         <VerificationDetails
           newsContent={selectedContent}
@@ -152,7 +163,7 @@ const App: React.FC = () => {
           onClose={handleCloseDetails}
         />
       )}
-      
+
       <footer className="app-footer">
         <div className="footer-content">
           <div className="copyright">© 2025 Hydra News - Untamperable News Verification System</div>

@@ -1,0 +1,38 @@
+{
+  "entities": [
+    "United States",
+    "Russia",
+    "Ukraine",
+    "China"
+  ],
+  "timelines": {
+    "United States": {
+      "entity_timeline": "United_States_timeline.png",
+      "entity_report": "United_States_report.md",
+      "event_timeline": "United_States_events.png",
+      "event_report": "United_States_events_report.md"
+    },
+    "Russia": {
+      "entity_timeline": "Russia_timeline.png",
+      "entity_report": "Russia_report.md",
+      "event_timeline": "Russia_events.png",
+      "event_report": "Russia_events_report.md"
+    },
+    "Ukraine": {
+      "entity_timeline": "Ukraine_timeline.png",
+      "entity_report": "Ukraine_report.md",
+      "event_timeline": "Ukraine_events.png",
+      "event_report": "Ukraine_events_report.md"
+    },
+    "China": {
+      "entity_timeline": "China_timeline.png",
+      "entity_report": "China_report.md",
+      "event_timeline": "China_events.png",
+      "event_report": "China_events_report.md"
+    }
+  },
+  "comparison": {
+    "chart": "entity_comparison_United_States_Russia_Ukraine_China.png",
+    "data": "entity_comparison_United_States_Russia_Ukraine_China.json"
+  }
+}

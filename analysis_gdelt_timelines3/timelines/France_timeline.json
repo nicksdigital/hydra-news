@@ -1,0 +1,63 @@
+{
+  "entity": "France",
+  "total_mentions": 5,
+  "date_range": {
+    "start_date": "2025-04-14",
+    "end_date": "2025-04-24"
+  },
+  "mentions_by_date": {
+    "2025-04-14": 1,
+    "2025-04-16": 1,
+    "2025-04-17": 1,
+    "2025-04-23": 1,
+    "2025-04-24": 1
+  },
+  "top_sources": {
+    "moroccoworldnews.com": 2,
+    "defensenews.com": 1,
+    "english.aawsat.com": 1,
+    "arabnews.com": 1
+  },
+  "top_themes": {
+    "SECURITY_SERVICES": 3,
+    "MILITARY": 1,
+    "TRIAL": 1
+  },
+  "articles": [
+    {
+      "title": "France says Tunisian political dissidents did not receive fair trial",
+      "url": "https://www.arabnews.com/node/2598285/middle-east",
+      "date": "2025-04-24",
+      "source": "arabnews.com",
+      "trust_score": 0.8000000000000002
+    },
+    {
+      "title": "France Calls Morocco a  Precious Partner  in Security Cooperation as Relations Warm France Calls Morocco a  Precious Partner  in Security Cooperation as Relations Warm",
+      "url": "https://www.moroccoworldnews.com/2025/04/190316/france-calls-morocco-a-precious-partner-in-security-cooperation-as-relations-warm/",
+      "date": "2025-04-14",
+      "source": "moroccoworldnews.com",
+      "trust_score": 0.7500000000000001
+    },
+    {
+      "title": "Turkey hosts Black Sea security talks with Ukraine , France , united kingdom ",
+      "url": "https://www.defensenews.com/global/europe/2025/04/16/turkey-hosts-black-sea-security-talks-with-ukraine-france-uk/",
+      "date": "2025-04-16",
+      "source": "defensenews.com",
+      "trust_score": 0.7500000000000001
+    },
+    {
+      "title": "\u0635\u062d\u064a\u0641\u0629 \u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637 - Algeria Blames French Interior Minister for Renewed Crisis with France",
+      "url": "https://english.aawsat.com/arab-world/5133390-algeria-blames-french-interior-minister-renewed-crisis-france",
+      "date": "2025-04-17",
+      "source": "english.aawsat.com",
+      "trust_score": 0.7500000000000001
+    },
+    {
+      "title": "Mohammed V Airport Police Arrest Tunisian Fugitive Wanted by France",
+      "url": "https://www.moroccoworldnews.com/2025/04/193160/mohammed-v-airport-police-arrest-tunisian-fugitive-wanted-by-france/",
+      "date": "2025-04-23",
+      "source": "moroccoworldnews.com",
+      "trust_score": 0.7500000000000001
+    }
+  ]
+}

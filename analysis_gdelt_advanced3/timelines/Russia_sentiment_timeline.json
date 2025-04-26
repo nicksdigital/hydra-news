@@ -1,0 +1,35 @@
+{
+  "entity": "Russia",
+  "start_date": "2025-04-15",
+  "end_date": "2025-04-17",
+  "article_count": 7,
+  "sentiment_stats": {
+    "mean": 0.0,
+    "median": 0.0,
+    "min": 0.0,
+    "max": 0.0,
+    "std": 0.0,
+    "positive_count": 0,
+    "neutral_count": 7,
+    "negative_count": 0
+  },
+  "daily_sentiment": {
+    "2025-04-15": 0.0,
+    "2025-04-17": 0.0
+  },
+  "rolling_sentiment": {
+    "2025-04-15": 0.0,
+    "2025-04-17": 0.0
+  },
+  "source_sentiment": {
+    "nypost.com": 0.0,
+    "politico.eu": 0.0,
+    "thestar.com.my": 0.0,
+    "yahoo.com": 0.0
+  },
+  "theme_sentiment": {
+    "SECURITY_SERVICES": 0.0,
+    "TERROR": 0.0
+  },
+  "sentiment_chart": "analysis_gdelt_advanced3/timelines/Russia_sentiment_timeline.png"
+}

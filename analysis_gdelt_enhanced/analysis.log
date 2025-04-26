@@ -1,0 +1,106 @@
+2025-04-26 22:47:37,121 [INFO] Starting analysis of GDELT dataset in dataset_gdelt_large2
+2025-04-26 22:47:37,121 [INFO] Loading dataset...
+2025-04-26 22:47:37,121 [INFO] Loading dataset from dataset_gdelt_large2
+2025-04-26 22:47:37,200 [INFO] Loaded 6816 articles from dataset_gdelt_large2/all_articles.csv
+2025-04-26 22:47:37,201 [INFO] Loaded 40 themes from dataset_gdelt_large2/themes.json
+2025-04-26 22:47:37,201 [INFO] Loaded summary from dataset_gdelt_large2/summary.json
+2025-04-26 22:47:37,201 [INFO] Preprocessing articles...
+2025-04-26 22:47:37,201 [INFO] Preprocessing articles
+2025-04-26 22:47:37,239 [INFO] Preprocessing complete
+2025-04-26 22:47:37,240 [INFO] Analyzing theme distribution...
+2025-04-26 22:47:37,240 [INFO] Analyzing theme distribution
+2025-04-26 22:47:37,242 [INFO] Found 20 themes
+2025-04-26 22:47:37,242 [INFO] Analyzing theme correlations...
+2025-04-26 22:47:37,242 [INFO] Analyzing correlations between top 15 themes
+2025-04-26 22:47:37,258 [INFO] Generated 15 x 15 correlation matrix
+2025-04-26 22:47:37,259 [INFO] Analyzing theme trends over time...
+2025-04-26 22:47:37,259 [INFO] Analyzing theme trends over time
+2025-04-26 22:47:37,266 [INFO] Generated theme trends for 20 themes over 31 dates
+2025-04-26 22:47:37,267 [INFO] Analyzing time patterns...
+2025-04-26 22:47:37,267 [INFO] Analyzing time patterns
+2025-04-26 22:47:37,268 [INFO] Analyzed articles by date (31 dates)
+2025-04-26 22:47:37,269 [INFO] Analyzed articles by hour (24 hours)
+2025-04-26 22:47:37,270 [INFO] Analyzed articles by day of week (7 days)
+2025-04-26 22:47:37,270 [INFO] Analyzing time series...
+2025-04-26 22:47:37,270 [INFO] Analyzing time series with frequency 'D'
+2025-04-26 22:47:37,286 [INFO] Generated time series with 31 data points
+2025-04-26 22:47:37,286 [INFO] Analyzing publication delay...
+2025-04-26 22:47:37,287 [INFO] Analyzing publication delay
+2025-04-26 22:47:37,312 [INFO] Analyzed publication delay for 20 themes
+2025-04-26 22:47:37,313 [INFO] Analyzing domains...
+2025-04-26 22:47:37,313 [INFO] Analyzing domain distribution
+2025-04-26 22:47:37,314 [INFO] Analyzed top 20 domains
+2025-04-26 22:47:37,315 [INFO] Analyzed top 10 TLDs
+2025-04-26 22:47:37,316 [INFO] Analyzing languages...
+2025-04-26 22:47:37,316 [INFO] Analyzing language distribution
+2025-04-26 22:47:37,317 [INFO] Analyzed top 2 languages
+2025-04-26 22:47:37,317 [INFO] Analyzing countries...
+2025-04-26 22:47:37,318 [INFO] Analyzing source country distribution
+2025-04-26 22:47:37,318 [INFO] Analyzed top 15 countries
+2025-04-26 22:47:37,319 [INFO] Analyzing source diversity...
+2025-04-26 22:47:37,319 [INFO] Analyzing source diversity
+2025-04-26 22:47:37,323 [INFO] Calculated diversity metrics: {'total_articles': 6816, 'unique_domains': 1210, 'unique_countries': 99, 'unique_languages': 2, 'domain_concentration': np.float64(0.005669783814388679), 'country_concentration': np.float64(0.1345529160880778), 'language_concentration': np.float64(0.5018984948422933), 'domain_diversity': np.float64(0.9943302161856113), 'country_diversity': np.float64(0.8654470839119222), 'language_diversity': np.float64(0.4981015051577067)}
+2025-04-26 22:47:37,323 [INFO] Extracting keywords...
+2025-04-26 22:47:37,323 [INFO] Extracting keywords from article titles
+2025-04-26 22:47:38,653 [INFO] Extracted 100 keywords
+2025-04-26 22:47:38,654 [INFO] Building topic model...
+2025-04-26 22:47:38,654 [INFO] Building topic model with 10 topics
+2025-04-26 22:47:45,146 [INFO] Built topic model with 10 topics and 1000 features
+2025-04-26 22:47:45,147 [INFO] Extracting top 10 words for each topic
+2025-04-26 22:47:45,147 [INFO] Extracted top words for 10 topics
+2025-04-26 22:47:45,147 [INFO] Assigning topics to articles with threshold 0.3
+2025-04-26 22:47:45,816 [INFO] Assigned topics to 6816 articles
+2025-04-26 22:47:45,816 [INFO] Creating visualizations...
+2025-04-26 22:47:45,816 [INFO] Creating all visualizations
+2025-04-26 22:47:45,817 [INFO] Visualization style set up
+2025-04-26 22:47:45,817 [INFO] Creating theme distribution plot for top 20 themes
+2025-04-26 22:47:46,169 [INFO] Saved theme distribution plot to analysis_gdelt_enhanced/theme_distribution.png
+2025-04-26 22:47:46,169 [INFO] Creating time pattern plots
+2025-04-26 22:47:46,867 [INFO] Saved time pattern plots to analysis_gdelt_enhanced
+2025-04-26 22:47:46,868 [INFO] Creating source distribution plots
+2025-04-26 22:47:47,781 [INFO] Saved source distribution plots to analysis_gdelt_enhanced
+2025-04-26 22:47:47,781 [INFO] Creating theme correlation heatmap
+2025-04-26 22:47:48,413 [INFO] Saved theme correlation heatmap to analysis_gdelt_enhanced/theme_correlation.png
+2025-04-26 22:47:48,413 [INFO] Creating topic word clouds
+2025-04-26 22:47:48,413 [WARNING] wordcloud package not available. Skipping word cloud generation.
+2025-04-26 22:47:48,413 [INFO] Creating time series plot
+2025-04-26 22:47:48,658 [INFO] Saved time series plot to analysis_gdelt_enhanced/time_series.png
+2025-04-26 22:47:48,658 [INFO] Created all visualizations in analysis_gdelt_enhanced
+2025-04-26 22:47:48,658 [INFO] Generating report...
+2025-04-26 22:47:48,658 [INFO] Generating report
+2025-04-26 22:47:48,661 [INFO] Generated report at analysis_gdelt_enhanced/report.md
+2025-04-26 22:47:48,661 [INFO] Generating JSON summary...
+2025-04-26 22:47:48,661 [INFO] Generating JSON summary
+2025-04-26 22:47:48,662 [INFO] Generated JSON summary at analysis_gdelt_enhanced/analysis_summary.json
+2025-04-26 22:47:48,662 [INFO] Generating CSV exports...
+2025-04-26 22:47:48,662 [INFO] Generating CSV exports
+2025-04-26 22:47:48,663 [INFO] Exported theme counts to analysis_gdelt_enhanced/exports/theme_counts.csv
+2025-04-26 22:47:48,665 [INFO] Exported date counts to analysis_gdelt_enhanced/exports/date_counts.csv
+2025-04-26 22:47:48,715 [INFO] Exported topic assignments to analysis_gdelt_enhanced/exports/topic_assignments.csv
+2025-04-26 22:47:48,715 [INFO] Generated all CSV exports in analysis_gdelt_enhanced/exports
+2025-04-26 22:47:48,715 [INFO] Extracting entities...
+2025-04-26 22:47:48,715 [INFO] Extracting entities from DataFrame
+2025-04-26 22:47:58,822 [INFO] Extracted 9117 entities from 6816 articles
+2025-04-26 22:47:58,824 [INFO] Calculating entity statistics
+2025-04-26 22:47:58,836 [INFO] Calculated statistics for 4853 entities
+2025-04-26 22:47:58,885 [INFO] Saved 9117 entity mentions to analysis_gdelt_enhanced/entities.csv
+2025-04-26 22:47:58,896 [INFO] Saved statistics for 4853 entities to analysis_gdelt_enhanced/entity_stats.csv
+2025-04-26 22:47:58,896 [INFO] Calculating trust scores for entities...
+2025-04-26 22:47:58,897 [INFO] Calculating trust scores for entities
+2025-04-26 22:47:58,903 [INFO] Calculated trust scores for 4853 entities
+2025-04-26 22:47:58,923 [INFO] Saved trust scores for 4853 entities to analysis_gdelt_enhanced/entity_trust.csv
+2025-04-26 22:47:58,923 [INFO] Calculating trust scores for articles...
+2025-04-26 22:47:58,924 [INFO] Calculating trust scores for articles
+2025-04-26 22:47:58,938 [INFO] Calculated trust scores for 6816 articles
+2025-04-26 22:47:59,002 [INFO] Saved trust scores for 6816 articles to analysis_gdelt_enhanced/article_trust.csv
+2025-04-26 22:47:59,002 [INFO] Storing data in database...
+2025-04-26 22:47:59,003 [INFO] Connected to database: analysis_gdelt_enhanced/gdelt_news.db
+2025-04-26 22:47:59,018 [INFO] Created database tables
+2025-04-26 22:47:59,425 [ERROR] Error storing articles: Error binding parameter 3: type 'Timestamp' is not supported
+2025-04-26 22:47:59,428 [INFO] Stored 0 articles in database
+2025-04-26 22:47:59,940 [INFO] Stored 4853 entities in the database
+2025-04-26 22:47:59,942 [INFO] Stored 4853 entities in database
+2025-04-26 22:47:59,944 [INFO] Generated database summary
+2025-04-26 22:47:59,944 [INFO] Saved database summary to analysis_gdelt_enhanced/db_summary.json
+2025-04-26 22:47:59,944 [INFO] Closed database connection
+2025-04-26 22:47:59,944 [INFO] Analysis complete! Results saved to analysis_gdelt_enhanced

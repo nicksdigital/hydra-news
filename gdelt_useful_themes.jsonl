@@ -1,0 +1,198 @@
+{"theme": "TAX_FNCACT", "description": "Functional actors - people and their roles", "count": 999601552}
+{"theme": "TAX_ETHNICITY", "description": "Ethnic groups and identities", "count": 410780218}
+{"theme": "EPU_POLICY", "description": "Economic policy uncertainty", "count": 384818230}
+{"theme": "CRISISLEX_CRISISLEXREC", "description": "Crisis and disaster lexicon", "count": 373229208}
+{"theme": "LEADER", "description": "References to leadership figures", "count": 299591884}
+{"theme": "UNGP_FORESTS_RIVERS_OCEANS", "description": "Environmental themes related to forests, rivers, and oceans", "count": 292029911}
+{"theme": "GENERAL_GOVERNMENT", "description": "Government-related themes", "count": 263617930}
+{"theme": "GENERAL_HEALTH", "description": "Health-related themes", "count": 262433948}
+{"theme": "MEDICAL", "description": "Medical topics and healthcare", "count": 230433975}
+{"theme": "EDUCATION", "description": "Education-related themes", "count": 229443376}
+{"theme": "MEDIA_MSM", "description": "Mainstream media references", "count": 227523725}
+{"theme": "EPU_ECONOMY_HISTORIC", "description": "Historical economic policy uncertainty", "count": 223968892}
+{"theme": "MANMADE_DISASTER_IMPLIED", "description": "References to implied human-caused disasters", "count": 221229073}
+{"theme": "KILL", "description": "References to killing or death", "count": 183899676}
+{"theme": "TAX_DISEASE", "description": "Disease references", "count": 174585309}
+{"theme": "SECURITY_SERVICES", "description": "Security and law enforcement services", "count": 160065215}
+{"theme": "TAX_ECON_PRICE", "description": "Economic pricing themes", "count": 157199233}
+{"theme": "CRISISLEX_C03_WELLBEING_HEALTH", "description": "Crisis lexicon related to wellbeing and health", "count": 150328617}
+{"theme": "ARMEDCONFLICT", "description": "Armed conflict references", "count": 143306152}
+{"theme": "AFFECT", "description": "Emotional affect and sentiment", "count": 136248467}
+{"theme": "LEGISLATION", "description": "Legislative and legal themes", "count": 132801476}
+{"theme": "CRISISLEX_T03_DEAD", "description": "Crisis lexicon related to death", "count": 130402380}
+{"theme": "TRIAL", "description": "Legal trials and court proceedings", "count": 123017918}
+{"theme": "EPU_ECONOMY", "description": "Economic uncertainty", "count": 105759212}
+{"theme": "SOC_GENERALCRIME", "description": "General crime references", "count": 102241581}
+{"theme": "CRISISLEX_T02_INJURED", "description": "Crisis lexicon related to injuries", "count": 101111184}
+{"theme": "ARREST", "description": "Arrests and detentions", "count": 95668897}
+{"theme": "TAX_RELIGION", "description": "Religious themes and references", "count": 88159876}
+{"theme": "MEDIA_SOCIAL", "description": "Social media references", "count": 86732027}
+{"theme": "ELECTION", "description": "Election-related themes", "count": 84516759}
+{"theme": "SCIENCE", "description": "Scientific themes and research", "count": 77383181}
+{"theme": "UNGP_CRIME_VIOLENCE", "description": "Crime and violence themes", "count": 73276860}
+{"theme": "NATURAL_DISASTER", "description": "Natural disaster references", "count": 72002253}
+{"theme": "TERROR", "description": "Terrorism-related themes", "count": 67837722}
+{"theme": "TAX_POLITICAL_PARTY", "description": "Political party references", "count": 67253798}
+{"theme": "UNGP_HEALTHCARE", "description": "Healthcare themes", "count": 68970431}
+{"theme": "PROTEST", "description": "Protest and demonstration themes", "count": 57786333}
+{"theme": "MILITARY", "description": "Military themes and references", "count": 57513921}
+{"theme": "MOVEMENT_GENERAL", "description": "General movement and migration themes", "count": 55233777}
+{"theme": "MARITIME", "description": "Maritime and naval themes", "count": 55048463}
+{"theme": "AGRICULTURE", "description": "Agricultural themes", "count": 51059277}
+{"theme": "TAX_WEAPONS", "description": "Weapons and arms references", "count": 51791338}
+{"theme": "ECON_STOCKMARKET", "description": "Stock market and financial themes", "count": 46735585}
+{"theme": "CORRUPTION", "description": "Corruption and bribery themes", "count": 43034608}
+{"theme": "ECON_TAXATION", "description": "Taxation and tax policy", "count": 43993241}
+{"theme": "TAX_FOODSTAPLES", "description": "Food staples and nutrition", "count": 42257106}
+{"theme": "PUBLIC_TRANSPORT", "description": "Public transportation themes", "count": 41524878}
+{"theme": "BAN", "description": "Bans and prohibitions", "count": 41407298}
+{"theme": "DEMOCRACY", "description": "Democratic governance themes", "count": 37845872}
+{"theme": "IDEOLOGY", "description": "Ideological and political philosophy themes", "count": 36364042}
+{"theme": "URBAN", "description": "Urban development and city themes", "count": 35279546}
+{"theme": "CRISISLEX_T08_MISSINGFOUNDTRAPPEDPEOPLE", "description": "Crisis lexicon related to missing or trapped people", "count": 35183220}
+{"theme": "ENV_OIL", "description": "Oil and petroleum environmental themes", "count": 35074255}
+{"theme": "CONSTITUTIONAL", "description": "Constitutional and foundational legal themes", "count": 35041900}
+{"theme": "TOURISM", "description": "Tourism and travel themes", "count": 34655781}
+{"theme": "ALLIANCE", "description": "Alliances and partnerships", "count": 31796529}
+{"theme": "BORDER", "description": "Border and boundary themes", "count": 31571397}
+{"theme": "NEGOTIATIONS", "description": "Negotiation and diplomatic themes", "count": 31404667}
+{"theme": "TRAFFIC", "description": "Traffic and transportation flow", "count": 31349367}
+{"theme": "APPOINTMENT", "description": "Appointments to positions", "count": 31211311}
+{"theme": "GEN_HOLIDAY", "description": "Holiday and celebration themes", "count": 30837484}
+{"theme": "CRISISLEX_O01_WEATHER", "description": "Crisis lexicon related to weather", "count": 30832604}
+{"theme": "UNREST_BELLIGERENT", "description": "Civil unrest and belligerent actions", "count": 30526355}
+{"theme": "DISCRIMINATION", "description": "Discrimination and prejudice themes", "count": 28834155}
+{"theme": "SOC_INNOVATION", "description": "Social innovation and progress", "count": 28562672}
+{"theme": "HEALTH_PANDEMIC", "description": "Pandemic and widespread disease themes", "count": 28064635}
+{"theme": "RELIGION", "description": "Religious practices and institutions", "count": 25652213}
+{"theme": "EXTREMISM", "description": "Extremist ideologies and groups", "count": 25184824}
+{"theme": "SELF_IDENTIFIED_HUMAN_RIGHTS", "description": "Self-identified human rights issues", "count": 23092162}
+{"theme": "DRUG_TRADE", "description": "Drug trafficking and narcotics trade", "count": 22683907}
+{"theme": "UNGP_FREEDOM_FROM_DISCRIMINATION", "description": "Freedom from discrimination themes", "count": 22626857}
+{"theme": "RURAL", "description": "Rural development and countryside themes", "count": 22239231}
+{"theme": "CRISISLEX_C06_WATER_SANITATION", "description": "Crisis lexicon related to water and sanitation", "count": 22030458}
+{"theme": "ECON_ENTREPRENEURSHIP", "description": "Entrepreneurship and business creation", "count": 21545706}
+{"theme": "REFUGEES", "description": "Refugee and asylum seeker themes", "count": 21479673}
+{"theme": "UNGP_POLITICAL_FREEDOMS", "description": "Political freedoms and rights", "count": 20676712}
+{"theme": "ECON_DEBT", "description": "Debt and financial obligation themes", "count": 20807975}
+{"theme": "TAX_DISEASE_CORONAVIRUS", "description": "Coronavirus and COVID-19 references", "count": 20736261}
+{"theme": "IMMIGRATION", "description": "Immigration and migrant themes", "count": 19316230}
+{"theme": "ECON_HOUSING_PRICES", "description": "Housing market and real estate prices", "count": 19125528}
+{"theme": "DISASTER_FIRE", "description": "Fire disaster themes", "count": 18136739}
+{"theme": "RESIGNATION", "description": "Resignations from positions", "count": 18392212}
+{"theme": "RETIREMENT", "description": "Retirement and pension themes", "count": 18106829}
+{"theme": "TRANSPARENCY", "description": "Transparency and openness in governance", "count": 17797192}
+{"theme": "DISABILITY", "description": "Disability and accessibility themes", "count": 17591962}
+{"theme": "HEALTH_VACCINATION", "description": "Vaccination and immunization themes", "count": 17509558}
+{"theme": "POVERTY", "description": "Poverty and economic hardship", "count": 17116352}
+{"theme": "UNGP_JOB_OPPORTUNITIES_EMPLOYMENT", "description": "Employment and job opportunity themes", "count": 17194335}
+{"theme": "SOC_EXPRESSREGRET", "description": "Expressions of regret and apology", "count": 16807419}
+{"theme": "UNEMPLOYMENT", "description": "Unemployment and joblessness", "count": 16655631}
+{"theme": "RAPE", "description": "Sexual assault and rape", "count": 15846722}
+{"theme": "MANMADE_DISASTER", "description": "Human-caused disasters", "count": 15334942}
+{"theme": "CRIME_COMMON_ROBBERY", "description": "Common robbery and theft", "count": 15242904}
+{"theme": "CRIME_ILLEGAL_DRUGS", "description": "Illegal drug crimes", "count": 15170181}
+{"theme": "SANCTIONS", "description": "Economic and political sanctions", "count": 14603193}
+{"theme": "WATER_SECURITY", "description": "Water security and access", "count": 13490718}
+{"theme": "REBELLION", "description": "Rebellion and insurgency", "count": 13360931}
+{"theme": "RECRUITMENT", "description": "Recruitment and hiring", "count": 13314542}
+{"theme": "KIDNAP", "description": "Kidnapping and abduction", "count": 13145465}
+{"theme": "SCANDAL", "description": "Scandals and controversies", "count": 12692674}
+{"theme": "ENV_MINING", "description": "Mining and resource extraction environmental themes", "count": 12677919}
+{"theme": "ENV_CLIMATECHANGE", "description": "Climate change themes", "count": 12505779}
+{"theme": "LGBT", "description": "LGBTQ+ themes and issues", "count": 12385463}
+{"theme": "EVACUATION", "description": "Evacuation and emergency relocation", "count": 12346729}
+{"theme": "ORGANIZED_CRIME", "description": "Organized crime and criminal networks", "count": 11766837}
+{"theme": "SOC_SUICIDE", "description": "Suicide and self-harm", "count": 11872134}
+{"theme": "UNGP_CLIMATE_CHANGE_ACTION", "description": "Climate change action and policy", "count": 11293262}
+{"theme": "INFO_RUMOR", "description": "Rumors and unverified information", "count": 11157905}
+{"theme": "NATURAL_DISASTER_ICE", "description": "Ice-related natural disasters", "count": 11025516}
+{"theme": "ECON_CENTRALBANK", "description": "Central banking and monetary policy", "count": 10666137}
+{"theme": "ECON_UNIONS", "description": "Labor unions and worker organizations", "count": 10589005}
+{"theme": "ECON_INTEREST_RATES", "description": "Interest rates and monetary policy", "count": 10502251}
+{"theme": "ECON_INFLATION", "description": "Inflation and price stability", "count": 10415945}
+{"theme": "HARASSMENT", "description": "Harassment and intimidation", "count": 10096946}
+{"theme": "SHORTAGE", "description": "Shortages and scarcity", "count": 9780494}
+{"theme": "CYBER_ATTACK", "description": "Cyber attacks and digital security", "count": 9671496}
+{"theme": "ECON_OILPRICE", "description": "Oil prices and energy markets", "count": 9667137}
+{"theme": "ECON_CURRENCY_EXCHANGE_RATE", "description": "Currency exchange rates", "count": 9631315}
+{"theme": "SURVEILLANCE", "description": "Surveillance and monitoring", "count": 9384114}
+{"theme": "STRIKE", "description": "Labor strikes and work stoppages", "count": 9367538}
+{"theme": "DISCRIMINATION_RACE", "description": "Racial discrimination", "count": 9205969}
+{"theme": "HUMAN_RIGHTS_ABUSES", "description": "Human rights violations and abuses", "count": 9125562}
+{"theme": "SEIGE", "description": "Sieges and blockades", "count": 9088505}
+{"theme": "ACT_MAKESTATEMENT", "description": "Official statements and declarations", "count": 9060811}
+{"theme": "CRISISLEX_C05_NEED_OF_SHELTERS", "description": "Crisis lexicon related to shelter needs", "count": 8997281}
+{"theme": "SANITATION", "description": "Sanitation and hygiene", "count": 8732221}
+{"theme": "CRISISLEX_T06_SUPPLIES", "description": "Crisis lexicon related to supplies and resources", "count": 8696124}
+{"theme": "SOC_QUARANTINE", "description": "Quarantine and isolation measures", "count": 8418188}
+{"theme": "SLFID_DICTATORSHIP", "description": "Self-identified dictatorship references", "count": 8225463}
+{"theme": "RATIFY", "description": "Ratification of agreements and treaties", "count": 8133543}
+{"theme": "POLITICAL_TURMOIL", "description": "Political instability and turmoil", "count": 7815847}
+{"theme": "REBELS", "description": "Rebel groups and insurgents", "count": 7687785}
+{"theme": "SOVEREIGNTY", "description": "National sovereignty and self-determination", "count": 7507710}
+{"theme": "CLOSURE", "description": "Closures and shutdowns", "count": 7125682}
+{"theme": "NATURAL_DISASTER_EARTHQUAKE", "description": "Earthquake disasters", "count": 7086203}
+{"theme": "NEW_CONSTRUCTION", "description": "New construction and development", "count": 6945726}
+{"theme": "SOC_SLAVERY", "description": "Slavery and human trafficking", "count": 6885509}
+{"theme": "SOC_EMERGINGTECH", "description": "Emerging technologies and innovation", "count": 6647858}
+{"theme": "FOOD_SECURITY", "description": "Food security and access", "count": 6551881}
+{"theme": "ETH_INDIGINOUS", "description": "Indigenous peoples and communities", "count": 6541462}
+{"theme": "NATURAL_DISASTER_FLOOD", "description": "Flood disasters", "count": 6495128}
+{"theme": "SELF_IDENTIFIED_ATROCITY", "description": "Self-identified atrocities", "count": 6478883}
+{"theme": "CEASEFIRE", "description": "Ceasefires and truces", "count": 6159362}
+{"theme": "SLFID_ECONOMIC_DEVELOPMENT", "description": "Self-identified economic development", "count": 6140336}
+{"theme": "RETALIATE", "description": "Retaliation and reprisals", "count": 6125380}
+{"theme": "BLOCKADE", "description": "Blockades and embargoes", "count": 5853521}
+{"theme": "WMD", "description": "Weapons of mass destruction", "count": 5855336}
+{"theme": "ECON_SUBSIDIES", "description": "Economic subsidies and support", "count": 5811001}
+{"theme": "PROPAGANDA", "description": "Propaganda and information warfare", "count": 5716110}
+{"theme": "VIOLENT_UNREST", "description": "Violent civil unrest", "count": 5609839}
+{"theme": "BULLYING", "description": "Bullying and intimidation", "count": 5593699}
+{"theme": "SMUGGLING", "description": "Smuggling and illicit trade", "count": 5479989}
+{"theme": "SOC_TRAFFICACCIDENT", "description": "Traffic accidents and road safety", "count": 5453148}
+{"theme": "DISCRIMINATION_RACE_RACISM", "description": "Racism and racial discrimination", "count": 5442434}
+{"theme": "DISPLACED", "description": "Displaced persons and forced migration", "count": 5440674}
+{"theme": "TORTURE", "description": "Torture and cruel treatment", "count": 5393788}
+{"theme": "NATURAL_DISASTER_HURRICANE", "description": "Hurricane and cyclone disasters", "count": 5336512}
+{"theme": "ROAD_INCIDENT", "description": "Road incidents and accidents", "count": 5183106}
+{"theme": "JIHAD", "description": "Jihad and Islamic militancy", "count": 5022659}
+{"theme": "DEATH_PENALTY", "description": "Capital punishment and death penalty", "count": 4918820}
+{"theme": "VETO", "description": "Veto power and blocking decisions", "count": 4905384}
+{"theme": "TAKE_OFFICE", "description": "Taking office and assuming positions", "count": 4899222}
+{"theme": "UNGP_CLEAN_WATER_SANITATION", "description": "Clean water and sanitation access", "count": 4886663}
+{"theme": "PERSECUTION", "description": "Persecution and oppression", "count": 4870555}
+{"theme": "NATURAL_DISASTER_FLOODS", "description": "Multiple flood disasters", "count": 4820227}
+{"theme": "RELEASE_HOSTAGE", "description": "Hostage release and rescue", "count": 4685483}
+{"theme": "GENDER_VIOLENCE", "description": "Gender-based violence", "count": 4636023}
+{"theme": "ENV_GREEN", "description": "Green environmental initiatives", "count": 4633030}
+{"theme": "MEDIA_CENSORSHIP", "description": "Media censorship and restrictions", "count": 4587273}
+{"theme": "ECON_BUDGET_DEFICIT", "description": "Budget deficits and fiscal policy", "count": 4527587}
+{"theme": "DRONES", "description": "Drone technology and unmanned vehicles", "count": 4514833}
+{"theme": "UNGP_GENDER_EQUALITY", "description": "Gender equality and women's rights", "count": 4494750}
+{"theme": "FREESPEECH", "description": "Free speech and expression", "count": 3512612}
+{"theme": "SLFID_RULE_OF_LAW", "description": "Self-identified rule of law", "count": 3487496}
+{"theme": "STATE_OF_EMERGENCY", "description": "States of emergency and exceptional measures", "count": 3383142}
+{"theme": "LEGALIZE", "description": "Legalization and decriminalization", "count": 3351750}
+{"theme": "GRIEVANCES", "description": "Grievances and complaints", "count": 3215343}
+{"theme": "ECON_BOYCOTT", "description": "Economic boycotts and sanctions", "count": 3177953}
+{"theme": "POWER_OUTAGE", "description": "Power outages and electrical failures", "count": 2934922}
+{"theme": "TREASON", "description": "Treason and betrayal", "count": 2924606}
+{"theme": "EXILE", "description": "Exile and political asylum", "count": 2908872}
+{"theme": "HUMAN_TRAFFICKING", "description": "Human trafficking and modern slavery", "count": 3725464}
+{"theme": "ECON_MONEYLAUNDERING", "description": "Money laundering and financial crimes", "count": 2860061}
+{"theme": "VANDALIZE", "description": "Vandalism and property destruction", "count": 3656597}
+{"theme": "ENV_FORESTRY", "description": "Forestry and timber industry", "count": 3605803}
+{"theme": "TECH_AUTOMATION", "description": "Automation and technological displacement", "count": 2963903}
+{"theme": "IMPEACHMENT", "description": "Impeachment and removal from office", "count": 4079378}
+{"theme": "NATURAL_DISASTER_DROUGHT", "description": "Drought disasters", "count": 3962460}
+{"theme": "UNREST_CRACKDOWN", "description": "Crackdowns on civil unrest", "count": 3954904}
+{"theme": "CRIME_CARTELS", "description": "Criminal cartels and syndicates", "count": 3944988}
+{"theme": "SELF_IDENTIFIED_HUMANITARIAN_CRISIS", "description": "Self-identified humanitarian crises", "count": 3904362}
+{"theme": "JUSTICE", "description": "Justice and legal fairness", "count": 3837778}
+{"theme": "HUMAN_TRAFFICKING", "description": "Human trafficking and exploitation", "count": 3725464}
+{"theme": "SLFID_ECONOMIC_DEVELOPMENTAID", "description": "Self-identified economic development aid", "count": 3704685}
+{"theme": "INFRASTRUCTURE_BAD_ROADS", "description": "Poor road infrastructure", "count": 2828633}
+{"theme": "ECON_BANKRUPTCY", "description": "Bankruptcy and financial failure", "count": 2783164}
+{"theme": "ECON_FREETRADE", "description": "Free trade and open markets", "count": 2752685}
+{"theme": "ECON_MONOPOLY", "description": "Monopolies and market dominance", "count": 2678853}

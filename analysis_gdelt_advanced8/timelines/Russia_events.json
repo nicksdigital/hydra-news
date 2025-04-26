@@ -1,0 +1,63 @@
+{
+  "entity": "Russia",
+  "total_events": 1,
+  "events": [
+    {
+      "start_date": "2025-04-12",
+      "end_date": "2025-04-18",
+      "peak_date": "2025-04-15",
+      "article_count": 9,
+      "peak_count": 5,
+      "themes": {
+        "SECURITY_SERVICES": 7,
+        "TERROR": 1,
+        "MEDIA_SOCIAL": 1
+      },
+      "sources": {
+        "thestar.com.my": 3,
+        "yahoo.com": 2,
+        "politico.eu": 2,
+        "nypost.com": 1,
+        "news18.com": 1
+      },
+      "top_articles": [
+        {
+          "title": "Series of blasts shake Russia Kursk near Ukrainian border , Russian Telegram channels report",
+          "url": "https://www.thestar.com.my/news/world/2025/04/15/series-of-blasts-shake-russia039s-kursk-near-ukrainian-border-russian-telegram-channels-report",
+          "date": "2025-04-15",
+          "source": "thestar.com.my",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Russia spy chief says Russia , Belarus ready to act over European  escalation  around Ukraine",
+          "url": "https://www.yahoo.com/news/russias-spy-chief-says-russia-090052961.html",
+          "date": "2025-04-15",
+          "source": "yahoo.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Russia spy chief says Russia , Belarus ready to act over European  escalation  around Ukraine",
+          "url": "https://www.yahoo.com/news/russias-spy-chief-says-russia-090052961.html",
+          "date": "2025-04-15",
+          "source": "yahoo.com",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Russia spy chief says Russia , Belarus ready to act over European  escalation  around Ukraine",
+          "url": "https://www.thestar.com.my/news/world/2025/04/15/russia039s-spy-chief-says-russia-belarus-ready-to-act-over-european-039escalation039-around-ukraine",
+          "date": "2025-04-15",
+          "source": "thestar.com.my",
+          "trust_score": 0.7500000000000001
+        },
+        {
+          "title": "Russia spy chief says Russia , Belarus ready to act over European  escalation  around Ukraine",
+          "url": "https://www.thestar.com.my/news/world/2025/04/15/russia039s-spy-chief-says-russia-belarus-ready-to-act-over-european-039escalation039-around-ukraine",
+          "date": "2025-04-15",
+          "source": "thestar.com.my",
+          "trust_score": 0.7500000000000001
+        }
+      ]
+    }
+  ],
+  "event_timeline_chart": "analysis_gdelt_advanced8/timelines/Russia_events.png"
+}

@@ -1,0 +1,26 @@
+{
+  "article_count": 6816,
+  "entity_count": 4853,
+  "source_count": 1210,
+  "theme_count": 20,
+  "date_range": {
+    "start_date": "2025-03-27 22:45:00",
+    "end_date": "2025-04-26 22:30:00"
+  },
+  "languages": {
+    "English": 3618,
+    "French": 3198
+  },
+  "entity_types": {
+    "FACILITY": 23,
+    "GPE": 961,
+    "GSP": 21,
+    "LOCATION": 18,
+    "ORG": 670,
+    "ORGANIZATION": 1351,
+    "PERSON": 1809
+  },
+  "avg_article_trust": 0.7667385563380283,
+  "avg_entity_trust": 0.6937473106189329,
+  "avg_source_trust": 0.5019030600848783
+}

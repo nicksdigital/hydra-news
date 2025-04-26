@@ -1,0 +1,124 @@
+# Makefile for Hydra News C libraries with CGO support
+
+# Compiler settings
+CC := gcc
+CFLAGS := -Wall -Wextra -fPIC -O2 -Isrc
+LDFLAGS := -shared -lcrypto -lssl
+
+# Directories
+SRC_DIR := src
+BUILD_DIR := build
+LIB_DIR := lib
+INCLUDE_DIR := include
+
+# Files
+QZKP_SRC := $(SRC_DIR)/quantum_zkp.c
+LE_SRC := $(SRC_DIR)/logical_entanglement.c
+KYBER_SRC := $(SRC_DIR)/postquantum/kyber.c
+FALCON_SRC := $(SRC_DIR)/postquantum/falcon.c
+CRYPTO_ADAPTER_SRC := $(SRC_DIR)/postquantum/crypto_adapter.c
+HYDRA_CGO_SRC := $(SRC_DIR)/hydra_cgo.c
+
+QZKP_HEADER := $(SRC_DIR)/quantum_zkp.h
+LE_HEADER := $(SRC_DIR)/logical_entanglement.h
+KYBER_HEADER := $(SRC_DIR)/postquantum/kyber.h
+FALCON_HEADER := $(SRC_DIR)/postquantum/falcon.h
+CRYPTO_ADAPTER_HEADER := $(SRC_DIR)/postquantum/crypto_adapter.h
+HYDRA_CGO_HEADER := $(SRC_DIR)/hydra_cgo.h
+
+# Output libraries
+QZKP_LIB := $(LIB_DIR)/libqzkp.so
+LE_LIB := $(LIB_DIR)/lible.so
+KYBER_LIB := $(LIB_DIR)/libkyber.so
+FALCON_LIB := $(LIB_DIR)/libfalcon.so
+CRYPTO_ADAPTER_LIB := $(LIB_DIR)/libcryptoadapter.so
+HYDRA_CGO_LIB := $(LIB_DIR)/libhydracgo.so
+
+# Object files
+QZKP_OBJ := $(BUILD_DIR)/quantum_zkp.o
+LE_OBJ := $(BUILD_DIR)/logical_entanglement.o
+KYBER_OBJ := $(BUILD_DIR)/kyber.o
+FALCON_OBJ := $(BUILD_DIR)/falcon.o
+CRYPTO_ADAPTER_OBJ := $(BUILD_DIR)/crypto_adapter.o
+HYDRA_CGO_OBJ := $(BUILD_DIR)/hydra_cgo.o
+
+# Create required directories
+$(shell mkdir -p $(BUILD_DIR) $(LIB_DIR) $(INCLUDE_DIR))
+
+# Default target
+all: libs install_headers
+
+# Build and install all libraries
+libs: $(QZKP_LIB) $(LE_LIB) $(KYBER_LIB) $(FALCON_LIB) $(CRYPTO_ADAPTER_LIB) $(HYDRA_CGO_LIB)
+
+# Install headers to include directory
+install_headers:
+	cp $(QZKP_HEADER) $(INCLUDE_DIR)/
+	cp $(LE_HEADER) $(INCLUDE_DIR)/
+	cp $(KYBER_HEADER) $(INCLUDE_DIR)/
+	cp $(FALCON_HEADER) $(INCLUDE_DIR)/
+	cp $(CRYPTO_ADAPTER_HEADER) $(INCLUDE_DIR)/
+	cp $(HYDRA_CGO_HEADER) $(INCLUDE_DIR)/
+
+# Build QZKP library
+$(QZKP_LIB): $(QZKP_OBJ)
+	$(CC) $(LDFLAGS) -o $@ $<
+
+$(QZKP_OBJ): $(QZKP_SRC) $(QZKP_HEADER)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Build Logical Entanglement library
+$(LE_LIB): $(LE_OBJ)
+	$(CC) $(LDFLAGS) -o $@ $<
+
+$(LE_OBJ): $(LE_SRC) $(LE_HEADER)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Build Kyber library
+$(KYBER_LIB): $(KYBER_OBJ)
+	$(CC) $(LDFLAGS) -o $@ $<
+
+$(KYBER_OBJ): $(KYBER_SRC) $(KYBER_HEADER)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Build Falcon library
+$(FALCON_LIB): $(FALCON_OBJ)
+	$(CC) $(LDFLAGS) -o $@ $<
+
+$(FALCON_OBJ): $(FALCON_SRC) $(FALCON_HEADER)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Build Crypto Adapter library
+$(CRYPTO_ADAPTER_LIB): $(CRYPTO_ADAPTER_OBJ) $(QZKP_LIB) $(KYBER_LIB) $(FALCON_LIB)
+	$(CC) $(LDFLAGS) -o $@ $< -L$(LIB_DIR) -lqzkp -lkyber -lfalcon
+
+$(CRYPTO_ADAPTER_OBJ): $(CRYPTO_ADAPTER_SRC) $(CRYPTO_ADAPTER_HEADER)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Build Hydra CGO interface library
+$(HYDRA_CGO_LIB): $(HYDRA_CGO_OBJ) $(QZKP_LIB) $(LE_LIB) $(KYBER_LIB) $(FALCON_LIB) $(CRYPTO_ADAPTER_LIB)
+	$(CC) $(LDFLAGS) -o $@ $< -L$(LIB_DIR) -lqzkp -lle -lkyber -lfalcon -lcryptoadapter
+
+$(HYDRA_CGO_OBJ): $(HYDRA_CGO_SRC) $(HYDRA_CGO_HEADER)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Combined library for CGO
+cgo: $(LIB_DIR)/libhydracrypto.so
+
+$(LIB_DIR)/libhydracrypto.so: $(QZKP_OBJ) $(LE_OBJ) $(KYBER_OBJ) $(FALCON_OBJ) $(CRYPTO_ADAPTER_OBJ) $(HYDRA_CGO_OBJ)
+	$(CC) $(LDFLAGS) -o $@ $^ -lcrypto -lssl
+
+# CGO environment setup
+cgo_env:
+	@echo "export LD_LIBRARY_PATH=$(shell pwd)/$(LIB_DIR):\$$LD_LIBRARY_PATH"
+	@echo "export CGO_CFLAGS=-I$(shell pwd)/$(INCLUDE_DIR)"
+	@echo "export CGO_LDFLAGS=-L$(shell pwd)/$(LIB_DIR) -lhydracgo -lcrypto -lssl"
+
+# Clean build artifacts
+clean:
+	rm -rf $(BUILD_DIR)/* $(LIB_DIR)/* $(INCLUDE_DIR)/*
+
+# Rebuild everything
+rebuild: clean all
+
+.PHONY: all libs install_headers cgo cgo_env clean rebuild

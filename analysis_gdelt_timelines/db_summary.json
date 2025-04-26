@@ -1,0 +1,23 @@
+{
+  "article_count": 0,
+  "entity_count": 4853,
+  "source_count": 0,
+  "theme_count": 0,
+  "date_range": {
+    "start_date": null,
+    "end_date": null
+  },
+  "languages": {},
+  "entity_types": {
+    "FACILITY": 23,
+    "GPE": 961,
+    "GSP": 21,
+    "LOCATION": 18,
+    "ORG": 670,
+    "ORGANIZATION": 1351,
+    "PERSON": 1809
+  },
+  "avg_article_trust": null,
+  "avg_entity_trust": 0.6937473106189329,
+  "avg_source_trust": null
+}

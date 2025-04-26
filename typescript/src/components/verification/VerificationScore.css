@@ -1,0 +1,50 @@
+.verification-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.verification-score-svg {
+  display: block;
+}
+
+.verification-label {
+  margin-top: 8px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Size variations */
+.verification-score.small .verification-label {
+  font-size: 10px;
+  margin-top: 4px;
+}
+
+.verification-score.medium .verification-label {
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+.verification-score.large .verification-label {
+  font-size: 18px;
+  margin-top: 8px;
+}
+
+/* Animation for loading */
+@keyframes pulsate {
+  0% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.6;
+  }
+}
+
+.verification-score.loading .verification-score-svg {
+  animation: pulsate 1.5s infinite ease-in-out;
+}

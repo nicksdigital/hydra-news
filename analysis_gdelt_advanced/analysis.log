@@ -1,0 +1,187 @@
+2025-04-26 23:18:49,014 [INFO] Starting analysis of GDELT dataset in dataset_gdelt_large2
+2025-04-26 23:18:49,014 [INFO] Loading dataset...
+2025-04-26 23:18:49,014 [INFO] Loading dataset from dataset_gdelt_large2
+2025-04-26 23:18:49,063 [INFO] Loaded 6816 articles from dataset_gdelt_large2/all_articles.csv
+2025-04-26 23:18:49,064 [INFO] Loaded 40 themes from dataset_gdelt_large2/themes.json
+2025-04-26 23:18:49,064 [INFO] Loaded summary from dataset_gdelt_large2/summary.json
+2025-04-26 23:18:49,064 [INFO] Preprocessing articles...
+2025-04-26 23:18:49,064 [INFO] Preprocessing articles
+2025-04-26 23:18:49,103 [INFO] Preprocessing complete
+2025-04-26 23:18:49,104 [INFO] Analyzing theme distribution...
+2025-04-26 23:18:49,104 [INFO] Analyzing theme distribution
+2025-04-26 23:18:49,107 [INFO] Found 20 themes
+2025-04-26 23:18:49,107 [INFO] Analyzing theme correlations...
+2025-04-26 23:18:49,107 [INFO] Analyzing correlations between top 15 themes
+2025-04-26 23:18:49,123 [INFO] Generated 15 x 15 correlation matrix
+2025-04-26 23:18:49,124 [INFO] Analyzing theme trends over time...
+2025-04-26 23:18:49,124 [INFO] Analyzing theme trends over time
+2025-04-26 23:18:49,131 [INFO] Generated theme trends for 20 themes over 31 dates
+2025-04-26 23:18:49,131 [INFO] Analyzing time patterns...
+2025-04-26 23:18:49,131 [INFO] Analyzing time patterns
+2025-04-26 23:18:49,132 [INFO] Analyzed articles by date (31 dates)
+2025-04-26 23:18:49,133 [INFO] Analyzed articles by hour (24 hours)
+2025-04-26 23:18:49,134 [INFO] Analyzed articles by day of week (7 days)
+2025-04-26 23:18:49,134 [INFO] Analyzing time series...
+2025-04-26 23:18:49,135 [INFO] Analyzing time series with frequency 'D'
+2025-04-26 23:18:49,149 [INFO] Generated time series with 31 data points
+2025-04-26 23:18:49,149 [INFO] Analyzing publication delay...
+2025-04-26 23:18:49,149 [INFO] Analyzing publication delay
+2025-04-26 23:18:49,172 [INFO] Analyzed publication delay for 20 themes
+2025-04-26 23:18:49,173 [INFO] Analyzing domains...
+2025-04-26 23:18:49,173 [INFO] Analyzing domain distribution
+2025-04-26 23:18:49,174 [INFO] Analyzed top 20 domains
+2025-04-26 23:18:49,175 [INFO] Analyzed top 10 TLDs
+2025-04-26 23:18:49,175 [INFO] Analyzing languages...
+2025-04-26 23:18:49,176 [INFO] Analyzing language distribution
+2025-04-26 23:18:49,176 [INFO] Analyzed top 2 languages
+2025-04-26 23:18:49,177 [INFO] Analyzing countries...
+2025-04-26 23:18:49,177 [INFO] Analyzing source country distribution
+2025-04-26 23:18:49,178 [INFO] Analyzed top 15 countries
+2025-04-26 23:18:49,178 [INFO] Analyzing source diversity...
+2025-04-26 23:18:49,178 [INFO] Analyzing source diversity
+2025-04-26 23:18:49,181 [INFO] Calculated diversity metrics: {'total_articles': 6816, 'unique_domains': 1210, 'unique_countries': 99, 'unique_languages': 2, 'domain_concentration': np.float64(0.005669783814388679), 'country_concentration': np.float64(0.1345529160880778), 'language_concentration': np.float64(0.5018984948422933), 'domain_diversity': np.float64(0.9943302161856113), 'country_diversity': np.float64(0.8654470839119222), 'language_diversity': np.float64(0.4981015051577067)}
+2025-04-26 23:18:49,182 [INFO] Extracting keywords...
+2025-04-26 23:18:49,182 [INFO] Extracting keywords from article titles
+2025-04-26 23:18:50,879 [INFO] Extracted 100 keywords
+2025-04-26 23:18:50,881 [INFO] Building topic model...
+2025-04-26 23:18:50,882 [INFO] Building topic model with 10 topics
+2025-04-26 23:18:57,349 [INFO] Built topic model with 10 topics and 1000 features
+2025-04-26 23:18:57,349 [INFO] Extracting top 10 words for each topic
+2025-04-26 23:18:57,350 [INFO] Extracted top words for 10 topics
+2025-04-26 23:18:57,350 [INFO] Assigning topics to articles with threshold 0.3
+2025-04-26 23:18:58,010 [INFO] Assigned topics to 6816 articles
+2025-04-26 23:18:58,011 [INFO] Creating visualizations...
+2025-04-26 23:18:58,011 [INFO] Creating all visualizations
+2025-04-26 23:18:58,012 [INFO] Visualization style set up
+2025-04-26 23:18:58,012 [INFO] Creating theme distribution plot for top 20 themes
+2025-04-26 23:18:58,354 [INFO] Saved theme distribution plot to analysis_gdelt_advanced/theme_distribution.png
+2025-04-26 23:18:58,354 [INFO] Creating time pattern plots
+2025-04-26 23:18:59,042 [INFO] Saved time pattern plots to analysis_gdelt_advanced
+2025-04-26 23:18:59,042 [INFO] Creating source distribution plots
+2025-04-26 23:18:59,959 [INFO] Saved source distribution plots to analysis_gdelt_advanced
+2025-04-26 23:18:59,959 [INFO] Creating theme correlation heatmap
+2025-04-26 23:19:00,590 [INFO] Saved theme correlation heatmap to analysis_gdelt_advanced/theme_correlation.png
+2025-04-26 23:19:00,590 [INFO] Creating topic word clouds
+2025-04-26 23:19:00,590 [WARNING] wordcloud package not available. Skipping word cloud generation.
+2025-04-26 23:19:00,591 [INFO] Creating time series plot
+2025-04-26 23:19:00,838 [INFO] Saved time series plot to analysis_gdelt_advanced/time_series.png
+2025-04-26 23:19:00,838 [INFO] Created all visualizations in analysis_gdelt_advanced
+2025-04-26 23:19:00,838 [INFO] Generating report...
+2025-04-26 23:19:00,838 [INFO] Generating report
+2025-04-26 23:19:00,840 [INFO] Generated report at analysis_gdelt_advanced/report.md
+2025-04-26 23:19:00,841 [INFO] Generating JSON summary...
+2025-04-26 23:19:00,841 [INFO] Generating JSON summary
+2025-04-26 23:19:00,842 [INFO] Generated JSON summary at analysis_gdelt_advanced/analysis_summary.json
+2025-04-26 23:19:00,842 [INFO] Generating CSV exports...
+2025-04-26 23:19:00,842 [INFO] Generating CSV exports
+2025-04-26 23:19:00,844 [INFO] Exported theme counts to analysis_gdelt_advanced/exports/theme_counts.csv
+2025-04-26 23:19:00,845 [INFO] Exported date counts to analysis_gdelt_advanced/exports/date_counts.csv
+2025-04-26 23:19:00,896 [INFO] Exported topic assignments to analysis_gdelt_advanced/exports/topic_assignments.csv
+2025-04-26 23:19:00,896 [INFO] Generated all CSV exports in analysis_gdelt_advanced/exports
+2025-04-26 23:19:00,896 [INFO] Extracting entities...
+2025-04-26 23:19:00,896 [INFO] Extracting entities from DataFrame
+2025-04-26 23:19:10,839 [INFO] Extracted 9117 entities from 6816 articles
+2025-04-26 23:19:10,842 [INFO] Calculating entity statistics
+2025-04-26 23:19:10,854 [INFO] Calculated statistics for 4853 entities
+2025-04-26 23:19:10,902 [INFO] Saved 9117 entity mentions to analysis_gdelt_advanced/entities.csv
+2025-04-26 23:19:10,914 [INFO] Saved statistics for 4853 entities to analysis_gdelt_advanced/entity_stats.csv
+2025-04-26 23:19:10,914 [INFO] Calculating trust scores for entities...
+2025-04-26 23:19:10,915 [INFO] Calculating trust scores for entities
+2025-04-26 23:19:10,921 [INFO] Calculated trust scores for 4853 entities
+2025-04-26 23:19:10,940 [INFO] Saved trust scores for 4853 entities to analysis_gdelt_advanced/entity_trust.csv
+2025-04-26 23:19:10,941 [INFO] Calculating trust scores for articles...
+2025-04-26 23:19:10,941 [INFO] Calculating trust scores for articles
+2025-04-26 23:19:10,954 [INFO] Calculated trust scores for 6816 articles
+2025-04-26 23:19:11,007 [INFO] Saved trust scores for 6816 articles to analysis_gdelt_advanced/article_trust.csv
+2025-04-26 23:19:11,007 [INFO] Storing data in database...
+2025-04-26 23:19:11,008 [INFO] Connected to database: analysis_gdelt_advanced/gdelt_news.db
+2025-04-26 23:19:11,021 [INFO] Created database tables
+2025-04-26 23:19:11,543 [INFO] Updated statistics for 1210 sources
+2025-04-26 23:19:11,548 [INFO] Updated statistics for 20 themes
+2025-04-26 23:19:11,555 [INFO] Stored 20 articles in the database
+2025-04-26 23:19:11,557 [INFO] Stored 20 articles in database
+2025-04-26 23:19:12,157 [INFO] Stored 4853 entities in the database
+2025-04-26 23:19:12,160 [INFO] Stored 4853 entities in database
+2025-04-26 23:19:12,168 [INFO] Generated database summary
+2025-04-26 23:19:12,169 [INFO] Saved database summary to analysis_gdelt_advanced/db_summary.json
+2025-04-26 23:19:12,169 [INFO] Generating entity timelines...
+2025-04-26 23:19:12,169 [INFO] Generating timeline for entity: United States
+2025-04-26 23:19:12,169 [INFO] Generating timeline for entity: United States
+2025-04-26 23:19:12,171 [INFO] Found 3 articles mentioning 'United States'
+2025-04-26 23:19:12,321 [INFO] Created timeline visualization for 'United States' at analysis_gdelt_advanced/timelines/United_States_timeline.png
+2025-04-26 23:19:12,322 [INFO] Generated timeline for 'United States' saved to analysis_gdelt_advanced/timelines
+2025-04-26 23:19:12,322 [INFO] Generated timeline report for 'United States' saved to analysis_gdelt_advanced/timelines/United_States_report.md
+2025-04-26 23:19:12,322 [INFO] Generating event timeline for entity: United States
+2025-04-26 23:19:12,324 [INFO] Found 3 articles mentioning 'United States'
+2025-04-26 23:19:12,327 [WARNING] No significant events found for entity 'United States'
+2025-04-26 23:19:12,327 [INFO] Generating timeline for entity: Russia
+2025-04-26 23:19:12,327 [INFO] Generating timeline for entity: Russia
+2025-04-26 23:19:12,329 [INFO] Found 17 articles mentioning 'Russia'
+2025-04-26 23:19:12,527 [INFO] Created timeline visualization for 'Russia' at analysis_gdelt_advanced/timelines/Russia_timeline.png
+2025-04-26 23:19:12,528 [INFO] Generated timeline for 'Russia' saved to analysis_gdelt_advanced/timelines
+2025-04-26 23:19:12,528 [INFO] Generated timeline report for 'Russia' saved to analysis_gdelt_advanced/timelines/Russia_report.md
+2025-04-26 23:19:12,528 [INFO] Generating event timeline for entity: Russia
+2025-04-26 23:19:12,531 [INFO] Found 17 articles mentioning 'Russia'
+2025-04-26 23:19:12,537 [INFO] Identified 1 significant events for 'Russia'
+2025-04-26 23:19:12,767 [INFO] Created event visualization for 'Russia' at analysis_gdelt_advanced/timelines/Russia_events.png
+2025-04-26 23:19:12,767 [INFO] Generated event timeline for 'Russia' saved to analysis_gdelt_advanced/timelines/Russia_events.json
+2025-04-26 23:19:12,768 [INFO] Generated event timeline report for 'Russia' saved to analysis_gdelt_advanced/timelines/Russia_events_report.md
+2025-04-26 23:19:12,768 [INFO] Generating timeline for entity: Ukraine
+2025-04-26 23:19:12,768 [INFO] Generating timeline for entity: Ukraine
+2025-04-26 23:19:12,772 [INFO] Found 8 articles mentioning 'Ukraine'
+2025-04-26 23:19:12,980 [INFO] Created timeline visualization for 'Ukraine' at analysis_gdelt_advanced/timelines/Ukraine_timeline.png
+2025-04-26 23:19:12,981 [INFO] Generated timeline for 'Ukraine' saved to analysis_gdelt_advanced/timelines
+2025-04-26 23:19:12,981 [INFO] Generated timeline report for 'Ukraine' saved to analysis_gdelt_advanced/timelines/Ukraine_report.md
+2025-04-26 23:19:12,981 [INFO] Generating event timeline for entity: Ukraine
+2025-04-26 23:19:12,983 [INFO] Found 8 articles mentioning 'Ukraine'
+2025-04-26 23:19:12,990 [INFO] Identified 2 significant events for 'Ukraine'
+2025-04-26 23:19:13,213 [INFO] Created event visualization for 'Ukraine' at analysis_gdelt_advanced/timelines/Ukraine_events.png
+2025-04-26 23:19:13,214 [INFO] Generated event timeline for 'Ukraine' saved to analysis_gdelt_advanced/timelines/Ukraine_events.json
+2025-04-26 23:19:13,214 [INFO] Generated event timeline report for 'Ukraine' saved to analysis_gdelt_advanced/timelines/Ukraine_events_report.md
+2025-04-26 23:19:13,214 [INFO] Generating timeline for entity: China
+2025-04-26 23:19:13,214 [INFO] Generating timeline for entity: China
+2025-04-26 23:19:13,217 [INFO] Found 54 articles mentioning 'China'
+2025-04-26 23:19:13,534 [INFO] Created timeline visualization for 'China' at analysis_gdelt_advanced/timelines/China_timeline.png
+2025-04-26 23:19:13,535 [INFO] Generated timeline for 'China' saved to analysis_gdelt_advanced/timelines
+2025-04-26 23:19:13,535 [INFO] Generated timeline report for 'China' saved to analysis_gdelt_advanced/timelines/China_report.md
+2025-04-26 23:19:13,535 [INFO] Generating event timeline for entity: China
+2025-04-26 23:19:13,537 [INFO] Found 54 articles mentioning 'China'
+2025-04-26 23:19:13,556 [INFO] Identified 7 significant events for 'China'
+2025-04-26 23:19:13,787 [INFO] Created event visualization for 'China' at analysis_gdelt_advanced/timelines/China_events.png
+2025-04-26 23:19:13,788 [INFO] Generated event timeline for 'China' saved to analysis_gdelt_advanced/timelines/China_events.json
+2025-04-26 23:19:13,791 [INFO] Generated event timeline report for 'China' saved to analysis_gdelt_advanced/timelines/China_events_report.md
+2025-04-26 23:19:13,791 [INFO] Generating comparison timeline for top entities
+2025-04-26 23:19:13,792 [INFO] Generating comparison timeline for entities: United States, Russia, Ukraine, China
+2025-04-26 23:19:13,797 [INFO] Found 3 articles mentioning 'United States'
+2025-04-26 23:19:13,803 [INFO] Found 17 articles mentioning 'Russia'
+2025-04-26 23:19:13,808 [INFO] Found 8 articles mentioning 'Ukraine'
+2025-04-26 23:19:13,823 [INFO] Found 54 articles mentioning 'China'
+2025-04-26 23:19:14,050 [INFO] Created comparison visualization for ['United States', 'Russia', 'Ukraine', 'China'] at analysis_gdelt_advanced/timelines/entity_comparison_United_States_Russia_Ukraine_China.png
+2025-04-26 23:19:14,061 [ERROR] Error in timeline generation: keys must be str, int, float, bool or None, not date
+2025-04-26 23:19:14,064 [ERROR] Traceback (most recent call last):
+  File "/home/ubuntu/hydra-news/python/src/gdelt/analyzer/core.py", line 370, in analyze_gdelt_dataset
+    comparison_data = timeline_generator.generate_entity_comparison_timeline(
+        entities_to_process[:5],  # Limit to top 5 for readability
+        output_dir=timelines_dir
+    )
+  File "/home/ubuntu/hydra-news/python/src/gdelt/analyzer/timeline_generator.py", line 284, in generate_entity_comparison_timeline
+    json.dump(comparison_data, f, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "/usr/lib/python3.13/json/encoder.py", line 432, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/lib/python3.13/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.13/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.13/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.13/json/encoder.py", line 377, in _iterencode_dict
+    raise TypeError(f'keys must be str, int, float, bool or None, '
+                    f'not {key.__class__.__name__}')
+TypeError: keys must be str, int, float, bool or None, not date
+
+2025-04-26 23:19:14,065 [INFO] Closed database connection
+2025-04-26 23:19:14,065 [INFO] Analysis complete! Results saved to analysis_gdelt_advanced

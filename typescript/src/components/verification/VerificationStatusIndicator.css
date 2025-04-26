@@ -1,0 +1,116 @@
+.verification-status-indicator {
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  transition: all 0.2s ease;
+}
+
+.verification-status-indicator.clickable {
+  cursor: pointer;
+}
+
+.verification-status-indicator.clickable:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.verification-status-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.verification-level-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 12px;
+}
+
+.verification-level-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.verification-status-details {
+  margin-top: 8px;
+}
+
+.verification-level-description {
+  font-size: 14px;
+  color: #555;
+  margin: 0 0 8px 0;
+  line-height: 1.4;
+}
+
+.verification-score-text {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+/* Size variations */
+.verification-status-indicator.small {
+  padding: 8px;
+  max-width: 200px;
+}
+
+.verification-status-indicator.small .verification-level-name {
+  font-size: 14px;
+}
+
+.verification-status-indicator.small .verification-level-description,
+.verification-status-indicator.small .verification-score-text {
+  font-size: 12px;
+}
+
+.verification-status-indicator.medium {
+  padding: 16px;
+  max-width: 300px;
+}
+
+.verification-status-indicator.large {
+  padding: 20px;
+  max-width: 400px;
+}
+
+.verification-status-indicator.large .verification-level-name {
+  font-size: 22px;
+}
+
+.verification-status-indicator.large .verification-level-description {
+  font-size: 16px;
+}
+
+.verification-status-indicator.large .verification-score-text {
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+/* Animation for loading state */
+@keyframes pulse {
+  0% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.6;
+  }
+}
+
+.verification-status-indicator.loading .verification-status-header,
+.verification-status-indicator.loading .verification-status-details {
+  animation: pulse 1.5s infinite;
+}

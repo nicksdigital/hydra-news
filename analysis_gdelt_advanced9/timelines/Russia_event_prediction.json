@@ -1,0 +1,8 @@
+{
+  "entity": "Russia",
+  "prediction_start_date": "2025-04-25",
+  "prediction_end_date": "2025-05-08",
+  "event_threshold": 3,
+  "predicted_events": [],
+  "event_prediction_chart": "analysis_gdelt_advanced9/timelines/Russia_event_prediction.png"
+}

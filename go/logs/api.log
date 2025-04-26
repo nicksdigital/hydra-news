@@ -1,0 +1,3 @@
+{"timestamp":"2025-04-26T00:43:13.043742828Z","level":"INFO","message":"Starting server on port 8080","component":"api","action":"server_start"}
+{"timestamp":"2025-04-26T00:43:39.335742259Z","level":"INFO","message":"Shutting down server...","component":"api","action":"server_shutdown"}
+{"timestamp":"2025-04-26T00:43:39.336039178Z","level":"INFO","message":"Server stopped gracefully","component":"api","action":"server_stopped"}

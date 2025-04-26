@@ -1,0 +1,17 @@
+{
+  "entities": [
+    "United States",
+    "France",
+    "Russia",
+    "Ukraine",
+    "China"
+  ],
+  "entity_data": {
+    "United States": {
+      "total_mentions": 3,
+      "date_range": {
+        "start_date": "2025-03-29",
+        "end_date": "2025-04-11"
+      },
+      "mentions_by_date": {
+        

@@ -44,6 +44,11 @@ The Go implementation handles:
 - **Node Reputation System**: Trust-based node evaluation for enhanced security
 - **Network Recovery**: Mechanisms to handle network partitions and node failures
 - **Database Integration**: Persistent storage with data integrity and backup features
+- **CGO Bindings**: Direct integration with the C cryptographic primitives:
+  - Zero-knowledge proof verification for identity protection
+  - Post-quantum key generation and management
+  - Secure message signing and verification using Falcon
+  - Key encapsulation using Kyber for secure communication
 
 ### 3. Content Processing Engine (Python)
 
@@ -81,6 +86,8 @@ The Hydra News system implements NIST-standardized post-quantum cryptographic al
    - Combines classical and post-quantum algorithms for hybrid security
    - Provides a consistent API for cryptographic operations
    - Enables zero-knowledge proofs with post-quantum security
+   - Directly integrates with Go through CGO bindings
+   - Implements memory-safe interoperability between Go and C
 
 4. **Key Management System** - Secure key lifecycle management:
    - HashiCorp Vault integration for secure key storage
@@ -127,15 +134,36 @@ The system includes a robust SQLite-based database implementation for persistent
 git clone https://github.com/yourusername/hydra-news.git
 cd hydra-news
 
+# Build the C cryptographic libraries
+./scripts/build_c_libs.sh
+
+# Source environment variables for CGO
+source ./scripts/c_lib_env.sh
+
 # Build and start all services
 ./scripts/start_dev.sh
 ```
 
 This will:
-1. Compile the C cryptographic primitives
-2. Build the Go API service
-3. Start the Python content processor
-4. Launch the TypeScript frontend
+1. Compile the C cryptographic primitives with post-quantum security
+2. Set up environment variables for CGO bindings
+3. Build the Go API service with C library integration
+4. Start the Python content processor
+5. Launch the TypeScript frontend
+
+### Running Integration Tests
+
+To verify that the CGO bindings and integrations work correctly:
+
+```bash
+# Run integration tests
+./scripts/run_integration_tests.sh
+```
+
+This will:
+1. Build the C libraries if needed
+2. Run the Go tests that verify CGO bindings are working correctly
+3. Test the integration between Go and C cryptographic components
 
 ## API Documentation
 

@@ -1,0 +1,20 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -I../c/src
+LDFLAGS = -lm -lcrypto
+
+# Source files
+SRCDIR = ../c/src
+PQDIR = ../c/src/postquantum
+
+# Test executables
+PQ_CRYPTO_TEST = pq_crypto_tests
+
+.PHONY: all clean
+
+all: $(PQ_CRYPTO_TEST)
+
+$(PQ_CRYPTO_TEST): pq_crypto_tests.c $(PQDIR)/kyber.c $(PQDIR)/falcon.c $(PQDIR)/crypto_adapter.c $(SRCDIR)/quantum_zkp.c
+	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
+
+clean:
+	rm -f $(PQ_CRYPTO_TEST)

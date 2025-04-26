@@ -1,0 +1,62 @@
+2025-04-26 23:37:21,199 [INFO] Starting analysis of GDELT dataset in dataset_gdelt_large2
+2025-04-26 23:37:21,200 [INFO] Loading dataset...
+2025-04-26 23:37:21,200 [INFO] Loading dataset from dataset_gdelt_large2
+2025-04-26 23:37:21,265 [INFO] Loaded 6816 articles from dataset_gdelt_large2/all_articles.csv
+2025-04-26 23:37:21,265 [INFO] Loaded 40 themes from dataset_gdelt_large2/themes.json
+2025-04-26 23:37:21,266 [INFO] Loaded summary from dataset_gdelt_large2/summary.json
+2025-04-26 23:37:21,266 [INFO] Preprocessing articles...
+2025-04-26 23:37:21,267 [INFO] Preprocessing articles
+2025-04-26 23:37:21,318 [INFO] Preprocessing complete
+2025-04-26 23:37:21,319 [INFO] Analyzing theme distribution...
+2025-04-26 23:37:21,319 [INFO] Analyzing theme distribution
+2025-04-26 23:37:21,322 [INFO] Found 20 themes
+2025-04-26 23:37:21,322 [INFO] Analyzing theme correlations...
+2025-04-26 23:37:21,323 [INFO] Analyzing correlations between top 15 themes
+2025-04-26 23:37:21,342 [INFO] Generated 15 x 15 correlation matrix
+2025-04-26 23:37:21,343 [INFO] Analyzing theme trends over time...
+2025-04-26 23:37:21,343 [INFO] Analyzing theme trends over time
+2025-04-26 23:37:21,350 [INFO] Generated theme trends for 20 themes over 31 dates
+2025-04-26 23:37:21,351 [INFO] Analyzing time patterns...
+2025-04-26 23:37:21,351 [INFO] Analyzing time patterns
+2025-04-26 23:37:21,353 [INFO] Analyzed articles by date (31 dates)
+2025-04-26 23:37:21,354 [INFO] Analyzed articles by hour (24 hours)
+2025-04-26 23:37:21,356 [INFO] Analyzed articles by day of week (7 days)
+2025-04-26 23:37:21,357 [INFO] Analyzing time series...
+2025-04-26 23:37:21,357 [INFO] Analyzing time series with frequency 'D'
+2025-04-26 23:37:21,375 [INFO] Generated time series with 31 data points
+2025-04-26 23:37:21,376 [INFO] Analyzing publication delay...
+2025-04-26 23:37:21,377 [INFO] Analyzing publication delay
+2025-04-26 23:37:21,404 [INFO] Analyzed publication delay for 20 themes
+2025-04-26 23:37:21,405 [INFO] Analyzing domains...
+2025-04-26 23:37:21,405 [INFO] Analyzing domain distribution
+2025-04-26 23:37:21,406 [INFO] Analyzed top 20 domains
+2025-04-26 23:37:21,408 [INFO] Analyzed top 10 TLDs
+2025-04-26 23:37:21,408 [INFO] Analyzing languages...
+2025-04-26 23:37:21,408 [INFO] Analyzing language distribution
+2025-04-26 23:37:21,409 [INFO] Analyzed top 2 languages
+2025-04-26 23:37:21,410 [INFO] Analyzing countries...
+2025-04-26 23:37:21,410 [INFO] Analyzing source country distribution
+2025-04-26 23:37:21,411 [INFO] Analyzed top 15 countries
+2025-04-26 23:37:21,412 [INFO] Analyzing source diversity...
+2025-04-26 23:37:21,412 [INFO] Analyzing source diversity
+2025-04-26 23:37:21,416 [INFO] Calculated diversity metrics: {'total_articles': 6816, 'unique_domains': 1210, 'unique_countries': 99, 'unique_languages': 2, 'domain_concentration': np.float64(0.005669783814388679), 'country_concentration': np.float64(0.1345529160880778), 'language_concentration': np.float64(0.5018984948422933), 'domain_diversity': np.float64(0.9943302161856113), 'country_diversity': np.float64(0.8654470839119222), 'language_diversity': np.float64(0.4981015051577067)}
+2025-04-26 23:37:21,417 [INFO] Extracting keywords...
+2025-04-26 23:37:21,417 [INFO] Extracting keywords from article titles
+2025-04-26 23:37:22,852 [INFO] Extracted 100 keywords
+2025-04-26 23:37:22,853 [INFO] Building topic model...
+2025-04-26 23:37:22,853 [INFO] Building topic model with 10 topics
+2025-04-26 23:37:29,407 [INFO] Built topic model with 10 topics and 1000 features
+2025-04-26 23:37:29,407 [INFO] Extracting top 10 words for each topic
+2025-04-26 23:37:29,408 [INFO] Extracted top words for 10 topics
+2025-04-26 23:37:29,408 [INFO] Assigning topics to articles with threshold 0.3
+2025-04-26 23:37:30,072 [INFO] Assigned topics to 6816 articles
+2025-04-26 23:37:30,073 [INFO] Creating visualizations...
+2025-04-26 23:37:30,073 [INFO] Creating all visualizations
+2025-04-26 23:37:30,074 [INFO] Visualization style set up
+2025-04-26 23:37:30,074 [INFO] Creating theme distribution plot for top 20 themes
+2025-04-26 23:37:30,463 [INFO] Saved theme distribution plot to analysis_gdelt_advanced10/theme_distribution.png
+2025-04-26 23:37:30,463 [INFO] Creating time pattern plots
+2025-04-26 23:37:31,173 [INFO] Saved time pattern plots to analysis_gdelt_advanced10
+2025-04-26 23:37:31,173 [INFO] Creating source distribution plots
+2025-04-26 23:37:32,118 [INFO] Saved source distribution plots to analysis_gdelt_advanced10
+2025-04-26 23:37:32,118 [INFO] Creating theme correlation heatmap

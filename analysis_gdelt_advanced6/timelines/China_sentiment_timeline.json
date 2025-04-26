@@ -1,0 +1,52 @@
+{
+  "entity": "China",
+  "start_date": "2025-04-19",
+  "end_date": "2025-04-24",
+  "article_count": 14,
+  "sentiment_stats": {
+    "mean": 0.0,
+    "median": 0.0,
+    "min": 0.0,
+    "max": 0.0,
+    "std": 0.0,
+    "positive_count": 0,
+    "neutral_count": 14,
+    "negative_count": 0
+  },
+  "daily_sentiment": {
+    "2025-04-19": 0.0,
+    "2025-04-20": 0.0,
+    "2025-04-21": 0.0,
+    "2025-04-22": 0.0,
+    "2025-04-23": 0.0,
+    "2025-04-24": 0.0
+  },
+  "rolling_sentiment": {
+    "2025-04-19": 0.0,
+    "2025-04-20": 0.0,
+    "2025-04-21": 0.0,
+    "2025-04-22": 0.0,
+    "2025-04-23": 0.0,
+    "2025-04-24": 0.0
+  },
+  "source_sentiment": {
+    "americanmilitarynews.com": 0.0,
+    "asia.nikkei.com": 0.0,
+    "digitaljournal.com": 0.0,
+    "globalsecurity.org": 0.0,
+    "ibtimes.com": 0.0,
+    "khaama.com": 0.0,
+    "koreaherald.com": 0.0,
+    "manilatimes.net": 0.0,
+    "thehindu.com": 0.0,
+    "timesofindia.indiatimes.com": 0.0
+  },
+  "theme_sentiment": {
+    "AFFECT": 0.0,
+    "MARITIME": 0.0,
+    "MEDIA_SOCIAL": 0.0,
+    "MILITARY": 0.0,
+    "SECURITY_SERVICES": 0.0
+  },
+  "sentiment_chart": "analysis_gdelt_advanced6/timelines/China_sentiment_timeline.png"
+}
