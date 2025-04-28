@@ -1,0 +1,7 @@
+{
+  "positive_threshold": 0.8,
+  "negative_threshold": 0.2,
+  "neutral_range": 0.2868334983608954,
+  "title_weight": 0.8654167175640475,
+  "content_weight": 0.13458328243595252
+}

@@ -1,377 +1,495 @@
 {
   "theme_counts": [
     {
-      "theme_id": "LEADER",
-      "count": 400,
-      "description": "References to leadership figures"
+      "theme_id": "RECRUITMENT",
+      "count": 103,
+      "description": "Recruitment and hiring"
     },
     {
-      "theme_id": "MEDICAL",
-      "count": 400,
-      "description": "Medical topics and healthcare"
+      "theme_id": "RETIREMENT",
+      "count": 101,
+      "description": "Retirement and pension themes"
     },
     {
-      "theme_id": "SECURITY_SERVICES",
-      "count": 399,
-      "description": "Security and law enforcement services"
+      "theme_id": "TRAFFIC",
+      "count": 100,
+      "description": "Traffic and transportation flow"
     },
     {
-      "theme_id": "AFFECT",
-      "count": 399,
-      "description": "Emotional affect and sentiment"
+      "theme_id": "CONSTITUTIONAL",
+      "count": 99,
+      "description": "Constitutional and foundational legal themes"
     },
     {
-      "theme_id": "LEGISLATION",
-      "count": 398,
-      "description": "Legislative and legal themes"
+      "theme_id": "IDEOLOGY",
+      "count": 99,
+      "description": "Ideological and political philosophy themes"
     },
     {
-      "theme_id": "MARITIME",
-      "count": 397,
-      "description": "Maritime and naval themes"
-    },
-    {
-      "theme_id": "MEDIA_SOCIAL",
-      "count": 397,
-      "description": "Social media references"
-    },
-    {
-      "theme_id": "TRIAL",
-      "count": 397,
-      "description": "Legal trials and court proceedings"
-    },
-    {
-      "theme_id": "MILITARY",
-      "count": 397,
-      "description": "Military themes and references"
-    },
-    {
-      "theme_id": "ARREST",
-      "count": 396,
-      "description": "Arrests and detentions"
-    },
-    {
-      "theme_id": "TERROR",
-      "count": 395,
-      "description": "Terrorism-related themes"
-    },
-    {
-      "theme_id": "EDUCATION",
-      "count": 395,
-      "description": "Education-related themes"
-    },
-    {
-      "theme_id": "SCIENCE",
-      "count": 392,
-      "description": "Scientific themes and research"
+      "theme_id": "ALLIANCE",
+      "count": 98,
+      "description": "Alliances and partnerships"
     },
     {
       "theme_id": "PROTEST",
-      "count": 389,
+      "count": 98,
       "description": "Protest and demonstration themes"
     },
     {
-      "theme_id": "ELECTION",
-      "count": 388,
-      "description": "Election-related themes"
+      "theme_id": "UNEMPLOYMENT",
+      "count": 97,
+      "description": "Unemployment and joblessness"
     },
     {
-      "theme_id": "NATURAL_DISASTER",
-      "count": 342,
-      "description": "Natural disaster references"
+      "theme_id": "LEADER",
+      "count": 97,
+      "description": "References to leadership figures"
     },
     {
-      "theme_id": "GENERAL_GOVERNMENT",
-      "count": 273,
-      "description": "Government-related themes"
+      "theme_id": "RESIGNATION",
+      "count": 96,
+      "description": "Resignations from positions"
     },
     {
-      "theme_id": "GENERAL_HEALTH",
-      "count": 231,
-      "description": "Health-related themes"
+      "theme_id": "TRIAL",
+      "count": 96,
+      "description": "Legal trials and court proceedings"
     },
     {
-      "theme_id": "MOVEMENT_GENERAL",
-      "count": 27,
-      "description": "General movement and migration themes"
+      "theme_id": "REBELLION",
+      "count": 95,
+      "description": "Rebellion and insurgency"
     },
     {
-      "theme_id": "MEDIA_MSM",
-      "count": 4,
-      "description": "Mainstream media references"
+      "theme_id": "MEDICAL",
+      "count": 95,
+      "description": "Medical topics and healthcare"
+    },
+    {
+      "theme_id": "EVACUATION",
+      "count": 95,
+      "description": "Evacuation and emergency relocation"
+    },
+    {
+      "theme_id": "SMUGGLING",
+      "count": 94,
+      "description": "Smuggling and illicit trade"
+    },
+    {
+      "theme_id": "HARASSMENT",
+      "count": 94,
+      "description": "Harassment and intimidation"
+    },
+    {
+      "theme_id": "ARREST",
+      "count": 94,
+      "description": "Arrests and detentions"
+    },
+    {
+      "theme_id": "STRIKE",
+      "count": 93,
+      "description": "Labor strikes and work stoppages"
+    },
+    {
+      "theme_id": "SCANDAL",
+      "count": 93,
+      "description": "Scandals and controversies"
+    },
+    {
+      "theme_id": "PROPAGANDA",
+      "count": 92,
+      "description": "Propaganda and information warfare"
     }
   ],
   "date_counts": {
-    "2025-03-27": 22,
-    "2025-03-28": 257,
-    "2025-03-29": 151,
-    "2025-03-30": 100,
-    "2025-03-31": 229,
-    "2025-04-01": 221,
-    "2025-04-02": 288,
-    "2025-04-03": 338,
-    "2025-04-04": 222,
-    "2025-04-05": 183,
-    "2025-04-06": 150,
-    "2025-04-07": 216,
-    "2025-04-08": 300,
-    "2025-04-09": 314,
-    "2025-04-10": 283,
-    "2025-04-11": 235,
-    "2025-04-12": 265,
-    "2025-04-13": 158,
-    "2025-04-14": 185,
-    "2025-04-15": 240,
-    "2025-04-16": 259,
-    "2025-04-17": 304,
-    "2025-04-18": 281,
-    "2025-04-19": 147,
-    "2025-04-20": 120,
-    "2025-04-21": 159,
-    "2025-04-22": 199,
-    "2025-04-23": 265,
-    "2025-04-24": 205,
-    "2025-04-25": 346
+    "2025-04-21": 1559,
+    "2025-04-22": 2538,
+    "2025-04-23": 2261,
+    "2025-04-24": 2011,
+    "2025-04-25": 2560,
+    "2025-04-26": 1696,
+    "2025-04-27": 1668,
+    "2025-04-28": 473
   },
   "hour_counts": {
-    "0": 195,
-    "1": 227,
-    "2": 212,
-    "3": 138,
-    "4": 253,
-    "5": 261,
-    "6": 261,
-    "7": 274,
-    "8": 275,
-    "9": 336,
-    "10": 335,
-    "11": 335,
-    "12": 299,
-    "13": 307,
-    "14": 366,
-    "15": 336,
-    "16": 385,
-    "17": 365,
-    "18": 381,
-    "19": 260,
-    "20": 301,
-    "21": 231,
-    "22": 243,
-    "23": 240
+    "0": 359,
+    "1": 619,
+    "2": 710,
+    "3": 484,
+    "4": 702,
+    "5": 661,
+    "6": 484,
+    "7": 582,
+    "8": 628,
+    "9": 833,
+    "10": 815,
+    "11": 699,
+    "12": 690,
+    "13": 710,
+    "14": 561,
+    "15": 682,
+    "16": 654,
+    "17": 622,
+    "18": 750,
+    "19": 529,
+    "20": 694,
+    "21": 489,
+    "22": 391,
+    "23": 418
   },
   "day_counts": {
-    "Monday": 789,
-    "Tuesday": 960,
-    "Wednesday": 1126,
-    "Thursday": 1152,
-    "Friday": 1341,
-    "Saturday": 920,
-    "Sunday": 528
+    "Monday": 2032,
+    "Tuesday": 2538,
+    "Wednesday": 2261,
+    "Thursday": 2011,
+    "Friday": 2560,
+    "Saturday": 1696,
+    "Sunday": 1668
   },
   "domain_counts": {
-    "yahoo.com": 296,
-    "fr.allafrica.com": 171,
-    "sudouest.fr": 137,
-    "zonebourse.com": 105,
-    "timesofindia.indiatimes.com": 78,
-    "lemonde.fr": 66,
-    "thehindu.com": 62,
-    "bfmtv.com": 58,
-    "journaldemontreal.com": 58,
-    "aninews.in": 55,
-    "hindustantimes.com": 53,
-    "businessnews.com.tn": 50,
-    "ladepeche.fr": 49,
-    "francetvinfo.fr": 47,
-    "20minutes.fr": 46,
-    "lapresse.ca": 45,
-    "news.webindia123.com": 44,
-    "malijet.com": 43,
-    "leprogres.fr": 42,
-    "leparisien.fr": 42
+    "dostor.org": 231,
+    "biz.heraldcorp.com": 184,
+    "ansa.it": 153,
+    "vetogate.com": 138,
+    "yahoo.com": 122,
+    "g1.globo.com": 115,
+    "newspim.com": 108,
+    "finance.sina.com.cn": 99,
+    "mainichi.jp": 97,
+    "zonebourse.com": 94,
+    "163.com": 94,
+    "merkur.de": 91,
+    "cna.com.tw": 84,
+    "hani.co.kr": 82,
+    "fr.allafrica.com": 79,
+    "larepublica.pe": 78,
+    "ria.ru": 76,
+    "tass.ru": 73,
+    "jp.reuters.com": 69,
+    "finanznachrichten.de": 65
   },
   "language_counts": {
-    "English": 3618,
-    "French": 3198
+    "English": 1749,
+    "Spanish": 1609,
+    "German": 1516,
+    "Russian": 1477,
+    "Chinese": 1426,
+    "French": 1424,
+    "Italian": 1388,
+    "Arabic": 1354,
+    "Portuguese": 1234,
+    "Japanese": 833
   },
   "country_counts": {
-    "France": 1683,
-    "United States": 1583,
-    "India": 683,
-    "Canada": 403,
-    "Nigeria": 320,
-    "United Kingdom": 255,
-    "China": 136,
-    "Tunisia": 129,
-    "Belgium": 111,
-    "Mali": 101,
-    "Pakistan": 98,
-    "Senegal": 80,
-    "Switzerland": 73,
-    "Morocco": 67,
-    "Democratic Republic of the Congo": 64
+    "Italy": 1288,
+    "Germany": 1186,
+    "China": 1121,
+    "Russia": 1077,
+    "United States": 1050,
+    "Brazil": 966,
+    "France": 818,
+    "Japan": 738,
+    "South Korea": 669,
+    "Egypt": 515,
+    "Spain": 439,
+    "Taiwan": 375,
+    "India": 286,
+    "Mexico": 282,
+    "Austria": 242
   },
   "source_diversity": {
-    "total_articles": 6816,
-    "unique_domains": 1210,
-    "unique_countries": 99,
-    "unique_languages": 2,
-    "domain_concentration": 0.005669783814388679,
-    "country_concentration": 0.1345529160880778,
-    "language_concentration": 0.5018984948422933,
-    "domain_diversity": 0.9943302161856113,
-    "country_diversity": 0.8654470839119222,
-    "language_diversity": 0.4981015051577067
+    "total_articles": 14766,
+    "unique_domains": 2505,
+    "unique_countries": 122,
+    "unique_languages": 11,
+    "domain_concentration": 0.002180147829275439,
+    "country_concentration": 0.04768079727619206,
+    "language_concentration": 0.09510850646215323,
+    "domain_diversity": 0.9978198521707246,
+    "country_diversity": 0.952319202723808,
+    "language_diversity": 0.9048914935378468
   },
+  "theme_sentiment": [
+    {
+      "theme_id": "INFRASTRUCTURE_BAD_ROADS",
+      "sentiment_polarity_mean": 0.2,
+      "sentiment_polarity_std": NaN,
+      "sentiment_polarity_min": 0.2,
+      "sentiment_polarity_max": 0.2,
+      "sentiment_polarity_count": 1,
+      "sentiment_subjectivity_mean": 0.2,
+      "sentiment_subjectivity_std": NaN,
+      "sentiment_subjectivity_min": 0.2,
+      "sentiment_subjectivity_max": 0.2,
+      "theme_description": "Poor road infrastructure"
+    },
+    {
+      "theme_id": "HEALTH_PANDEMIC",
+      "sentiment_polarity_mean": 0.12272727272727273,
+      "sentiment_polarity_std": 0.24009295720444102,
+      "sentiment_polarity_min": 0.0,
+      "sentiment_polarity_max": 0.6,
+      "sentiment_polarity_count": 6,
+      "sentiment_subjectivity_mean": 0.2090909090909091,
+      "sentiment_subjectivity_std": 0.341847194126603,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.8,
+      "theme_description": "Pandemic and widespread disease themes"
+    },
+    {
+      "theme_id": "TECH_AUTOMATION",
+      "sentiment_polarity_mean": 0.11212121212121212,
+      "sentiment_polarity_std": 0.10218009272780221,
+      "sentiment_polarity_min": 0.0,
+      "sentiment_polarity_max": 0.2,
+      "sentiment_polarity_count": 3,
+      "sentiment_subjectivity_mean": 0.3265151515151515,
+      "sentiment_subjectivity_std": 0.17663541227772933,
+      "sentiment_subjectivity_min": 0.125,
+      "sentiment_subjectivity_max": 0.45454545454545453,
+      "theme_description": "Automation and technological displacement"
+    },
+    {
+      "theme_id": "DRONES",
+      "sentiment_polarity_mean": 0.09000000000000001,
+      "sentiment_polarity_std": 0.250499500997507,
+      "sentiment_polarity_min": 0.0,
+      "sentiment_polarity_max": 0.8,
+      "sentiment_polarity_count": 65,
+      "sentiment_subjectivity_mean": 0.10076923076923076,
+      "sentiment_subjectivity_std": 0.2815265734144142,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.9,
+      "theme_description": "Drone technology and unmanned vehicles"
+    },
+    {
+      "theme_id": "DISCRIMINATION_RACE",
+      "sentiment_polarity_mean": 0.06071428571428572,
+      "sentiment_polarity_std": 0.14990076082274598,
+      "sentiment_polarity_min": 0.0,
+      "sentiment_polarity_max": 0.4,
+      "sentiment_polarity_count": 7,
+      "sentiment_subjectivity_mean": 0.22142857142857145,
+      "sentiment_subjectivity_std": 0.37843663368427444,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.8,
+      "theme_description": "Racial discrimination"
+    },
+    {
+      "theme_id": "VANDALIZE",
+      "sentiment_polarity_mean": 0.03704761904761905,
+      "sentiment_polarity_std": 0.14504944813279408,
+      "sentiment_polarity_min": -0.10714285714285714,
+      "sentiment_polarity_max": 0.43333333333333335,
+      "sentiment_polarity_count": 25,
+      "sentiment_subjectivity_mean": 0.13904761904761906,
+      "sentiment_subjectivity_std": 0.2680449077344286,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.8333333333333334,
+      "theme_description": "Vandalism and property destruction"
+    },
+    {
+      "theme_id": "POLITICAL_TURMOIL",
+      "sentiment_polarity_mean": 0.032499999999999994,
+      "sentiment_polarity_std": 0.11995755422154462,
+      "sentiment_polarity_min": -0.2,
+      "sentiment_polarity_max": 0.5,
+      "sentiment_polarity_count": 28,
+      "sentiment_subjectivity_mean": 0.08178571428571428,
+      "sentiment_subjectivity_std": 0.2087716025003928,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.9,
+      "theme_description": "Political instability and turmoil"
+    },
+    {
+      "theme_id": "NEW_CONSTRUCTION",
+      "sentiment_polarity_mean": 0.03118371212121212,
+      "sentiment_polarity_std": 0.13563589447040073,
+      "sentiment_polarity_min": -0.125,
+      "sentiment_polarity_max": 1.0,
+      "sentiment_polarity_count": 80,
+      "sentiment_subjectivity_mean": 0.04943181818181818,
+      "sentiment_subjectivity_std": 0.15594830721099429,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.9,
+      "theme_description": "New construction and development"
+    },
+    {
+      "theme_id": "LEADER",
+      "sentiment_polarity_mean": 0.026772883473914405,
+      "sentiment_polarity_std": 0.10329443630191859,
+      "sentiment_polarity_min": 0.0,
+      "sentiment_polarity_max": 0.5,
+      "sentiment_polarity_count": 97,
+      "sentiment_subjectivity_mean": 0.03801155888784755,
+      "sentiment_subjectivity_std": 0.14629546882810343,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.8,
+      "theme_description": "References to leadership figures"
+    },
+    {
+      "theme_id": "ORGANIZED_CRIME",
+      "sentiment_polarity_mean": 0.026035353535353533,
+      "sentiment_polarity_std": 0.11392157041398937,
+      "sentiment_polarity_min": -0.05,
+      "sentiment_polarity_max": 0.6,
+      "sentiment_polarity_count": 60,
+      "sentiment_subjectivity_mean": 0.04759469696969697,
+      "sentiment_subjectivity_std": 0.16630755226225893,
+      "sentiment_subjectivity_min": 0.0,
+      "sentiment_subjectivity_max": 0.9,
+      "theme_description": "Organized crime and criminal networks"
+    }
+  ],
   "topics": [
     {
       "topic_id": 1,
       "top_words": [
-        "maritime",
-        "china",
-        "cut",
-        "funding",
-        "d\u00e9serts",
-        "trump",
-        "m\u00e9dicaux",
-        "research",
-        "united",
-        "tariff"
+        "\u570b\u969b",
+        "nach",
+        "gegen",
+        "ein",
+        "say",
+        "day",
+        "india",
+        "papst",
+        "\u043f\u043e\u0441\u043b\u0435",
+        "pakistan"
       ]
     },
     {
       "topic_id": 2,
       "top_words": [
-        "arrest",
-        "judge",
-        "watch",
-        "science",
-        "time",
-        "best",
-        "one",
-        "fbi",
-        "live",
-        "free"
+        "\u043d\u0430",
+        "\u4e2d\u534e\u7f51",
+        "\u0639\u0644\u0649",
+        "\u0645\u0639",
+        "\u519b\u4e8b\u9891\u9053",
+        "\u0641\u064a",
+        "\u043e\u0431\u043b\u0430\u0441\u0442\u0438",
+        "\u751f\u6d3b",
+        "\u0645\u0646",
+        "\u0627\u0644\u0646\u064a\u0644\u064a\u0646"
       ]
     },
     {
       "topic_id": 3,
       "top_words": [
-        "terror",
-        "attack",
-        "school",
-        "india",
-        "police",
-        "protest",
-        "news",
-        "bill",
-        "report",
-        "medical"
+        "der",
+        "f\u00fcr",
+        "und",
+        "im",
+        "die",
+        "von",
+        "\u671d\u65e5\u65b0\u805e",
+        "mit",
+        "auf",
+        "news"
       ]
     },
     {
       "topic_id": 4,
       "top_words": [
-        "de",
-        "la",
-        "le",
-        "et",
-        "en",
-        "du",
-        "sur",
-        "un",
-        "pour",
-        "une"
+        "da",
+        "papa",
+        "di",
+        "notizie",
+        "il",
+        "francesco",
+        "della",
+        "\u65b0\u95fb\u9891\u9053",
+        "per",
+        "non"
       ]
     },
     {
       "topic_id": 5,
       "top_words": [
-        "trump",
-        "de",
-        "garcia",
-        "abrego",
-        "law",
-        "judge",
-        "administration",
-        "divoire",
-        "c\u00f4te",
-        "return"
+        "\u043f\u043e",
+        "\u0437\u0430",
+        "\u043d\u0430",
+        "\u0438\u0437",
+        "\u0434\u043b\u044f",
+        "\u043d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "\u0440\u043e\u0441\u0441\u0438\u0438",
+        "\u043d\u0435",
+        "\u0441\u0448\u0430",
+        "\u0440\u0444"
       ]
     },
     {
       "topic_id": 6,
       "top_words": [
-        "education",
-        "leader",
-        "election",
-        "trump",
-        "debate",
-        "federal",
-        "say",
-        "national",
-        "protest",
-        "canada"
+        "de",
+        "le",
+        "la",
+        "du",
+        "et",
+        "un",
+        "en",
+        "pour",
+        "une",
+        "au"
       ]
     },
     {
       "topic_id": 7,
       "top_words": [
         "de",
-        "le",
-        "la",
-        "du",
-        "un",
-        "pour",
         "en",
-        "et",
-        "une",
-        "au"
+        "la",
+        "el",
+        "para",
+        "que",
+        "del",
+        "por",
+        "los",
+        "con"
       ]
     },
     {
       "topic_id": 8,
       "top_words": [
-        "de",
-        "le",
+        "di",
+        "\u0641\u064a",
+        "il",
+        "per",
+        "\u65b0\u534e\u7f51",
         "la",
-        "un",
-        "en",
-        "une",
-        "du",
-        "pour",
-        "et",
-        "chef"
+        "ai",
+        "nel",
+        "gli",
+        "al"
       ]
     },
     {
       "topic_id": 9,
       "top_words": [
-        "medical",
-        "election",
-        "trial",
-        "student",
-        "could",
+        "\u0645\u0646",
+        "\u0639\u0646",
         "new",
-        "county",
-        "april",
-        "show",
-        "city"
+        "\u0641\u064a",
+        "\u30b9\u30dd\u30cb\u30c1",
+        "year",
+        "ap\u00f3s",
+        "health",
+        "time",
+        "na"
       ]
     },
     {
       "topic_id": 10,
       "top_words": [
-        "military",
-        "rana",
-        "tahawwur",
-        "health",
-        "trump",
-        "court",
-        "case",
-        "trial",
-        "fire",
-        "war"
+        "em",
+        "com",
+        "de",
+        "\u0641\u064a",
+        "\u0645\u0635\u0631",
+        "\u0627\u0644\u064a\u0648\u0645",
+        "da",
+        "\u063a\u0632\u0629",
+        "\u0625\u0644\u0649",
+        "social"
       ]
     }
   ]

@@ -1,0 +1,10 @@
+# hydranews/identity
+identity/hydra_cgo.go:95:27: could not determine what C.HYDRA_FALCON_PUBLIC_KEY_BYTES refers to
+identity/hydra_cgo.go:96:28: could not determine what C.HYDRA_FALCON_SECRET_KEY_BYTES refers to
+identity/hydra_cgo.go:118:28: could not determine what C.HYDRA_FALCON_SIGNATURE_MAX_BYTES refers to
+identity/hydra_cgo.go:169:29: could not determine what C.HYDRA_KYBER_CIPHERTEXT_BYTES refers to
+identity/hydra_cgo.go:76:27: could not determine what C.HYDRA_KYBER_PUBLIC_KEY_BYTES refers to
+identity/hydra_cgo.go:77:28: could not determine what C.HYDRA_KYBER_SECRET_KEY_BYTES refers to
+identity/hydra_cgo.go:168:31: could not determine what C.HYDRA_KYBER_SHARED_SECRET_BYTES refers to
+FAIL	hydranews/consensus [build failed]
+FAIL

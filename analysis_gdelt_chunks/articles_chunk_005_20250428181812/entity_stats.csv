@@ -1,0 +1,45 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Iran,LOCATION,2,2,1.0,0.24
+Hamburg,LOCATION,1,1,1.0,0.12
+Wall Street Journal,ORGANIZATION,1,1,1.0,0.12
+Wall Street,LOCATION,1,1,1.0,0.12
+Israel,LOCATION,1,1,1.0,0.12
+Russia,LOCATION,1,1,1.0,0.12
+Guerra Russia,PERSON,1,1,1.0,0.12
+La Casa Bianca,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Da Milano,PERSON,1,1,1.0,0.12
+Hugo Motta,PERSON,1,1,1.0,0.12
+Deputado Davi,PERSON,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+Mumbai,LOCATION,1,1,1.0,0.12
+Mumbai News,PERSON,1,1,1.0,0.12
+Delhi,LOCATION,3,3,1.0,0.36
+On Ghodbunder Road,LOCATION,1,1,1.0,0.12
+Thane Traffic Alert,PERSON,1,1,1.0,0.12
+Due To Ongoing,PERSON,1,1,1.0,0.12
+Repairs And Vehicle,PERSON,1,1,1.0,0.12
+In Ghaziabad,PERSON,1,1,1.0,0.12
+Noida News,PERSON,1,1,1.0,0.12
+Vice President,PERSON,2,2,1.0,0.24
+Traffic Mein Bhi,PERSON,1,1,1.0,0.12
+Indore Ko No,PERSON,1,1,1.0,0.12
+Sings At Geeta,PERSON,1,1,1.0,0.12
+Bhawan Signal To,PERSON,1,1,1.0,0.12
+Create Public Awareness,PERSON,1,1,1.0,0.12
+Heavy Traffic Snarls,PERSON,1,1,1.0,0.12
+Across Delhi Over,PERSON,1,1,1.0,0.12
+Vance Visit,PERSON,1,1,1.0,0.12
+Mobility News,PERSON,1,1,1.0,0.12
+Lahore,LOCATION,1,1,1.0,0.12
+Lahore Traffic Police,PERSON,1,1,1.0,0.12
+Roche,ORGANIZATION,1,1,1.0,0.12
+La Roche,PERSON,1,1,1.0,0.12
+Kinshasa,LOCATION,3,3,1.0,0.36
+Congo,LOCATION,1,1,1.0,0.12
+Paris,LOCATION,1,1,1.0,0.12
+San Pedro Sula,PERSON,1,1,1.0,0.12
+Semana Santa,PERSON,2,2,1.0,0.24
+Barcelona,LOCATION,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+Epoch Times,PERSON,1,1,1.0,0.12

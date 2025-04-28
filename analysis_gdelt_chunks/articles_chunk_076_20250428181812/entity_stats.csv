@@ -1,0 +1,45 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Bot Express,PERSON,1,1,1.0,0.12
+Israel,LOCATION,1,1,1.0,0.12
+Beirut,LOCATION,1,1,1.0,0.12
+New Jersey,PERSON,3,2,0.6666666666666666,0.26
+Nord America,PERSON,1,1,1.0,0.12
+Smoothly To Stabler,PERSON,1,1,1.0,0.12
+Missing Years In,PERSON,1,1,1.0,0.12
+Nike,ORGANIZATION,1,1,1.0,0.12
+Organized Crime,PERSON,4,4,1.0,0.48
+Organized Crime Is,PERSON,1,1,1.0,0.12
+Leaning Into More,PERSON,1,1,1.0,0.12
+Of What Viewers,PERSON,1,1,1.0,0.12
+Douane Camerounaise Saisit,PERSON,1,1,1.0,0.12
+Plano,LOCATION,1,1,1.0,0.12
+Piedras Negras,PERSON,1,1,1.0,0.12
+San Pedro Sula,PERSON,1,1,1.0,0.12
+Edickson Herrera,PERSON,1,1,1.0,0.12
+Caso Venecia,PERSON,1,1,1.0,0.12
+Daniel Salcedo,PERSON,1,1,1.0,0.12
+Franklin Lara,PERSON,1,1,1.0,0.12
+Die Welt,PERSON,1,1,1.0,0.12
+Ex Borghetto,PERSON,1,1,1.0,0.12
+Josi Della Ragione,PERSON,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Tom Hardy,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Don Ciotti,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Luigi De Magistris,PERSON,1,1,1.0,0.12
+Poteri Occulti,PERSON,1,1,1.0,0.12
+Bruno Salles Ribeiro,PERSON,1,1,1.0,0.12
+Latin America,PERSON,6,6,1.0,0.72
+Biotech Investors,PERSON,1,1,1.0,0.12
+Latin America Untapped,PERSON,1,1,1.0,0.12
+Innovation Potential,PERSON,1,1,1.0,0.12
+Greg Grandin,PERSON,1,1,1.0,0.12
+La Fama  Sets,PERSON,1,1,1.0,0.12
+Adriel Favela,PERSON,1,1,1.0,0.12
+Horacio Palencia As,PERSON,1,1,1.0,0.12
+Judges For Telemundo,PERSON,1,1,1.0,0.12
+American Development Bank,ORGANIZATION,1,1,1.0,0.12
+Banco Santa Cruz,PERSON,1,1,1.0,0.12
+Unidad Minera,PERSON,1,1,1.0,0.12

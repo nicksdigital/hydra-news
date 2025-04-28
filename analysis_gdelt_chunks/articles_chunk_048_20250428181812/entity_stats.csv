@@ -1,0 +1,23 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Piedras Negras,PERSON,2,1,0.5,0.13999999999999999
+Diario Hoy En,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+Physician Assistants,PERSON,2,1,0.5,0.13999999999999999
+Ungenutzte Chance,PERSON,2,1,0.5,0.13999999999999999
+Intel,ORGANIZATION,2,2,1.0,0.24
+Bollini Rosa,PERSON,1,1,1.0,0.12
+Polizia Stradale,PERSON,1,1,1.0,0.12
+Gad Lerner,PERSON,1,1,1.0,0.12
+Il Fatto,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,1,1,1.0,0.12
+Rudy Zerbi,PERSON,1,1,1.0,0.12
+Barra Da Rocha,PERSON,1,1,1.0,0.12
+Rio De Pires,PERSON,1,1,1.0,0.12
+Iran,LOCATION,3,3,1.0,0.36
+Evotec Aktie,PERSON,1,1,1.0,0.12
+Siemens,ORGANIZATION,1,1,1.0,0.12
+Airbus,ORGANIZATION,1,1,1.0,0.12
+Deutsche Telekom,PERSON,1,1,1.0,0.12
+Siemens Energy,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Hackingversuch Chinas,PERSON,1,1,1.0,0.12

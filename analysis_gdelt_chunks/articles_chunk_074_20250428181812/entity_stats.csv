@@ -1,0 +1,59 @@
+entity,type,count,num_sources,source_diversity,trust_score
+San Juan,PERSON,1,1,1.0,0.12
+Ecuador,LOCATION,1,1,1.0,0.12
+Guayaquil Ecuador,PERSON,1,1,1.0,0.12
+Nordstadt Session,PERSON,1,1,1.0,0.12
+Die Stimme,PERSON,1,1,1.0,0.12
+Im Bauch,PERSON,1,1,1.0,0.12
+Dramatischer Heimsieg,PERSON,1,1,1.0,0.12
+Der Fall,PERSON,1,1,1.0,0.12
+Kirchdorfer Theater,PERSON,1,1,1.0,0.12
+Tradimento Anticipazioni,PERSON,2,2,1.0,0.24
+Milan,LOCATION,2,2,1.0,0.24
+Lex Bologna Savoldi,PERSON,1,1,1.0,0.12
+Se Italiano,PERSON,2,2,1.0,0.24
+Can Zelis,PERSON,1,1,1.0,0.12
+Nuovi Episodi,PERSON,1,1,1.0,0.12
+Beleza Fatal,PERSON,1,1,1.0,0.12
+Tribuna Online,PERSON,1,1,1.0,0.12
+CNN,ORGANIZATION,1,1,1.0,0.12
+Hold On,PERSON,1,1,1.0,0.12
+Host Smacks Down,PERSON,1,1,1.0,0.12
+Byron Donald Hegseth,PERSON,1,1,1.0,0.12
+Post Office,PERSON,1,1,1.0,0.12
+Capitol Hill,ORGANIZATION,1,1,1.0,0.12
+Senate,ORGANIZATION,1,1,1.0,0.12
+From Capitol Hill,LOCATION,1,1,1.0,0.12
+The  Senate Twink,PERSON,1,1,1.0,0.12
+Opens Up,PERSON,1,1,1.0,0.12
+Washington,LOCATION,1,1,1.0,0.12
+We Need,PERSON,1,1,1.0,0.12
+Kerry Washington,PERSON,1,1,1.0,0.12
+Tony Goldwyn Onscreen,PERSON,1,1,1.0,0.12
+Norway,LOCATION,1,1,1.0,0.12
+Crown Princess Mette,PERSON,1,1,1.0,0.12
+Pope Franci,PERSON,1,1,1.0,0.12
+Marius Borg,PERSON,1,1,1.0,0.12
+Infected Blood Inquiry,PERSON,1,1,1.0,0.12
+Parliament,ORGANIZATION,1,1,1.0,0.12
+Marseille,LOCATION,1,1,1.0,0.12
+Pierre Huguet,PERSON,1,1,1.0,0.12
+Marion Bareille,PERSON,1,1,1.0,0.12
+Les Suisses,PERSON,1,1,1.0,0.12
+Affaire Caritas,PERSON,1,1,1.0,0.12
+Pentagon,ORGANIZATION,1,1,1.0,0.12
+San Lorenzo,PERSON,5,5,1.0,0.6
+Marcelo Moretti,PERSON,1,1,1.0,0.12
+Rosario Central,PERSON,1,1,1.0,0.12
+Poder Judicial,PERSON,1,1,1.0,0.12
+Volkswagen,ORGANIZATION,1,1,1.0,0.12
+Chiqui  Tapia,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Weitere Ermittlungen,PERSON,1,1,1.0,0.12
+Jeffrey Epstein,PERSON,2,2,1.0,0.24
+Missbrauchsopfer Virginia Giuffre,PERSON,2,2,1.0,0.24
+Neue Einzelheiten,PERSON,1,1,1.0,0.12
+Papst Franzisku Sarg,PERSON,1,1,1.0,0.12
+Neue Details,PERSON,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+BBC,ORGANIZATION,1,1,1.0,0.12

@@ -1,0 +1,37 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Jal Jeevan Mission,PERSON,1,1,1.0,0.12
+Bhaskar Bhagare,PERSON,1,1,1.0,0.12
+Mangaluru News,PERSON,1,1,1.0,0.12
+Delhi,LOCATION,1,1,1.0,0.12
+South Delhi,PERSON,1,1,1.0,0.12
+Flint Water Crisis,PERSON,1,1,1.0,0.12
+Goa News,PERSON,1,1,1.0,0.12
+Jacinthe Campagna,PERSON,1,1,1.0,0.12
+Israel,LOCATION,1,1,1.0,0.12
+Ifat Ovadia,PERSON,1,1,1.0,0.12
+Canicatti Web Notizie,PERSON,1,1,1.0,0.12
+Domenico Russo,PERSON,1,1,1.0,0.12
+Peter Dutton,PERSON,2,2,1.0,0.24
+Sweden,LOCATION,1,1,1.0,0.12
+Somalia,LOCATION,2,2,1.0,0.24
+Cloud Completes Airstar Bank,ORGANIZATION,1,1,1.0,0.12
+More Agile Digital Bank,ORGANIZATION,1,1,1.0,0.12
+More Agile Digital,PERSON,1,1,1.0,0.12
+Free Mobile,PERSON,4,2,0.5,0.27999999999999997
+Free Days,PERSON,1,1,1.0,0.12
+Free Proxi,PERSON,1,1,1.0,0.12
+Freebox Pop,PERSON,1,1,1.0,0.12
+Que Choisir,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Schweizer Namen,PERSON,1,1,1.0,0.12
+Neue Richtlinie,PERSON,1,1,1.0,0.12
+Trumps Migrationspolitik,PERSON,2,2,1.0,0.24
+Deutschen Zugewanderte,PERSON,1,1,1.0,0.12
+Boris Palmer,PERSON,1,1,1.0,0.12
+Markus Lanz,PERSON,1,1,1.0,0.12
+Traumschleife Soonwald,PERSON,1,1,1.0,0.12
+Von Mengerschied,PERSON,1,1,1.0,0.12
+Google,ORGANIZATION,1,1,1.0,0.12
+Google Axion,PERSON,1,1,1.0,0.12

@@ -1,0 +1,9 @@
+{
+  "min_entity_length": 1,
+  "max_entity_length": 7,
+  "min_entity_count": 1,
+  "person_weight": 1.34541013060416,
+  "org_weight": 0.7786501280010889,
+  "loc_weight": 0.9028167736432609,
+  "context_window": 5
+}

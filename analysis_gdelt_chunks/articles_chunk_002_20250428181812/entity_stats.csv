@@ -1,0 +1,29 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Amadou Ba,PERSON,1,1,1.0,0.12
+Affaire Bukanga,PERSON,1,1,1.0,0.12
+Augustin Matata Ponyo,PERSON,1,1,1.0,0.12
+Tall Sall,PERSON,1,1,1.0,0.12
+Takku Wallu,PERSON,1,1,1.0,0.12
+Pedro Castillo,PERSON,2,1,0.5,0.13999999999999999
+Patricia Benavides,PERSON,3,3,1.0,0.36
+Dina Boluarte,PERSON,1,1,1.0,0.12
+Freie Stelle,PERSON,1,1,1.0,0.12
+Jobs Act,PERSON,1,1,1.0,0.12
+Action Over Tonse Alliance,ORGANIZATION,1,1,1.0,0.12
+Zambia,LOCATION,3,1,0.3333333333333333,0.16
+Disciplinary Action Over,PERSON,1,1,1.0,0.12
+Tonse Alliance,ORGANIZATION,1,1,1.0,0.12
+Tatters Amid Explosive,PERSON,1,1,1.0,0.12
+Lubinda Accused,PERSON,1,1,1.0,0.12
+Socialist Party,ORGANIZATION,1,1,1.0,0.12
+Hijack Tonse Alliance,ORGANIZATION,1,1,1.0,0.12
+Animal Alliance,ORGANIZATION,1,1,1.0,0.12
+Canada,LOCATION,1,1,1.0,0.12
+Long  No Pets,PERSON,1,1,1.0,0.12
+Research  Campaign,PERSON,1,1,1.0,0.12
+World Day,PERSON,1,1,1.0,0.12
+Labor Day,PERSON,1,1,1.0,0.12
+Ile Maurice,PERSON,2,1,0.5,0.13999999999999999
+Disney,ORGANIZATION,1,1,1.0,0.12
+Suren Dayal,PERSON,1,1,1.0,0.12
+Mali,LOCATION,1,1,1.0,0.12

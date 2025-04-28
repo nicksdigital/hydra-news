@@ -1,30 +1,30 @@
-# GDELT News Dataset Analysis (1 month)
+# GDELT News Dataset Analysis (7d)
 
 ## Dataset Summary
 
-- **Total Articles**: 6816
-- **Total Themes**: 20
-- **Date Range**: 20250327T224500Z to 20250426T223000Z (1 month)
-- **Languages**: English, French
-- **Dataset Size**: 0.07 GB (estimated)
-- **Fetch Date**: 2025-04-26 22:37:03
+- **Total Articles**: 14766
+- **Total Themes**: 111
+- **Date Range**: Unknown to Unknown (7d)
+- **Languages**: English, Spanish, German, Russian, Chinese
+- **Dataset Size**: 0.14 GB (estimated)
+- **Fetch Date**: 2025-04-28 06:45:54
 
 ## Theme Distribution
 
-The dataset contains articles from 20 different themes. The top 10 themes are:
+The dataset contains articles from 111 different themes. The top 10 themes are:
 
 | Theme | Description | Count |
 |-------|-------------|-------|
-| LEADER | References to leadership figures | 400 |
-| MEDICAL | Medical topics and healthcare | 400 |
-| SECURITY_SERVICES | Security and law enforcement services | 399 |
-| AFFECT | Emotional affect and sentiment | 399 |
-| LEGISLATION | Legislative and legal themes | 398 |
-| MARITIME | Maritime and naval themes | 397 |
-| MEDIA_SOCIAL | Social media references | 397 |
-| TRIAL | Legal trials and court proceedings | 397 |
-| MILITARY | Military themes and references | 397 |
-| ARREST | Arrests and detentions | 396 |
+| RECRUITMENT | Recruitment and hiring | 103 |
+| RETIREMENT | Retirement and pension themes | 101 |
+| TRAFFIC | Traffic and transportation flow | 100 |
+| CONSTITUTIONAL | Constitutional and foundational legal themes | 99 |
+| IDEOLOGY | Ideological and political philosophy themes | 99 |
+| ALLIANCE | Alliances and partnerships | 98 |
+| PROTEST | Protest and demonstration themes | 98 |
+| UNEMPLOYMENT | Unemployment and joblessness | 97 |
+| LEADER | References to leadership figures | 97 |
+| RESIGNATION | Resignations from positions | 96 |
 
 ## Temporal Analysis
 
@@ -54,16 +54,16 @@ The top 10 domains by article count:
 
 | Domain | Count |
 |--------|-------|
-| yahoo.com | 296 |
-| fr.allafrica.com | 171 |
-| sudouest.fr | 137 |
-| zonebourse.com | 105 |
-| timesofindia.indiatimes.com | 78 |
-| lemonde.fr | 66 |
-| thehindu.com | 62 |
-| bfmtv.com | 58 |
-| journaldemontreal.com | 58 |
-| aninews.in | 55 |
+| dostor.org | 231 |
+| biz.heraldcorp.com | 184 |
+| ansa.it | 153 |
+| vetogate.com | 138 |
+| yahoo.com | 122 |
+| g1.globo.com | 115 |
+| newspim.com | 108 |
+| finance.sina.com.cn | 99 |
+| mainichi.jp | 97 |
+| zonebourse.com | 94 |
 
 ### Top TLDs
 
@@ -71,11 +71,11 @@ The top 5 top-level domains:
 
 | TLD | Count |
 |-----|-------|
-| com | 4022 |
-| fr | 1023 |
-| net | 287 |
-| uk | 213 |
-| org | 139 |
+| com | 5648 |
+| de | 1095 |
+| it | 1092 |
+| ru | 930 |
+| br | 732 |
 
 ### Language Distribution
 
@@ -95,12 +95,12 @@ The diversity of news sources in the dataset:
 
 | Metric | Value |
 |--------|-------|
-| Unique Domains | 1210 |
-| Unique Countries | 99 |
-| Unique Languages | 2 |
-| Domain Diversity Index | 0.9943 |
-| Country Diversity Index | 0.8654 |
-| Language Diversity Index | 0.4981 |
+| Unique Domains | 2505 |
+| Unique Countries | 122 |
+| Unique Languages | 11 |
+| Domain Diversity Index | 0.9978 |
+| Country Diversity Index | 0.9523 |
+| Language Diversity Index | 0.9049 |
 
 ## Theme Relationships
 
@@ -108,49 +108,81 @@ The correlation between the top themes:
 
 ![Theme Correlation](theme_correlation.png)
 
+## Sentiment Analysis
+
+### Sentiment Distribution
+
+The distribution of sentiment polarity in article titles:
+
+![Sentiment Polarity](sentiment_polarity.png)
+
+### Sentiment by Theme
+
+The sentiment polarity for the top themes:
+
+![Sentiment by Theme](sentiment_by_theme.png)
+
+### Top Positive and Negative Themes
+
+The themes with the most positive and negative sentiment:
+
+| Theme | Description | Average Sentiment | Article Count |
+|-------|-------------|-------------------|---------------|
+| INFRASTRUCTURE_BAD_ROADS | Poor road infrastructure | 0.2000 | 1 |
+| HEALTH_PANDEMIC | Pandemic and widespread disease themes | 0.1227 | 6 |
+| TECH_AUTOMATION | Automation and technological displacement | 0.1121 | 3 |
+| DRONES | Drone technology and unmanned vehicles | 0.0900 | 65 |
+| DISCRIMINATION_RACE | Racial discrimination | 0.0607 | 7 |
+
+| SOC_INNOVATION | Social innovation and progress | -0.3000 | 1 |
+| BORDER | Border and boundary themes | -0.0542 | 80 |
+| WATER_SECURITY | Water security and access | -0.0279 | 56 |
+| DISPLACED | Displaced persons and forced migration | -0.0240 | 77 |
+| ROAD_INCIDENT | Road incidents and accidents | -0.0194 | 27 |
+
 ## Topic Modeling
 
 ### Discovered Topics
 
 The main topics discovered in the article titles:
 
-**Topic 1**: maritime, china, cut, funding, déserts, trump, médicaux, research, united, tariff
+**Topic 1**: 國際, nach, gegen, ein, say, day, india, papst, после, pakistan
 
 ![Topic 1 Word Cloud](topic_1_wordcloud.png)
 
-**Topic 2**: arrest, judge, watch, science, time, best, one, fbi, live, free
+**Topic 2**: на, 中华网, على, مع, 军事频道, في, области, 生活, من, النيلين
 
 ![Topic 2 Word Cloud](topic_2_wordcloud.png)
 
-**Topic 3**: terror, attack, school, india, police, protest, news, bill, report, medical
+**Topic 3**: der, für, und, im, die, von, 朝日新聞, mit, auf, news
 
 ![Topic 3 Word Cloud](topic_3_wordcloud.png)
 
-**Topic 4**: de, la, le, et, en, du, sur, un, pour, une
+**Topic 4**: da, papa, di, notizie, il, francesco, della, 新闻频道, per, non
 
 ![Topic 4 Word Cloud](topic_4_wordcloud.png)
 
-**Topic 5**: trump, de, garcia, abrego, law, judge, administration, divoire, côte, return
+**Topic 5**: по, за, на, из, для, новости, россии, не, сша, рф
 
 ![Topic 5 Word Cloud](topic_5_wordcloud.png)
 
-**Topic 6**: education, leader, election, trump, debate, federal, say, national, protest, canada
+**Topic 6**: de, le, la, du, et, un, en, pour, une, au
 
 ![Topic 6 Word Cloud](topic_6_wordcloud.png)
 
-**Topic 7**: de, le, la, du, un, pour, en, et, une, au
+**Topic 7**: de, en, la, el, para, que, del, por, los, con
 
 ![Topic 7 Word Cloud](topic_7_wordcloud.png)
 
-**Topic 8**: de, le, la, un, en, une, du, pour, et, chef
+**Topic 8**: di, في, il, per, 新华网, la, ai, nel, gli, al
 
 ![Topic 8 Word Cloud](topic_8_wordcloud.png)
 
-**Topic 9**: medical, election, trial, student, could, new, county, april, show, city
+**Topic 9**: من, عن, new, في, スポニチ, year, após, health, time, na
 
 ![Topic 9 Word Cloud](topic_9_wordcloud.png)
 
-**Topic 10**: military, rana, tahawwur, health, trump, court, case, trial, fire, war
+**Topic 10**: em, com, de, في, مصر, اليوم, da, غزة, إلى, social
 
 ![Topic 10 Word Cloud](topic_10_wordcloud.png)
 

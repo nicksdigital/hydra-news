@@ -1,0 +1,39 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Estados Unidos,PERSON,1,1,1.0,0.12
+Luigi Mangione,PERSON,9,9,1.0,1.0
+Bundesstaat Texas,PERSON,1,1,1.0,0.12
+Woche Anleger,PERSON,1,1,1.0,0.12
+Zentrale Themen,PERSON,1,1,1.0,0.12
+Brian Thompson,PERSON,1,1,1.0,0.12
+France,LOCATION,2,2,1.0,0.24
+Papa Francesco,PERSON,2,2,1.0,0.24
+Omicidio Thompson,PERSON,1,1,1.0,0.12
+Luigi Mangione Procura,PERSON,1,1,1.0,0.12
+El Paso,PERSON,1,1,1.0,0.12
+Pd Asti,PERSON,1,1,1.0,0.12
+Ceo Brian Thompson,PERSON,1,1,1.0,0.12
+Nessuno Tocchi Caino,PERSON,1,1,1.0,0.12
+Nova York,PERSON,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+Papa Francisco,PERSON,2,2,1.0,0.24
+Guatemala,LOCATION,1,1,1.0,0.12
+Lahore Authority,ORGANIZATION,1,1,1.0,0.12
+Lahore,LOCATION,1,1,1.0,0.12
+Walled City,LOCATION,1,1,1.0,0.12
+Kamran Lashari,PERSON,1,1,1.0,0.12
+Tamil Nadu,PERSON,1,1,1.0,0.12
+Senthil Balaji,PERSON,2,2,1.0,0.24
+Political Pulse News,PERSON,1,1,1.0,0.12
+Tamil Nadu Cabinet,PERSON,1,1,1.0,0.12
+Cleveland County Detention Center,ORGANIZATION,1,1,1.0,0.12
+Cleveland,LOCATION,1,1,1.0,0.12
+Cleveland County,LOCATION,1,1,1.0,0.12
+Pope Francis,PERSON,1,1,1.0,0.12
+Fipar Holding,PERSON,1,1,1.0,0.12
+Bernhard Kaufmann,PERSON,1,1,1.0,0.12
+Marine Le Pen,PERSON,2,2,1.0,0.24
+World Economic Forum,PERSON,2,2,1.0,0.24
+Klaus Schwab,PERSON,2,2,1.0,0.24
+Angelo Becciu,PERSON,1,1,1.0,0.12
+Periodista Mayella Lloyd,PERSON,1,1,1.0,0.12
+Enric Morera,PERSON,1,1,1.0,0.12

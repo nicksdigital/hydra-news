@@ -1,0 +1,44 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Urban Legend Reboot,PERSON,2,2,1.0,0.24
+Being Tossed Around,PERSON,1,1,1.0,0.12
+At Screen Gems,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,1,1,1.0,0.12
+Slasher Movie Hit,PERSON,1,1,1.0,0.12
+Score Getting Reboot,PERSON,1,1,1.0,0.12
+From Filmmaker Behind,PERSON,1,1,1.0,0.12
+Housing Ministry,ORGANIZATION,1,1,1.0,0.12
+Singapore,LOCATION,1,1,1.0,0.12
+Exploring Modern Living,PERSON,1,1,1.0,0.12
+India,LOCATION,4,3,0.75,0.38
+Jared Leto Slasher,PERSON,1,1,1.0,0.12
+Keith Urban Reveals,PERSON,1,1,1.0,0.12
+He Just Did,PERSON,1,1,1.0,0.12
+First Time Ever,PERSON,1,1,1.0,0.12
+Vietnam,LOCATION,1,1,1.0,0.12
+Luxembourg,LOCATION,1,1,1.0,0.12
+Foncier Urbain,PERSON,1,1,1.0,0.12
+Grand Tunis,PERSON,1,1,1.0,0.12
+Medio Ambiente,PERSON,1,1,1.0,0.12
+Chile,LOCATION,1,1,1.0,0.12
+San Rafael,PERSON,1,1,1.0,0.12
+Steve Winwood,PERSON,1,1,1.0,0.12
+Wiener Gemeinderat,PERSON,1,1,1.0,0.12
+Neue Ausbildung,PERSON,1,1,1.0,0.12
+Executive Academy,PERSON,1,1,1.0,0.12
+Phillip Kanduth,PERSON,1,1,1.0,0.12
+Klaus Rohseano,PERSON,1,1,1.0,0.12
+Legambiente Saronno,PERSON,1,1,1.0,0.12
+Il Monferrato,PERSON,1,1,1.0,0.12
+Distretto Urbano,PERSON,1,1,1.0,0.12
+Caixa Cultural,PERSON,1,1,1.0,0.12
+Fact Check,PERSON,1,1,1.0,0.12
+Renato Russo,PERSON,2,1,0.5,0.13999999999999999
+Programa Livre,PERSON,1,1,1.0,0.12
+Marcia Castro,PERSON,1,1,1.0,0.12
+Giovanni Marini,PERSON,1,1,1.0,0.12
+Mamonas Assassinas,PERSON,1,1,1.0,0.12
+Rosalea Hamilton,PERSON,1,1,1.0,0.12
+Sam Okudzeto,PERSON,1,1,1.0,0.12
+Chief Justice,PERSON,1,1,1.0,0.12
+Mali,LOCATION,1,1,1.0,0.12
+Aboubacar Sidick Fomba,PERSON,1,1,1.0,0.12

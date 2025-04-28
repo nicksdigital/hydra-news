@@ -1,0 +1,28 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Die Justiz,PERSON,1,1,1.0,0.12
+Ford,ORGANIZATION,1,1,1.0,0.12
+Keine Mehrheit,PERSON,1,1,1.0,0.12
+Google,ORGANIZATION,1,1,1.0,0.12
+France,LOCATION,14,12,0.8571428571428571,1.0
+Papa Francesco,PERSON,1,1,1.0,0.12
+Ministero Giustizia,PERSON,4,4,1.0,0.48
+Imola Oggi,PERSON,1,1,1.0,0.12
+Antonio Pappalardo,PERSON,1,1,1.0,0.12
+Torres Garcia,PERSON,1,1,1.0,0.12
+Madagascar,LOCATION,1,1,1.0,0.12
+Madagascar Wrangle Over,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+Jammu Kashmir News,PERSON,1,1,1.0,0.12
+Indian Army,PERSON,1,1,1.0,0.12
+Amazon,ORGANIZATION,2,2,1.0,0.24
+France Travail,PERSON,1,1,1.0,0.12
+Emmanuel Macron,PERSON,2,1,0.5,0.13999999999999999
+Intel,ORGANIZATION,1,1,1.0,0.12
+Pfizer,ORGANIZATION,1,1,1.0,0.12
+Johnson & Johnson,ORGANIZATION,1,1,1.0,0.12
+Boeing,ORGANIZATION,1,1,1.0,0.12
+Alle Blicke,PERSON,1,1,1.0,0.12
+Auch Premier,PERSON,1,1,1.0,0.12
+Der Duft,PERSON,5,5,1.0,0.6
+The News Lens,PERSON,1,1,1.0,0.12

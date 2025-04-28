@@ -1,0 +1,20 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Istanbul,LOCATION,2,2,1.0,0.24
+Dalla Turchia,PERSON,1,1,1.0,0.12
+Fact Check,PERSON,1,1,1.0,0.12
+Peru,LOCATION,2,2,1.0,0.24
+Mauro Vieira,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Egypt,LOCATION,8,7,0.875,0.86
+Egyptian President,PERSON,1,1,1.0,0.12
+Italian Foreign Minister,PERSON,1,1,1.0,0.12
+Announces Dividend Dist,PERSON,1,1,1.0,0.12
+Taiwan,LOCATION,2,1,0.5,0.13999999999999999
+China,LOCATION,2,2,1.0,0.24
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+Happy Family,PERSON,1,1,1.0,0.12
+Les Young Chipolopolo,PERSON,1,1,1.0,0.12
+Guy Bukasa,PERSON,1,1,1.0,0.12
+Wichtiger Reise,PERSON,1,1,1.0,0.12
+Israel,LOCATION,2,2,1.0,0.24
+Sponichi Annex,PERSON,1,1,1.0,0.12

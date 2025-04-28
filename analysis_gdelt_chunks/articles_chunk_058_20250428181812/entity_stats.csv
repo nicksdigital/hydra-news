@@ -1,0 +1,24 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Ukraine,LOCATION,4,3,0.75,0.38
+Putins Waffenruhe,PERSON,3,2,0.6666666666666666,0.26
+William Bonner,PERSON,2,2,1.0,0.24
+Why Liverpudlians,PERSON,1,1,1.0,0.12
+Why Mancunians,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Cambodia,LOCATION,1,1,1.0,0.12
+IBM,ORGANIZATION,1,1,1.0,0.12
+Up Staff Selection Commission,ORGANIZATION,1,1,1.0,0.12
+Manipur Sets Up,PERSON,1,1,1.0,0.12
+To Streamline Govt,PERSON,1,1,1.0,0.12
+Job Recruitment,PERSON,1,1,1.0,0.12
+Several Luxury Items,PERSON,1,1,1.0,0.12
+Lakh To Attract,PERSON,1,1,1.0,0.12
+Shell,ORGANIZATION,1,1,1.0,0.12
+Keycard Launches Pre,PERSON,1,1,1.0,0.12
+The Most Open,PERSON,1,1,1.0,0.12
+Modular Hardware Wallet,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+Premios Ibiza,PERSON,1,1,1.0,0.12
+Transparencia Local,PERSON,1,1,1.0,0.12
+El Parlamento,PERSON,1,1,1.0,0.12
+Normas Internacionales,PERSON,1,1,1.0,0.12

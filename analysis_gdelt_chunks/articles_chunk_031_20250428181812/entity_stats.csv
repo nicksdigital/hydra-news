@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Zornedinger Autor,PERSON,1,1,1.0,0.12
+Politikwissenschaftler Dr,PERSON,1,1,1.0,0.12
+Christian Gruenler,PERSON,1,1,1.0,0.12
+Viel Power,PERSON,1,1,1.0,0.12
+Neuer Brite,PERSON,1,1,1.0,0.12
+Range Rover,PERSON,1,1,1.0,0.12
+Stati Uniti,PERSON,1,1,1.0,0.12
+Orlando,LOCATION,1,1,1.0,0.12
+Tara Polar Station,LOCATION,1,1,1.0,0.12
+Nueva York,PERSON,2,2,1.0,0.24
+Earth Day,PERSON,3,3,1.0,0.36
+Neue Doku,PERSON,1,1,1.0,0.12
+Vom Feuerschiff,PERSON,1,1,1.0,0.12
+Hitlers Leiche,PERSON,1,1,1.0,0.12
+Zu Hitlers Todestag,PERSON,1,1,1.0,0.12
+In Antartide,PERSON,1,1,1.0,0.12
+Laura Bassi,PERSON,2,2,1.0,0.24
+Chile,LOCATION,1,1,1.0,0.12
+Argentina,LOCATION,1,1,1.0,0.12
+Fact Check,PERSON,1,1,1.0,0.12
+Specialists Task Govt,PERSON,1,1,1.0,0.12
+On Climate Change,PERSON,1,1,1.0,0.12
+World Can Adapt,PERSON,1,1,1.0,0.12
+Climate Impacts,PERSON,1,1,1.0,0.12
+Climate Change And,PERSON,1,1,1.0,0.12
+The Secrets Of,PERSON,1,1,1.0,0.12
+The Penguins,PERSON,1,1,1.0,0.12
+It Not Just,PERSON,1,1,1.0,0.12
+Are We Ignoring,PERSON,1,1,1.0,0.12
+Other Causes,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Sanjay Rajagopalan,PERSON,1,1,1.0,0.12
+Arnab Ghosh Blog,PERSON,1,1,1.0,0.12
+India Blog,PERSON,1,1,1.0,0.12
+Au Texas,PERSON,1,1,1.0,0.12
+Trump Burger,PERSON,1,1,1.0,0.12
+Camille Parmesan,PERSON,1,1,1.0,0.12
+Santiago,LOCATION,1,1,1.0,0.12
+Santiago Aparicio,PERSON,1,1,1.0,0.12
+Metro Puerto Rico,PERSON,1,1,1.0,0.12

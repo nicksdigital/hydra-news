@@ -1,0 +1,39 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Papa Francisco,PERSON,1,1,1.0,0.12
+Australia,LOCATION,1,1,1.0,0.12
+Jorge Luis,PERSON,1,1,1.0,0.12
+Vorsitzender Schwab,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+Fraktionschef Stettner,PERSON,1,1,1.0,0.12
+Klaus Schwab,PERSON,1,1,1.0,0.12
+Chef Klaus Schwab,PERSON,1,1,1.0,0.12
+Vorsitzender Klaus Schwab,PERSON,1,1,1.0,0.12
+CBS,ORGANIZATION,1,1,1.0,0.12
+Die Weltwoche,PERSON,1,1,1.0,0.12
+Di Blasi,PERSON,1,1,1.0,0.12
+Omicidio Vassallo,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Caos Milan,PERSON,1,1,1.0,0.12
+Elezioni Osimo,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Carlo Acutis,PERSON,1,1,1.0,0.12
+Departamento Pessoal,PERSON,1,1,1.0,0.12
+Secure Your Retirement,PERSON,1,1,1.0,0.12
+Mutual Funds,PERSON,1,1,1.0,0.12
+Athene Survey Finds,PERSON,1,1,1.0,0.12
+Sandwich Generation Retirement,PERSON,1,1,1.0,0.12
+Key Signs Youll,PERSON,1,1,1.0,0.12
+Need To Work,PERSON,1,1,1.0,0.12
+NBC,ORGANIZATION,2,2,1.0,0.24
+New York,LOCATION,1,1,1.0,0.12
+Why You Should,PERSON,1,1,1.0,0.12
+Reconsider This Golden,PERSON,1,1,1.0,0.12
+Financial Advisors,PERSON,1,1,1.0,0.12
+Chicago,LOCATION,1,1,1.0,0.12
+Retiring Without,PERSON,1,1,1.0,0.12
+How Singles Can,PERSON,1,1,1.0,0.12
+Maximize Their Savings,PERSON,1,1,1.0,0.12
+Mister Maison,PERSON,1,1,1.0,0.12
+Seguridad Social,PERSON,1,1,1.0,0.12
+Oprah Winfrey,PERSON,1,1,1.0,0.12

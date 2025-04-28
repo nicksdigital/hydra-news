@@ -1,0 +1,40 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Samsung,ORGANIZATION,1,1,1.0,0.12
+Israel,LOCATION,17,17,1.0,1.0
+Sid Rosenberg,PERSON,1,1,1.0,0.12
+Independence Day,PERSON,1,1,1.0,0.12
+Iran,LOCATION,1,1,1.0,0.12
+Israel Prepares,PERSON,1,1,1.0,0.12
+Iran Missile Strike,PERSON,1,1,1.0,0.12
+Death That,PERSON,1,1,1.0,0.12
+World Will Hear,PERSON,1,1,1.0,0.12
+Six Million Jews,PERSON,1,1,1.0,0.12
+Who Died,PERSON,1,1,1.0,0.12
+Benyamin Netanyahou,PERSON,1,1,1.0,0.12
+Egypt,LOCATION,1,1,1.0,0.12
+El Brasil,PERSON,1,1,1.0,0.12
+El Papa,PERSON,1,1,1.0,0.12
+Noticias Diario,PERSON,1,1,1.0,0.12
+Ohne Warnung,PERSON,1,1,1.0,0.12
+Mossad,ORGANIZATION,1,1,1.0,0.12
+Israels Armee,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Nach Bericht,PERSON,1,1,1.0,0.12
+Israels Premier Netanjahu,PERSON,1,1,1.0,0.12
+Tiroler Tageszeitung,PERSON,1,1,1.0,0.12
+Aktuelle Nachrichten,PERSON,1,1,1.0,0.12
+Asharq Al,PERSON,1,1,1.0,0.12
+France,LOCATION,2,2,1.0,0.24
+Papa Francesco,PERSON,2,2,1.0,0.24
+Da Israele,PERSON,1,1,1.0,0.12
+Royal Saudi Air,PERSON,3,3,1.0,0.36
+India,LOCATION,4,4,1.0,0.48
+Saudi Arabia,LOCATION,3,3,1.0,0.36
+Foreign Affairs Expert,PERSON,1,1,1.0,0.12
+Ukraine,LOCATION,1,1,1.0,0.12
+Modi Saudi,PERSON,1,1,1.0,0.12
+Mahesh Sachdev,PERSON,1,1,1.0,0.12
+Hydrogen Arabia,PERSON,1,1,1.0,0.12
+Arabie Saoudite,PERSON,2,2,1.0,0.24
+Tesla,ORGANIZATION,1,1,1.0,0.12
+Grazer Modelabel Baron,PERSON,1,1,1.0,0.12

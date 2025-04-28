@@ -1,0 +1,49 @@
+<div class="row">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">Sentiment Over Time</div>
+            <div class="card-body">
+                <canvas id="sentiment-timeline-chart" height="250"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">Sentiment by Entity</div>
+            <div class="card-body">
+                <canvas id="entity-sentiment-chart" height="250"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Sentiment Heatmap</div>
+            <div class="card-body">
+                <div id="sentiment-heatmap-container" style="height: 300px;">
+                    <div class="d-flex justify-content-center h-100 align-items-center">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Sentiment Distribution</div>
+            <div class="card-body">
+                <div id="sentiment-distribution-container" style="height: 300px;">
+                    <div class="d-flex justify-content-center h-100 align-items-center">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

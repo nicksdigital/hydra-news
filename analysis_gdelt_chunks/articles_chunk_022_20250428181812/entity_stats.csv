@@ -1,0 +1,46 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Maire Adanech,PERSON,1,1,1.0,0.12
+Bono Desarrollo,PERSON,2,1,0.5,0.13999999999999999
+Segundo Bono Especial,PERSON,2,1,0.5,0.13999999999999999
+Marcelino Marcos,PERSON,1,1,1.0,0.12
+Desarrollo Emprendedor,PERSON,1,1,1.0,0.12
+Plan Nacional,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+Viel Glas,PERSON,1,1,1.0,0.12
+Weniger Geld,PERSON,1,1,1.0,0.12
+Rostocker Iga Park,LOCATION,1,1,1.0,0.12
+Ortsentwicklung Markt Schwaben,PERSON,1,1,1.0,0.12
+Warum Anleger,PERSON,1,1,1.0,0.12
+Xinhua,ORGANIZATION,2,2,1.0,0.24
+Toyota,ORGANIZATION,1,1,1.0,0.12
+Toyota Material Handling,PERSON,1,1,1.0,0.12
+Roche,ORGANIZATION,1,1,1.0,0.12
+Giovanni De Sandre,PERSON,1,1,1.0,0.12
+Portugal,LOCATION,1,1,1.0,0.12
+Banco Mundial,PERSON,1,1,1.0,0.12
+Sonae Capital Industrials,PERSON,1,1,1.0,0.12
+Modon Holding,PERSON,1,1,1.0,0.12
+Motilal Oswal Infrastructure,PERSON,1,1,1.0,0.12
+Is This Fund,PERSON,1,1,1.0,0.12
+Worth Building Upon,PERSON,1,1,1.0,0.12
+Larry Fink Says,PERSON,1,1,1.0,0.12
+Buy Infrastructure,PERSON,1,1,1.0,0.12
+Here How,PERSON,1,1,1.0,0.12
+Do That,PERSON,1,1,1.0,0.12
+West Virginia Guard,PERSON,1,1,1.0,0.12
+Hosts Workshop,PERSON,1,1,1.0,0.12
+Address Potential Infrastructure,PERSON,1,1,1.0,0.12
+Colombia Data Center,ORGANIZATION,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Market Investment Analysis,PERSON,1,1,1.0,0.12
+Dedicated Servers,PERSON,1,1,1.0,0.12
+Portland,LOCATION,1,1,1.0,0.12
+Data Centre,ORGANIZATION,1,1,1.0,0.12
+Africa Digital Transformation,PERSON,1,1,1.0,0.12
+FBI,ORGANIZATION,1,1,1.0,0.12
+Kremlin,ORGANIZATION,1,1,1.0,0.12
+Ukraine,LOCATION,1,1,1.0,0.12
+Le Kremlin,PERSON,1,1,1.0,0.12
+Tren Maya,PERSON,1,1,1.0,0.12
+Ingeniero Jorge Lazarte,PERSON,2,1,0.5,0.13999999999999999
+Jet Set,PERSON,1,1,1.0,0.12

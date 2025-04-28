@@ -1,0 +1,29 @@
+entity,type,count,num_sources,source_diversity,trust_score
+France,LOCATION,5,5,1.0,0.6
+Rome,LOCATION,7,7,1.0,0.8400000000000001
+Hoy Tamaulipas,PERSON,1,1,1.0,0.12
+Tamaulipas Protestan,PERSON,1,1,1.0,0.12
+Tribunal Agrario,PERSON,1,1,1.0,0.12
+Buenos Aires,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Esonero Ancelotti,PERSON,1,1,1.0,0.12
+Julian Assange,PERSON,7,7,1.0,0.8400000000000001
+Pope Francis,PERSON,5,5,1.0,0.6
+Bangladesh,LOCATION,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Afghanistan,LOCATION,2,2,1.0,0.24
+Trump Administration,PERSON,2,2,1.0,0.24
+Joseph Kabila,PERSON,1,1,1.0,0.12
+Marc Lavoine,PERSON,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+CIA,ORGANIZATION,1,1,1.0,0.12
+Chile,LOCATION,1,1,1.0,0.12
+Emiliano Zapata,PERSON,1,1,1.0,0.12
+Ollanta Humala,PERSON,1,1,1.0,0.12
+Poder Judicial,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Von Groningen,PERSON,1,1,1.0,0.12
+San Cleto,PERSON,1,1,1.0,0.12
+Chiara Spatola,PERSON,1,1,1.0,0.12
+Simone Sorrentino,PERSON,1,1,1.0,0.12
+Andrea Longo,PERSON,1,1,1.0,0.12

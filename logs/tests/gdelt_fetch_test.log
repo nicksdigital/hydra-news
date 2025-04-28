@@ -1,0 +1,187 @@
+Activating virtual environment...
+Fetching data from GDELT...
+2025-04-28 20:13:27,596 - __main__ - INFO - Loaded 198 themes
+Fetching keyword chunks:   0%|          | 0/12 [00:00<?, ?it/s]
+Fetching keywords in chunk 1:   0%|          | 0/10 [00:00<?, ?it/s][A2025-04-28 20:13:27,601 - __main__ - INFO -   - Language: English
+2025-04-28 20:13:28,774 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:13:28,774 - __main__ - INFO -     - Found 0 English articles
+2025-04-28 20:13:30,754 - __main__ - INFO -   - Language: French
+2025-04-28 20:13:31,304 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:13:31,304 - __main__ - INFO -     - Found 2 French articles
+2025-04-28 20:13:33,160 - __main__ - INFO -   - Language: Spanish
+2025-04-28 20:13:34,066 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:13:34,067 - __main__ - INFO -     - Found 2 Spanish articles
+2025-04-28 20:13:35,370 - __main__ - INFO -   - Language: German
+2025-04-28 20:13:36,033 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:13:36,033 - __main__ - INFO -     - Found 4 German articles
+2025-04-28 20:13:37,103 - __main__ - INFO -   - Language: Chinese
+2025-04-28 20:13:37,628 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:13:37,628 - __main__ - INFO -     - Found 0 Chinese articles
+2025-04-28 20:13:39,349 - __main__ - INFO -   - Language: Arabic
+2025-04-28 20:13:40,476 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:13:40,476 - __main__ - INFO -     - Found 0 Arabic articles
+2025-04-28 20:13:41,975 - __main__ - INFO -   - Language: Russian
+2025-04-28 20:13:43,154 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:13:43,155 - __main__ - INFO -     - Found 3 Russian articles
+2025-04-28 20:13:45,016 - __main__ - INFO -   - Language: Japanese
+2025-04-28 20:13:45,896 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:13:45,896 - __main__ - INFO -     - Found 0 Japanese articles
+2025-04-28 20:13:47,062 - __main__ - INFO -   - Language: Korean
+2025-04-28 20:13:47,617 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:13:47,617 - __main__ - INFO -     - Found 0 Korean articles
+2025-04-28 20:13:49,047 - __main__ - INFO -   - Language: Italian
+2025-04-28 20:13:50,829 - __main__ - INFO -   - Language: Portuguese
+2025-04-28 20:13:51,324 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:13:51,324 - __main__ - INFO -     - Found 4 Portuguese articles
+
+Fetching keywords in chunk 1:  10%|█         | 1/10 [00:27<04:04, 27.17s/it][A2025-04-28 20:13:54,771 - __main__ - INFO -   - Language: English
+2025-04-28 20:13:55,273 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:13:55,273 - __main__ - INFO -     - Found 4 English articles
+2025-04-28 20:13:57,182 - __main__ - INFO -   - Language: French
+2025-04-28 20:13:57,850 - __main__ - INFO -     - Filtered out 9 duplicate articles
+2025-04-28 20:13:57,850 - __main__ - INFO -     - Found 1 French articles
+2025-04-28 20:13:58,959 - __main__ - INFO -   - Language: Spanish
+2025-04-28 20:13:59,554 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:13:59,554 - __main__ - INFO -     - Found 3 Spanish articles
+2025-04-28 20:14:01,004 - __main__ - INFO -   - Language: German
+2025-04-28 20:14:01,534 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:14:01,535 - __main__ - INFO -     - Found 2 German articles
+2025-04-28 20:14:03,401 - __main__ - INFO -   - Language: Chinese
+2025-04-28 20:14:03,961 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:14:03,961 - __main__ - INFO -     - Found 5 Chinese articles
+2025-04-28 20:14:05,767 - __main__ - INFO -   - Language: Arabic
+2025-04-28 20:14:06,287 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:14:06,288 - __main__ - INFO -     - Found 3 Arabic articles
+2025-04-28 20:14:08,131 - __main__ - INFO -   - Language: Russian
+2025-04-28 20:14:08,733 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:14:08,733 - __main__ - INFO -     - Found 3 Russian articles
+2025-04-28 20:14:10,510 - __main__ - INFO -   - Language: Japanese
+2025-04-28 20:14:11,053 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:14:11,053 - __main__ - INFO -     - Found 0 Japanese articles
+2025-04-28 20:14:13,020 - __main__ - INFO -   - Language: Korean
+2025-04-28 20:14:13,877 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:14:13,877 - __main__ - INFO -     - Found 0 Korean articles
+2025-04-28 20:14:15,536 - __main__ - INFO -   - Language: Italian
+2025-04-28 20:14:16,308 - __main__ - INFO -     - Filtered out 4 duplicate articles
+2025-04-28 20:14:16,308 - __main__ - INFO -     - Found 6 Italian articles
+2025-04-28 20:14:17,340 - __main__ - INFO -   - Language: Portuguese
+2025-04-28 20:14:17,848 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:14:17,848 - __main__ - INFO -     - Found 2 Portuguese articles
+
+Fetching keywords in chunk 1:  20%|██        | 2/10 [00:53<03:33, 26.74s/it][A2025-04-28 20:14:21,212 - __main__ - INFO -   - Language: English
+2025-04-28 20:14:21,959 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:14:21,959 - __main__ - INFO -     - Found 5 English articles
+2025-04-28 20:14:23,705 - __main__ - INFO -   - Language: French
+2025-04-28 20:14:24,216 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:14:24,217 - __main__ - INFO -     - Found 5 French articles
+2025-04-28 20:14:25,746 - __main__ - INFO -   - Language: Spanish
+2025-04-28 20:14:26,295 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:14:26,296 - __main__ - INFO -     - Found 3 Spanish articles
+2025-04-28 20:14:27,786 - __main__ - INFO -   - Language: German
+2025-04-28 20:14:28,268 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:14:28,268 - __main__ - INFO -     - Found 2 German articles
+2025-04-28 20:14:29,806 - __main__ - INFO -   - Language: Chinese
+2025-04-28 20:14:30,306 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:14:30,306 - __main__ - INFO -     - Found 5 Chinese articles
+2025-04-28 20:14:32,025 - __main__ - INFO -   - Language: Arabic
+2025-04-28 20:14:32,585 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:14:32,586 - __main__ - INFO -     - Found 5 Arabic articles
+2025-04-28 20:14:34,412 - __main__ - INFO -   - Language: Russian
+2025-04-28 20:14:35,318 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:14:35,318 - __main__ - INFO -     - Found 3 Russian articles
+2025-04-28 20:14:36,703 - __main__ - INFO -   - Language: Japanese
+2025-04-28 20:14:37,302 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:14:37,302 - __main__ - INFO -     - Found 2 Japanese articles
+2025-04-28 20:14:38,376 - __main__ - INFO -   - Language: Korean
+2025-04-28 20:14:38,877 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:14:38,877 - __main__ - INFO -     - Found 2 Korean articles
+2025-04-28 20:14:39,909 - __main__ - INFO -   - Language: Italian
+2025-04-28 20:14:40,437 - __main__ - INFO -     - Filtered out 9 duplicate articles
+2025-04-28 20:14:40,437 - __main__ - INFO -     - Found 1 Italian articles
+2025-04-28 20:14:42,094 - __main__ - INFO -   - Language: Portuguese
+2025-04-28 20:14:42,826 - __main__ - INFO -     - Filtered out 2 duplicate articles
+2025-04-28 20:14:42,827 - __main__ - INFO -     - Found 1 Portuguese articles
+
+Fetching keywords in chunk 1:  30%|███       | 3/10 [01:18<02:59, 25.71s/it][A2025-04-28 20:14:45,691 - __main__ - INFO -   - Language: English
+2025-04-28 20:14:46,678 - __main__ - INFO -     - Filtered out 4 duplicate articles
+2025-04-28 20:14:46,678 - __main__ - INFO -     - Found 6 English articles
+2025-04-28 20:14:48,466 - __main__ - INFO -   - Language: French
+2025-04-28 20:14:49,169 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:14:49,170 - __main__ - INFO -     - Found 0 French articles
+2025-04-28 20:14:50,987 - __main__ - INFO -   - Language: Spanish
+2025-04-28 20:14:51,806 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:14:51,807 - __main__ - INFO -     - Found 4 Spanish articles
+2025-04-28 20:14:53,731 - __main__ - INFO -   - Language: German
+2025-04-28 20:14:54,332 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:14:54,332 - __main__ - INFO -     - Found 3 German articles
+2025-04-28 20:14:56,205 - __main__ - INFO -   - Language: Chinese
+2025-04-28 20:14:56,686 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:14:56,686 - __main__ - INFO -     - Found 0 Chinese articles
+2025-04-28 20:14:58,109 - __main__ - INFO -   - Language: Arabic
+2025-04-28 20:14:58,850 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:14:58,850 - __main__ - INFO -     - Found 2 Arabic articles
+2025-04-28 20:15:00,286 - __main__ - INFO -   - Language: Russian
+2025-04-28 20:15:01,041 - __main__ - INFO -     - Filtered out 5 duplicate articles
+2025-04-28 20:15:01,041 - __main__ - INFO -     - Found 5 Russian articles
+2025-04-28 20:15:02,473 - __main__ - INFO -   - Language: Japanese
+2025-04-28 20:15:03,400 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:15:03,400 - __main__ - INFO -     - Found 2 Japanese articles
+2025-04-28 20:15:04,768 - __main__ - INFO -   - Language: Korean
+2025-04-28 20:15:05,746 - __main__ - INFO -     - Filtered out 10 duplicate articles
+2025-04-28 20:15:05,746 - __main__ - INFO -     - Found 0 Korean articles
+2025-04-28 20:15:07,526 - __main__ - INFO -   - Language: Italian
+2025-04-28 20:15:08,248 - __main__ - INFO -     - Filtered out 4 duplicate articles
+2025-04-28 20:15:08,248 - __main__ - INFO -     - Found 1 Italian articles
+2025-04-28 20:15:09,697 - __main__ - INFO -   - Language: Portuguese
+
+Fetching keywords in chunk 1:  40%|████      | 4/10 [01:46<02:39, 26.63s/it][A2025-04-28 20:15:13,736 - __main__ - INFO -   - Language: English
+2025-04-28 20:15:14,513 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:15:14,513 - __main__ - INFO -     - Found 4 English articles
+2025-04-28 20:15:15,926 - __main__ - INFO -   - Language: French
+2025-04-28 20:15:16,599 - __main__ - INFO -     - Filtered out 1 duplicate articles
+2025-04-28 20:15:16,599 - __main__ - INFO -     - Found 0 French articles
+2025-04-28 20:15:17,928 - __main__ - INFO -   - Language: Spanish
+2025-04-28 20:15:19,990 - __main__ - INFO -   - Language: German
+2025-04-28 20:15:20,768 - __main__ - INFO -     - Filtered out 3 duplicate articles
+2025-04-28 20:15:20,768 - __main__ - INFO -     - Found 0 German articles
+2025-04-28 20:15:22,172 - __main__ - INFO -   - Language: Chinese
+2025-04-28 20:15:24,025 - __main__ - INFO -   - Language: Arabic
+2025-04-28 20:15:24,654 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:15:24,654 - __main__ - INFO -     - Found 3 Arabic articles
+2025-04-28 20:15:26,113 - __main__ - INFO -   - Language: Russian
+2025-04-28 20:15:26,605 - __main__ - INFO -     - Filtered out 4 duplicate articles
+2025-04-28 20:15:26,605 - __main__ - INFO -     - Found 6 Russian articles
+2025-04-28 20:15:28,130 - __main__ - INFO -   - Language: Japanese
+2025-04-28 20:15:30,540 - __main__ - INFO -   - Language: Korean
+2025-04-28 20:15:31,214 - __main__ - INFO -     - Filtered out 7 duplicate articles
+2025-04-28 20:15:31,214 - __main__ - INFO -     - Found 3 Korean articles
+2025-04-28 20:15:33,130 - __main__ - INFO -   - Language: Italian
+2025-04-28 20:15:35,253 - __main__ - INFO -   - Language: Portuguese
+
+Fetching keywords in chunk 1:  50%|█████     | 5/10 [02:11<02:10, 26.09s/it][A2025-04-28 20:15:38,876 - __main__ - INFO -   - Language: English
+2025-04-28 20:15:39,453 - __main__ - INFO -     - Filtered out 2 duplicate articles
+2025-04-28 20:15:39,453 - __main__ - INFO -     - Found 8 English articles
+2025-04-28 20:15:40,978 - __main__ - INFO -   - Language: French
+2025-04-28 20:15:41,670 - __main__ - INFO -     - Filtered out 9 duplicate articles
+2025-04-28 20:15:41,670 - __main__ - INFO -     - Found 1 French articles
+2025-04-28 20:15:42,983 - __main__ - INFO -   - Language: Spanish
+2025-04-28 20:15:45,312 - __main__ - INFO -   - Language: German
+2025-04-28 20:15:45,871 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:15:45,871 - __main__ - INFO -     - Found 2 German articles
+2025-04-28 20:15:47,360 - __main__ - INFO -   - Language: Chinese
+2025-04-28 20:15:47,942 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:15:47,943 - __main__ - INFO -     - Found 4 Chinese articles
+2025-04-28 20:15:49,187 - __main__ - INFO -   - Language: Arabic
+2025-04-28 20:15:49,880 - __main__ - INFO -     - Filtered out 3 duplicate articles
+2025-04-28 20:15:49,880 - __main__ - INFO -     - Found 7 Arabic articles
+2025-04-28 20:15:51,024 - __main__ - INFO -   - Language: Russian
+2025-04-28 20:15:51,573 - __main__ - INFO -     - Filtered out 6 duplicate articles
+2025-04-28 20:15:51,574 - __main__ - INFO -     - Found 4 Russian articles
+2025-04-28 20:15:53,253 - __main__ - INFO -   - Language: Japanese
+2025-04-28 20:15:54,048 - __main__ - INFO -     - Filtered out 9 duplicate articles
+2025-04-28 20:15:54,048 - __main__ - INFO -     - Found 1 Japanese articles
+2025-04-28 20:15:55,475 - __main__ - INFO -   - Language: Korean
+2025-04-28 20:15:56,194 - __main__ - INFO -     - Filtered out 8 duplicate articles
+2025-04-28 20:15:56,195 - __main__ - INFO -     - Found 2 Korean articles
+Terminated
+Error: Data fetching failed

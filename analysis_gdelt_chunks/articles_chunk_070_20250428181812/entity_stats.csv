@@ -1,0 +1,37 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Mustapha Saha,PERSON,1,1,1.0,0.12
+Bangladesh,LOCATION,1,1,1.0,0.12
+France,LOCATION,2,2,1.0,0.24
+France Culture,PERSON,1,1,1.0,0.12
+El Papa Francisco,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Roberto Blancarte,PERSON,1,1,1.0,0.12
+Club Papa Francisco,PERSON,1,1,1.0,0.12
+Martin Scorsese,PERSON,2,1,0.5,0.13999999999999999
+Colombia,LOCATION,1,1,1.0,0.12
+Zwischen Religionsfreiheit,PERSON,1,1,1.0,0.12
+Hintergrund Politik,PERSON,1,1,1.0,0.12
+Nach Papst,PERSON,3,3,1.0,0.36
+Grosser Vergleich,PERSON,3,3,1.0,0.36
+Welchen Einfluss,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Vincenzo Buonomo,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,2,2,1.0,0.24
+CIA,ORGANIZATION,1,1,1.0,0.12
+Papa Progressista,PERSON,1,1,1.0,0.12
+Cuba,LOCATION,1,1,1.0,0.12
+Organized Crime,PERSON,1,1,1.0,0.12
+Stabler Sets Some,PERSON,1,1,1.0,0.12
+Andhra Dy,PERSON,1,1,1.0,0.12
+Pawan Kalyan,PERSON,1,1,1.0,0.12
+London,LOCATION,1,1,1.0,0.12
+To Bust,PERSON,1,1,1.0,0.12
+Shoplifting Gang,PERSON,1,1,1.0,0.12
+Kenya,LOCATION,1,1,1.0,0.12
+Kenya Barris Is,PERSON,1,1,1.0,0.12
+Starz Series On,PERSON,1,1,1.0,0.12
+Fat Joe Life,PERSON,1,1,1.0,0.12
+Puquan Huang,PERSON,1,1,1.0,0.12
+Kiloweise Crystal,PERSON,1,1,1.0,0.12
+Bamberger Ermittler,PERSON,1,1,1.0,0.12
+Hamburg,LOCATION,1,1,1.0,0.12

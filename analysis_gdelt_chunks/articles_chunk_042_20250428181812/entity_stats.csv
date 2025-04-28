@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Guatemala,LOCATION,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+El Chuqui,PERSON,1,1,1.0,0.12
+Pakistan,LOCATION,7,7,1.0,0.8400000000000001
+Nach Anschlag,PERSON,2,2,1.0,0.24
+Legende Tuchman,PERSON,1,1,1.0,0.12
+Ein Tweet,PERSON,1,1,1.0,0.12
+Terroranschlag Pakistan,PERSON,1,1,1.0,0.12
+No Lives Matter,PERSON,1,1,1.0,0.12
+France,LOCATION,2,2,1.0,0.24
+Alberto Franceschini,PERSON,1,1,1.0,0.12
+Brigate Rosse,PERSON,1,1,1.0,0.12
+India,LOCATION,2,2,1.0,0.24
+Escalation India,PERSON,1,1,1.0,0.12
+Tunisia,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Vancouver,LOCATION,1,1,1.0,0.12
+La Pasqua,PERSON,1,1,1.0,0.12
+Iraq,LOCATION,1,1,1.0,0.12
+Nova Orleans,PERSON,1,1,1.0,0.12
+Florida State University,ORGANIZATION,1,1,1.0,0.12
+Florida State,LOCATION,1,1,1.0,0.12
+Shooter Who Killed,PERSON,1,1,1.0,0.12
+Saw Hitler As,PERSON,1,1,1.0,0.12
+An Idol,PERSON,1,1,1.0,0.12
+Embraced Neo,PERSON,1,1,1.0,0.12
+Nazi Rhetoric,PERSON,1,1,1.0,0.12
+Saudi Arabia,LOCATION,1,1,1.0,0.12
+Terrorist Attack,PERSON,1,1,1.0,0.12
+Abdelkader Belliraj,PERSON,1,1,1.0,0.12
+Ahmed Souab,PERSON,1,1,1.0,0.12
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+La Chine,PERSON,1,1,1.0,0.12
+Indira Urbaneja,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Piedras Negras,PERSON,2,1,0.5,0.13999999999999999
+Diosdado Cabello,PERSON,1,1,1.0,0.12
+Venezuela,LOCATION,1,1,1.0,0.12
+Daniel Ceballos,PERSON,1,1,1.0,0.12
+Dichtes Netz,PERSON,1,1,1.0,0.12

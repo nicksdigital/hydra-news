@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Israel,LOCATION,3,2,0.6666666666666666,0.26
+Israel Hamas,PERSON,2,1,0.5,0.13999999999999999
+Cleveland,LOCATION,1,1,1.0,0.12
+Sudan,LOCATION,3,2,0.6666666666666666,0.26
+Sudan Zamzam,PERSON,1,1,1.0,0.12
+Middle East Monitor,PERSON,1,1,1.0,0.12
+Shell,ORGANIZATION,1,1,1.0,0.12
+Shelling Kills At,PERSON,1,1,1.0,0.12
+North Darfur,PERSON,1,1,1.0,0.12
+Missing People,PERSON,1,1,1.0,0.12
+My Four Children,PERSON,1,1,1.0,0.12
+Colombia,LOCATION,3,3,1.0,0.36
+Somalia,LOCATION,1,1,1.0,0.12
+Flash Floods,PERSON,1,1,1.0,0.12
+La Salle,PERSON,1,1,1.0,0.12
+Naciones Unidas,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+Wiederkehrende Symbole,PERSON,1,1,1.0,0.12
+Der Einfluss,PERSON,1,1,1.0,0.12
+Dark Romance,PERSON,3,3,1.0,0.36
+Ihr Filterkaffee,PERSON,1,1,1.0,0.12
+Lebanon,LOCATION,1,1,1.0,0.12
+Samantha Curcio,PERSON,1,1,1.0,0.12
+Il Papa,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Affari Tuoi,PERSON,1,1,1.0,0.12
+Flavio Briatore,PERSON,1,1,1.0,0.12
+Haiti,LOCATION,2,2,1.0,0.24
+Dom Pedro,PERSON,1,1,1.0,0.12
+Pakistan,LOCATION,2,2,1.0,0.24
+Honolulu,LOCATION,1,1,1.0,0.12
+Honolulu Star,PERSON,1,1,1.0,0.12
+Southern California,PERSON,1,1,1.0,0.12
+Ousmane Sonko,PERSON,1,1,1.0,0.12
+La Jornada,PERSON,1,1,1.0,0.12
+Diego Fernando,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,1,1,1.0,0.12
+Historias Estados Unidos,PERSON,1,1,1.0,0.12
+Diego Bonilla,PERSON,1,1,1.0,0.12

@@ -1,0 +1,29 @@
+entity,type,count,num_sources,source_diversity,trust_score
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Filt Cgil,PERSON,1,1,1.0,0.12
+Manila,LOCATION,1,1,1.0,0.12
+The Manila Times,PERSON,1,1,1.0,0.12
+John Cena,PERSON,3,3,1.0,0.36
+John Cena Says,PERSON,1,1,1.0,0.12
+Fans Bullied Him,PERSON,1,1,1.0,0.12
+Into Hair Transplant,PERSON,1,1,1.0,0.12
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+Bullying Escolar,PERSON,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Hemminger Schule,PERSON,1,1,1.0,0.12
+Erste Hilfe,PERSON,1,1,1.0,0.12
+Von Notz,PERSON,1,1,1.0,0.12
+Thema  Cybermobbing,PERSON,1,1,1.0,0.12
+Neues Gesetz,PERSON,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+Nach Kaschmir,PERSON,1,1,1.0,0.12
+Sponichi Annex,PERSON,1,1,1.0,0.12
+Orta Nova,PERSON,1,1,1.0,0.12
+Gino Cecchettin,PERSON,1,1,1.0,0.12
+Carolyn Smith,PERSON,1,1,1.0,0.12
+Adam Mosseri,PERSON,1,1,1.0,0.12
+Lei Anticorrupo,PERSON,1,1,1.0,0.12

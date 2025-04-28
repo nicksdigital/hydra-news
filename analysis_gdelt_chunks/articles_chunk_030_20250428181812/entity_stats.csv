@@ -1,0 +1,37 @@
+entity,type,count,num_sources,source_diversity,trust_score
+La Banque,PERSON,1,1,1.0,0.12
+Le Magazine,PERSON,1,1,1.0,0.12
+Maroc Telecom,PERSON,1,1,1.0,0.12
+Trade Atlas,PERSON,1,1,1.0,0.12
+France,LOCATION,5,5,1.0,0.6
+Papa Francesco,PERSON,3,3,1.0,0.36
+India,LOCATION,1,1,1.0,0.12
+Best Management Assignment,PERSON,1,1,1.0,0.12
+Writing Service Providers,PERSON,1,1,1.0,0.12
+Which Website,PERSON,1,1,1.0,0.12
+Assignment Help,PERSON,1,1,1.0,0.12
+Australia,LOCATION,1,1,1.0,0.12
+Is Assignment Help,PERSON,1,1,1.0,0.12
+Les Nominations,PERSON,1,1,1.0,0.12
+Lima,LOCATION,1,1,1.0,0.12
+Open Panamericano,PERSON,1,1,1.0,0.12
+Veteranos Lima,PERSON,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+El Vaticano,PERSON,1,1,1.0,0.12
+Sieger Paddon,PERSON,1,1,1.0,0.12
+Unglaublicher Traum,PERSON,1,1,1.0,0.12
+Raiffeisen Bank International,ORGANIZATION,1,1,1.0,0.12
+Danone Aktie,PERSON,1,1,1.0,0.12
+Solider Start,PERSON,1,1,1.0,0.12
+Papst Franziskus,PERSON,1,1,1.0,0.12
+Der Papst,PERSON,1,1,1.0,0.12
+Volvo,ORGANIZATION,1,1,1.0,0.12
+Virginia Giuffre,PERSON,1,1,1.0,0.12
+Mykola Bychok,PERSON,1,1,1.0,0.12
+Funerali Papa Francesco,PERSON,1,1,1.0,0.12
+Cardinale Re,PERSON,1,1,1.0,0.12
+Manuel Sirianni,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Europa League,ORGANIZATION,1,1,1.0,0.12
+Julio Verne,PERSON,1,1,1.0,0.12
+Finland,LOCATION,1,1,1.0,0.12

@@ -1,0 +1,26 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Veolia Environnement,PERSON,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+Barcelona,LOCATION,1,1,1.0,0.12
+Real Madrid,PERSON,1,1,1.0,0.12
+Amazon,ORGANIZATION,1,1,1.0,0.12
+Es Pati,PERSON,1,1,1.0,0.12
+Feng Shui,PERSON,1,1,1.0,0.12
+Leichtes Erdbeben,PERSON,1,1,1.0,0.12
+Raum Innsbruck,PERSON,1,1,1.0,0.12
+Wiener Privatbank,PERSON,1,1,1.0,0.12
+Stabile Kernkapitalquote,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Italy,LOCATION,1,1,1.0,0.12
+Meio Ambiente,PERSON,2,2,1.0,0.24
+Mato Grosso,PERSON,1,1,1.0,0.12
+Cascais Ambiente,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,2,2,1.0,0.24
+Barra Mansa,PERSON,1,1,1.0,0.12
+Germany,LOCATION,3,2,0.6666666666666666,0.26
+Johann Wadephul,PERSON,2,1,0.5,0.13999999999999999
+Leader May Get,PERSON,1,1,1.0,0.12
+Gladstone City Council,ORGANIZATION,1,1,1.0,0.12
+Gladstone City,LOCATION,1,1,1.0,0.12
+Bernard Fontana,PERSON,2,1,0.5,0.13999999999999999

@@ -1,0 +1,29 @@
+entity,type,count,num_sources,source_diversity,trust_score
+World Bank,ORGANIZATION,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Child Benefit,PERSON,1,1,1.0,0.12
+Bradford Telegraph,PERSON,1,1,1.0,0.12
+Face Higher Cancer,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Colombia,LOCATION,3,3,1.0,0.36
+Santander,ORGANIZATION,1,1,1.0,0.12
+El Komander,PERSON,1,1,1.0,0.12
+Ein Engel,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,2,1,0.5,0.13999999999999999
+In Italia,PERSON,2,2,1.0,0.24
+Portugal,LOCATION,2,2,1.0,0.24
+Montenegro,LOCATION,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Campo Grande,PERSON,1,1,1.0,0.12
+New Ann Arbor,PERSON,1,1,1.0,0.12
+Native American,PERSON,1,1,1.0,0.12
+Brigade Group,ORGANIZATION,1,1,1.0,0.12
+East Bengaluru,PERSON,1,1,1.0,0.12
+Niger,LOCATION,1,1,1.0,0.12
+Nigeria,LOCATION,1,1,1.0,0.12
+Scott Road,LOCATION,1,1,1.0,0.12
+Deanwood Metro,PERSON,1,1,1.0,0.12
+Africa Summit,PERSON,1,1,1.0,0.12
+Congo,LOCATION,1,1,1.0,0.12
+Kinshasa,LOCATION,1,1,1.0,0.12
+Alioune Diop,PERSON,1,1,1.0,0.12

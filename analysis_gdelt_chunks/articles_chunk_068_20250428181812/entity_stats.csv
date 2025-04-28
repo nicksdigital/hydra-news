@@ -1,0 +1,47 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Accordo Sace,PERSON,1,1,1.0,0.12
+San Marco Evangelista,PERSON,1,1,1.0,0.12
+Sudan,LOCATION,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Santa Maria Maior,PERSON,1,1,1.0,0.12
+Israel,LOCATION,1,1,1.0,0.12
+South Africa,LOCATION,7,5,0.7142857142857143,0.64
+Ukraine,LOCATION,4,4,1.0,0.48
+What Zelenskyy,PERSON,1,1,1.0,0.12
+Winnipeg Free Press,PERSON,1,1,1.0,0.12
+Al Ahly,PERSON,2,2,1.0,0.24
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+Charlbi Dean,PERSON,1,1,1.0,0.12
+Champions League,ORGANIZATION,1,1,1.0,0.12
+Noticias Prensa Latina,PERSON,1,1,1.0,0.12
+BRICS,ORGANIZATION,1,1,1.0,0.12
+Warum Goldaktien,PERSON,1,1,1.0,0.12
+Was Wolodymyr Selenskyj,PERSON,1,1,1.0,0.12
+George Lewis,PERSON,1,1,1.0,0.12
+Trickster Orchestra,PERSON,1,1,1.0,0.12
+Liminal Music Prize,PERSON,1,1,1.0,0.12
+Impala Platinum,PERSON,1,1,1.0,0.12
+Schwieriger Besuch,PERSON,1,1,1.0,0.12
+Garden Route,PERSON,1,1,1.0,0.12
+Wie Kriege,PERSON,1,1,1.0,0.12
+Nach Urteil,PERSON,1,1,1.0,0.12
+G7,ORGANIZATION,1,1,1.0,0.12
+G20,ORGANIZATION,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+Vaticano News,PERSON,1,1,1.0,0.12
+Britney Spears,PERSON,1,1,1.0,0.12
+Por Mouzar Benedito,PERSON,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Kwame Nkrumah,PERSON,1,1,1.0,0.12
+Addressing Potential Discrimination,PERSON,1,1,1.0,0.12
+Patient Care Decision,PERSON,1,1,1.0,0.12
+Support Tools,PERSON,1,1,1.0,0.12
+Rahul Gandhi,PERSON,1,1,1.0,0.12
+Rohit Vemula Act,PERSON,1,1,1.0,0.12
+Wits University,ORGANIZATION,1,1,1.0,0.12
+Wit Social Justice,PERSON,1,1,1.0,0.12
+Supreme Court,ORGANIZATION,1,1,1.0,0.12
+Supreme Court,LOCATION,1,1,1.0,0.12
+To Reject Heightened,PERSON,1,1,1.0,0.12
+Evidentiary Requirement For,PERSON,1,1,1.0,0.12
+Reverse Discrimination  Cases,PERSON,1,1,1.0,0.12

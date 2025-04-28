@@ -1,0 +1,302 @@
+./tests/test_crypto_adapter.c: In function 'test_kyber_key_generation':
+./tests/test_crypto_adapter.c:52:13: error: implicit declaration of function 'kyber_keypair'; did you mean 'kyber_keygen'? [-Wimplicit-function-declaration]
+   52 |         if (kyber_keypair(public_key, secret_key) != 0) {
+      |             ^~~~~~~~~~~~~
+      |             kyber_keygen
+./tests/test_crypto_adapter.c: In function 'test_falcon_key_generation':
+./tests/test_crypto_adapter.c:103:27: error: passing argument 1 of 'falcon_keygen' from incompatible pointer type [-Wincompatible-pointer-types]
+  103 |         if (falcon_keygen(public_key, secret_key) != 0) {
+      |                           ^~~~~~~~~~
+      |                           |
+      |                           unsigned char *
+In file included from ./tests/../include/postquantum/crypto_adapter.h:16,
+                 from ./tests/test_crypto_adapter.c:6:
+./tests/../include/postquantum/falcon.h:57:37: note: expected 'falcon_keypair_t *' but argument is of type 'unsigned char *'
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |                   ~~~~~~~~~~~~~~~~~~^~~~~~~
+./tests/test_crypto_adapter.c:103:13: error: too many arguments to function 'falcon_keygen'
+  103 |         if (falcon_keygen(public_key, secret_key) != 0) {
+      |             ^~~~~~~~~~~~~
+./tests/../include/postquantum/falcon.h:57:5: note: declared here
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |     ^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c: In function 'test_falcon_sign_verify':
+./tests/test_crypto_adapter.c:116:29: error: 'FALCON_SIGNATURE_BYTES' undeclared (first use in this function); did you mean 'FALCON_SIGNATURE_MAX_BYTES'?
+  116 |     unsigned char signature[FALCON_SIGNATURE_BYTES];
+      |                             ^~~~~~~~~~~~~~~~~~~~~~
+      |                             FALCON_SIGNATURE_MAX_BYTES
+./tests/test_crypto_adapter.c:116:29: note: each undeclared identifier is reported only once for each function it appears in
+./tests/test_crypto_adapter.c:121:27: error: passing argument 1 of 'falcon_keygen' from incompatible pointer type [-Wincompatible-pointer-types]
+  121 |         if (falcon_keygen(public_key, secret_key) != 0) {
+      |                           ^~~~~~~~~~
+      |                           |
+      |                           unsigned char *
+./tests/../include/postquantum/falcon.h:57:37: note: expected 'falcon_keypair_t *' but argument is of type 'unsigned char *'
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |                   ~~~~~~~~~~~~~~~~~~^~~~~~~
+./tests/test_crypto_adapter.c:121:13: error: too many arguments to function 'falcon_keygen'
+  121 |         if (falcon_keygen(public_key, secret_key) != 0) {
+      |             ^~~~~~~~~~~~~
+./tests/../include/postquantum/falcon.h:57:5: note: declared here
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |     ^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:131:36: error: passing argument 2 of 'falcon_sign' from incompatible pointer type [-Wincompatible-pointer-types]
+  131 |         if (falcon_sign(signature, &signature_len, message, message_len, secret_key) != 0) {
+      |                                    ^~~~~~~~~~~~~~
+      |                                    |
+      |                                    long long unsigned int *
+./tests/../include/postquantum/falcon.h:71:13: note: expected 'size_t *' {aka 'long unsigned int *'} but argument is of type 'long long unsigned int *'
+   71 |     size_t* signature_len,
+      |     ~~~~~~~~^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c: In function 'test_qzkp_proof_verification':
+./tests/test_crypto_adapter.c:155:5: error: unknown type name 'qzkp_public_params_t'; did you mean 'qzkp_verify_params_t'?
+  155 |     qzkp_public_params_t params;
+      |     ^~~~~~~~~~~~~~~~~~~~
+      |     qzkp_verify_params_t
+./tests/test_crypto_adapter.c:157:5: error: unknown type name 'qzkp_witness_t'
+  157 |     qzkp_witness_t witness;
+      |     ^~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:158:5: error: unknown type name 'qzkp_statement_t'
+  158 |     qzkp_statement_t statement;
+      |     ^~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:162:9: error: implicit declaration of function 'qzkp_init_params' [-Wimplicit-function-declaration]
+  162 |         qzkp_init_params(&params);
+      |         ^~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:165:9: error: implicit declaration of function 'qzkp_generate_witness'; did you mean 'qzkp_generate_proof'? [-Wimplicit-function-declaration]
+  165 |         qzkp_generate_witness(&witness);
+      |         ^~~~~~~~~~~~~~~~~~~~~
+      |         qzkp_generate_proof
+./tests/test_crypto_adapter.c:166:9: error: implicit declaration of function 'qzkp_derive_statement' [-Wimplicit-function-declaration]
+  166 |         qzkp_derive_statement(&statement, &witness, &params);
+      |         ^~~~~~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:169:41: error: passing argument 2 of 'qzkp_generate_proof' makes integer from pointer without a cast [-Wint-conversion]
+  169 |         if (qzkp_generate_proof(&proof, &witness, &statement, &params) != 0) {
+      |                                         ^~~~~~~~
+      |                                         |
+      |                                         int *
+In file included from ./tests/../include/postquantum/crypto_adapter.h:14:
+./tests/../include/postquantum/../quantum_zkp.h:95:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+   95 |     size_t secret_size,
+      |     ~~~~~~~^~~~~~~~~~~
+./tests/test_crypto_adapter.c:169:63: error: passing argument 4 of 'qzkp_generate_proof' makes integer from pointer without a cast [-Wint-conversion]
+  169 |         if (qzkp_generate_proof(&proof, &witness, &statement, &params) != 0) {
+      |                                                               ^~~~~~~
+      |                                                               |
+      |                                                               int *
+./tests/../include/postquantum/../quantum_zkp.h:97:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+   97 |     size_t entropy_size
+      |     ~~~~~~~^~~~~~~~~~~~
+./tests/test_crypto_adapter.c:175:51: error: passing argument 3 of 'qzkp_verify_proof' makes integer from pointer without a cast [-Wint-conversion]
+  175 |         if (qzkp_verify_proof(&proof, &statement, &params) != 0) {
+      |                                                   ^~~~~~~
+      |                                                   |
+      |                                                   int *
+./tests/../include/postquantum/../quantum_zkp.h:112:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+  112 |     size_t public_input_size,
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:175:13: error: too few arguments to function 'qzkp_verify_proof'
+  175 |         if (qzkp_verify_proof(&proof, &statement, &params) != 0) {
+      |             ^~~~~~~~~~~~~~~~~
+./tests/../include/postquantum/../quantum_zkp.h:109:6: note: declared here
+  109 | bool qzkp_verify_proof(
+      |      ^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:181:18: error: request for member 'value' in something not a structure or union
+  181 |         statement.value[0] ^= 0x01;
+      |                  ^
+./tests/test_crypto_adapter.c:182:51: error: passing argument 3 of 'qzkp_verify_proof' makes integer from pointer without a cast [-Wint-conversion]
+  182 |         if (qzkp_verify_proof(&proof, &statement, &params) == 0) {
+      |                                                   ^~~~~~~
+      |                                                   |
+      |                                                   int *
+./tests/../include/postquantum/../quantum_zkp.h:112:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+  112 |     size_t public_input_size,
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:182:13: error: too few arguments to function 'qzkp_verify_proof'
+  182 |         if (qzkp_verify_proof(&proof, &statement, &params) == 0) {
+      |             ^~~~~~~~~~~~~~~~~
+./tests/../include/postquantum/../quantum_zkp.h:109:6: note: declared here
+  109 | bool qzkp_verify_proof(
+      |      ^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c: In function 'test_logical_entanglement':
+./tests/test_crypto_adapter.c:195:5: error: unknown type name 'le_entanglement_t'
+  195 |     le_entanglement_t entanglement;
+      |     ^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:205:13: error: implicit declaration of function 'le_create_entanglement' [-Wimplicit-function-declaration]
+  205 |         if (le_create_entanglement(&entanglement, data1, data1_len, data2, data2_len) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:211:13: error: implicit declaration of function 'le_verify_entanglement'; did you mean 'test_logical_entanglement'? [-Wimplicit-function-declaration]
+  211 |         if (le_verify_entanglement(&entanglement, data1, data1_len, data2, data2_len) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~~~~
+      |             test_logical_entanglement
+./tests/test_crypto_adapter.c: In function 'test_crypto_adapter_hybrid_encryption':
+./tests/test_crypto_adapter.c:230:46: error: 'CRYPTO_ADAPTER_OVERHEAD' undeclared (first use in this function); did you mean 'CRYPTO_ADAPTER_H'?
+  230 |     unsigned char ciphertext[MAX_DATA_SIZE + CRYPTO_ADAPTER_OVERHEAD];
+      |                                              ^~~~~~~~~~~~~~~~~~~~~~~
+      |                                              CRYPTO_ADAPTER_H
+./tests/test_crypto_adapter.c:234:5: error: unknown type name 'crypto_adapter_keypair_t'; did you mean 'crypto_adapter_params_t'?
+  234 |     crypto_adapter_keypair_t keypair;
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~
+      |     crypto_adapter_params_t
+./tests/test_crypto_adapter.c:238:13: error: implicit declaration of function 'crypto_adapter_generate_keypair' [-Wimplicit-function-declaration]
+  238 |         if (crypto_adapter_generate_keypair(&keypair) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:248:13: error: implicit declaration of function 'crypto_adapter_encrypt'; did you mean 'crypto_adapter_init'? [-Wimplicit-function-declaration]
+  248 |         if (crypto_adapter_encrypt(ciphertext, &ciphertext_len, plaintext, plaintext_len, &keypair.public_key) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~~~~
+      |             crypto_adapter_init
+./tests/test_crypto_adapter.c:248:99: error: request for member 'public_key' in something not a structure or union
+  248 |         if (crypto_adapter_encrypt(ciphertext, &ciphertext_len, plaintext, plaintext_len, &keypair.public_key) != 0) {
+      |                                                                                                   ^
+./tests/test_crypto_adapter.c:254:13: error: implicit declaration of function 'crypto_adapter_decrypt'; did you mean 'crypto_adapter_cleanup'? [-Wimplicit-function-declaration]
+  254 |         if (crypto_adapter_decrypt(decrypted, &decrypted_len, ciphertext, ciphertext_len, &keypair.secret_key) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~~~~
+      |             crypto_adapter_cleanup
+./tests/test_crypto_adapter.c:254:99: error: request for member 'secret_key' in something not a structure or union
+  254 |         if (crypto_adapter_decrypt(decrypted, &decrypted_len, ciphertext, ciphertext_len, &keypair.secret_key) != 0) {
+      |                                                                                                   ^
+./tests/test_crypto_adapter.c: In function 'test_crypto_adapter_hybrid_signature':
+./tests/test_crypto_adapter.c:271:29: error: 'CRYPTO_ADAPTER_MAX_SIGNATURE_SIZE' undeclared (first use in this function)
+  271 |     unsigned char signature[CRYPTO_ADAPTER_MAX_SIGNATURE_SIZE];
+      |                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:274:5: error: unknown type name 'crypto_adapter_keypair_t'; did you mean 'crypto_adapter_params_t'?
+  274 |     crypto_adapter_keypair_t keypair;
+      |     ^~~~~~~~~~~~~~~~~~~~~~~~
+      |     crypto_adapter_params_t
+./tests/test_crypto_adapter.c:288:13: error: implicit declaration of function 'crypto_adapter_sign'; did you mean 'crypto_adapter_init'? [-Wimplicit-function-declaration]
+  288 |         if (crypto_adapter_sign(signature, &signature_len, message, message_len, &keypair.secret_key) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~
+      |             crypto_adapter_init
+./tests/test_crypto_adapter.c:288:90: error: request for member 'secret_key' in something not a structure or union
+  288 |         if (crypto_adapter_sign(signature, &signature_len, message, message_len, &keypair.secret_key) != 0) {
+      |                                                                                          ^
+./tests/test_crypto_adapter.c:294:13: error: implicit declaration of function 'crypto_adapter_verify'; did you mean 'crypto_adapter_init'? [-Wimplicit-function-declaration]
+  294 |         if (crypto_adapter_verify(message, message_len, signature, signature_len, &keypair.public_key) != 0) {
+      |             ^~~~~~~~~~~~~~~~~~~~~
+      |             crypto_adapter_init
+./tests/test_crypto_adapter.c:294:91: error: request for member 'public_key' in something not a structure or union
+  294 |         if (crypto_adapter_verify(message, message_len, signature, signature_len, &keypair.public_key) != 0) {
+      |                                                                                           ^
+./tests/test_crypto_adapter.c:301:91: error: request for member 'public_key' in something not a structure or union
+  301 |         if (crypto_adapter_verify(message, message_len, signature, signature_len, &keypair.public_key) == 0) {
+      |                                                                                           ^
+./tests/test_crypto_adapter.c: In function 'test_secure_news_verification_flow':
+./tests/test_crypto_adapter.c:332:5: error: unknown type name 'qzkp_public_params_t'; did you mean 'qzkp_verify_params_t'?
+  332 |     qzkp_public_params_t params;
+      |     ^~~~~~~~~~~~~~~~~~~~
+      |     qzkp_verify_params_t
+./tests/test_crypto_adapter.c:334:5: error: unknown type name 'qzkp_witness_t'
+  334 |     qzkp_witness_t witness; // Author's private credentials
+      |     ^~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:335:5: error: unknown type name 'qzkp_statement_t'
+  335 |     qzkp_statement_t statement; // Public statement about the author
+      |     ^~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:341:37: error: passing argument 2 of 'qzkp_generate_proof' makes integer from pointer without a cast [-Wint-conversion]
+  341 |     if (qzkp_generate_proof(&proof, &witness, &statement, &params) != 0) {
+      |                                     ^~~~~~~~
+      |                                     |
+      |                                     int *
+./tests/../include/postquantum/../quantum_zkp.h:95:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+   95 |     size_t secret_size,
+      |     ~~~~~~~^~~~~~~~~~~
+./tests/test_crypto_adapter.c:341:59: error: passing argument 4 of 'qzkp_generate_proof' makes integer from pointer without a cast [-Wint-conversion]
+  341 |     if (qzkp_generate_proof(&proof, &witness, &statement, &params) != 0) {
+      |                                                           ^~~~~~~
+      |                                                           |
+      |                                                           int *
+./tests/../include/postquantum/../quantum_zkp.h:97:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+   97 |     size_t entropy_size
+      |     ~~~~~~~^~~~~~~~~~~~
+./tests/test_crypto_adapter.c:347:5: error: unknown type name 'le_entanglement_t'
+  347 |     le_entanglement_t entanglement;
+      |     ^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:356:29: error: 'FALCON_SIGNATURE_BYTES' undeclared (first use in this function); did you mean 'FALCON_SIGNATURE_MAX_BYTES'?
+  356 |     unsigned char signature[FALCON_SIGNATURE_BYTES];
+      |                             ^~~~~~~~~~~~~~~~~~~~~~
+      |                             FALCON_SIGNATURE_MAX_BYTES
+./tests/test_crypto_adapter.c:359:23: error: passing argument 1 of 'falcon_keygen' from incompatible pointer type [-Wincompatible-pointer-types]
+  359 |     if (falcon_keygen(falcon_public_key, falcon_secret_key) != 0) {
+      |                       ^~~~~~~~~~~~~~~~~
+      |                       |
+      |                       unsigned char *
+./tests/../include/postquantum/falcon.h:57:37: note: expected 'falcon_keypair_t *' but argument is of type 'unsigned char *'
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |                   ~~~~~~~~~~~~~~~~~~^~~~~~~
+./tests/test_crypto_adapter.c:359:9: error: too many arguments to function 'falcon_keygen'
+  359 |     if (falcon_keygen(falcon_public_key, falcon_secret_key) != 0) {
+      |         ^~~~~~~~~~~~~
+./tests/../include/postquantum/falcon.h:57:5: note: declared here
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |     ^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:367:47: error: request for member 'hash' in something not a structure or union
+  367 |     memcpy(to_sign + article_len, entanglement.hash, sizeof(entanglement.hash));
+      |                                               ^
+./tests/test_crypto_adapter.c:367:73: error: request for member 'hash' in something not a structure or union
+  367 |     memcpy(to_sign + article_len, entanglement.hash, sizeof(entanglement.hash));
+      |                                                                         ^
+./tests/test_crypto_adapter.c:368:59: error: request for member 'hash' in something not a structure or union
+  368 |     size_t to_sign_len = article_len + sizeof(entanglement.hash);
+      |                                                           ^
+./tests/test_crypto_adapter.c:370:32: error: passing argument 2 of 'falcon_sign' from incompatible pointer type [-Wincompatible-pointer-types]
+  370 |     if (falcon_sign(signature, &signature_len, to_sign, to_sign_len, falcon_secret_key) != 0) {
+      |                                ^~~~~~~~~~~~~~
+      |                                |
+      |                                long long unsigned int *
+./tests/../include/postquantum/falcon.h:71:13: note: expected 'size_t *' {aka 'long unsigned int *'} but argument is of type 'long long unsigned int *'
+   71 |     size_t* signature_len,
+      |     ~~~~~~~~^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:395:47: error: passing argument 3 of 'qzkp_verify_proof' makes integer from pointer without a cast [-Wint-conversion]
+  395 |     if (qzkp_verify_proof(&proof, &statement, &params) != 0) {
+      |                                               ^~~~~~~
+      |                                               |
+      |                                               int *
+./tests/../include/postquantum/../quantum_zkp.h:112:12: note: expected 'size_t' {aka 'long unsigned int'} but argument is of type 'int *'
+  112 |     size_t public_input_size,
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:395:9: error: too few arguments to function 'qzkp_verify_proof'
+  395 |     if (qzkp_verify_proof(&proof, &statement, &params) != 0) {
+      |         ^~~~~~~~~~~~~~~~~
+./tests/../include/postquantum/../quantum_zkp.h:109:6: note: declared here
+  109 | bool qzkp_verify_proof(
+      |      ^~~~~~~~~~~~~~~~~
+./tests/test_crypto_adapter.c: In function 'test_key_generation_performance':
+./tests/test_crypto_adapter.c:452:23: error: passing argument 1 of 'falcon_keygen' from incompatible pointer type [-Wincompatible-pointer-types]
+  452 |         falcon_keygen(falcon_public_key, falcon_secret_key);
+      |                       ^~~~~~~~~~~~~~~~~
+      |                       |
+      |                       unsigned char *
+./tests/../include/postquantum/falcon.h:57:37: note: expected 'falcon_keypair_t *' but argument is of type 'unsigned char *'
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |                   ~~~~~~~~~~~~~~~~~~^~~~~~~
+./tests/test_crypto_adapter.c:452:9: error: too many arguments to function 'falcon_keygen'
+  452 |         falcon_keygen(falcon_public_key, falcon_secret_key);
+      |         ^~~~~~~~~~~~~
+./tests/../include/postquantum/falcon.h:57:5: note: declared here
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |     ^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c: In function 'test_crypto_operations_performance':
+./tests/test_crypto_adapter.c:500:29: error: 'FALCON_SIGNATURE_BYTES' undeclared (first use in this function); did you mean 'FALCON_SIGNATURE_MAX_BYTES'?
+  500 |     unsigned char signature[FALCON_SIGNATURE_BYTES];
+      |                             ^~~~~~~~~~~~~~~~~~~~~~
+      |                             FALCON_SIGNATURE_MAX_BYTES
+./tests/test_crypto_adapter.c:503:19: error: passing argument 1 of 'falcon_keygen' from incompatible pointer type [-Wincompatible-pointer-types]
+  503 |     falcon_keygen(falcon_public_key, falcon_secret_key);
+      |                   ^~~~~~~~~~~~~~~~~
+      |                   |
+      |                   unsigned char *
+./tests/../include/postquantum/falcon.h:57:37: note: expected 'falcon_keypair_t *' but argument is of type 'unsigned char *'
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |                   ~~~~~~~~~~~~~~~~~~^~~~~~~
+./tests/test_crypto_adapter.c:503:5: error: too many arguments to function 'falcon_keygen'
+  503 |     falcon_keygen(falcon_public_key, falcon_secret_key);
+      |     ^~~~~~~~~~~~~
+./tests/../include/postquantum/falcon.h:57:5: note: declared here
+   57 | int falcon_keygen(falcon_keypair_t* keypair);
+      |     ^~~~~~~~~~~~~
+./tests/test_crypto_adapter.c:507:32: error: passing argument 2 of 'falcon_sign' from incompatible pointer type [-Wincompatible-pointer-types]
+  507 |         falcon_sign(signature, &signature_len, data, MAX_DATA_SIZE, falcon_secret_key);
+      |                                ^~~~~~~~~~~~~~
+      |                                |
+      |                                long long unsigned int *
+./tests/../include/postquantum/falcon.h:71:13: note: expected 'size_t *' {aka 'long unsigned int *'} but argument is of type 'long long unsigned int *'
+   71 |     size_t* signature_len,
+      |     ~~~~~~~~^~~~~~~~~~~~~

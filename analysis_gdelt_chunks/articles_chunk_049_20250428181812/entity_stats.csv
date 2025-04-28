@@ -1,0 +1,40 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Bandar Abbas,PERSON,1,1,1.0,0.12
+Iran,LOCATION,6,3,0.5,0.42000000000000004
+Shahid Rajaei,PERSON,1,1,1.0,0.12
+Esplosione Devastante,PERSON,1,1,1.0,0.12
+Bandar Abass,PERSON,1,1,1.0,0.12
+The Case,PERSON,1,1,1.0,0.12
+Sustaining Wastewater Surveillance,PERSON,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+Use Surveillance System,PERSON,1,1,1.0,0.12
+Akwa Ibom,PERSON,1,1,1.0,0.12
+Williams College,ORGANIZATION,2,2,1.0,0.24
+FBI,ORGANIZATION,1,1,1.0,0.12
+Judge Accuses,PERSON,1,1,1.0,0.12
+Criminal Act,PERSON,1,1,1.0,0.12
+Rome,LOCATION,1,1,1.0,0.12
+Pope Francis,PERSON,1,1,1.0,0.12
+Mauritius,LOCATION,1,1,1.0,0.12
+Paris,LOCATION,3,3,1.0,0.36
+CIA,ORGANIZATION,1,1,1.0,0.12
+Seguridad Ciudadana,PERSON,1,1,1.0,0.12
+Fernando Viveros,PERSON,1,1,1.0,0.12
+Banco Mundial,PERSON,1,1,1.0,0.12
+Chile,LOCATION,1,1,1.0,0.12
+Instalan Saltillo,PERSON,1,1,1.0,0.12
+Ramos Arizpe,PERSON,1,1,1.0,0.12
+Los Pastores,PERSON,1,1,1.0,0.12
+Presidente Gustavo Petro,PERSON,1,1,1.0,0.12
+Schwerer Diebstahl,PERSON,1,1,1.0,0.12
+Goodbye Deutschland,PERSON,1,1,1.0,0.12
+Sohel Abdoulkhanzadeh,PERSON,1,1,1.0,0.12
+Hamburg,LOCATION,1,1,1.0,0.12
+Nach Messerattacke,PERSON,1,1,1.0,0.12
+Trumps Kabinett,PERSON,1,1,1.0,0.12
+Jahren Lokaler Sicherheitsplan,PERSON,1,1,1.0,0.12
+Polizeibericht Rems,PERSON,1,1,1.0,0.12
+Im Interview,PERSON,1,1,1.0,0.12
+Kyle Wiens,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+China Press,PERSON,1,1,1.0,0.12

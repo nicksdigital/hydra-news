@@ -1,0 +1,22 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Librai Bergamo,PERSON,1,1,1.0,0.12
+France,LOCATION,2,2,1.0,0.24
+Ugl Polizia,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Haiti,LOCATION,3,3,1.0,0.36
+Pakistan,LOCATION,1,1,1.0,0.12
+Karachi,LOCATION,1,1,1.0,0.12
+Canada,LOCATION,2,2,1.0,0.24
+California Home Depot,PERSON,1,1,1.0,0.12
+Le Bloc,PERSON,1,1,1.0,0.12
+FBI,ORGANIZATION,12,12,1.0,1.0
+Palacio Nacional,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Elon Musk,PERSON,2,2,1.0,0.24
+Reino Unido,PERSON,1,1,1.0,0.12
+Noticias Univision,PERSON,1,1,1.0,0.12
+Dominikanische Republik,PERSON,2,2,1.0,0.24
+Milwaukee,LOCATION,4,4,1.0,0.48
+Drei Kinder,PERSON,1,1,1.0,0.12
+CNN,ORGANIZATION,1,1,1.0,0.12

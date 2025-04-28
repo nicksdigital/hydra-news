@@ -1,0 +1,25 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Wo Jobs,PERSON,1,1,1.0,0.12
+Mehr Menschen,PERSON,1,1,1.0,0.12
+Die Mitte,PERSON,1,1,1.0,0.12
+Junge Schweizer,PERSON,1,1,1.0,0.12
+Dl Pa,PERSON,1,1,1.0,0.12
+Fundao Calouste Gulbenkian,PERSON,1,1,1.0,0.12
+Albert Einstein,PERSON,1,1,1.0,0.12
+Ncos Debunks Fake,PERSON,1,1,1.0,0.12
+Reports On Bomb,PERSON,1,1,1.0,0.12
+Kidnap Suspect,PERSON,1,1,1.0,0.12
+Ford,ORGANIZATION,2,2,1.0,0.24
+Why Catholic,PERSON,1,1,1.0,0.12
+Iran,LOCATION,1,1,1.0,0.12
+Benjamin Netanyahu,PERSON,1,1,1.0,0.12
+Talking Pictures,PERSON,1,1,1.0,0.12
+Holly Willoughby,PERSON,1,1,1.0,0.12
+The Scarlet Blade,PERSON,1,1,1.0,0.12
+Boko Haram,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Clint Eastwood,PERSON,1,1,1.0,0.12
+Angelina Jolie,PERSON,1,1,1.0,0.12
+Semana Santa,PERSON,1,1,1.0,0.12
+Lima,LOCATION,1,1,1.0,0.12

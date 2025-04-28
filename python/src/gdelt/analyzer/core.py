@@ -96,7 +96,12 @@ def analyze_gdelt_dataset(dataset_dir, output_dir, enable_sentiment=True, enable
 
     # Analyze themes
     logger.info("Analyzing theme distribution...")
-    theme_counts = analyze_themes(articles, themes_map)
+    # Create a themes map dictionary if themes_map is a list
+    if isinstance(themes_map, list):
+        themes_dict = {theme['theme']: theme['description'] for theme in themes_map}
+    else:
+        themes_dict = themes_map
+    theme_counts = analyze_themes(articles, themes_dict)
     analysis_results['theme_counts'] = theme_counts
 
     # Analyze theme correlations

@@ -1,0 +1,17 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Castel Gabbiano,PERSON,1,1,1.0,0.12
+San Siro,PERSON,1,1,1.0,0.12
+Pottsville Housing Authority,ORGANIZATION,1,1,1.0,0.12
+Dodge City,LOCATION,1,1,1.0,0.12
+Gov Office,PERSON,1,1,1.0,0.12
+Bajaj Housing Finance,PERSON,1,1,1.0,0.12
+Proposed Downtown Eastside,PERSON,1,1,1.0,0.12
+Pierre Caly,PERSON,1,1,1.0,0.12
+La Generalitat Valenciana,PERSON,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+Techo Propio,PERSON,1,1,1.0,0.12
+Besondere Probleme,PERSON,1,1,1.0,0.12
+Weniger Sozialwohnungen,PERSON,1,1,1.0,0.12
+Bayer,ORGANIZATION,1,1,1.0,0.12
+Lian Li Lancool,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12

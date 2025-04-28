@@ -1,0 +1,21 @@
+Activating virtual environment...
+Running event detection...
+2025-04-28 20:12:54,249 - python.src.gdelt.analyzer.database_manager - INFO - Connected to database: analysis_gdelt_enhanced/gdelt_news.db
+2025-04-28 20:12:54,250 - __main__ - INFO - Getting top 50 entities with at least 3 mentions
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/ubuntu/hydra-news/python/src/gdelt/run_advanced_event_detection.py", line 225, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/ubuntu/hydra-news/python/src/gdelt/run_advanced_event_detection.py", line 130, in main
+    entities = get_top_entities(
+        db_manager,
+        top_n=args.top_entities,
+        min_mentions=args.min_mentions
+    )
+  File "/home/ubuntu/hydra-news/python/src/gdelt/run_advanced_event_detection.py", line 98, in get_top_entities
+    db_manager.cursor.execute(query, (min_mentions, top_n))
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: entities
+Warning: Event detection encountered errors

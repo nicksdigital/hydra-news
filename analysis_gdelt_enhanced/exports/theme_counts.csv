@@ -1,21 +1,111 @@
 theme_id,count,description
-LEADER,400,References to leadership figures
-MEDICAL,400,Medical topics and healthcare
-SECURITY_SERVICES,399,Security and law enforcement services
-AFFECT,399,Emotional affect and sentiment
-LEGISLATION,398,Legislative and legal themes
-MARITIME,397,Maritime and naval themes
-MEDIA_SOCIAL,397,Social media references
-TRIAL,397,Legal trials and court proceedings
-MILITARY,397,Military themes and references
-ARREST,396,Arrests and detentions
-TERROR,395,Terrorism-related themes
-EDUCATION,395,Education-related themes
-SCIENCE,392,Scientific themes and research
-PROTEST,389,Protest and demonstration themes
-ELECTION,388,Election-related themes
-NATURAL_DISASTER,342,Natural disaster references
-GENERAL_GOVERNMENT,273,Government-related themes
-GENERAL_HEALTH,231,Health-related themes
-MOVEMENT_GENERAL,27,General movement and migration themes
-MEDIA_MSM,4,Mainstream media references
+RECRUITMENT,103,Recruitment and hiring
+RETIREMENT,101,Retirement and pension themes
+TRAFFIC,100,Traffic and transportation flow
+CONSTITUTIONAL,99,Constitutional and foundational legal themes
+IDEOLOGY,99,Ideological and political philosophy themes
+ALLIANCE,98,Alliances and partnerships
+PROTEST,98,Protest and demonstration themes
+UNEMPLOYMENT,97,Unemployment and joblessness
+LEADER,97,References to leadership figures
+RESIGNATION,96,Resignations from positions
+TRIAL,96,Legal trials and court proceedings
+REBELLION,95,Rebellion and insurgency
+MEDICAL,95,Medical topics and healthcare
+EVACUATION,95,Evacuation and emergency relocation
+SMUGGLING,94,Smuggling and illicit trade
+HARASSMENT,94,Harassment and intimidation
+ARREST,94,Arrests and detentions
+STRIKE,93,Labor strikes and work stoppages
+SCANDAL,93,Scandals and controversies
+PROPAGANDA,92,Propaganda and information warfare
+DISCRIMINATION,92,Discrimination and prejudice themes
+NATURAL_DISASTER,91,Natural disaster references
+TORTURE,91,Torture and cruel treatment
+DEATH_PENALTY,90,Capital punishment and death penalty
+RURAL,89,Rural development and countryside themes
+AFFECT,89,Emotional affect and sentiment
+JUSTICE,88,Justice and legal fairness
+RELIGION,88,Religious practices and institutions
+TERROR,88,Terrorism-related themes
+SCIENCE,88,Scientific themes and research
+SHORTAGE,88,Shortages and scarcity
+URBAN,88,Urban development and city themes
+DISABILITY,87,Disability and accessibility themes
+TRANSPARENCY,87,Transparency and openness in governance
+BULLYING,86,Bullying and intimidation
+NEGOTIATIONS,86,Negotiation and diplomatic themes
+APPOINTMENT,84,Appointments to positions
+SURVEILLANCE,84,Surveillance and monitoring
+LEGISLATION,83,Legislative and legal themes
+SOVEREIGNTY,82,National sovereignty and self-determination
+EXILE,82,Exile and political asylum
+SANITATION,80,Sanitation and hygiene
+NEW_CONSTRUCTION,80,New construction and development
+PUBLIC_TRANSPORT,80,Public transportation themes
+BORDER,80,Border and boundary themes
+REBELS,80,Rebel groups and insurgents
+JIHAD,79,Jihad and Islamic militancy
+SECURITY_SERVICES,78,Security and law enforcement services
+DISPLACED,77,Displaced persons and forced migration
+PERSECUTION,76,Persecution and oppression
+GENERAL_GOVERNMENT,75,Government-related themes
+MARITIME,73,Maritime and naval themes
+CYBER_ATTACK,72,Cyber attacks and digital security
+IMPEACHMENT,72,Impeachment and removal from office
+TREASON,69,Treason and betrayal
+BLOCKADE,69,Blockades and embargoes
+KIDNAP,67,Kidnapping and abduction
+GENERAL_HEALTH,67,Health-related themes
+DRONES,65,Drone technology and unmanned vehicles
+MEDIA_SOCIAL,65,Social media references
+HUMAN_TRAFFICKING,63,Human trafficking and exploitation
+GRIEVANCES,62,Grievances and complaints
+CLOSURE,61,Closures and shutdowns
+CEASEFIRE,61,Ceasefires and truces
+ORGANIZED_CRIME,60,Organized crime and criminal networks
+WATER_SECURITY,56,Water security and access
+STATE_OF_EMERGENCY,55,States of emergency and exceptional measures
+RETALIATE,52,Retaliation and reprisals
+RATIFY,52,Ratification of agreements and treaties
+LEGALIZE,52,Legalization and decriminalization
+TAKE_OFFICE,46,Taking office and assuming positions
+GENDER_VIOLENCE,44,Gender-based violence
+DRUG_TRADE,35,Drug trafficking and narcotics trade
+POWER_OUTAGE,31,Power outages and electrical failures
+HUMAN_RIGHTS_ABUSES,30,Human rights violations and abuses
+HEALTH_VACCINATION,30,Vaccination and immunization themes
+POLITICAL_TURMOIL,28,Political instability and turmoil
+ROAD_INCIDENT,27,Road incidents and accidents
+VANDALIZE,25,Vandalism and property destruction
+MOVEMENT_GENERAL,23,General movement and migration themes
+RELEASE_HOSTAGE,21,Hostage release and rescue
+MEDIA_CENSORSHIP,16,Media censorship and restrictions
+DISASTER_FIRE,11,Fire disaster themes
+NATURAL_DISASTER_EARTHQUAKE,10,Earthquake disasters
+VIOLENT_UNREST,10,Violent civil unrest
+NATURAL_DISASTER_FLOODS,7,Multiple flood disasters
+DISCRIMINATION_RACE,7,Racial discrimination
+HEALTH_PANDEMIC,6,Pandemic and widespread disease themes
+TAX_WEAPONS,5,Weapons and arms references
+MANMADE_DISASTER,3,Human-caused disasters
+SEIGE,3,Sieges and blockades
+TECH_AUTOMATION,3,Automation and technological displacement
+MILITARY,2,Military themes and references
+TAX_DISEASE,2,Disease references
+REFUGEES,2,Refugee and asylum seeker themes
+FOOD_SECURITY,1,Food security and access
+NATURAL_DISASTER_HURRICANE,1,Hurricane and cyclone disasters
+DEMOCRACY,1,Democratic governance themes
+TAX_RELIGION,1,Religious themes and references
+ELECTION,1,Election-related themes
+CORRUPTION,1,Corruption and bribery themes
+INFRASTRUCTURE_BAD_ROADS,1,Poor road infrastructure
+NATURAL_DISASTER_FLOOD,1,Flood disasters
+IMMIGRATION,1,Immigration and migrant themes
+CRIME_CARTELS,1,Criminal cartels and syndicates
+SANCTIONS,1,Economic and political sanctions
+SOC_INNOVATION,1,Social innovation and progress
+MEDIA_MSM,1,Mainstream media references
+EDUCATION,1,Education-related themes
+TAX_POLITICAL_PARTY,1,Political party references

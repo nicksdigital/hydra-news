@@ -1,0 +1,42 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Mechanized Revolution,PERSON,1,1,1.0,0.12
+Robert Sarah,PERSON,2,2,1.0,0.24
+France,LOCATION,4,3,0.75,0.38
+Il Papa,PERSON,1,1,1.0,0.12
+Il Francesco,PERSON,1,1,1.0,0.12
+Andrea Arnold,PERSON,1,1,1.0,0.12
+Caio Blat,PERSON,1,1,1.0,0.12
+Mercado Municipal,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Jojo Todynho,PERSON,1,1,1.0,0.12
+Congress,ORGANIZATION,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+China Sanctions Members,PERSON,1,1,1.0,0.12
+Without Naming Them,PERSON,1,1,1.0,0.12
+Human Rights Support,PERSON,1,1,1.0,0.12
+Syria,LOCATION,3,3,1.0,0.36
+Target,ORGANIZATION,1,1,1.0,0.12
+Gas Export Network,ORGANIZATION,1,1,1.0,0.12
+Iran,LOCATION,3,3,1.0,0.36
+Targets Iran Oil,PERSON,1,1,1.0,0.12
+New Sanctions,PERSON,1,1,1.0,0.12
+Rubio Denies Reports,PERSON,1,1,1.0,0.12
+Alleged Discussions,PERSON,1,1,1.0,0.12
+Lifting Sanctions,PERSON,1,1,1.0,0.12
+Nord Stream,PERSON,1,1,1.0,0.12
+Serbia,LOCATION,1,1,1.0,0.12
+Dr Furlan,PERSON,1,1,1.0,0.12
+Laurent Wauquiez,PERSON,1,1,1.0,0.12
+Ukraine,LOCATION,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Apple,ORGANIZATION,3,3,1.0,0.36
+Laure Zacchello,PERSON,1,1,1.0,0.12
+Istanbul,LOCATION,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+El Ayuntamiento,PERSON,2,2,1.0,0.24
+Pablo Iglesias,PERSON,3,3,1.0,0.36
+Taberna Garibaldi,PERSON,3,3,1.0,0.36
+Seguridad Vial,PERSON,1,1,1.0,0.12
+Florida Statute,PERSON,1,1,1.0,0.12
+Multa Gigante,PERSON,1,1,1.0,0.12
+Nach Sturz,PERSON,2,2,1.0,0.24

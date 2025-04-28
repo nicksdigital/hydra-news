@@ -1,0 +1,26 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Japan,LOCATION,1,1,1.0,0.12
+G20,ORGANIZATION,1,1,1.0,0.12
+La Guardia,PERSON,1,1,1.0,0.12
+Rio Grande,PERSON,1,1,1.0,0.12
+Anjo Dourado,PERSON,1,1,1.0,0.12
+Wellington,LOCATION,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+ABC,ORGANIZATION,1,1,1.0,0.12
+Stock Price Quote,PERSON,2,1,0.5,0.13999999999999999
+Trump Seeks Reintroduction,PERSON,1,1,1.0,0.12
+Lebanese Finance Minister,PERSON,1,1,1.0,0.12
+Arvest Bank,ORGANIZATION,1,1,1.0,0.12
+La Croix,PERSON,1,1,1.0,0.12
+Ukraine,LOCATION,3,3,1.0,0.36
+Financial Times,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Vladimir Poutine,PERSON,1,1,1.0,0.12
+El Chubut,PERSON,1,1,1.0,0.12
+Banco Mediolanum,PERSON,1,1,1.0,0.12
+Banca Privada,PERSON,1,1,1.0,0.12
+Caixa Popular,PERSON,1,1,1.0,0.12
+Wiener Privatbank,PERSON,1,1,1.0,0.12
+Lampe Privatbank,PERSON,1,1,1.0,0.12
+Dieser Status,PERSON,1,1,1.0,0.12
+Global Bank,ORGANIZATION,2,2,1.0,0.24

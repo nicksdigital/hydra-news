@@ -1,0 +1,49 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Hamas Quellislam,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Extinction Rebellion,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Interroga Governo,PERSON,1,1,1.0,0.12
+Direita Omitido,PERSON,1,1,1.0,0.12
+Israel,LOCATION,4,4,1.0,0.48
+Spain,LOCATION,1,1,1.0,0.12
+Liberia,LOCATION,1,1,1.0,0.12
+Liberia High Court,LOCATION,1,1,1.0,0.12
+High Stakes As,PERSON,1,1,1.0,0.12
+Rules On Legislative,PERSON,1,1,1.0,0.12
+Bay Area,LOCATION,1,1,1.0,0.12
+Korea,LOCATION,3,3,1.0,0.36
+South Korea,LOCATION,2,2,1.0,0.24
+Former President Moon,PERSON,2,2,1.0,0.24
+Top Global,ORGANIZATION,1,1,1.0,0.12
+News Highlights,PERSON,1,1,1.0,0.12
+Afghanistan,LOCATION,1,1,1.0,0.12
+Development Studies,PERSON,1,1,1.0,0.12
+Niger,LOCATION,1,1,1.0,0.12
+Nigeria,LOCATION,1,1,1.0,0.12
+Nigerian News,PERSON,1,1,1.0,0.12
+Latest Nigeria In,PERSON,1,1,1.0,0.12
+Nigeria News,PERSON,1,1,1.0,0.12
+Nigerian Newspaper,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Banco Mundial,PERSON,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Tesla,ORGANIZATION,1,1,1.0,0.12
+Portugal,LOCATION,1,1,1.0,0.12
+Congo,LOCATION,12,12,1.0,1.0
+Rebels Agree,PERSON,1,1,1.0,0.12
+United States,LOCATION,1,1,1.0,0.12
+Military Mod,PERSON,1,1,1.0,0.12
+Rebels Version,PERSON,1,1,1.0,0.12
+First Arc Directly,PERSON,1,1,1.0,0.12
+Sets Up Mon,PERSON,1,1,1.0,0.12
+Mothma Pivotal Star,PERSON,1,1,1.0,0.12
+Wars Rebels Story,PERSON,1,1,1.0,0.12
+Philippines,LOCATION,1,1,1.0,0.12
+Tre Harris,PERSON,1,1,1.0,0.12
+Yemen,LOCATION,2,2,1.0,0.24
+Yemen Houthi,PERSON,1,1,1.0,0.12
+Qatar,LOCATION,1,1,1.0,0.12
+Kinshasa,LOCATION,1,1,1.0,0.12
+Alexander Bublik,PERSON,1,1,1.0,0.12

@@ -1,0 +1,62 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Michael Jackson,PERSON,1,1,1.0,0.12
+Mogilev Region,LOCATION,1,1,1.0,0.12
+Locals Reflect,PERSON,2,2,1.0,0.24
+Years Since Deepwater,PERSON,2,2,1.0,0.24
+Horizon Spill,PERSON,2,2,1.0,0.24
+The Times,ORGANIZATION,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Sanjay Seth,PERSON,1,1,1.0,0.12
+Ranchi News,PERSON,1,1,1.0,0.12
+Morocco,LOCATION,1,1,1.0,0.12
+Morocco Reaffirms Green,PERSON,1,1,1.0,0.12
+Energy Leadership,PERSON,1,1,1.0,0.12
+Zimbabwe,LOCATION,1,1,1.0,0.12
+Newsday Zimbabwe,PERSON,1,1,1.0,0.12
+Unused Downtown Rogers,PERSON,1,1,1.0,0.12
+Enlit Africa,PERSON,1,1,1.0,0.12
+The Mail,PERSON,1,1,1.0,0.12
+Egypt,LOCATION,1,1,1.0,0.12
+Italy,LOCATION,1,1,1.0,0.12
+Praises Italy Support,PERSON,1,1,1.0,0.12
+Advancing Global,ORGANIZATION,1,1,1.0,0.12
+Earth Day,PERSON,1,1,1.0,0.12
+Environmental Protection,PERSON,1,1,1.0,0.12
+Tarjeta Madre,PERSON,1,1,1.0,0.12
+Grupo Milenio,PERSON,1,1,1.0,0.12
+Joe Hendry Says,PERSON,1,1,1.0,0.12
+Megastar  Wants To,PERSON,1,1,1.0,0.12
+Show Up To,PERSON,1,1,1.0,0.12
+Joe Hendry,PERSON,1,1,1.0,0.12
+Star War New,PERSON,1,1,1.0,0.12
+Show Just Did,PERSON,1,1,1.0,0.12
+Something Amazing For,PERSON,1,1,1.0,0.12
+The Rebels,PERSON,1,1,1.0,0.12
+That Fans Would,PERSON,1,1,1.0,0.12
+Allow To Be,PERSON,1,1,1.0,0.12
+Done To The,PERSON,1,1,1.0,0.12
+The Elegance Brand,PERSON,1,1,1.0,0.12
+Retain Their Titles,PERSON,1,1,1.0,0.12
+Steve Maclin Previews International,ORGANIZATION,1,1,1.0,0.12
+Steve Maclin Previews,PERSON,1,1,1.0,0.12
+With Eric Young,PERSON,1,1,1.0,0.12
+Star Wars Just,PERSON,1,1,1.0,0.12
+Made One Princess,PERSON,1,1,1.0,0.12
+Leia Story Feel,PERSON,1,1,1.0,0.12
+Rebellion Cigars,PERSON,1,1,1.0,0.12
+Trump Tower,PERSON,1,1,1.0,0.12
+Actor Explains Episode,PERSON,1,1,1.0,0.12
+Mon Mothma Dance,PERSON,1,1,1.0,0.12
+Good American Family,PERSON,1,1,1.0,0.12
+Century Modern,PERSON,1,1,1.0,0.12
+No Man Land,PERSON,1,1,1.0,0.12
+Star Wars Story,PERSON,1,1,1.0,0.12
+Tony Gilroy,PERSON,1,1,1.0,0.12
+Rogue One,PERSON,1,1,1.0,0.12
+Star Wars,PERSON,1,1,1.0,0.12
+Congo,LOCATION,1,1,1.0,0.12
+Kinshasa,LOCATION,1,1,1.0,0.12
+Disney,ORGANIZATION,1,1,1.0,0.12
+Plano,LOCATION,1,1,1.0,0.12
+Mamadou Koulibaly,PERSON,1,1,1.0,0.12
+Trinidad,LOCATION,2,2,1.0,0.24

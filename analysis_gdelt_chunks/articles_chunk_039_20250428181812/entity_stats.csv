@@ -1,0 +1,31 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Uganda,LOCATION,1,1,1.0,0.12
+Fu Bergoglio,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,2,1,0.5,0.13999999999999999
+Santa Catarina,PERSON,1,1,1.0,0.12
+Projecto Literatura,PERSON,1,1,1.0,0.12
+Mato Grosso,PERSON,1,1,1.0,0.12
+Portugal,LOCATION,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+Guwahati News,PERSON,1,1,1.0,0.12
+Afghan Refugee Resettlement,PERSON,1,1,1.0,0.12
+Ford,ORGANIZATION,1,1,1.0,0.12
+Gerald Ford,PERSON,1,1,1.0,0.12
+Sudan,LOCATION,1,1,1.0,0.12
+South Sudan,PERSON,1,1,1.0,0.12
+Turkish Police,PERSON,1,1,1.0,0.12
+Afghan Refugees,PERSON,1,1,1.0,0.12
+Germany,LOCATION,1,1,1.0,0.12
+Mali,LOCATION,1,1,1.0,0.12
+Le Mali,PERSON,1,1,1.0,0.12
+Paris,LOCATION,1,1,1.0,0.12
+Anne Hidalgo,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Nathalie Zajde,PERSON,1,1,1.0,0.12
+Giovanni Lepri,PERSON,1,1,1.0,0.12
+Neue Studie,PERSON,1,1,1.0,0.12
+Im Osten,PERSON,1,1,1.0,0.12
+Spreehotel Bautzen,PERSON,1,1,1.0,0.12
+Asylheim Ende Oktober,PERSON,1,1,1.0,0.12
+Innenminister Karner,PERSON,1,1,1.0,0.12
+Innenministerin Faeser,PERSON,1,1,1.0,0.12

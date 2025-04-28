@@ -1,0 +1,14 @@
+2025-04-28 18:59:24,258 - prediction_test - ERROR - Failed to import prediction modules: cannot import name 'NewsEventPredictor' from 'python.src.gdelt.analyzer.prediction.predictor' (/home/ubuntu/hydra-news/python/src/gdelt/analyzer/prediction/predictor.py)
+2025-04-28 19:00:26,337 - prediction_test - INFO - Successfully imported prediction modules
+2025-04-28 19:00:26,338 - prediction_test - INFO - Starting prediction model test
+2025-04-28 19:00:26,338 - prediction_test - INFO - Loading test data from analysis_gdelt_enhanced
+2025-04-28 19:00:26,339 - prediction_test - ERROR - Error loading data: [Errno 2] No such file or directory: 'analysis_gdelt_enhanced'
+2025-04-28 19:00:26,339 - prediction_test - ERROR - Failed to load test data
+2025-04-28 19:00:26,339 - prediction_test - ERROR - Prediction model test failed
+2025-04-28 19:00:38,359 - prediction_test - INFO - Successfully imported prediction modules
+2025-04-28 19:00:38,361 - prediction_test - INFO - Starting prediction model test
+2025-04-28 19:00:38,361 - prediction_test - INFO - Loading test data from dataset_gdelt_enhanced
+2025-04-28 19:00:38,361 - prediction_test - INFO - Loaded alternative data from summary.json
+2025-04-28 19:00:38,362 - prediction_test - WARNING - Creating synthetic test dataset
+2025-04-28 19:00:38,364 - prediction_test - INFO - Created synthetic dataset with 90 rows
+2025-04-28 19:00:38,364 - prediction_test - INFO - Testing prediction for entity: default_entity

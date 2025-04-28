@@ -1,0 +1,42 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Vatican,LOCATION,1,1,1.0,0.12
+Cae  El Marquito,PERSON,1,1,1.0,0.12
+Los Mayo,PERSON,1,1,1.0,0.12
+Baja California Sur,PERSON,1,1,1.0,0.12
+El Unicaja,PERSON,1,1,1.0,0.12
+Arcade Fire,PERSON,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Auditorio Nacional,PERSON,1,1,1.0,0.12
+Lima,LOCATION,1,1,1.0,0.12
+La Lima,PERSON,1,1,1.0,0.12
+Shirin David,PERSON,1,1,1.0,0.12
+Viel Verkehr,PERSON,1,1,1.0,0.12
+France,LOCATION,3,3,1.0,0.36
+Funerali Papa Francesco,PERSON,1,1,1.0,0.12
+San Pietro,PERSON,2,2,1.0,0.24
+Funicolare Centrale,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Diventare Papa,PERSON,1,1,1.0,0.12
+Rio Grande,PERSON,1,1,1.0,0.12
+Bangkok,LOCATION,1,1,1.0,0.12
+Bangkok Post,PERSON,1,1,1.0,0.12
+Fake Pierre Poilievre,PERSON,1,1,1.0,0.12
+Charlie Kirk,PERSON,1,1,1.0,0.12
+World News,PERSON,1,1,1.0,0.12
+The Arsenal,PERSON,1,1,1.0,0.12
+This University,ORGANIZATION,1,1,1.0,0.12
+Hefty Price After,PERSON,1,1,1.0,0.12
+Criticizing  Gender,PERSON,1,1,1.0,0.12
+Affirming Care,PERSON,1,1,1.0,0.12
+Elon Musk,PERSON,1,1,1.0,0.12
+Florence,LOCATION,1,1,1.0,0.12
+Florence Bergeaud,PERSON,1,1,1.0,0.12
+Heinz Guderian,PERSON,1,1,1.0,0.12
+Jean Lopez,PERSON,1,1,1.0,0.12
+Steven Pinker,PERSON,1,1,1.0,0.12
+Wie Medien,PERSON,1,1,1.0,0.12
+Peter Thiel,PERSON,1,1,1.0,0.12
+Der Oligarch,PERSON,1,1,1.0,0.12
+Dieser Deal,PERSON,1,1,1.0,0.12
+Apple,ORGANIZATION,1,1,1.0,0.12
+Deutsche Bahn,PERSON,1,1,1.0,0.12

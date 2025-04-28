@@ -1,0 +1,919 @@
+Mon Apr 28 20:25:37 UTC 2025: Starting GDELT fetch cycle
+2025-04-28 20:25:43,806 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Transformers library is available
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /home/ubuntu/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+2025-04-28 20:25:43,812 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+Processing date ranges:   0%|          | 0/30 [00:00<?, ?it/s]2025-04-28 20:25:43,931 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 20:25:43,932 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:43,939 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 20:25:43,940 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:43,950 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 20:25:43,951 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:43,951 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 20:25:43,952 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:44,445 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:44,447 - __main__ - INFO - Fetching GDELT data from 2025-04-24 to 2025-04-25
+2025-04-28 20:25:44,447 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:44,497 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:   3%|▎         | 1/30 [00:00<00:17,  1.69it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:44,531 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:44,534 - __main__ - INFO - Fetching GDELT data from 2025-04-27 to 2025-04-28
+2025-04-28 20:25:44,534 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:44,613 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:   7%|▋         | 2/30 [00:00<00:08,  3.20it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:44,706 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:44,713 - __main__ - INFO - Fetching GDELT data from 2025-04-26 to 2025-04-27
+2025-04-28 20:25:44,713 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:44,750 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:44,752 - __main__ - INFO - Fetching GDELT data from 2025-04-25 to 2025-04-26
+2025-04-28 20:25:44,752 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:44,799 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  10%|█         | 3/30 [00:00<00:07,  3.64it/s]2025-04-28 20:25:45,115 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  13%|█▎        | 4/30 [00:01<00:07,  3.67it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,148 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,148 - __main__ - INFO - Fetching GDELT data from 2025-04-23 to 2025-04-24
+2025-04-28 20:25:45,148 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:45,195 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,435 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,435 - __main__ - INFO - Fetching GDELT data from 2025-04-22 to 2025-04-23
+2025-04-28 20:25:45,435 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,494 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,494 - __main__ - INFO - Fetching GDELT data from 2025-04-21 to 2025-04-22
+2025-04-28 20:25:45,494 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,495 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,495 - __main__ - INFO - Fetching GDELT data from 2025-04-20 to 2025-04-21
+2025-04-28 20:25:45,495 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Processing date ranges:  20%|██        | 6/30 [00:01<00:05,  4.23it/s]2025-04-28 20:25:45,525 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:45,537 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,540 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,540 - __main__ - INFO - Fetching GDELT data from 2025-04-19 to 2025-04-20
+2025-04-28 20:25:45,540 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:45,556 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:45,595 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,833 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,833 - __main__ - INFO - Fetching GDELT data from 2025-04-18 to 2025-04-19
+2025-04-28 20:25:45,833 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,841 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,841 - __main__ - INFO - Fetching GDELT data from 2025-04-15 to 2025-04-16
+2025-04-28 20:25:45,841 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:45,885 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  33%|███▎      | 10/30 [00:01<00:02,  6.74it/s]2025-04-28 20:25:45,886 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,907 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,907 - __main__ - INFO - Fetching GDELT data from 2025-04-17 to 2025-04-18
+2025-04-28 20:25:45,907 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:45,923 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:45,923 - __main__ - INFO - Fetching GDELT data from 2025-04-16 to 2025-04-17
+2025-04-28 20:25:45,923 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:45,948 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:45,967 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,149 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,149 - __main__ - INFO - Fetching GDELT data from 2025-04-13 to 2025-04-14
+2025-04-28 20:25:46,149 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,180 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,180 - __main__ - INFO - Fetching GDELT data from 2025-04-14 to 2025-04-15
+2025-04-28 20:25:46,180 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,190 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  47%|████▋     | 14/30 [00:02<00:01,  8.70it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,207 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,208 - __main__ - INFO - Fetching GDELT data from 2025-04-11 to 2025-04-12
+2025-04-28 20:25:46,208 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,230 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,236 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,236 - __main__ - INFO - Fetching GDELT data from 2025-04-12 to 2025-04-13
+2025-04-28 20:25:46,236 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,276 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:46,279 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,527 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,527 - __main__ - INFO - Fetching GDELT data from 2025-04-09 to 2025-04-10
+2025-04-28 20:25:46,528 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,561 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,561 - __main__ - INFO - Fetching GDELT data from 2025-04-07 to 2025-04-08
+2025-04-28 20:25:46,561 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,573 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  60%|██████    | 18/30 [00:02<00:01,  9.30it/s]2025-04-28 20:25:46,605 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,649 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,649 - __main__ - INFO - Fetching GDELT data from 2025-04-10 to 2025-04-11
+2025-04-28 20:25:46,649 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,690 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  67%|██████▋   | 20/30 [00:02<00:00, 10.34it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,746 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,748 - __main__ - INFO - Fetching GDELT data from 2025-04-08 to 2025-04-09
+2025-04-28 20:25:46,748 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,809 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,809 - __main__ - INFO - Fetching GDELT data from 2025-04-06 to 2025-04-07
+2025-04-28 20:25:46,809 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,852 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 20:25:46,862 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  73%|███████▎  | 22/30 [00:02<00:00, 10.57it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,926 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,926 - __main__ - INFO - Fetching GDELT data from 2025-04-04 to 2025-04-05
+2025-04-28 20:25:46,926 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:46,976 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:46,990 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:46,990 - __main__ - INFO - Fetching GDELT data from 2025-04-05 to 2025-04-06
+2025-04-28 20:25:46,990 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:47,069 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  80%|████████  | 24/30 [00:03<00:00, 10.39it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:47,238 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:47,238 - __main__ - INFO - Fetching GDELT data from 2025-04-03 to 2025-04-04
+2025-04-28 20:25:47,238 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:47,268 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:47,268 - __main__ - INFO - Fetching GDELT data from 2025-04-01 to 2025-04-02
+2025-04-28 20:25:47,268 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:47,311 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:47,334 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:47,334 - __main__ - INFO - Fetching GDELT data from 2025-04-02 to 2025-04-03
+2025-04-28 20:25:47,335 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:25:47,342 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  87%|████████▋ | 26/30 [00:03<00:00,  9.35it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:47,755 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:47,755 - __main__ - INFO - Fetching GDELT data from 2025-03-30 to 2025-03-31
+2025-04-28 20:25:47,755 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Processing date ranges:  93%|█████████▎| 28/30 [00:03<00:00,  6.74it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:47,876 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:47,876 - __main__ - INFO - Fetching GDELT data from 2025-03-31 to 2025-04-01
+2025-04-28 20:25:47,876 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 20:25:47,917 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 20:25:47,917 - __main__ - INFO - Fetching GDELT data from 2025-03-29 to 2025-03-30
+2025-04-28 20:25:47,917 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+Processing date ranges: 100%|██████████| 30/30 [00:04<00:00,  8.03it/s]Processing date ranges: 100%|██████████| 30/30 [00:04<00:00,  7.36it/s]
+2025-04-28 20:25:48,048 - __main__ - INFO - Total articles processed: 0
+Mon Apr 28 20:25:49 UTC 2025: GDELT fetch cycle completed, waiting 3600 seconds
+Mon Apr 28 21:25:49 UTC 2025: Starting GDELT fetch cycle
+2025-04-28 21:25:54,408 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Transformers library is available
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /home/ubuntu/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+2025-04-28 21:25:54,411 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+Processing date ranges:   0%|          | 0/30 [00:00<?, ?it/s]2025-04-28 21:25:54,501 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 21:25:54,503 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 21:25:54,503 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 21:25:54,503 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 21:25:54,505 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 21:25:54,506 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 21:25:54,506 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 21:25:54,507 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:54,903 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:54,906 - __main__ - INFO - Fetching GDELT data from 2025-04-24 to 2025-04-25
+2025-04-28 21:25:54,906 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:54,906 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:54,906 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:54,906 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:54,923 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:54,926 - __main__ - INFO - Fetching GDELT data from 2025-04-26 to 2025-04-27
+2025-04-28 21:25:54,926 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:54,926 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:54,926 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:54,926 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:54,931 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:54,934 - __main__ - INFO - Fetching GDELT data from 2025-04-25 to 2025-04-26
+2025-04-28 21:25:54,934 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:54,934 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:54,934 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:54,934 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:54,942 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:54,945 - __main__ - INFO - Fetching GDELT data from 2025-04-27 to 2025-04-28
+2025-04-28 21:25:54,945 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:54,945 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:54,945 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:54,945 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:54,954 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:   3%|▎         | 1/30 [00:00<00:13,  2.12it/s]2025-04-28 21:25:54,982 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 21:25:54,984 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 21:25:54,995 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,165 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,165 - __main__ - INFO - Fetching GDELT data from 2025-04-23 to 2025-04-24
+2025-04-28 21:25:55,165 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,165 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,165 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,166 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,203 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,203 - __main__ - INFO - Fetching GDELT data from 2025-04-21 to 2025-04-22
+2025-04-28 21:25:55,203 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,203 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,203 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,203 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,207 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  17%|█▋        | 5/30 [00:00<00:03,  8.03it/s]2025-04-28 21:25:55,243 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,252 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,252 - __main__ - INFO - Fetching GDELT data from 2025-04-20 to 2025-04-21
+2025-04-28 21:25:55,252 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,252 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,252 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,252 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,292 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,323 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,323 - __main__ - INFO - Fetching GDELT data from 2025-04-22 to 2025-04-23
+2025-04-28 21:25:55,324 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,324 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,324 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,324 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,378 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  27%|██▋       | 8/30 [00:00<00:02, 10.89it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,412 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,412 - __main__ - INFO - Fetching GDELT data from 2025-04-19 to 2025-04-20
+2025-04-28 21:25:55,412 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,412 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,412 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,412 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,453 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,464 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,464 - __main__ - INFO - Fetching GDELT data from 2025-04-18 to 2025-04-19
+2025-04-28 21:25:55,464 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,464 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,464 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,464 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,504 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  33%|███▎      | 10/30 [00:01<00:01, 12.07it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,505 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,505 - __main__ - INFO - Fetching GDELT data from 2025-04-17 to 2025-04-18
+2025-04-28 21:25:55,505 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,505 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,506 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,506 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,545 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,622 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,622 - __main__ - INFO - Fetching GDELT data from 2025-04-16 to 2025-04-17
+2025-04-28 21:25:55,622 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,622 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,622 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,622 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,657 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,657 - __main__ - INFO - Fetching GDELT data from 2025-04-15 to 2025-04-16
+2025-04-28 21:25:55,657 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,657 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,657 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,657 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,674 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  40%|████      | 12/30 [00:01<00:01, 11.96it/s]2025-04-28 21:25:55,697 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,712 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,712 - __main__ - INFO - Fetching GDELT data from 2025-04-14 to 2025-04-15
+2025-04-28 21:25:55,712 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,712 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,712 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,712 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,752 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,753 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,753 - __main__ - INFO - Fetching GDELT data from 2025-04-13 to 2025-04-14
+2025-04-28 21:25:55,753 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,753 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,754 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,754 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,792 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  50%|█████     | 15/30 [00:01<00:00, 15.14it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,925 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,925 - __main__ - INFO - Fetching GDELT data from 2025-04-11 to 2025-04-12
+2025-04-28 21:25:55,925 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,925 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,925 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,925 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,958 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,958 - __main__ - INFO - Fetching GDELT data from 2025-04-12 to 2025-04-13
+2025-04-28 21:25:55,959 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,959 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,959 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,959 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:55,967 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:55,992 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:55,992 - __main__ - INFO - Fetching GDELT data from 2025-04-10 to 2025-04-11
+2025-04-28 21:25:55,992 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:55,992 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:55,992 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:55,992 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,009 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  57%|█████▋    | 17/30 [00:01<00:01, 12.87it/s]2025-04-28 21:25:56,033 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,034 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,034 - __main__ - INFO - Fetching GDELT data from 2025-04-09 to 2025-04-10
+2025-04-28 21:25:56,034 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,034 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,034 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,034 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,078 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,192 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,192 - __main__ - INFO - Fetching GDELT data from 2025-04-08 to 2025-04-09
+2025-04-28 21:25:56,192 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,192 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,192 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,192 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,234 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  67%|██████▋   | 20/30 [00:01<00:00, 13.07it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,249 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,249 - __main__ - INFO - Fetching GDELT data from 2025-04-06 to 2025-04-07
+2025-04-28 21:25:56,249 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,249 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,249 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,249 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,269 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,269 - __main__ - INFO - Fetching GDELT data from 2025-04-07 to 2025-04-08
+2025-04-28 21:25:56,269 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,269 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,269 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,269 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,287 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,295 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,295 - __main__ - INFO - Fetching GDELT data from 2025-04-05 to 2025-04-06
+2025-04-28 21:25:56,295 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,296 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,296 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,296 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,328 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 21:25:56,332 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,480 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,480 - __main__ - INFO - Fetching GDELT data from 2025-04-04 to 2025-04-05
+2025-04-28 21:25:56,480 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,480 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,480 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,480 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,503 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,503 - __main__ - INFO - Fetching GDELT data from 2025-04-03 to 2025-04-04
+2025-04-28 21:25:56,503 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,503 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,503 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,503 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,519 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  80%|████████  | 24/30 [00:02<00:00, 13.45it/s]2025-04-28 21:25:56,541 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,545 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,545 - __main__ - INFO - Fetching GDELT data from 2025-04-01 to 2025-04-02
+2025-04-28 21:25:56,545 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,545 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,545 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,545 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+2025-04-28 21:25:56,582 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,582 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,582 - __main__ - INFO - Fetching GDELT data from 2025-04-02 to 2025-04-03
+2025-04-28 21:25:56,582 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,582 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,582 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,582 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Processing date ranges:  90%|█████████ | 27/30 [00:02<00:00, 15.68it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,720 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,720 - __main__ - INFO - Fetching GDELT data from 2025-03-31 to 2025-04-01
+2025-04-28 21:25:56,720 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,720 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,720 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,720 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,741 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,741 - __main__ - INFO - Fetching GDELT data from 2025-03-30 to 2025-03-31
+2025-04-28 21:25:56,741 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,741 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,741 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,741 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Processing date ranges:  97%|█████████▋| 29/30 [00:02<00:00, 15.21it/s]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 21:25:56,798 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 21:25:56,798 - __main__ - INFO - Fetching GDELT data from 2025-03-29 to 2025-03-30
+2025-04-28 21:25:56,798 - __main__ - WARNING - Error with direct API call: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:25:56,798 - __main__ - WARNING - Error with dictionary API call: GdeltDoc.article_search() got an unexpected keyword argument 'max_recursion_depth'
+2025-04-28 21:25:56,798 - __main__ - WARNING - Generating mock data for testing
+2025-04-28 21:25:56,798 - __main__ - ERROR - Error fetching GDELT data: name 'generate_mock_articles' is not defined
+Processing date ranges: 100%|██████████| 30/30 [00:02<00:00, 12.74it/s]
+2025-04-28 21:25:56,872 - __main__ - INFO - Total articles processed: 0
+Mon Apr 28 21:25:58 UTC 2025: GDELT fetch cycle completed, waiting 3600 seconds
+Mon Apr 28 22:25:58 UTC 2025: Starting GDELT fetch cycle
+2025-04-28 22:26:02,751 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Transformers library is available
+[nltk_data] Downloading package vader_lexicon to
+[nltk_data]     /home/ubuntu/nltk_data...
+[nltk_data]   Package vader_lexicon is already up-to-date!
+2025-04-28 22:26:02,754 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+Processing date ranges:   0%|          | 0/30 [00:00<?, ?it/s]2025-04-28 22:26:02,837 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 22:26:02,838 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 22:26:02,838 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 22:26:02,839 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 22:26:02,841 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 22:26:02,842 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+2025-04-28 22:26:02,844 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 22:26:02,845 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:03,241 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:03,244 - __main__ - INFO - Fetching GDELT data from 2025-04-24 to 2025-04-25
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:03,253 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:03,255 - __main__ - INFO - Fetching GDELT data from 2025-04-26 to 2025-04-27
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:03,273 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:03,275 - __main__ - INFO - Fetching GDELT data from 2025-04-25 to 2025-04-26
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:03,278 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:03,280 - __main__ - INFO - Fetching GDELT data from 2025-04-27 to 2025-04-28
+2025-04-28 22:26:04,650 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:04,651 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:04,687 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:04,687 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:05,193 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:05,193 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:05,814 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:05,965 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:05,965 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:07,979 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:08,903 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:09,815 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:10,240 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:10,834 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:11,008 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:11,426 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:12,270 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:13,399 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:13,796 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:15,897 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:15,934 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:17,167 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:18,098 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:18,244 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:19,153 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:26:21,421 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:26:21,621 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:22,709 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:22,753 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:23,007 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:23,921 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:24,726 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:25,309 - __main__ - WARNING - No articles found for 2025-04-27 to 2025-04-28
+2025-04-28 22:26:25,350 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:   3%|▎         | 1/30 [00:22<10:53, 22.53s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:25,567 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:25,567 - __main__ - INFO - Fetching GDELT data from 2025-04-23 to 2025-04-24
+2025-04-28 22:26:25,649 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:26:26,356 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:26,871 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:27,739 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:26:28,140 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:26:28,296 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:28,296 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:29,279 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:29,301 - __main__ - WARNING - No articles found for 2025-04-26 to 2025-04-27
+2025-04-28 22:26:29,359 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:   7%|▋         | 2/30 [00:26<05:25, 11.64s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:29,575 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:29,575 - __main__ - INFO - Fetching GDELT data from 2025-04-22 to 2025-04-23
+2025-04-28 22:26:30,858 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:31,429 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:31,430 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:32,419 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:26:32,677 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:33,334 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:33,694 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:26:35,164 - __main__ - WARNING - No articles found for 2025-04-25 to 2025-04-26
+2025-04-28 22:26:35,204 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  10%|█         | 3/30 [00:32<04:02,  8.99s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:35,417 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:35,417 - __main__ - INFO - Fetching GDELT data from 2025-04-21 to 2025-04-22
+2025-04-28 22:26:36,402 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:36,403 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:36,949 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:39,628 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:41,309 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:42,309 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:26:43,644 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:45,003 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:45,620 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:26:48,019 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:26:48,549 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:26:48,664 - __main__ - WARNING - No articles found for 2025-04-23 to 2025-04-24
+2025-04-28 22:26:48,703 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  13%|█▎        | 4/30 [00:45<04:40, 10.77s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:48,933 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:48,934 - __main__ - INFO - Fetching GDELT data from 2025-04-20 to 2025-04-21
+2025-04-28 22:26:51,614 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:52,394 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:26:52,414 - __main__ - WARNING - No articles found for 2025-04-24 to 2025-04-25
+2025-04-28 22:26:52,456 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  17%|█▋        | 5/30 [00:49<03:26,  8.24s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:26:52,664 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:26:52,664 - __main__ - INFO - Fetching GDELT data from 2025-04-19 to 2025-04-20
+2025-04-28 22:26:53,328 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:54,098 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:26:55,139 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:56,058 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:26:57,029 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:57,544 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:26:57,545 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:26:58,129 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:26:58,308 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:26:59,927 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:27:00,923 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:02,178 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:02,784 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:02,784 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:03,154 - __main__ - WARNING - No articles found for 2025-04-21 to 2025-04-22
+2025-04-28 22:27:03,199 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  20%|██        | 6/30 [01:00<03:38,  9.09s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:03,518 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:03,518 - __main__ - INFO - Fetching GDELT data from 2025-04-18 to 2025-04-19
+2025-04-28 22:27:05,036 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:27:05,615 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:05,615 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:07,962 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:08,123 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:27:09,094 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:09,266 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:27:10,419 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:27:11,820 - __main__ - WARNING - No articles found for 2025-04-22 to 2025-04-23
+2025-04-28 22:27:11,864 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  23%|██▎       | 7/30 [01:09<03:25,  8.95s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:12,097 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:12,097 - __main__ - INFO - Fetching GDELT data from 2025-04-17 to 2025-04-18
+2025-04-28 22:27:14,970 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:27:15,544 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:15,544 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:18,297 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:27:18,372 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:27:19,823 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:27:20,846 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:27:22,343 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:27:22,505 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:27:23,073 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:27:24,208 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:27:25,733 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:27:26,781 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:27:26,867 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:27:27,664 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:27:29,086 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:30,964 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:32,396 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:27:35,956 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:36,123 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:27:36,908 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:37,019 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:27:37,534 - __main__ - WARNING - No articles found for 2025-04-19 to 2025-04-20
+2025-04-28 22:27:37,579 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  27%|██▋       | 8/30 [01:34<05:14, 14.29s/it]2025-04-28 22:27:37,722 - __main__ - INFO - Trying fallback query: "environmental issues"
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:37,795 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:37,795 - __main__ - INFO - Fetching GDELT data from 2025-04-16 to 2025-04-17
+2025-04-28 22:27:38,061 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:27:38,596 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:38,596 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:39,744 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:27:40,450 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:27:42,317 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:27:42,696 - __main__ - WARNING - No articles found for 2025-04-18 to 2025-04-19
+2025-04-28 22:27:42,747 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  30%|███       | 9/30 [01:39<04:00, 11.44s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:42,953 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:42,954 - __main__ - INFO - Fetching GDELT data from 2025-04-15 to 2025-04-16
+2025-04-28 22:27:43,790 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:27:44,024 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:44,024 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:45,486 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:27:46,679 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:46,759 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:47,385 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:27:48,457 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:27:48,504 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:27:48,996 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:49,228 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:50,298 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:27:50,321 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:27:51,577 - __main__ - WARNING - No articles found for 2025-04-17 to 2025-04-18
+2025-04-28 22:27:51,625 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  33%|███▎      | 10/30 [01:48<03:32, 10.65s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:51,895 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:51,895 - __main__ - INFO - Fetching GDELT data from 2025-04-14 to 2025-04-15
+2025-04-28 22:27:54,272 - __main__ - WARNING - No articles found for 2025-04-20 to 2025-04-21
+2025-04-28 22:27:54,302 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:27:54,333 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  37%|███▋      | 11/30 [01:51<02:36,  8.22s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:54,553 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:54,553 - __main__ - INFO - Fetching GDELT data from 2025-04-13 to 2025-04-14
+2025-04-28 22:27:56,461 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:56,462 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:57,974 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:27:57,975 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:27:57,975 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:27:58,925 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:27:59,050 - __main__ - WARNING - No articles found for 2025-04-16 to 2025-04-17
+2025-04-28 22:27:59,095 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  40%|████      | 12/30 [01:56<02:08,  7.17s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:27:59,476 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:27:59,477 - __main__ - INFO - Fetching GDELT data from 2025-04-12 to 2025-04-13
+2025-04-28 22:28:00,302 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:01,342 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:02,338 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:02,372 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:02,550 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:03,434 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:28:03,434 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:28:03,680 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:04,468 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:05,090 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:06,043 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:06,136 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:08,194 - __main__ - WARNING - No articles found for 2025-04-15 to 2025-04-16
+2025-04-28 22:28:08,242 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  43%|████▎     | 13/30 [02:05<02:12,  7.77s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:08,450 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:08,450 - __main__ - INFO - Fetching GDELT data from 2025-04-11 to 2025-04-12
+2025-04-28 22:28:08,931 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:10,348 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:11,456 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:12,856 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:14,137 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:28:14,138 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:28:14,677 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:14,816 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:15,781 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:16,556 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:16,854 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:17,267 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:17,894 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:17,949 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:19,286 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:19,517 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:20,075 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:20,788 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:21,681 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:21,683 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:21,800 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:21,996 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:23,297 - __main__ - WARNING - No articles found for 2025-04-14 to 2025-04-15
+2025-04-28 22:28:23,298 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:23,342 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  47%|████▋     | 14/30 [02:20<02:39,  9.98s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:23,563 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:23,563 - __main__ - INFO - Fetching GDELT data from 2025-04-10 to 2025-04-11
+2025-04-28 22:28:24,198 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:24,599 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:25,139 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:25,366 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:26,160 - __main__ - WARNING - No articles found for 2025-04-13 to 2025-04-14
+2025-04-28 22:28:26,210 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  50%|█████     | 15/30 [02:23<01:57,  7.84s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:26,429 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:26,429 - __main__ - INFO - Fetching GDELT data from 2025-04-09 to 2025-04-10
+2025-04-28 22:28:27,020 - __main__ - WARNING - No articles found for 2025-04-12 to 2025-04-13
+2025-04-28 22:28:27,061 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  53%|█████▎    | 16/30 [02:24<01:20,  5.73s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:27,270 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:27,270 - __main__ - INFO - Fetching GDELT data from 2025-04-08 to 2025-04-09
+2025-04-28 22:28:28,949 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:28:28,949 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:28:30,189 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:28:30,189 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:28:30,851 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:32,243 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:32,450 - __main__ - WARNING - No articles found for 2025-04-11 to 2025-04-12
+2025-04-28 22:28:32,490 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  57%|█████▋    | 17/30 [02:29<01:13,  5.64s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:32,691 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:32,691 - __main__ - INFO - Fetching GDELT data from 2025-04-07 to 2025-04-08
+2025-04-28 22:28:34,712 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:28:34,712 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:28:35,557 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:35,788 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:36,519 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:37,898 - __main__ - WARNING - No articles found with query: "climate change"
+2025-04-28 22:28:37,898 - __main__ - INFO - Trying fallback query: "world news"
+2025-04-28 22:28:37,900 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:38,289 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:38,583 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:39,386 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:40,306 - __main__ - INFO - Trying fallback query: "international politics"
+2025-04-28 22:28:41,015 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:41,272 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:42,088 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:43,518 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:43,796 - __main__ - INFO - Trying fallback query: "economic development"
+2025-04-28 22:28:44,681 - __main__ - INFO - Trying fallback query: "technology innovation"
+2025-04-28 22:28:45,085 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:45,330 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:46,018 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:46,776 - __main__ - INFO - Trying fallback query: "health crisis"
+2025-04-28 22:28:47,227 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:47,463 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:47,878 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:48,089 - __main__ - INFO - Trying fallback query: "global pandemic"
+2025-04-28 22:28:50,759 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:50,766 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:51,640 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:51,641 - __main__ - INFO - Trying fallback query: "environmental issues"
+2025-04-28 22:28:52,786 - __main__ - WARNING - No articles found for 2025-04-08 to 2025-04-09
+2025-04-28 22:28:52,823 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  60%|██████    | 18/30 [02:50<02:00, 10.06s/it]Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:53,070 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:53,070 - __main__ - INFO - Fetching GDELT data from 2025-04-06 to 2025-04-07
+2025-04-28 22:28:53,468 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:53,498 - __main__ - INFO - Trying fallback query: "financial markets"
+2025-04-28 22:28:53,521 - __main__ - INFO - Trying fallback query: "social media"
+2025-04-28 22:28:55,474 - __main__ - WARNING - No articles found for 2025-04-09 to 2025-04-10
+2025-04-28 22:28:55,507 - __main__ - WARNING - No articles found for 2025-04-10 to 2025-04-11
+2025-04-28 22:28:55,515 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Processing date ranges:  63%|██████▎   | 19/30 [02:52<01:26,  7.85s/it]2025-04-28 22:28:55,549 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Loading sentiment analysis model: tabularisai/multilingual-sentiment-analysis
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:55,732 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:55,732 - __main__ - INFO - Fetching GDELT data from 2025-04-05 to 2025-04-06
+Device set to use cpu
+/home/ubuntu/hydra-news/venv/lib/python3.13/site-packages/transformers/pipelines/text_classification.py:106: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+2025-04-28 22:28:55,766 - python.src.gdelt.analyzer.sentiment_analyzer - INFO - Sentiment analysis model loaded successfully
+2025-04-28 22:28:55,766 - __main__ - INFO - Fetching GDELT data from 2025-04-04 to 2025-04-05

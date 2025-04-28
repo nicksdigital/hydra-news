@@ -1,0 +1,32 @@
+entity,type,count,num_sources,source_diversity,trust_score
+The New Times,PERSON,1,1,1.0,0.12
+La Pietra,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+Air India,PERSON,1,1,1.0,0.12
+Hurricane Helene,PERSON,1,1,1.0,0.12
+Beale Avenue,LOCATION,1,1,1.0,0.12
+Mangamuka Gorge,PERSON,1,1,1.0,0.12
+Virginia Giuffre,PERSON,1,1,1.0,0.12
+Nightly Roundup,PERSON,1,1,1.0,0.12
+Mumbai,LOCATION,1,1,1.0,0.12
+Elphinstone Bridge,LOCATION,2,1,0.5,0.13999999999999999
+Fifth Street,LOCATION,1,1,1.0,0.12
+La Reina,PERSON,2,1,0.5,0.13999999999999999
+Universidad Carlos,PERSON,1,1,1.0,0.12
+San Pedro,PERSON,1,1,1.0,0.12
+Santo Toribio,PERSON,1,1,1.0,0.12
+El Norte,PERSON,1,1,1.0,0.12
+Pascua Taurina,PERSON,1,1,1.0,0.12
+La Jotera,PERSON,1,1,1.0,0.12
+Das Spital Zweisimmen,PERSON,1,1,1.0,0.12
+Amman,LOCATION,1,1,1.0,0.12
+Chocolat Ammann,PERSON,1,1,1.0,0.12
+Jordan,LOCATION,1,1,1.0,0.12
+Glarus Sparmassnahmen,PERSON,1,1,1.0,0.12
+Standort Innsbruck,PERSON,1,1,1.0,0.12
+Aargauer Praxis,PERSON,1,1,1.0,0.12
+Due Torri,PERSON,1,1,1.0,0.12
+Maltempo Piemonte,PERSON,1,1,1.0,0.12
+Val Germanasca,PERSON,2,2,1.0,0.24
+Il Cittadino Online,PERSON,1,1,1.0,0.12

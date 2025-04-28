@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Papa Francisco,PERSON,2,2,1.0,0.24
+Premio Fronteras,PERSON,3,3,1.0,0.36
+Camille Parmesan,PERSON,1,1,1.0,0.12
+Auch Versicherungen,PERSON,1,1,1.0,0.12
+Die Welt,PERSON,1,1,1.0,0.12
+Warum Papst Franziskus,PERSON,1,1,1.0,0.12
+Pharmazeutische Zeitung,PERSON,1,1,1.0,0.12
+Der Nordpol,PERSON,3,2,0.6666666666666666,0.26
+Trump Tower,PERSON,1,1,1.0,0.12
+Congress,ORGANIZATION,1,1,1.0,0.12
+Fundo Clima,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Amazon,ORGANIZATION,1,1,1.0,0.12
+Baixo Amazonas,PERSON,1,1,1.0,0.12
+Leafy Moss Found,PERSON,1,1,1.0,0.12
+In Antarctic Glacier,PERSON,1,1,1.0,0.12
+Points To Warmer,PERSON,1,1,1.0,0.12
+Years Ago,PERSON,1,1,1.0,0.12
+See Environmental Documentaries,PERSON,1,1,1.0,0.12
+Celebrate Earth Day,PERSON,1,1,1.0,0.12
+Is Right To,PERSON,1,1,1.0,0.12
+Be Skeptical Of,PERSON,1,1,1.0,0.12
+Watts Up With,PERSON,1,1,1.0,0.12
+Trump Energy,PERSON,1,1,1.0,0.12
+France,LOCATION,6,5,0.8333333333333334,0.62
+La France,PERSON,2,2,1.0,0.24
+Los Angeles,LOCATION,2,1,0.5,0.13999999999999999
+Pierre Hurmic,PERSON,2,1,0.5,0.13999999999999999
+Nueva York,PERSON,1,1,1.0,0.12
+Adriano Espaillat,PERSON,1,1,1.0,0.12
+Alto Manhattan,PERSON,1,1,1.0,0.12
+Paris,LOCATION,1,1,1.0,0.12
+Pariser Abkommen,PERSON,1,1,1.0,0.12
+Satellit  Biomass,PERSON,2,2,1.0,0.24
+Satellit Biomass,PERSON,1,1,1.0,0.12
+Die Vermessung,PERSON,1,1,1.0,0.12
+Neun Kippelemente,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,3,2,0.6666666666666666,0.26
+Milan,LOCATION,1,1,1.0,0.12
+Loceanografo Carniel,PERSON,1,1,1.0,0.12

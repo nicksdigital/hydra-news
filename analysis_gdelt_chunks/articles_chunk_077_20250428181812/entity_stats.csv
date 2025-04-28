@@ -1,0 +1,23 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Colombia,LOCATION,1,1,1.0,0.12
+Santander,ORGANIZATION,1,1,1.0,0.12
+Bolivia,LOCATION,1,1,1.0,0.12
+Las Tres Anclas,PERSON,1,1,1.0,0.12
+Luis Caputo,PERSON,1,1,1.0,0.12
+Costa Rica,LOCATION,1,1,1.0,0.12
+Juan Ariel,PERSON,1,1,1.0,0.12
+Papst Franziskus,PERSON,5,5,1.0,0.6
+The News Lens,PERSON,1,1,1.0,0.12
+Miami,LOCATION,1,1,1.0,0.12
+And Fete Festival,PERSON,1,1,1.0,0.12
+Brings Caribbean Flair,PERSON,1,1,1.0,0.12
+And Soca To,PERSON,1,1,1.0,0.12
+Caribbean Airlines,ORGANIZATION,1,1,1.0,0.12
+Petites Antilles,PERSON,1,1,1.0,0.12
+Shell,ORGANIZATION,2,2,1.0,0.24
+Koze Kilti,PERSON,1,1,1.0,0.12
+Dominique Balmy,PERSON,1,1,1.0,0.12
+Mein Schiff,PERSON,1,1,1.0,0.12
+Traumhafte Landungen,PERSON,4,4,1.0,0.48
+Die Top,PERSON,4,4,1.0,0.48
+Blaue Lagune,PERSON,1,1,1.0,0.12

@@ -1,0 +1,32 @@
+entity,type,count,num_sources,source_diversity,trust_score
+CNN,ORGANIZATION,1,1,1.0,0.12
+ABC,ORGANIZATION,1,1,1.0,0.12
+Sponichi Annex,PERSON,1,1,1.0,0.12
+Winnipeg Free Press,PERSON,1,1,1.0,0.12
+Hardberger Park,LOCATION,1,1,1.0,0.12
+San Francisco,LOCATION,1,1,1.0,0.12
+Russia,LOCATION,1,1,1.0,0.12
+American Enterprise Institute,ORGANIZATION,1,1,1.0,0.12
+In Opposing Last,PERSON,1,1,1.0,0.12
+Nearly All Democrats,PERSON,1,1,1.0,0.12
+Shut Down Welfare,PERSON,1,1,1.0,0.12
+Ottawa,LOCATION,1,1,1.0,0.12
+Lost Canadian,PERSON,1,1,1.0,0.12
+Congress,ORGANIZATION,1,1,1.0,0.12
+New York,LOCATION,1,1,1.0,0.12
+Upstate New York,PERSON,1,1,1.0,0.12
+Apple,ORGANIZATION,3,3,1.0,0.36
+Paul Gaultier,PERSON,2,1,0.5,0.13999999999999999
+Donald Trump,PERSON,1,1,1.0,0.12
+Gavin Newsom,PERSON,1,1,1.0,0.12
+Datos Estados Unidos,PERSON,1,1,1.0,0.12
+Casa Allende,PERSON,1,1,1.0,0.12
+El Gobierno,PERSON,1,1,1.0,0.12
+Nueva Ley,PERSON,1,1,1.0,0.12
+Mehr Gesetze,PERSON,1,1,1.0,0.12
+Grosser Rat,PERSON,1,1,1.0,0.12
+Merck,ORGANIZATION,1,1,1.0,0.12
+Gilead Sciences,ORGANIZATION,1,1,1.0,0.12
+BioNTech,ORGANIZATION,1,1,1.0,0.12
+Interessante Einstiege,PERSON,1,1,1.0,0.12
+Stadtwerke Waiblingen,PERSON,1,1,1.0,0.12

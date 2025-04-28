@@ -1,0 +1,23 @@
+entity,type,count,num_sources,source_diversity,trust_score
+ASEAN,ORGANIZATION,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Funerali Papa Francesco,PERSON,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+Il Vaticano,PERSON,1,1,1.0,0.12
+Leonardo,ORGANIZATION,1,1,1.0,0.12
+San Leonardo,PERSON,1,1,1.0,0.12
+Mato Grosso,PERSON,1,1,1.0,0.12
+Pakistan,LOCATION,2,2,1.0,0.24
+Scotland,LOCATION,1,1,1.0,0.12
+Three French,PERSON,1,1,1.0,0.12
+High Court,LOCATION,1,1,1.0,0.12
+Patients Stranded As,PERSON,1,1,1.0,0.12
+Affiliates Begin Strike,PERSON,1,1,1.0,0.12
+In Akwa Ibom,PERSON,1,1,1.0,0.12
+Le Strike Bowling,PERSON,1,1,1.0,0.12
+Madrid,LOCATION,5,5,1.0,0.6
+El Ayuntamiento,PERSON,1,1,1.0,0.12
+Etliche Busse,PERSON,2,1,0.5,0.13999999999999999
+Viele Busse,PERSON,2,1,0.5,0.13999999999999999
+Krankenhaus Chemnitz,PERSON,1,1,1.0,0.12
+Sponichi Annex,PERSON,1,1,1.0,0.12

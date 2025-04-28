@@ -1,0 +1,34 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Sponichi Annex,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,1,1,1.0,0.12
+Po Sulpl,PERSON,1,1,1.0,0.12
+Apple,ORGANIZATION,1,1,1.0,0.12
+Big Tech,PERSON,1,1,1.0,0.12
+Sindaco Kiev,PERSON,1,1,1.0,0.12
+London,LOCATION,1,1,1.0,0.12
+Dia Municipal,PERSON,1,1,1.0,0.12
+Governo Lula,PERSON,1,1,1.0,0.12
+Home Appliances To,PERSON,1,1,1.0,0.12
+Buy Now Before,PERSON,1,1,1.0,0.12
+Trump Tariffs Take,PERSON,1,1,1.0,0.12
+Former Trump,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,2,2,1.0,0.24
+Only Political Bias,PERSON,1,1,1.0,0.12
+Will Blame Trump,PERSON,1,1,1.0,0.12
+Tariffs For The,PERSON,1,1,1.0,0.12
+Tom Warburton,PERSON,1,1,1.0,0.12
+Goldman Sachs,ORGANIZATION,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Virginia George Allen,PERSON,1,1,1.0,0.12
+Stay In Place,LOCATION,1,1,1.0,0.12
+Now Trade Court,LOCATION,1,1,1.0,0.12
+Trump Tariffs Can,PERSON,1,1,1.0,0.12
+For Now Trade,PERSON,1,1,1.0,0.12
+Canada,LOCATION,1,1,1.0,0.12
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+Samsung,ORGANIZATION,1,1,1.0,0.12
+Samsung Galaxy Watch,PERSON,1,1,1.0,0.12
+Mein Schiff,PERSON,1,1,1.0,0.12
+Welches Kreuzfahrtschiff,PERSON,1,1,1.0,0.12
+Neue Regeln,PERSON,1,1,1.0,0.12
+Ennser City,LOCATION,1,1,1.0,0.12

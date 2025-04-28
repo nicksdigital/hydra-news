@@ -1,0 +1,86 @@
+mkdir -p build lib include
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/quantum_zkp.c -o build/quantum_zkp.o
+gcc -shared -lcrypto -lssl -o lib/libqzkp.so build/quantum_zkp.o
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/logical_entanglement.c -o build/logical_entanglement.o
+src/logical_entanglement.c: In function 'le_calculate_node_hash':
+src/logical_entanglement.c:170:5: warning: 'SHA256_Init' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  170 |     if (SHA256_Init(&ctx) != 1) {
+      |     ^~
+In file included from src/logical_entanglement.c:11:
+/usr/include/openssl/sha.h:73:27: note: declared here
+   73 | OSSL_DEPRECATEDIN_3_0 int SHA256_Init(SHA256_CTX *c);
+      |                           ^~~~~~~~~~~
+src/logical_entanglement.c:175:5: warning: 'SHA256_Update' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  175 |     if (SHA256_Update(&ctx, node->data, node->data_size) != 1) {
+      |     ^~
+/usr/include/openssl/sha.h:74:27: note: declared here
+   74 | OSSL_DEPRECATEDIN_3_0 int SHA256_Update(SHA256_CTX *c,
+      |                           ^~~~~~~~~~~~~
+src/logical_entanglement.c:181:9: warning: 'SHA256_Update' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  181 |         if (SHA256_Update(&ctx, node->deps[i]->hash, node->deps[i]->hash_size) != 1) {
+      |         ^~
+/usr/include/openssl/sha.h:74:27: note: declared here
+   74 | OSSL_DEPRECATEDIN_3_0 int SHA256_Update(SHA256_CTX *c,
+      |                           ^~~~~~~~~~~~~
+src/logical_entanglement.c:187:5: warning: 'SHA256_Final' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  187 |     if (SHA256_Final(node->hash, &ctx) != 1) {
+      |     ^~
+/usr/include/openssl/sha.h:76:27: note: declared here
+   76 | OSSL_DEPRECATEDIN_3_0 int SHA256_Final(unsigned char *md, SHA256_CTX *c);
+      |                           ^~~~~~~~~~~~
+src/logical_entanglement.c: In function 'le_calculate_root_hash':
+src/logical_entanglement.c:229:5: warning: 'SHA256_Init' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  229 |     if (SHA256_Init(&ctx) != 1) {
+      |     ^~
+/usr/include/openssl/sha.h:73:27: note: declared here
+   73 | OSSL_DEPRECATEDIN_3_0 int SHA256_Init(SHA256_CTX *c);
+      |                           ^~~~~~~~~~~
+src/logical_entanglement.c:235:9: warning: 'SHA256_Update' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  235 |         if (SHA256_Update(&ctx, graph->nodes[i]->hash, graph->nodes[i]->hash_size) != 1) {
+      |         ^~
+/usr/include/openssl/sha.h:74:27: note: declared here
+   74 | OSSL_DEPRECATEDIN_3_0 int SHA256_Update(SHA256_CTX *c,
+      |                           ^~~~~~~~~~~~~
+src/logical_entanglement.c:241:5: warning: 'SHA256_Final' is deprecated: Since OpenSSL 3.0 [-Wdeprecated-declarations]
+  241 |     if (SHA256_Final(graph->root_hash, &ctx) != 1) {
+      |     ^~
+/usr/include/openssl/sha.h:76:27: note: declared here
+   76 | OSSL_DEPRECATEDIN_3_0 int SHA256_Final(unsigned char *md, SHA256_CTX *c);
+      |                           ^~~~~~~~~~~~
+gcc -shared -lcrypto -lssl -o lib/lible.so build/logical_entanglement.o
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/postquantum/kyber.c -o build/kyber.o
+gcc -shared -lcrypto -lssl -o lib/libkyber.so build/kyber.o
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/postquantum/falcon.c -o build/falcon.o
+src/postquantum/falcon.c: In function 'falcon_sign':
+src/postquantum/falcon.c:131:18: warning: unused variable 'hmac_len' [-Wunused-variable]
+  131 |     unsigned int hmac_len;
+      |                  ^~~~~~~~
+gcc -shared -lcrypto -lssl -o lib/libfalcon.so build/falcon.o
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/postquantum/crypto_adapter.c -o build/crypto_adapter.o
+src/postquantum/crypto_adapter.c: In function 'crypto_verify_zkproof':
+src/postquantum/crypto_adapter.c:527:16: warning: unused variable 'signature_len' [-Wunused-variable]
+  527 |         size_t signature_len = proof->response_size - original_response_size;
+      |                ^~~~~~~~~~~~~
+gcc -shared -lcrypto -lssl -o lib/libcryptoadapter.so build/crypto_adapter.o -Llib -lqzkp -lkyber -lfalcon
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/hydra_cgo.c -o build/hydra_cgo.o
+In file included from src/hydra_cgo.c:12:
+src/postquantum/crypto_adapter.h:22:5: error: redeclaration of enumerator 'KEY_TYPE_SYMMETRIC'
+   22 |     KEY_TYPE_SYMMETRIC,   // Symmetric key (e.g., AES)
+      |     ^~~~~~~~~~~~~~~~~~
+In file included from src/hydra_cgo.c:7:
+src/hydra_cgo.h:20:5: note: previous definition of 'KEY_TYPE_SYMMETRIC' with type 'enum <anonymous>'
+   20 |     KEY_TYPE_SYMMETRIC = 0,
+      |     ^~~~~~~~~~~~~~~~~~
+src/postquantum/crypto_adapter.h:23:5: error: redeclaration of enumerator 'KEY_TYPE_KYBER'
+   23 |     KEY_TYPE_KYBER,       // Kyber key (post-quantum KEM)
+      |     ^~~~~~~~~~~~~~
+src/hydra_cgo.h:21:5: note: previous definition of 'KEY_TYPE_KYBER' with type 'enum <anonymous>'
+   21 |     KEY_TYPE_KYBER = 1,
+      |     ^~~~~~~~~~~~~~
+src/postquantum/crypto_adapter.h:24:5: error: redeclaration of enumerator 'KEY_TYPE_FALCON'
+   24 |     KEY_TYPE_FALCON       // Falcon key (post-quantum signatures)
+      |     ^~~~~~~~~~~~~~~
+src/hydra_cgo.h:22:5: note: previous definition of 'KEY_TYPE_FALCON' with type 'enum <anonymous>'
+   22 |     KEY_TYPE_FALCON = 2
+      |     ^~~~~~~~~~~~~~~
+make: *** [Makefile:103: build/hydra_cgo.o] Error 1

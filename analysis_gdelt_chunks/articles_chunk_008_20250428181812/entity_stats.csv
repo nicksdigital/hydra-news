@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Decreto Bollette,PERSON,1,1,1.0,0.12
+Tyre Nichols,PERSON,1,1,1.0,0.12
+Sister Wive Love,PERSON,1,1,1.0,0.12
+Playoffs Game,PERSON,1,1,1.0,0.12
+Kim Kardashian Robbery,PERSON,1,1,1.0,0.12
+Suspect  Died Suddenly,PERSON,1,1,1.0,0.12
+Weeks Before Trial,PERSON,1,1,1.0,0.12
+Israel,LOCATION,1,1,1.0,0.12
+Paris,LOCATION,3,3,1.0,0.36
+Kim Kardashian Paris,PERSON,1,1,1.0,0.12
+Robbery Dies Unexpectedly,PERSON,1,1,1.0,0.12
+Before Trial,PERSON,1,1,1.0,0.12
+Fire Emblem Engage,PERSON,1,1,1.0,0.12
+Added To Nintendo,PERSON,1,1,1.0,0.12
+Here Every Song,PERSON,1,1,1.0,0.12
+Karen Read,PERSON,1,1,1.0,0.12
+Trial Begins In,PERSON,1,1,1.0,0.12
+Paris Over,PERSON,1,1,1.0,0.12
+Gunpoint Robbery Of,PERSON,1,1,1.0,0.12
+Kim Kardashian,PERSON,3,3,1.0,0.36
+Paul Touvier,PERSON,1,1,1.0,0.12
+Canada,LOCATION,1,1,1.0,0.12
+Canada Junior,PERSON,1,1,1.0,0.12
+Me Souab,PERSON,1,1,1.0,0.12
+Google,ORGANIZATION,2,2,1.0,0.24
+Colombia,LOCATION,2,2,1.0,0.24
+Thomas Silva,PERSON,2,1,0.5,0.13999999999999999
+Uruguay,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Tiene Sheinbaum,PERSON,1,1,1.0,0.12
+Javier Moreno,PERSON,1,1,1.0,0.12
+Staatsanwaltschaftliches Ermittlungsverfahren,PERSON,1,1,1.0,0.12
+Robert Geis Vater,PERSON,1,1,1.0,0.12
+Problematische Arbeitsvertrag,PERSON,1,1,1.0,0.12
+Verdacht Ermittlungsverfahren,PERSON,1,1,1.0,0.12
+Landgericht Hannover,PERSON,1,1,1.0,0.12
+Apple,ORGANIZATION,1,1,1.0,0.12
+Il Riesame,PERSON,1,1,1.0,0.12
+Nicola Pezzella  Palummiello,PERSON,1,1,1.0,0.12
+Antonio Fusco,PERSON,1,1,1.0,0.12

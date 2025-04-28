@@ -1,0 +1,27 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Arbeitsmarkt Luxemburg,PERSON,1,1,1.0,0.12
+Trumps Zollpolitik,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Felice Lanza,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Dia Nacional,PERSON,1,1,1.0,0.12
+Livre Critica,PERSON,1,1,1.0,0.12
+Grand Rapids,PERSON,1,1,1.0,0.12
+Chief Justice Torkornoo,PERSON,1,1,1.0,0.12
+Supreme Court,ORGANIZATION,1,1,1.0,0.12
+Supreme Court,LOCATION,1,1,1.0,0.12
+The Chief Justice,PERSON,1,1,1.0,0.12
+Justice Asante,PERSON,1,1,1.0,0.12
+Sentencing Council,ORGANIZATION,1,1,1.0,0.12
+Shabana Mahmood,PERSON,1,1,1.0,0.12
+President Mahama,PERSON,2,1,0.5,0.13999999999999999
+Chief Justice Gertrude,PERSON,2,1,0.5,0.13999999999999999
+Pakistan,LOCATION,1,1,1.0,0.12
+Justice Minhas,PERSON,1,1,1.0,0.12
+Bruno Retailleau,PERSON,2,2,1.0,0.24
+Abderraouf Mokademi,PERSON,1,1,1.0,0.12
+Affaire Issiaka,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Fallo Levinas,PERSON,1,1,1.0,0.12
+El Financiero,PERSON,1,1,1.0,0.12
+Gloria Sintia,PERSON,1,1,1.0,0.12

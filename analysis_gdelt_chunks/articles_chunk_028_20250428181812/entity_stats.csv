@@ -1,0 +1,51 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Russia,LOCATION,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Target,ORGANIZATION,1,1,1.0,0.12
+Sophisticated Crypto Theft,PERSON,1,1,1.0,0.12
+Targeting High,PERSON,1,1,1.0,0.12
+Worth Individuals,PERSON,1,1,1.0,0.12
+Chair Paul Atkins,PERSON,2,1,0.5,0.13999999999999999
+Says Crypto Deserves,PERSON,2,1,0.5,0.13999999999999999
+Clear Regulatory Rules,PERSON,2,1,0.5,0.13999999999999999
+Praises  Crypto Mom,PERSON,2,1,0.5,0.13999999999999999
+Hester Peirce Efforts,PERSON,2,1,0.5,0.13999999999999999
+Emeren Group,ORGANIZATION,1,1,1.0,0.12
+Fartcoin Might Capture,PERSON,1,1,1.0,0.12
+Spotlight In,PERSON,1,1,1.0,0.12
+But These Gold,PERSON,1,1,1.0,0.12
+Backed Cryptocurrencies Have,PERSON,1,1,1.0,0.12
+Outpaced Its Growth,PERSON,1,1,1.0,0.12
+In Recent Trends,PERSON,1,1,1.0,0.12
+Day Unveils Global,ORGANIZATION,1,1,1.0,0.12
+Pizza Day,PERSON,1,1,1.0,0.12
+Investors Lost,PERSON,1,1,1.0,0.12
+Cryptocurrency Scams Last,PERSON,1,1,1.0,0.12
+Here How,PERSON,1,1,1.0,0.12
+Keep Your Money,PERSON,1,1,1.0,0.12
+Kuwait,LOCATION,1,1,1.0,0.12
+Cryptocurrency Miners Detained,PERSON,1,1,1.0,0.12
+Kuwait Latest Crackdown,PERSON,1,1,1.0,0.12
+FBI,ORGANIZATION,1,1,1.0,0.12
+Stock Market Holidays,PERSON,1,1,1.0,0.12
+Nasdaq Closing Dates,PERSON,1,1,1.0,0.12
+China,LOCATION,4,3,0.75,0.38
+India,LOCATION,5,1,0.2,0.2
+Gift Nifty,PERSON,3,1,0.3333333333333333,0.16
+Wall Street,LOCATION,1,1,1.0,0.12
+Stock Market Crash,PERSON,1,1,1.0,0.12
+Here What History,PERSON,1,1,1.0,0.12
+Le Club,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Casa Blanca,PERSON,1,1,1.0,0.12
+Toros Apuntan,PERSON,1,1,1.0,0.12
+Exklusives Trading,PERSON,1,1,1.0,0.12
+Der Kick,PERSON,1,1,1.0,0.12
+Traders Cup,PERSON,1,1,1.0,0.12
+Frankfurt,LOCATION,1,1,1.0,0.12
+Aktien Frankfurt,PERSON,1,1,1.0,0.12
+Siemens,ORGANIZATION,1,1,1.0,0.12
+Airbus,ORGANIZATION,1,1,1.0,0.12
+Deutsche Telekom,PERSON,1,1,1.0,0.12
+Siemens Energy,PERSON,1,1,1.0,0.12
+Fusion Helvetia,PERSON,1,1,1.0,0.12

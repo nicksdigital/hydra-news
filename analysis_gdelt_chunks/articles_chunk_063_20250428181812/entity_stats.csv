@@ -1,0 +1,23 @@
+entity,type,count,num_sources,source_diversity,trust_score
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Pil Eurozona,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,1,1,1.0,0.12
+Zwingt Kanada Trump,PERSON,2,1,0.5,0.13999999999999999
+Ban Meta,PERSON,2,2,1.0,0.24
+Canada,LOCATION,1,1,1.0,0.12
+Donald Trump,PERSON,2,2,1.0,0.24
+Washington,LOCATION,1,1,1.0,0.12
+Australia,LOCATION,9,9,1.0,1.0
+Mitsubishi Outlander,PERSON,1,1,1.0,0.12
+New Chinese,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Australia Land,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+India News,PERSON,1,1,1.0,0.12
+Virginia Giuffre,PERSON,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+Desde Ucrania,PERSON,1,1,1.0,0.12
+Billy Ray Cyrus,PERSON,1,1,1.0,0.12
+Elizabeth Hurley,PERSON,1,1,1.0,0.12
+Mykola Bychok,PERSON,1,1,1.0,0.12

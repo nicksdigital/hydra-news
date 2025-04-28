@@ -1,0 +1,27 @@
+entity,type,count,num_sources,source_diversity,trust_score
+BMW,ORGANIZATION,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Buoni Servizio,PERSON,1,1,1.0,0.12
+Raul Gardini,PERSON,1,1,1.0,0.12
+São Paulo,LOCATION,1,1,1.0,0.12
+Programa Nacional,PERSON,1,1,1.0,0.12
+CIA,ORGANIZATION,1,1,1.0,0.12
+Portugal,LOCATION,1,1,1.0,0.12
+Sierra Leone,LOCATION,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Northeast Indiana Now,PERSON,1,1,1.0,0.12
+Colombia Declares National,ORGANIZATION,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Yellow Fever Emergency,PERSON,1,1,1.0,0.12
+Fatality Rate Already,PERSON,1,1,1.0,0.12
+Grupo Milenio,PERSON,1,1,1.0,0.12
+Santa Fe,PERSON,1,1,1.0,0.12
+Alfonso Rueda,PERSON,1,1,1.0,0.12
+China,LOCATION,3,3,1.0,0.36
+China Press,PERSON,1,1,1.0,0.12
+Carson City,LOCATION,1,1,1.0,0.12
+De Wever,PERSON,1,1,1.0,0.12
+Luxembourg,LOCATION,1,1,1.0,0.12
+Pour Elio Di,PERSON,1,1,1.0,0.12
+Ecuador,LOCATION,1,1,1.0,0.12

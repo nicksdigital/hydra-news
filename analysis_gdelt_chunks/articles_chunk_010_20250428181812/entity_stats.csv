@@ -1,0 +1,49 @@
+entity,type,count,num_sources,source_diversity,trust_score
+United Trademark Group,ORGANIZATION,1,1,1.0,0.12
+Xcel Brands,PERSON,1,1,1.0,0.12
+Saturday Social,PERSON,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+China United Trademark Group,ORGANIZATION,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Xcel Brands Brings,PERSON,1,1,1.0,0.12
+China United Trademark,PERSON,1,1,1.0,0.12
+Strategic Partner,PERSON,1,1,1.0,0.12
+Mumbai,LOCATION,1,1,1.0,0.12
+Leading Global,ORGANIZATION,1,1,1.0,0.12
+Licensing Company,ORGANIZATION,1,1,1.0,0.12
+Atlanta,LOCATION,1,1,1.0,0.12
+Melania Trump,PERSON,1,1,1.0,0.12
+Facebook,ORGANIZATION,1,1,1.0,0.12
+Canada,LOCATION,1,1,1.0,0.12
+Vancouver,LOCATION,1,1,1.0,0.12
+Prince William,PERSON,1,1,1.0,0.12
+El Norte,PERSON,1,1,1.0,0.12
+Javier Milei,PERSON,1,1,1.0,0.12
+Resultados Sorteo Gana,PERSON,1,1,1.0,0.12
+New York,LOCATION,1,1,1.0,0.12
+Telemundo New York,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Noticias La Tribuna,PERSON,1,1,1.0,0.12
+Ukraine,LOCATION,6,5,0.8333333333333334,0.62
+Madrid,LOCATION,1,1,1.0,0.12
+Real Madrid,PERSON,1,1,1.0,0.12
+Fact Check,PERSON,1,1,1.0,0.12
+Brisante Unterschiede,PERSON,2,2,1.0,0.24
+Lagos,LOCATION,1,1,1.0,0.12
+Lagos Govt Subsidises,PERSON,1,1,1.0,0.12
+Public Transport Fares,PERSON,1,1,1.0,0.12
+Latest News,PERSON,1,1,1.0,0.12
+Airtel Payments Bank,ORGANIZATION,1,1,1.0,0.12
+Rome,LOCATION,1,1,1.0,0.12
+Canberra,LOCATION,1,1,1.0,0.12
+Pope Franci,PERSON,1,1,1.0,0.12
+The Canberra Times,PERSON,1,1,1.0,0.12
+Dublin,LOCATION,1,1,1.0,0.12
+Brussels,LOCATION,2,2,1.0,0.24
+Brussels Airport,LOCATION,2,2,1.0,0.24
+Amazon,ORGANIZATION,1,1,1.0,0.12
+Samsung,ORGANIZATION,1,1,1.0,0.12
+Samsung Galaxy Tab,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Paris,LOCATION,1,1,1.0,0.12

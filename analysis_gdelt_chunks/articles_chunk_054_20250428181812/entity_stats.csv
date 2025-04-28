@@ -1,0 +1,38 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Venezuela,LOCATION,2,2,1.0,0.24
+Demi Moore,PERSON,5,4,0.8,0.5
+Geisel Krivoi,PERSON,1,1,1.0,0.12
+Haben Sie,PERSON,1,1,1.0,0.12
+Eine Umfrage,PERSON,1,1,1.0,0.12
+Rundgang Innenstadt,PERSON,1,1,1.0,0.12
+Sudan,LOCATION,1,1,1.0,0.12
+Sponichi Annex,PERSON,3,1,0.3333333333333333,0.16
+Reiner Fuellmich,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,1,1,1.0,0.12
+In Messico,PERSON,1,1,1.0,0.12
+America Latina,PERSON,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Amnistia Internacional,PERSON,1,1,1.0,0.12
+Paulo Betti,PERSON,1,1,1.0,0.12
+Regina Duarte,PERSON,1,1,1.0,0.12
+Johnson City,LOCATION,1,1,1.0,0.12
+Universal,ORGANIZATION,1,1,1.0,0.12
+Universal City,LOCATION,1,1,1.0,0.12
+Aldrin Sampear,PERSON,1,1,1.0,0.12
+Las Vegas,LOCATION,1,1,1.0,0.12
+North Charleston,PERSON,1,1,1.0,0.12
+Portland,LOCATION,1,1,1.0,0.12
+Maurice Info,PERSON,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+BMW,ORGANIZATION,1,1,1.0,0.12
+Syria,LOCATION,2,2,1.0,0.24
+New Syrian Authorities,PERSON,1,1,1.0,0.12
+Detain Two Palestinian,PERSON,1,1,1.0,0.12
+Terrorist Leaders,PERSON,1,1,1.0,0.12
+Damascus,LOCATION,1,1,1.0,0.12
+Islamic Jihad Says,PERSON,1,1,1.0,0.12
+Received Assurances Over,PERSON,1,1,1.0,0.12
+Shark Tank Namita,PERSON,1,1,1.0,0.12
+Rooh Afza,PERSON,1,1,1.0,0.12
+Trending News,PERSON,1,1,1.0,0.12
+Palestinian Islamic Jihad,PERSON,1,1,1.0,0.12

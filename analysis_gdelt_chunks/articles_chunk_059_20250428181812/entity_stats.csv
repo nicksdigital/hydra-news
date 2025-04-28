@@ -1,0 +1,28 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Neue Superintendentin,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+China Press,PERSON,1,1,1.0,0.12
+Gianmarco Steri,PERSON,1,1,1.0,0.12
+Nadia Di Diodato,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Curia Romana,PERSON,1,1,1.0,0.12
+Santa Barbara,PERSON,1,1,1.0,0.12
+Cecilia Machado,PERSON,1,1,1.0,0.12
+Congress,ORGANIZATION,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Blue Badge,PERSON,1,1,1.0,0.12
+Social Security,PERSON,1,1,1.0,0.12
+Cut Off Disability,PERSON,1,1,1.0,0.12
+Americans Here Why,PERSON,1,1,1.0,0.12
+Almond Valley,LOCATION,1,1,1.0,0.12
+Supreme Court,ORGANIZATION,2,2,1.0,0.24
+Supreme Court,LOCATION,2,2,1.0,0.24
+Invalided Soldier Presumed,PERSON,1,1,1.0,0.12
+To Be Disabled,PERSON,1,1,1.0,0.12
+Due To Military,PERSON,1,1,1.0,0.12
+Entitled To Disability,PERSON,1,1,1.0,0.12
+Adult Disability Payment,PERSON,1,1,1.0,0.12
+Congo,LOCATION,2,2,1.0,0.24
+Pays Gersois,PERSON,1,1,1.0,0.12
+El Senado,PERSON,2,2,1.0,0.24

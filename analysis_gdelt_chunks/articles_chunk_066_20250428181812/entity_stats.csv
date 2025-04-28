@@ -1,0 +1,24 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Reuters,ORGANIZATION,2,2,1.0,0.24
+Armenia,LOCATION,2,1,0.5,0.13999999999999999
+Turkey,LOCATION,6,5,0.8333333333333334,0.62
+Bulgaria,LOCATION,1,1,1.0,0.12
+Iraq,LOCATION,1,1,1.0,0.12
+Libya,LOCATION,1,1,1.0,0.12
+Foreign Office,PERSON,1,1,1.0,0.12
+Turkey Leg Hut,PERSON,1,1,1.0,0.12
+Germany,LOCATION,1,1,1.0,0.12
+Blocked Eurofighter Deal,PERSON,1,1,1.0,0.12
+Impacts Turkey Plans,PERSON,1,1,1.0,0.12
+To Diversify Air,PERSON,1,1,1.0,0.12
+Simon Dehairs,PERSON,1,1,1.0,0.12
+Istanbul,LOCATION,3,3,1.0,0.36
+Venezuela,LOCATION,1,1,1.0,0.12
+Junior Fernandes,PERSON,1,1,1.0,0.12
+Jahrzehntelange Suche,PERSON,3,2,0.6666666666666666,0.26
+Gegner Imamoglu,PERSON,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+China Press,PERSON,1,1,1.0,0.12
+Lebanon,LOCATION,1,1,1.0,0.12
+Lebanon News,PERSON,1,1,1.0,0.12

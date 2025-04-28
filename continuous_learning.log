@@ -1,0 +1,283 @@
+2025-04-28 19:10:43,747 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 19:10:43,747 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 19:10:43,747 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 19:10:43,747 - __main__ - INFO - CPU limit: 50%
+2025-04-28 19:10:43,747 - __main__ - INFO - Running learning cycle...
+2025-04-28 19:10:43,750 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0703, F1: 0.1313
+2025-04-28 19:10:43,752 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.0420, Precision: 0.4423, Recall: 0.0336
+2025-04-28 19:10:43,765 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 19:10:43,771 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 19:10:43,771 - __main__ - INFO - Saved model parameters
+2025-04-28 19:10:43,772 - __main__ - INFO - Saved performance metrics
+2025-04-28 19:10:43,772 - __main__ - INFO - Learning cycle completed
+2025-04-28 19:56:04,220 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 19:56:04,260 - python.src.gdelt.database.postgres_adapter - INFO - Initialized PostgreSQL connection pool with 1-10 connections
+2025-04-28 19:56:04,263 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 19:56:04,263 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 19:56:04,264 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 19:56:04,264 - __main__ - INFO - Loaded performance metrics
+2025-04-28 19:56:04,264 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 19:56:04,264 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 19:56:04,264 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 19:56:04,264 - __main__ - INFO - CPU limit: 50%
+2025-04-28 19:56:04,264 - __main__ - INFO - Running learning cycle...
+2025-04-28 19:56:04,270 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0703, F1: 0.1313
+2025-04-28 19:56:04,275 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.6620, Precision: 0.3652, Recall: 0.5296
+2025-04-28 19:56:04,278 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 19:56:09,316 - __main__ - ERROR - Error applying optimized parameters: database is locked
+2025-04-28 19:56:09,316 - __main__ - INFO - Saved model parameters
+2025-04-28 19:56:09,317 - __main__ - INFO - Saved performance metrics
+2025-04-28 19:56:09,317 - __main__ - INFO - Learning cycle completed
+2025-04-28 19:57:39,235 - __main__ - INFO - Received signal 2, shutting down...
+2025-04-28 19:57:39,236 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 19:57:39,323 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 20:02:58,985 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 20:02:58,986 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 20:02:58,986 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 20:02:58,986 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 20:02:58,986 - __main__ - INFO - Loaded performance metrics
+2025-04-28 20:02:58,986 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 20:02:58,986 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 20:02:58,986 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 20:02:58,986 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:02:58,986 - __main__ - INFO - Running learning cycle...
+2025-04-28 20:02:58,990 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0703, F1: 0.1313
+2025-04-28 20:02:58,992 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.6620, Precision: 0.3652, Recall: 0.5296
+2025-04-28 20:02:58,995 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 20:02:58,995 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 6, 'min_entity_count': 1, 'person_weight': 0.941721639463915, 'org_weight': 0.9588266928526236, 'loc_weight': 1.0772030237399102, 'context_window': 5}
+2025-04-28 20:02:58,995 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.4166052484105973, 'mention_count_weight': 0.27885145375854087, 'source_trust_weight': 0.30454329783086187, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 20:03:04,021 - __main__ - ERROR - Error applying optimized parameters: database is locked
+2025-04-28 20:03:04,023 - __main__ - INFO - Saved model parameters
+2025-04-28 20:03:04,023 - __main__ - INFO - Saved performance metrics
+2025-04-28 20:03:04,023 - __main__ - INFO - Learning cycle completed
+2025-04-28 20:04:53,086 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:04:53,100 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 20:05:22,555 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 20:05:22,556 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 20:05:22,556 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 20:05:22,557 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 20:05:22,557 - __main__ - INFO - Loaded performance metrics
+2025-04-28 20:05:22,557 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 20:05:22,557 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 20:05:22,557 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 20:05:22,558 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:05:22,558 - __main__ - INFO - Running learning cycle...
+2025-04-28 20:05:22,561 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0703, F1: 0.1313
+2025-04-28 20:05:22,564 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.6620, Precision: 0.3652, Recall: 0.5296
+2025-04-28 20:05:22,567 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 20:05:22,567 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 0.9453770579485917, 'org_weight': 1.009839966240228, 'loc_weight': 0.9816532925371785, 'context_window': 5}
+2025-04-28 20:05:22,568 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.65, 'negative_threshold': 0.35000000000000003, 'neutral_range': 0.20065369690374263, 'title_weight': 0.7375128873826735, 'content_weight': 0.2624871126173265}
+2025-04-28 20:05:22,568 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.39551841240976227, 'mention_count_weight': 0.2579331793845574, 'source_trust_weight': 0.3465484082056804, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 20:05:27,594 - __main__ - ERROR - Error applying optimized parameters: database is locked
+2025-04-28 20:05:27,594 - __main__ - INFO - Saved model parameters
+2025-04-28 20:05:27,595 - __main__ - INFO - Saved performance metrics
+2025-04-28 20:05:27,595 - __main__ - INFO - Learning cycle completed
+2025-04-28 20:06:10,447 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:06:10,451 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:06:10,483 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 20:10:36,406 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 20:10:36,406 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 20:10:36,408 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 20:10:36,408 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 20:10:36,409 - __main__ - INFO - Loaded performance metrics
+2025-04-28 20:10:36,409 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 20:10:36,409 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 20:10:36,409 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 20:10:36,409 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:10:36,409 - __main__ - INFO - Running learning cycle...
+2025-04-28 20:10:36,417 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0703, F1: 0.1313
+2025-04-28 20:10:36,422 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.6620, Precision: 0.3652, Recall: 0.5296
+2025-04-28 20:10:36,430 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 20:10:36,431 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 0.981594826620847, 'org_weight': 0.9872533143467137, 'loc_weight': 0.9607371166542245, 'context_window': 5}
+2025-04-28 20:10:36,431 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.7000000000000001, 'negative_threshold': 0.30000000000000004, 'neutral_range': 0.2375370575423032, 'title_weight': 0.7580481063471314, 'content_weight': 0.24195189365286862}
+2025-04-28 20:10:36,431 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.35593307894268345, 'mention_count_weight': 0.2792006866712231, 'source_trust_weight': 0.3648662343860934, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 20:10:41,538 - __main__ - ERROR - Error applying optimized parameters: database is locked
+2025-04-28 20:10:41,539 - __main__ - INFO - Saved model parameters
+2025-04-28 20:10:41,539 - __main__ - INFO - Saved performance metrics
+2025-04-28 20:10:41,539 - __main__ - INFO - Learning cycle completed
+2025-04-28 20:12:52,565 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:12:52,579 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:12:52,607 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 20:29:44,886 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 20:29:44,887 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 20:29:44,887 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 20:29:44,888 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 20:29:44,888 - __main__ - INFO - Loaded performance metrics
+2025-04-28 20:29:44,888 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 20:29:44,889 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 20:29:44,889 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 20:29:44,889 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:29:44,890 - __main__ - INFO - Running learning cycle...
+2025-04-28 20:29:44,895 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0703, F1: 0.1313
+2025-04-28 20:29:44,897 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.6620, Precision: 0.3652, Recall: 0.5296
+2025-04-28 20:29:44,901 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 20:29:44,902 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.0223521822698374, 'org_weight': 1.002311655266213, 'loc_weight': 0.9919800676048497, 'context_window': 5}
+2025-04-28 20:29:44,902 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.7500000000000001, 'negative_threshold': 0.25000000000000006, 'neutral_range': 0.26272998949919923, 'title_weight': 0.7090524927278485, 'content_weight': 0.29094750727215146}
+2025-04-28 20:29:44,903 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.33006267971309045, 'mention_count_weight': 0.2793386477731826, 'source_trust_weight': 0.390598672513727, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 20:29:44,913 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 20:29:44,914 - __main__ - INFO - Saved model parameters
+2025-04-28 20:29:44,922 - __main__ - INFO - Saved performance metrics
+2025-04-28 20:29:44,922 - __main__ - INFO - Learning cycle completed
+2025-04-28 20:39:19,993 - __main__ - INFO - Received signal 2, shutting down...
+2025-04-28 20:39:20,000 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:39:20,004 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 20:41:57,365 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 20:41:57,366 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 20:41:57,366 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 20:41:57,366 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 20:41:57,367 - __main__ - INFO - Loaded performance metrics
+2025-04-28 20:41:57,367 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 20:41:57,367 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 20:41:57,367 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 20:41:57,367 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:41:57,367 - __main__ - INFO - Running learning cycle...
+2025-04-28 20:41:57,374 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 20:41:57,378 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.9540, Precision: 0.4864, Recall: 0.7632
+2025-04-28 20:41:57,382 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 20:41:57,382 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.3257369971917734, 'mention_count_weight': 0.28750057183935784, 'source_trust_weight': 0.3867624309688688, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 20:41:57,391 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 20:41:57,392 - __main__ - INFO - Saved model parameters
+2025-04-28 20:41:57,393 - __main__ - INFO - Saved performance metrics
+2025-04-28 20:41:57,393 - __main__ - INFO - Learning cycle completed
+2025-04-28 20:42:43,218 - __main__ - INFO - Received signal 2, shutting down...
+2025-04-28 20:42:43,220 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:42:43,306 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 21:09:54,368 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 21:09:54,369 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 21:09:54,369 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 21:09:54,369 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 21:09:54,370 - __main__ - INFO - Loaded performance metrics
+2025-04-28 21:09:54,370 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 21:09:54,370 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 21:09:54,371 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 21:09:54,371 - __main__ - INFO - CPU limit: 50%
+2025-04-28 21:09:54,371 - __main__ - INFO - Running learning cycle...
+2025-04-28 21:09:54,376 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 21:09:54,379 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 0.9800, Precision: 0.4992, Recall: 0.7840
+2025-04-28 21:09:54,383 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 21:09:54,384 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.3436080757446429, 'mention_count_weight': 0.24572962624522493, 'source_trust_weight': 0.4106622980101322, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 21:09:54,394 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 21:09:54,395 - __main__ - INFO - Saved model parameters
+2025-04-28 21:09:54,396 - __main__ - INFO - Saved performance metrics
+2025-04-28 21:09:54,396 - __main__ - INFO - Learning cycle completed
+2025-04-28 21:19:54,382 - __main__ - INFO - Running learning cycle...
+2025-04-28 21:19:54,388 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 21:19:54,392 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 21:19:54,395 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 21:19:54,396 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 0.9537146546364983, 'org_weight': 1.0317513229818858, 'loc_weight': 1.0367077883807796, 'context_window': 5}
+2025-04-28 21:19:54,396 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.33319773335346764, 'mention_count_weight': 0.22073499460345583, 'source_trust_weight': 0.4460672720430765, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 21:19:54,402 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 21:19:54,403 - __main__ - INFO - Saved model parameters
+2025-04-28 21:19:54,403 - __main__ - INFO - Saved performance metrics
+2025-04-28 21:19:54,403 - __main__ - INFO - Learning cycle completed
+2025-04-28 21:20:27,995 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 21:20:28,015 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 21:27:01,586 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 21:27:01,587 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 21:27:01,587 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 21:27:01,588 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 21:27:01,588 - __main__ - INFO - Loaded performance metrics
+2025-04-28 21:27:01,591 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 21:27:01,591 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 21:27:01,591 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 21:27:01,591 - __main__ - INFO - CPU limit: 50%
+2025-04-28 21:27:01,591 - __main__ - INFO - Running learning cycle...
+2025-04-28 21:27:01,597 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 21:27:01,607 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 21:27:01,622 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 21:27:01,622 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 0.989209230839272, 'org_weight': 1.0925989060281653, 'loc_weight': 0.9381815916998925, 'context_window': 5}
+2025-04-28 21:27:01,628 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.349035986669858, 'mention_count_weight': 0.18259711591266822, 'source_trust_weight': 0.4683668974174737, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 21:27:01,641 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 21:27:01,642 - __main__ - INFO - Saved model parameters
+2025-04-28 21:27:01,642 - __main__ - INFO - Saved performance metrics
+2025-04-28 21:27:01,643 - __main__ - INFO - Learning cycle completed
+2025-04-28 21:37:01,602 - __main__ - INFO - Running learning cycle...
+2025-04-28 21:37:01,607 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 21:37:01,609 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 21:37:01,612 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 21:37:01,612 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.0836653060367212, 'org_weight': 1.060973779528193, 'loc_weight': 0.8452194103625238, 'context_window': 5}
+2025-04-28 21:37:01,612 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.8, 'negative_threshold': 0.20000000000000007, 'neutral_range': 0.26688907037242354, 'title_weight': 0.7334585990438726, 'content_weight': 0.26654140095612744}
+2025-04-28 21:37:01,613 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.3779661651588126, 'mention_count_weight': 0.158693337192782, 'source_trust_weight': 0.46334049764840535, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 21:37:01,619 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 21:37:01,619 - __main__ - INFO - Saved model parameters
+2025-04-28 21:37:01,619 - __main__ - INFO - Saved performance metrics
+2025-04-28 21:37:01,620 - __main__ - INFO - Learning cycle completed
+2025-04-28 21:47:01,654 - __main__ - INFO - Running learning cycle...
+2025-04-28 21:47:01,660 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 21:47:01,662 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 21:47:01,665 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 21:47:01,665 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.0653917750262618, 'org_weight': 0.9807903738490179, 'loc_weight': 0.8787699112676042, 'context_window': 5}
+2025-04-28 21:47:01,666 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.8, 'negative_threshold': 0.2, 'neutral_range': 0.2621693274562367, 'title_weight': 0.7792357891039929, 'content_weight': 0.22076421089600706}
+2025-04-28 21:47:01,666 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.39930964338846414, 'mention_count_weight': 0.15160684505397767, 'source_trust_weight': 0.44908351155755827, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 21:47:01,672 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 21:47:01,673 - __main__ - INFO - Saved model parameters
+2025-04-28 21:47:01,674 - __main__ - INFO - Saved performance metrics
+2025-04-28 21:47:01,674 - __main__ - INFO - Learning cycle completed
+2025-04-28 21:57:01,676 - __main__ - INFO - Running learning cycle...
+2025-04-28 21:57:01,681 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 21:57:01,684 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 21:57:01,687 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 21:57:01,687 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.1635057001733644, 'org_weight': 0.8959621321250807, 'loc_weight': 0.9388219335565299, 'context_window': 5}
+2025-04-28 21:57:01,688 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.8, 'negative_threshold': 0.2, 'neutral_range': 0.3, 'title_weight': 0.8168617025486273, 'content_weight': 0.18313829745137267}
+2025-04-28 21:57:01,688 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.3936198409471083, 'mention_count_weight': 0.17765567865645035, 'source_trust_weight': 0.4287244803964414, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 21:57:01,694 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 21:57:01,694 - __main__ - INFO - Saved model parameters
+2025-04-28 21:57:01,695 - __main__ - INFO - Saved performance metrics
+2025-04-28 21:57:01,695 - __main__ - INFO - Learning cycle completed
+2025-04-28 22:07:01,773 - __main__ - INFO - Running learning cycle...
+2025-04-28 22:07:01,787 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 22:07:01,798 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 22:07:01,811 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 22:07:01,812 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.2554826763991778, 'org_weight': 0.8696480764816575, 'loc_weight': 0.8993416472256219, 'context_window': 5}
+2025-04-28 22:07:01,812 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.8, 'negative_threshold': 0.2, 'neutral_range': 0.29972008791876686, 'title_weight': 0.8322814697800586, 'content_weight': 0.16771853021994143}
+2025-04-28 22:07:01,813 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.3964355806973537, 'mention_count_weight': 0.1882030997987915, 'source_trust_weight': 0.41536131950385474, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 22:07:01,829 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 22:07:01,831 - __main__ - INFO - Saved model parameters
+2025-04-28 22:07:01,832 - __main__ - INFO - Saved performance metrics
+2025-04-28 22:07:01,832 - __main__ - INFO - Learning cycle completed
+2025-04-28 22:08:16,894 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 22:08:16,982 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 22:15:31,647 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 22:15:31,648 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 22:15:31,648 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 22:15:31,650 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 22:15:31,651 - __main__ - INFO - Loaded performance metrics
+2025-04-28 22:15:31,652 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 22:15:31,652 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 22:15:31,653 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 22:15:31,654 - __main__ - INFO - CPU limit: 50%
+2025-04-28 22:15:31,654 - __main__ - INFO - Running learning cycle...
+2025-04-28 22:15:31,659 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 22:15:31,667 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 22:15:31,675 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 22:15:31,676 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.3223558188908235, 'org_weight': 0.8703314887274775, 'loc_weight': 0.8720982236114946, 'context_window': 5}
+2025-04-28 22:15:31,677 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.8, 'negative_threshold': 0.2, 'neutral_range': 0.3, 'title_weight': 0.8227127667938727, 'content_weight': 0.17728723320612727}
+2025-04-28 22:15:31,677 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.3933755606000765, 'mention_count_weight': 0.18378029531093495, 'source_trust_weight': 0.4228441440889885, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 22:15:31,691 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 22:15:31,691 - __main__ - INFO - Saved model parameters
+2025-04-28 22:15:31,692 - __main__ - INFO - Saved performance metrics
+2025-04-28 22:15:31,692 - __main__ - INFO - Learning cycle completed
+2025-04-28 22:15:42,264 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 22:15:42,346 - __main__ - INFO - Continuous learning daemon stopped
+2025-04-28 22:17:19,630 - python.src.gdelt.config.database_config - INFO - Loaded database configuration from config/database.json
+2025-04-28 22:17:19,631 - __main__ - INFO - Loaded entity extraction parameters
+2025-04-28 22:17:19,632 - __main__ - INFO - Loaded sentiment analysis parameters
+2025-04-28 22:17:19,632 - __main__ - INFO - Loaded trust score parameters
+2025-04-28 22:17:19,633 - __main__ - INFO - Loaded performance metrics
+2025-04-28 22:17:19,633 - __main__ - INFO - Starting continuous learning daemon for database: analysis_gdelt_chunks/gdelt_news.db
+2025-04-28 22:17:19,634 - __main__ - INFO - Models directory: analysis_gdelt_chunks/models
+2025-04-28 22:17:19,634 - __main__ - INFO - Learning interval: 600 seconds
+2025-04-28 22:17:19,634 - __main__ - INFO - CPU limit: 50%
+2025-04-28 22:17:19,635 - __main__ - INFO - Running learning cycle...
+2025-04-28 22:17:19,640 - __main__ - INFO - Entity extraction metrics - Precision: 1.0000, Recall: 0.0721, F1: 0.1346
+2025-04-28 22:17:19,644 - __main__ - INFO - Sentiment analysis metrics - Accuracy: 1.0000, Precision: 0.5092, Recall: 0.8000
+2025-04-28 22:17:19,650 - __main__ - INFO - Trust scoring metrics - Accuracy: 0.0000, Error rate: 0.0000
+2025-04-28 22:17:19,651 - __main__ - INFO - Adjusted entity extraction parameters: {'min_entity_length': 1, 'max_entity_length': 7, 'min_entity_count': 1, 'person_weight': 1.34541013060416, 'org_weight': 0.7786501280010889, 'loc_weight': 0.9028167736432609, 'context_window': 5}
+2025-04-28 22:17:19,653 - __main__ - INFO - Adjusted sentiment analysis parameters: {'positive_threshold': 0.8, 'negative_threshold': 0.2, 'neutral_range': 0.2868334983608954, 'title_weight': 0.8654167175640475, 'content_weight': 0.13458328243595252}
+2025-04-28 22:17:19,657 - __main__ - INFO - Adjusted trust score parameters: {'source_diversity_weight': 0.41682301788857806, 'mention_count_weight': 0.21586451772761125, 'source_trust_weight': 0.36731246438381077, 'min_trust_score': 0.1, 'max_trust_score': 0.9}
+2025-04-28 22:17:19,668 - __main__ - INFO - Applied optimized parameters to database
+2025-04-28 22:17:19,669 - __main__ - INFO - Saved model parameters
+2025-04-28 22:17:19,670 - __main__ - INFO - Saved performance metrics
+2025-04-28 22:17:19,671 - __main__ - INFO - Learning cycle completed
+2025-04-28 22:17:29,472 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 22:17:29,520 - __main__ - INFO - Continuous learning daemon stopped

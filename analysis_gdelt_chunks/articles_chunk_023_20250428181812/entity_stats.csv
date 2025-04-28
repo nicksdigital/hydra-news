@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Israel,LOCATION,2,2,1.0,0.24
+Deutsches Finanzpaket,PERSON,2,1,0.5,0.13999999999999999
+Nach Ende,PERSON,1,1,1.0,0.12
+Omar Sarsam Live,PERSON,1,1,1.0,0.12
+Kabarett Omar Sarsam,PERSON,1,1,1.0,0.12
+The Tribute Festival,PERSON,1,1,1.0,0.12
+European Tour,PERSON,1,1,1.0,0.12
+Amazon,ORGANIZATION,1,1,1.0,0.12
+Auch Amazon,PERSON,1,1,1.0,0.12
+Eifrige Suche,PERSON,1,1,1.0,0.12
+Meetup Europe,PERSON,1,1,1.0,0.12
+G20,ORGANIZATION,2,2,1.0,0.24
+Data Center,ORGANIZATION,1,1,1.0,0.12
+In Italia,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+São Paulo,LOCATION,1,1,1.0,0.12
+Isaltino Morais,PERSON,2,2,1.0,0.24
+Avenida Marginal,PERSON,2,2,1.0,0.24
+Rio Grande,PERSON,1,1,1.0,0.12
+New York,LOCATION,2,2,1.0,0.24
+Trump Gives New,PERSON,1,1,1.0,0.12
+York  One Last,PERSON,1,1,1.0,0.12
+Celebrate Earth Day,PERSON,1,1,1.0,0.12
+Heartfelt Tribute,PERSON,1,1,1.0,0.12
+Planet  Love,PERSON,1,1,1.0,0.12
+New York Rear,PERSON,1,1,1.0,0.12
+End Car Accident,PERSON,1,1,1.0,0.12
+Attorney Samantha Kucher,PERSON,1,1,1.0,0.12
+Marseille,LOCATION,1,1,1.0,0.12
+Carnaval Marseille,PERSON,1,1,1.0,0.12
+Une Toulousaine,PERSON,1,1,1.0,0.12
+Paris,LOCATION,1,1,1.0,0.12
+De Rafah,PERSON,1,1,1.0,0.12
+Fadel Afana,PERSON,1,1,1.0,0.12
+Le Nouveau Parti,PERSON,1,1,1.0,0.12
+Bonjour Brest,PERSON,1,1,1.0,0.12
+Portugal,LOCATION,2,2,1.0,0.24
+Madrid,LOCATION,1,1,1.0,0.12
+San Juan,PERSON,1,1,1.0,0.12
+Paseo Bandera,PERSON,1,1,1.0,0.12

@@ -1,0 +1,37 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Lembrar Francisco,PERSON,1,1,1.0,0.12
+Actress Ranya,PERSON,1,1,1.0,0.12
+Associated Press,ORGANIZATION,1,1,1.0,0.12
+Afghanistan,LOCATION,1,1,1.0,0.12
+Ranya Rao Charged,PERSON,1,1,1.0,0.12
+Under Anti,PERSON,1,1,1.0,0.12
+Smuggling Law,PERSON,1,1,1.0,0.12
+To Be Detained,PERSON,1,1,1.0,0.12
+For Year,PERSON,1,1,1.0,0.12
+Why Fuel Smuggling,PERSON,1,1,1.0,0.12
+Thrives Despite Subsidy,PERSON,1,1,1.0,0.12
+Niger,LOCATION,1,1,1.0,0.12
+Nigeria,LOCATION,1,1,1.0,0.12
+How Border Officials,PERSON,1,1,1.0,0.12
+Baby Into,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Pakistan,LOCATION,1,1,1.0,0.12
+Punjab Police,PERSON,1,1,1.0,0.12
+India News,PERSON,1,1,1.0,0.12
+Ranya Rao,PERSON,2,2,1.0,0.24
+La Tunisie,PERSON,1,1,1.0,0.12
+Meidani Dhaoui,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+FBI,ORGANIZATION,1,1,1.0,0.12
+Smoke Line,PERSON,1,1,1.0,0.12
+Senior Meth,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Haiti,LOCATION,1,1,1.0,0.12
+Chinesischer Vertreter,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,1,1,1.0,0.12
+Virginia Giuffre,PERSON,1,1,1.0,0.12
+Distrito Industrial,PERSON,1,1,1.0,0.12
+Mato Grosso,PERSON,1,1,1.0,0.12
+Campo Grande,PERSON,1,1,1.0,0.12
+Bem Estar,PERSON,1,1,1.0,0.12

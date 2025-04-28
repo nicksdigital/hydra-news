@@ -1,0 +1,31 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Gilmar Mendes,PERSON,1,1,1.0,0.12
+Roberta Dias,PERSON,1,1,1.0,0.12
+Filipe Martins,PERSON,2,2,1.0,0.24
+India,LOCATION,1,1,1.0,0.12
+Latest News India,PERSON,1,1,1.0,0.12
+Supreme Court,ORGANIZATION,1,1,1.0,0.12
+Supreme Court,LOCATION,1,1,1.0,0.12
+Mahmoud Khalil,PERSON,2,2,1.0,0.24
+Homeland Security,PERSON,1,1,1.0,0.12
+BMW,ORGANIZATION,1,1,1.0,0.12
+Mumbai,LOCATION,1,1,1.0,0.12
+Mumbai News,PERSON,1,1,1.0,0.12
+FBI,ORGANIZATION,28,27,0.9642857142857143,1.0
+Karnataka High Court,LOCATION,1,1,1.0,0.12
+Milwaukee,LOCATION,1,1,1.0,0.12
+America Gestapo,PERSON,1,1,1.0,0.12
+Milwaukee Judge Hannah,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Ahmed Souab,PERSON,1,1,1.0,0.12
+Milorad Dodik,PERSON,1,1,1.0,0.12
+Catholic Charities,PERSON,1,1,1.0,0.12
+El Gobierno,PERSON,1,1,1.0,0.12
+El Supremo,PERSON,1,1,1.0,0.12
+Papa Francisco,PERSON,1,1,1.0,0.12
+Separatistenchef Dodik,PERSON,1,1,1.0,0.12
+Zwei Polizisten,PERSON,2,2,1.0,0.24
+NASA,ORGANIZATION,1,1,1.0,0.12
+Israel,LOCATION,1,1,1.0,0.12
+Eduardo Sabbiese,PERSON,1,1,1.0,0.12
+La Prealpina,PERSON,1,1,1.0,0.12

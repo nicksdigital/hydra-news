@@ -1,0 +1,181 @@
+<div class="row mb-3">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <ul class="nav nav-tabs card-header-tabs" id="prediction-view-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="single-entity-tab" data-bs-toggle="tab" href="#single-entity-view">Single Entity</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="multi-entity-tab" data-bs-toggle="tab" href="#multi-entity-view">Compare Entities</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body">
+                <div class="tab-content">
+                    <!-- Single Entity View -->
+                    <div class="tab-pane fade show active" id="single-entity-view">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <div class="form-group mb-0">
+                                <label for="prediction-entity-selector" class="form-label">Select Entity:</label>
+                                <select id="prediction-entity-selector" class="form-select">
+                                    <option value="">Loading entities...</option>
+                                </select>
+                            </div>
+                            <div class="form-group mb-0">
+                                <label for="prediction-days-selector" class="form-label">Days to Predict:</label>
+                                <select id="prediction-days-selector" class="form-select">
+                                    <option value="7">7 days</option>
+                                    <option value="14" selected>14 days</option>
+                                    <option value="30">30 days</option>
+                                    <option value="60">60 days</option>
+                                </select>
+                            </div>
+                        </div>
+                        <canvas id="entity-prediction-chart" height="300"></canvas>
+                    </div>
+
+                    <!-- Multi-Entity View -->
+                    <div class="tab-pane fade" id="multi-entity-view">
+                        <div class="row mb-3">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label for="multi-entity-selector" class="form-label">Select Entities to Compare:</label>
+                                    <select id="multi-entity-selector" class="form-select" multiple size="5">
+                                        <option value="">Loading entities...</option>
+                                    </select>
+                                    <small class="form-text text-muted">Select up to 5 entities to compare</small>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group mb-3">
+                                    <label for="multi-prediction-days-selector" class="form-label">Days to Predict:</label>
+                                    <select id="multi-prediction-days-selector" class="form-select">
+                                        <option value="7">7 days</option>
+                                        <option value="14" selected>14 days</option>
+                                        <option value="30">30 days</option>
+                                    </select>
+                                </div>
+                                <button id="compare-entities-btn" class="btn btn-primary w-100">Compare Entities</button>
+                            </div>
+                        </div>
+                        <canvas id="multi-entity-prediction-chart" height="300"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Model Comparison</div>
+            <div class="card-body">
+                <canvas id="model-comparison-chart" height="250"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">Model Evaluation Metrics</div>
+            <div class="card-body">
+                <div id="prediction-metrics">
+                    <div class="d-flex justify-content-center">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <span>Predicted Events</span>
+                <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" id="show-high-probability-only" checked>
+                    <label class="form-check-label" for="show-high-probability-only">Show high probability events only</label>
+                </div>
+            </div>
+            <div class="card-body">
+                <div id="prediction-events">
+                    <div class="d-flex justify-content-center">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Event Details Modal -->
+<div class="modal fade" id="event-details-modal" tabindex="-1" aria-labelledby="event-details-modal-label" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="event-details-modal-label">Event Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6>Event Information</h6>
+                        <table class="table table-sm">
+                            <tr>
+                                <th>Date</th>
+                                <td id="event-detail-date"></td>
+                            </tr>
+                            <tr>
+                                <th>Entity</th>
+                                <td id="event-detail-entity"></td>
+                            </tr>
+                            <tr>
+                                <th>Predicted Mentions</th>
+                                <td id="event-detail-mentions"></td>
+                            </tr>
+                            <tr>
+                                <th>Confidence</th>
+                                <td id="event-detail-confidence"></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Prediction Factors</h6>
+                        <div id="event-detail-factors">
+                            <ul class="list-group">
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Historical pattern match
+                                    <span class="badge bg-primary rounded-pill">High</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Seasonal factor
+                                    <span class="badge bg-primary rounded-pill">Medium</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center">
+                                    Related entities activity
+                                    <span class="badge bg-primary rounded-pill">High</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <h6>Prediction Visualization</h6>
+                        <canvas id="event-detail-chart" height="200"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

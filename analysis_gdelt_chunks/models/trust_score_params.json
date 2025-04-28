@@ -1,0 +1,7 @@
+{
+  "source_diversity_weight": 0.41682301788857806,
+  "mention_count_weight": 0.21586451772761125,
+  "source_trust_weight": 0.36731246438381077,
+  "min_trust_score": 0.1,
+  "max_trust_score": 0.9
+}

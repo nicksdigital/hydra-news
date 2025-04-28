@@ -1,0 +1,24 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Kim Virginia Hartung,PERSON,1,1,1.0,0.12
+Nikola Glumac,PERSON,1,1,1.0,0.12
+Vermisster Hund,PERSON,1,1,1.0,0.12
+Legte Dackel Valerie,PERSON,1,1,1.0,0.12
+Caroline Steffen,PERSON,1,1,1.0,0.12
+Sieben Ertrunkene,PERSON,1,1,1.0,0.12
+NBC,ORGANIZATION,1,1,1.0,0.12
+Australia,LOCATION,5,4,0.8,0.5
+Melbourne,LOCATION,1,1,1.0,0.12
+Virginia Giuffre,PERSON,3,2,0.6666666666666666,0.26
+Oggi Treviso,PERSON,2,1,0.5,0.13999999999999999
+Principe Andrea,PERSON,1,1,1.0,0.12
+Jeffrey Epstein,PERSON,1,1,1.0,0.12
+Korea,LOCATION,1,1,1.0,0.12
+South Korea,LOCATION,1,1,1.0,0.12
+How Chinese,PERSON,1,1,1.0,0.12
+Moon Jae,PERSON,4,4,1.0,0.48
+Good Day,PERSON,1,1,1.0,0.12
+Samsung,ORGANIZATION,6,5,0.8333333333333334,0.62
+Samsung Galaxy,PERSON,1,1,1.0,0.12
+Samsung Wallet,PERSON,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Galaxy Tab,PERSON,1,1,1.0,0.12

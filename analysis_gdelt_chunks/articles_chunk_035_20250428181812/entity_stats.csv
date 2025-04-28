@@ -1,0 +1,19 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Intel,ORGANIZATION,1,1,1.0,0.12
+Wall Street,LOCATION,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Fire Making Pollution,PERSON,2,2,1.0,0.24
+Worse Across Much,PERSON,2,2,1.0,0.24
+Chicago,LOCATION,2,2,1.0,0.24
+New Report,PERSON,1,1,1.0,0.12
+Nearly Half,PERSON,1,1,1.0,0.12
+Dangerous Air Pollution,PERSON,2,2,1.0,0.24
+India,LOCATION,1,1,1.0,0.12
+Indianapolis,LOCATION,1,1,1.0,0.12
+Million Americans,PERSON,1,1,1.0,0.12
+Los Angeles,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+El Financiero,PERSON,1,1,1.0,0.12
+Paris,LOCATION,6,6,1.0,0.72
+Bayer,ORGANIZATION,3,1,0.3333333333333333,0.16
+Ein Drittel,PERSON,1,1,1.0,0.12

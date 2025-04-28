@@ -1,0 +1,136 @@
+2025-04-28 19:10:43,778 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 19:10:43,778 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 19:10:43,779 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 19:10:43,779 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 19:10:43,779 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 19:10:43,779 - __main__ - INFO - Chunk size: 100
+2025-04-28 19:10:43,779 - __main__ - INFO - CPU limit: 50%
+2025-04-28 19:10:43,779 - __main__ - INFO - Fetching new data...
+2025-04-28 19:10:43,779 - __main__ - INFO - Fetching GDELT data from 2025-04-12 to 2025-04-13
+2025-04-28 19:10:43,866 - __main__ - ERROR - Error fetching GDELT data: module 'gdeltdoc.filters' has no attribute 'FilterGdelt'
+2025-04-28 19:52:30,243 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 19:52:30,244 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 19:52:30,244 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 19:52:30,244 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 19:52:30,244 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 19:52:30,245 - __main__ - INFO - Chunk size: 100
+2025-04-28 19:52:30,245 - __main__ - INFO - CPU limit: 50%
+2025-04-28 19:52:30,245 - __main__ - INFO - Fetching new data...
+2025-04-28 19:52:30,246 - __main__ - INFO - Fetching GDELT data from 2025-04-02 to 2025-04-03
+2025-04-28 19:52:30,338 - __main__ - ERROR - Error fetching GDELT data: module 'gdeltdoc.filters' has no attribute 'FilterGdelt'
+2025-04-28 19:52:30,469 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 19:53:30,339 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 19:56:04,064 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 19:56:04,064 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 19:56:04,078 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 19:56:04,079 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 19:56:04,079 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 19:56:04,079 - __main__ - INFO - Chunk size: 100
+2025-04-28 19:56:04,079 - __main__ - INFO - CPU limit: 50%
+2025-04-28 19:56:04,083 - __main__ - INFO - Fetching new data...
+2025-04-28 19:56:04,083 - __main__ - INFO - Fetching GDELT data from 2025-04-13 to 2025-04-14
+2025-04-28 19:56:04,198 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 19:58:04,199 - __main__ - INFO - Received signal 2, shutting down...
+2025-04-28 19:58:04,199 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 19:58:04,199 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 20:02:58,683 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 20:02:58,684 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 20:02:58,684 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 20:02:58,684 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 20:02:58,684 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 20:02:58,684 - __main__ - INFO - Chunk size: 100
+2025-04-28 20:02:58,684 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:02:58,684 - __main__ - INFO - Fetching new data...
+2025-04-28 20:02:58,684 - __main__ - INFO - Fetching GDELT data from 2025-04-07 to 2025-04-08
+2025-04-28 20:02:58,782 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:04:53,085 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:04:58,784 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 20:05:22,632 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 20:05:22,633 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 20:05:22,635 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 20:05:22,635 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 20:05:22,635 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 20:05:22,636 - __main__ - INFO - Chunk size: 100
+2025-04-28 20:05:22,636 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:05:22,636 - __main__ - INFO - Fetching new data...
+2025-04-28 20:05:22,637 - __main__ - INFO - Fetching GDELT data from 2025-04-27 to 2025-04-28
+2025-04-28 20:05:22,728 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:06:10,447 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:06:10,448 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:06:22,728 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 20:10:35,837 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 20:10:35,838 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 20:10:35,838 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 20:10:35,838 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 20:10:35,838 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 20:10:35,838 - __main__ - INFO - Chunk size: 100
+2025-04-28 20:10:35,838 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:10:35,840 - __main__ - INFO - Fetching new data...
+2025-04-28 20:10:35,840 - __main__ - INFO - Fetching GDELT data from 2025-04-04 to 2025-04-05
+2025-04-28 20:10:35,958 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:12:52,567 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:12:52,578 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:13:36,069 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 20:29:44,963 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 20:29:44,969 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 20:29:44,973 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 20:29:44,973 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 20:29:44,973 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 20:29:44,973 - __main__ - INFO - Chunk size: 100
+2025-04-28 20:29:44,973 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:29:44,975 - __main__ - INFO - Fetching new data...
+2025-04-28 20:29:44,975 - __main__ - INFO - Fetching GDELT data from 2025-03-29 to 2025-03-30
+2025-04-28 20:29:45,121 - __main__ - ERROR - Error fetching GDELT data: Cannot instantiate typing.Union
+2025-04-28 20:39:19,993 - __main__ - INFO - Received signal 2, shutting down...
+2025-04-28 20:39:20,000 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:39:45,139 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 20:41:57,385 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 20:41:57,385 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 20:41:57,385 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 20:41:57,386 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 20:41:57,386 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 20:41:57,387 - __main__ - INFO - Chunk size: 100
+2025-04-28 20:41:57,387 - __main__ - INFO - CPU limit: 50%
+2025-04-28 20:41:57,387 - __main__ - INFO - Fetching new data...
+2025-04-28 20:41:57,388 - __main__ - INFO - Fetching GDELT data from 2025-04-25 to 2025-04-26
+2025-04-28 20:41:57,479 - __main__ - INFO - Trying direct API call
+2025-04-28 20:41:57,480 - __main__ - WARNING - First API approach failed: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 20:41:57,483 - __main__ - INFO - Trying dictionary approach
+2025-04-28 20:41:57,483 - __main__ - WARNING - Second API approach failed: GdeltDoc.article_search() got an unexpected keyword argument 'max_articles'
+2025-04-28 20:41:57,483 - __main__ - INFO - Trying individual parameters approach
+2025-04-28 20:41:57,483 - __main__ - ERROR - All API approaches failed: GdeltDoc.article_search() got an unexpected keyword argument 'keyword'
+2025-04-28 20:42:43,217 - __main__ - INFO - Received signal 2, shutting down...
+2025-04-28 20:42:43,220 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 20:42:57,489 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 21:09:54,167 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 21:09:54,168 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 21:09:54,168 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 21:09:54,168 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 21:09:54,168 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 21:09:54,169 - __main__ - INFO - Chunk size: 100
+2025-04-28 21:09:54,169 - __main__ - INFO - CPU limit: 50%
+2025-04-28 21:09:54,172 - __main__ - INFO - Fetching new data...
+2025-04-28 21:09:54,174 - __main__ - INFO - Fetching GDELT data from 2025-04-17 to 2025-04-18
+2025-04-28 21:09:54,311 - __main__ - INFO - Trying direct API call
+2025-04-28 21:09:54,313 - __main__ - WARNING - First API approach failed: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:09:54,313 - __main__ - INFO - Trying dictionary approach
+2025-04-28 21:09:54,315 - __main__ - WARNING - Second API approach failed: GdeltDoc.article_search() got an unexpected keyword argument 'max_articles'
+2025-04-28 21:09:54,315 - __main__ - INFO - Trying individual parameters approach
+2025-04-28 21:09:54,315 - __main__ - ERROR - All API approaches failed: GdeltDoc.article_search() got an unexpected keyword argument 'keyword'
+2025-04-28 21:20:27,994 - __main__ - INFO - Received signal 15, shutting down...
+2025-04-28 21:20:54,321 - __main__ - INFO - Daemon fetcher stopped
+2025-04-28 21:27:01,533 - __main__ - INFO - Starting daemon fetcher
+2025-04-28 21:27:01,536 - __main__ - INFO - Output directory: dataset_gdelt_enhanced
+2025-04-28 21:27:01,536 - __main__ - INFO - Chunks directory: analysis_gdelt_chunks/chunks
+2025-04-28 21:27:01,536 - __main__ - INFO - Fetch interval: 3600 seconds
+2025-04-28 21:27:01,536 - __main__ - INFO - Articles per fetch: 500
+2025-04-28 21:27:01,536 - __main__ - INFO - Chunk size: 100
+2025-04-28 21:27:01,536 - __main__ - INFO - CPU limit: 50%
+2025-04-28 21:27:01,539 - __main__ - INFO - Fetching new data...
+2025-04-28 21:27:01,540 - __main__ - INFO - Fetching GDELT data from 2025-04-06 to 2025-04-07
+2025-04-28 21:27:01,757 - __main__ - INFO - Trying direct API call
+2025-04-28 21:27:01,758 - __main__ - WARNING - First API approach failed: GdeltDoc.article_search() got an unexpected keyword argument 'start_date'
+2025-04-28 21:27:01,758 - __main__ - INFO - Trying dictionary approach
+2025-04-28 21:27:01,759 - __main__ - WARNING - Second API approach failed: GdeltDoc.article_search() got an unexpected keyword argument 'max_articles'
+2025-04-28 21:27:01,760 - __main__ - INFO - Trying individual parameters approach
+2025-04-28 21:27:01,760 - __main__ - ERROR - All API approaches failed: GdeltDoc.article_search() got an unexpected keyword argument 'keyword'

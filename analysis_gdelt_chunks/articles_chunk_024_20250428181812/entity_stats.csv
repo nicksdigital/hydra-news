@@ -1,0 +1,26 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Energy Group,ORGANIZATION,1,1,1.0,0.12
+Fit Cisl,PERSON,1,1,1.0,0.12
+Lady Gaga,PERSON,1,1,1.0,0.12
+Oscar Niemeyer,PERSON,1,1,1.0,0.12
+Circular Praias,PERSON,1,1,1.0,0.12
+Silver Recovery Service,PERSON,1,1,1.0,0.12
+Market Size Analysis,PERSON,1,1,1.0,0.12
+Turret System Market,PERSON,1,1,1.0,0.12
+Models Aburra Valley,LOCATION,1,1,1.0,0.12
+Sewerage System To,PERSON,1,1,1.0,0.12
+And Mitigate Climate,PERSON,1,1,1.0,0.12
+Kinshasa,LOCATION,1,1,1.0,0.12
+Taoufik Kamil,PERSON,1,1,1.0,0.12
+Lima,LOCATION,4,1,0.25,0.18
+El Diario Montas,PERSON,1,1,1.0,0.12
+Alsdorfer Wohnpark,PERSON,1,1,1.0,0.12
+Pflegewohnung Kleeblatt,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Azizi Developments,PERSON,1,1,1.0,0.12
+Azizi Milan,PERSON,1,1,1.0,0.12
+Nahen Ostens,PERSON,1,1,1.0,0.12
+Zwei Bewohner,PERSON,1,1,1.0,0.12
+Tiroler Tageszeitung,PERSON,1,1,1.0,0.12
+Aktuelle Nachrichten,PERSON,1,1,1.0,0.12
+Neues Wohnbauprojekt,PERSON,1,1,1.0,0.12

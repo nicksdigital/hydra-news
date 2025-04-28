@@ -1,0 +1,51 @@
+entity,type,count,num_sources,source_diversity,trust_score
+West Fraser Benefits,PERSON,1,1,1.0,0.12
+From Lumber Price,PERSON,1,1,1.0,0.12
+Stagnant Housing Markets,PERSON,1,1,1.0,0.12
+Toll Brothers Announces,PERSON,1,1,1.0,0.12
+New Luxury Home,PERSON,1,1,1.0,0.12
+Atlanta,LOCATION,1,1,1.0,0.12
+More Atlanta,PERSON,1,1,1.0,0.12
+Strip District,LOCATION,1,1,1.0,0.12
+Tax Commission,ORGANIZATION,1,1,1.0,0.12
+Jackson County,LOCATION,1,1,1.0,0.12
+Main Street,LOCATION,1,1,1.0,0.12
+Tariffs To The,PERSON,1,1,1.0,0.12
+Multifamily Developers Who,PERSON,1,1,1.0,0.12
+Overbuilt Are Hoping,PERSON,1,1,1.0,0.12
+Tariffs Will Turn,PERSON,1,1,1.0,0.12
+Their Mistakes Into,PERSON,1,1,1.0,0.12
+Rare Housing Windfall,PERSON,1,1,1.0,0.12
+Les Tisserands,PERSON,1,1,1.0,0.12
+Detalla Ricardo Gallardo,PERSON,1,1,1.0,0.12
+Santiago,LOCATION,1,1,1.0,0.12
+Arenal Bol,PERSON,1,1,1.0,0.12
+Alle Vorlagen,PERSON,1,1,1.0,0.12
+Neues Wohnquartier,PERSON,1,1,1.0,0.12
+Wisbyer Platz,PERSON,1,1,1.0,0.12
+Gasthaus Schendlingen,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12
+Teatro Verdi,PERSON,2,2,1.0,0.24
+Il Piccolo Teatro,PERSON,1,1,1.0,0.12
+Il Campiello,PERSON,1,1,1.0,0.12
+Castel Maggiore,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Villa Araba,PERSON,1,1,1.0,0.12
+Barry Dierks,PERSON,1,1,1.0,0.12
+Santa Margherita Ligure,PERSON,1,1,1.0,0.12
+Alfredo Freire,PERSON,1,1,1.0,0.12
+BBC,ORGANIZATION,1,1,1.0,0.12
+Employees Keep Jobs,PERSON,1,1,1.0,0.12
+After Sexually Harassing,PERSON,1,1,1.0,0.12
+Pierce County,LOCATION,1,1,1.0,0.12
+New Orleans,LOCATION,1,1,1.0,0.12
+Woman Arrested For,PERSON,1,1,1.0,0.12
+Loanshark Harassment,PERSON,2,1,0.5,0.13999999999999999
+Man Arrested For,PERSON,1,1,1.0,0.12
+Japan,LOCATION,1,1,1.0,0.12
+Japanese Man Demands,PERSON,1,1,1.0,0.12
+Security Guard Kneel,PERSON,1,1,1.0,0.12
+And Bow To,PERSON,1,1,1.0,0.12
+Sparks Outrage Online,PERSON,1,1,1.0,0.12
+Hussein Bourgi,PERSON,1,1,1.0,0.12

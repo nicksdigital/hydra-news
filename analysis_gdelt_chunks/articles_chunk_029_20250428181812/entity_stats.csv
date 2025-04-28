@@ -1,0 +1,38 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Amazon,ORGANIZATION,1,1,1.0,0.12
+Tesla,ORGANIZATION,2,2,1.0,0.24
+Boeing,ORGANIZATION,1,1,1.0,0.12
+Wall Street,LOCATION,1,1,1.0,0.12
+Dow Jones,PERSON,1,1,1.0,0.12
+Quali Borse,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Euonext Milan,PERSON,1,1,1.0,0.12
+Tokyo,LOCATION,1,1,1.0,0.12
+World Bank,ORGANIZATION,2,2,1.0,0.24
+On Henna Class,PERSON,1,1,1.0,0.12
+The People,PERSON,1,1,1.0,0.12
+Carthage Werent Who,PERSON,1,1,1.0,0.12
+We Thought They,PERSON,1,1,1.0,0.12
+Red Poppy,PERSON,1,1,1.0,0.12
+Project Noah,PERSON,1,1,1.0,0.12
+Reveals Phoenician Surprising,PERSON,1,1,1.0,0.12
+Mediterranean Phoenician,PERSON,1,1,1.0,0.12
+Frankfurt,LOCATION,7,4,0.5714285714285714,0.54
+Flughafen Frankfurt,PERSON,7,4,0.5714285714285714,0.54
+Warum Saharastaub,PERSON,1,1,1.0,0.12
+Fitch Solutions,ORGANIZATION,1,1,1.0,0.12
+Ghana,LOCATION,2,2,1.0,0.24
+Saharan Africa,PERSON,1,1,1.0,0.12
+Iraq,LOCATION,1,1,1.0,0.12
+Enables Expansion,PERSON,1,1,1.0,0.12
+Iraq Business News,PERSON,1,1,1.0,0.12
+Diplomats Freak Out,PERSON,1,1,1.0,0.12
+Over Trump Leaked,PERSON,1,1,1.0,0.12
+Executive Order,PERSON,1,1,1.0,0.12
+Angola,LOCATION,1,1,1.0,0.12
+Niger,LOCATION,2,2,1.0,0.24
+Nigeria,LOCATION,2,2,1.0,0.24
+Angola Most At,PERSON,1,1,1.0,0.12
+Risk From Falling,PERSON,1,1,1.0,0.12
+Oil Prices,PERSON,1,1,1.0,0.12
+Holmarcom Finance Company,ORGANIZATION,1,1,1.0,0.12

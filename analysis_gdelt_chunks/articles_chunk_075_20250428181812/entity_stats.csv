@@ -1,0 +1,34 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Pentagon,ORGANIZATION,3,3,1.0,0.36
+Yemen,LOCATION,1,1,1.0,0.12
+Scandalo Pentagono,PERSON,1,1,1.0,0.12
+Scandalo Signal,PERSON,1,1,1.0,0.12
+Virginia Giuffre,PERSON,1,1,1.0,0.12
+La Casa Bianca,PERSON,1,1,1.0,0.12
+Inter Roma,PERSON,1,1,1.0,0.12
+Volkswagen,ORGANIZATION,1,1,1.0,0.12
+Carlos Lupi,PERSON,2,2,1.0,0.24
+Leonel Brizola Neto,PERSON,1,1,1.0,0.12
+Carlos Lu,PERSON,1,1,1.0,0.12
+What Floridians,PERSON,1,1,1.0,0.12
+La Plata County,LOCATION,1,1,1.0,0.12
+Indonesia,LOCATION,1,1,1.0,0.12
+Major Operation,PERSON,1,1,1.0,0.12
+Train Suspension,PERSON,1,1,1.0,0.12
+Delhi,LOCATION,1,1,1.0,0.12
+Signature View Apartment,PERSON,1,1,1.0,0.12
+Israel,LOCATION,2,2,1.0,0.24
+Gaza City,LOCATION,1,1,1.0,0.12
+Lithuania,LOCATION,2,2,1.0,0.24
+Beit Hanoun,PERSON,1,1,1.0,0.12
+Sheikh Zayed,PERSON,1,1,1.0,0.12
+El Amra,PERSON,2,1,0.5,0.13999999999999999
+Cap Ferret,PERSON,1,1,1.0,0.12
+Le Centre,ORGANIZATION,1,1,1.0,0.12
+Benny Kinvwidi,PERSON,1,1,1.0,0.12
+Antoine Tshisekedi,PERSON,1,1,1.0,0.12
+Lagos,LOCATION,1,1,1.0,0.12
+Los Lagos,PERSON,1,1,1.0,0.12
+Las Lajas,PERSON,1,1,1.0,0.12
+Simulacro Nacional,PERSON,1,1,1.0,0.12
+Kloster Beuerberg,PERSON,1,1,1.0,0.12

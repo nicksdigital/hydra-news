@@ -1,0 +1,1872 @@
+Activating virtual environment...
+Analyzing data...
+[nltk_data] Downloading package wordnet to /home/ubuntu/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+spaCy not available. Falling back to NLTK for entity extraction.
+2025-04-28 20:16:04,155 [INFO] Running initial analysis to create database...
+2025-04-28 20:16:04,155 [INFO] Starting analysis of GDELT dataset in dataset_gdelt_enhanced
+2025-04-28 20:16:04,155 [INFO] Loading dataset...
+2025-04-28 20:16:04,155 [INFO] Loading dataset from dataset_gdelt_enhanced
+2025-04-28 20:16:04,288 [INFO] Loaded 14766 articles from dataset_gdelt_enhanced/all_articles.csv
+2025-04-28 20:16:04,288 [INFO] Loaded 198 themes from dataset_gdelt_enhanced/themes.json
+2025-04-28 20:16:04,289 [INFO] Loaded summary from dataset_gdelt_enhanced/summary.json
+2025-04-28 20:16:04,289 [INFO] Preprocessing articles...
+2025-04-28 20:16:04,289 [INFO] Preprocessing articles
+2025-04-28 20:16:04,323 [INFO] Preprocessing complete
+2025-04-28 20:16:04,324 [INFO] Analyzing theme distribution...
+2025-04-28 20:16:04,324 [INFO] Analyzing theme distribution
+2025-04-28 20:16:04,327 [INFO] Found 110 themes
+2025-04-28 20:16:04,327 [INFO] Analyzing theme correlations...
+2025-04-28 20:16:04,327 [INFO] Analyzing correlations between top 15 themes
+2025-04-28 20:16:04,349 [INFO] Generated 15 x 15 correlation matrix
+2025-04-28 20:16:04,350 [INFO] Analyzing theme trends over time...
+2025-04-28 20:16:04,350 [INFO] Analyzing theme trends over time
+2025-04-28 20:16:04,357 [INFO] Generated theme trends for 110 themes over 8 dates
+2025-04-28 20:16:04,357 [INFO] Analyzing time patterns...
+2025-04-28 20:16:04,358 [INFO] Analyzing time patterns
+2025-04-28 20:16:04,359 [INFO] Analyzed articles by date (8 dates)
+2025-04-28 20:16:04,360 [INFO] Analyzed articles by hour (24 hours)
+2025-04-28 20:16:04,362 [INFO] Analyzed articles by day of week (7 days)
+2025-04-28 20:16:04,362 [INFO] Analyzing time series...
+2025-04-28 20:16:04,363 [INFO] Analyzing time series with frequency 'D'
+2025-04-28 20:16:04,396 [INFO] Generated time series with 8 data points
+2025-04-28 20:16:04,398 [INFO] Analyzing publication delay...
+2025-04-28 20:16:04,398 [INFO] Analyzing publication delay
+2025-04-28 20:16:04,529 [INFO] Analyzed publication delay for 111 themes
+2025-04-28 20:16:04,529 [INFO] Analyzing domains...
+2025-04-28 20:16:04,529 [INFO] Analyzing domain distribution
+2025-04-28 20:16:04,531 [INFO] Analyzed top 20 domains
+2025-04-28 20:16:04,533 [INFO] Analyzed top 10 TLDs
+2025-04-28 20:16:04,533 [INFO] Analyzing languages...
+2025-04-28 20:16:04,533 [INFO] Analyzing language distribution
+2025-04-28 20:16:04,534 [INFO] Analyzed top 10 languages
+2025-04-28 20:16:04,535 [INFO] Analyzing countries...
+2025-04-28 20:16:04,535 [INFO] Analyzing source country distribution
+2025-04-28 20:16:04,536 [INFO] Analyzed top 15 countries
+2025-04-28 20:16:04,536 [INFO] Analyzing source diversity...
+2025-04-28 20:16:04,536 [INFO] Analyzing source diversity
+2025-04-28 20:16:04,542 [INFO] Calculated diversity metrics: {'total_articles': 14766, 'unique_domains': 2505, 'unique_countries': 122, 'unique_languages': 11, 'domain_concentration': np.float64(0.002180147829275439), 'country_concentration': np.float64(0.04768079727619206), 'language_concentration': np.float64(0.09510850646215323), 'domain_diversity': np.float64(0.9978198521707246), 'country_diversity': np.float64(0.952319202723808), 'language_diversity': np.float64(0.9048914935378468)}
+2025-04-28 20:16:04,542 [INFO] Analyzing sentiment...
+2025-04-28 20:16:04,542 [INFO] Analyzing sentiment in article titles
+2025-04-28 20:16:09,146 [INFO] Analyzed sentiment for 14762 articles
+2025-04-28 20:16:09,149 [INFO] Analyzing sentiment by theme
+2025-04-28 20:16:09,331 [INFO] Analyzed sentiment for 110 themes
+2025-04-28 20:16:09,331 [INFO] Extracting keywords...
+2025-04-28 20:16:09,331 [INFO] Extracting keywords from article titles
+2025-04-28 20:16:12,450 [INFO] Extracted 100 keywords
+2025-04-28 20:16:12,454 [INFO] Building topic model...
+2025-04-28 20:16:12,454 [INFO] Building topic model with 10 topics
+2025-04-28 20:16:22,415 [INFO] Built topic model with 10 topics and 1000 features
+2025-04-28 20:16:22,416 [INFO] Extracting top 10 words for each topic
+2025-04-28 20:16:22,416 [INFO] Extracted top words for 10 topics
+2025-04-28 20:16:22,417 [INFO] Assigning topics to articles with threshold 0.3
+2025-04-28 20:16:23,853 [INFO] Assigned topics to 14766 articles
+2025-04-28 20:16:23,854 [INFO] Creating visualizations...
+2025-04-28 20:16:23,854 [INFO] Creating all visualizations
+2025-04-28 20:16:23,855 [INFO] Visualization style set up
+2025-04-28 20:16:23,856 [INFO] Creating theme distribution plot for top 20 themes
+/home/ubuntu/hydra-news/python/src/gdelt/analyzer/visualizer.py:51: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='count', y='theme_id', data=theme_counts.head(top_n), palette='viridis')
+2025-04-28 20:16:24,188 [INFO] Saved theme distribution plot to analysis_gdelt_enhanced/theme_distribution.png
+2025-04-28 20:16:24,189 [INFO] Creating time pattern plots
+2025-04-28 20:16:24,733 [INFO] Saved time pattern plots to analysis_gdelt_enhanced
+2025-04-28 20:16:24,734 [INFO] Creating source distribution plots
+/home/ubuntu/hydra-news/python/src/gdelt/analyzer/visualizer.py:141: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=domain_counts.values, y=domain_counts.index, palette='Blues_d')
+/home/ubuntu/hydra-news/python/src/gdelt/analyzer/visualizer.py:154: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=tld_counts.values, y=tld_counts.index, palette='Greens_d')
+/home/ubuntu/hydra-news/python/src/gdelt/analyzer/visualizer.py:167: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=language_counts.values, y=language_counts.index, palette='Reds_d')
+/home/ubuntu/hydra-news/python/src/gdelt/analyzer/visualizer.py:180: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=country_counts.values, y=country_counts.index, palette='Purples_d')
+2025-04-28 20:16:25,708 [INFO] Saved source distribution plots to analysis_gdelt_enhanced
+2025-04-28 20:16:25,708 [INFO] Creating theme correlation heatmap
+2025-04-28 20:16:26,355 [INFO] Saved theme correlation heatmap to analysis_gdelt_enhanced/theme_correlation.png
+2025-04-28 20:16:26,355 [INFO] Creating sentiment distribution plots
+2025-04-28 20:16:27,208 [INFO] Saved sentiment distribution plots to analysis_gdelt_enhanced
+2025-04-28 20:16:27,209 [INFO] Creating topic word clouds
+2025-04-28 20:16:27,210 [WARNING] wordcloud package not available. Skipping word cloud generation.
+2025-04-28 20:16:27,210 [INFO] Creating time series plot
+2025-04-28 20:16:27,437 [INFO] Saved time series plot to analysis_gdelt_enhanced/time_series.png
+2025-04-28 20:16:27,437 [INFO] Created all visualizations in analysis_gdelt_enhanced
+2025-04-28 20:16:27,437 [INFO] Generating report...
+2025-04-28 20:16:27,437 [INFO] Generating report
+2025-04-28 20:16:27,440 [INFO] Generated report at analysis_gdelt_enhanced/report.md
+2025-04-28 20:16:27,441 [INFO] Generating JSON summary...
+2025-04-28 20:16:27,441 [INFO] Generating JSON summary
+2025-04-28 20:16:27,443 [INFO] Generated JSON summary at analysis_gdelt_enhanced/analysis_summary.json
+2025-04-28 20:16:27,443 [INFO] Generating CSV exports...
+2025-04-28 20:16:27,443 [INFO] Generating CSV exports
+2025-04-28 20:16:27,444 [INFO] Exported theme counts to analysis_gdelt_enhanced/exports/theme_counts.csv
+2025-04-28 20:16:27,446 [INFO] Exported date counts to analysis_gdelt_enhanced/exports/date_counts.csv
+2025-04-28 20:16:27,535 [INFO] Exported sentiment analysis to analysis_gdelt_enhanced/exports/sentiment_analysis.csv
+2025-04-28 20:16:27,538 [INFO] Exported theme sentiment to analysis_gdelt_enhanced/exports/theme_sentiment.csv
+2025-04-28 20:16:27,636 [INFO] Exported topic assignments to analysis_gdelt_enhanced/exports/topic_assignments.csv
+2025-04-28 20:16:27,636 [INFO] Generated all CSV exports in analysis_gdelt_enhanced/exports
+2025-04-28 20:16:27,636 [INFO] Extracting entities...
+2025-04-28 20:16:27,636 [INFO] Extracting entities from DataFrame
+2025-04-28 20:17:08,720 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:17:09,195 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:17:10,094 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:18:44,748 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:19:23,638 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:20:04,240 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:20:42,224 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:21:21,228 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:22:06,905 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:25,565 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:26,102 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:27,579 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:27,794 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:54,120 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:54,152 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:23:54,201 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:24:00,554 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:25:07,277 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:25:41,836 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:25:42,406 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:26:36,778 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:26:37,760 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:26:42,275 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:28:00,441 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:28:30,540 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:30:48,967 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:30:49,420 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:30:55,798 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:31:00,208 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:31:00,814 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:32:03,847 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:36:09,633 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:36:10,251 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:36:10,739 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:36:11,246 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:36:11,741 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:37:17,488 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:37:18,979 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:37:21,146 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:39:10,017 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:39:10,678 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:39:58,430 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:39:59,112 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:40:47,380 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:40:49,500 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:40:58,382 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:41:01,083 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:41:38,967 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:41:40,154 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:42:17,004 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:42:17,127 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:43:36,682 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:43:36,859 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:43:37,022 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:43:37,473 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:43:38,021 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:45:16,766 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:45:21,599 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:45:21,732 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:46:34,970 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:46:35,784 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:46:37,443 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:46:40,410 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:49:02,935 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:49:05,031 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:49:05,734 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:49:07,545 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:49:08,982 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:49:58,561 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:50:31,838 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:50:34,716 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:51:14,178 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:53:18,313 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:53:18,613 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:53:19,911 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-04-28 20:53:20,692 [ERROR] Error extracting entities with NLTK: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ubuntu/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/share/nltk_data'
+    - '/home/ubuntu/hydra-news/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+Terminated
+Error: Data analysis failed

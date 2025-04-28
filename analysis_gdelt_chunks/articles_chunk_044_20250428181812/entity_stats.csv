@@ -1,0 +1,48 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Nueva Siria,PERSON,1,1,1.0,0.12
+Israel,LOCATION,2,2,1.0,0.24
+Yemen,LOCATION,2,2,1.0,0.24
+Congo,LOCATION,1,1,1.0,0.12
+Neun Soldaten,PERSON,1,1,1.0,0.12
+Extremistischer Angriff,PERSON,1,1,1.0,0.12
+The Last,PERSON,1,1,1.0,0.12
+Harry Truman,PERSON,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Voci Ribelli,PERSON,1,1,1.0,0.12
+Sigourney Weaver,PERSON,1,1,1.0,0.12
+Star Wars,PERSON,1,1,1.0,0.12
+Gli Houthi,PERSON,1,1,1.0,0.12
+Nicky Katt,PERSON,2,1,0.5,0.13999999999999999
+Artur Bernardes,PERSON,1,1,1.0,0.12
+Securing Food Sovereignty,PERSON,1,1,1.0,0.12
+Not Just Agricultural,PERSON,1,1,1.0,0.12
+But Fundamental Pillar,PERSON,1,1,1.0,0.12
+Canada,LOCATION,1,1,1.0,0.12
+Carney Says Trump,PERSON,1,1,1.0,0.12
+Mentioned Canada,PERSON,1,1,1.0,0.12
+China,LOCATION,6,5,0.8333333333333334,0.62
+South China Sea,LOCATION,2,2,1.0,0.24
+Sandy Cay,PERSON,1,1,1.0,0.12
+Philippines,LOCATION,1,1,1.0,0.12
+Turkey,LOCATION,1,1,1.0,0.12
+Turkey Opposition Defies,PERSON,1,1,1.0,0.12
+Protest Ban,PERSON,1,1,1.0,0.12
+World News,PERSON,1,1,1.0,0.12
+China Coast,LOCATION,1,1,1.0,0.12
+Tiexian Jiao,PERSON,1,1,1.0,0.12
+Le Bloc,PERSON,1,1,1.0,0.12
+Madagascar,LOCATION,1,1,1.0,0.12
+Emmanuel Macron,PERSON,1,1,1.0,0.12
+La Banque,PERSON,1,1,1.0,0.12
+Massad Boulos,PERSON,1,1,1.0,0.12
+Mali,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Firma Zentrum,PERSON,1,1,1.0,0.12
+Ford,ORGANIZATION,1,1,1.0,0.12
+Eigene Cloud,PERSON,1,1,1.0,0.12
+Insel Huangyan,PERSON,1,1,1.0,0.12
+Seuchenschutz Das,PERSON,1,1,1.0,0.12
+Jahre Wiedererrichtung,PERSON,1,1,1.0,0.12
+Zweiten Republik,PERSON,1,1,1.0,0.12
+Der Glaube,PERSON,1,1,1.0,0.12
+BBC,ORGANIZATION,1,1,1.0,0.12

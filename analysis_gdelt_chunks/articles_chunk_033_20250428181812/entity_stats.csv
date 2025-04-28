@@ -1,0 +1,30 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Guinaw Rails Sud,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,3,3,1.0,0.36
+Reuters,ORGANIZATION,1,1,1.0,0.12
+La Tunisie,PERSON,1,1,1.0,0.12
+BMW,ORGANIZATION,1,1,1.0,0.12
+NBC,ORGANIZATION,1,1,1.0,0.12
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+France,LOCATION,2,2,1.0,0.24
+Papa Francesco,PERSON,1,1,1.0,0.12
+Italy,LOCATION,1,1,1.0,0.12
+Lagroalimentare Made,PERSON,1,1,1.0,0.12
+Meeting Primavera,PERSON,1,1,1.0,0.12
+Economia Real,PERSON,1,1,1.0,0.12
+Banco Central,PERSON,1,1,1.0,0.12
+No Brasil,PERSON,1,1,1.0,0.12
+World Bank,ORGANIZATION,1,1,1.0,0.12
+Ghana,LOCATION,1,1,1.0,0.12
+India,LOCATION,1,1,1.0,0.12
+Singapore,LOCATION,2,1,0.5,0.13999999999999999
+Trump Vs,PERSON,1,1,1.0,0.12
+Business Planning Implications,PERSON,1,1,1.0,0.12
+Christine Lagarde,PERSON,1,1,1.0,0.12
+La Banque,PERSON,1,1,1.0,0.12
+Tokyo,LOCATION,1,1,1.0,0.12
+El Gobierno,PERSON,1,1,1.0,0.12
+Nicaragua,LOCATION,1,1,1.0,0.12
+Selbst Experten,PERSON,1,1,1.0,0.12
+Jungen Generation Wieden,PERSON,1,1,1.0,0.12
+Donald Trumps Zollpolitik,PERSON,1,1,1.0,0.12

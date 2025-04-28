@@ -1,0 +1,37 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Mbaye Dione,PERSON,1,1,1.0,0.12
+Moustapha Niasse,PERSON,1,1,1.0,0.12
+Lima,LOCATION,9,5,0.5555555555555556,0.6799999999999999
+Alianza Lima,PERSON,9,5,0.5555555555555556,0.6799999999999999
+Sao Paulo,PERSON,1,1,1.0,0.12
+Disney,ORGANIZATION,1,1,1.0,0.12
+Disney Plus,PERSON,1,1,1.0,0.12
+Erstes Aktivierungstreffen,PERSON,1,1,1.0,0.12
+Wert Allianz,PERSON,1,1,1.0,0.12
+China,LOCATION,2,2,1.0,0.24
+NATO,ORGANIZATION,2,2,1.0,0.24
+Allianz Aktie,PERSON,1,1,1.0,0.12
+China Press,PERSON,1,1,1.0,0.12
+France,LOCATION,2,1,0.5,0.13999999999999999
+Papa Francesco,PERSON,2,1,0.5,0.13999999999999999
+Possibile Sardegna,PERSON,1,1,1.0,0.12
+Europa Verde,PERSON,1,1,1.0,0.12
+Atingem Meta,PERSON,1,1,1.0,0.12
+Miguel Pinto Luz,PERSON,1,1,1.0,0.12
+Star Wars,PERSON,2,2,1.0,0.24
+Marinaldo Cardoso,PERSON,1,1,1.0,0.12
+Onyx Lorenzoni,PERSON,1,1,1.0,0.12
+Belarus,LOCATION,1,1,1.0,0.12
+Poland,LOCATION,1,1,1.0,0.12
+Poland Stops Mass,PERSON,1,1,1.0,0.12
+Attempt To Break,PERSON,1,1,1.0,0.12
+Border From Belarus,PERSON,1,1,1.0,0.12
+Beyond Choreographed Hostility,PERSON,1,1,1.0,0.12
+Deocoding History,PERSON,1,1,1.0,0.12
+Optics Of Wagah,PERSON,1,1,1.0,0.12
+Attari Border,PERSON,1,1,1.0,0.12
+Serbia,LOCATION,1,1,1.0,0.12
+Extend Miles North,PERSON,1,1,1.0,0.12
+Luxembourg,LOCATION,1,1,1.0,0.12
+Emmanuel Macron,PERSON,1,1,1.0,0.12
+Canada,LOCATION,2,2,1.0,0.24

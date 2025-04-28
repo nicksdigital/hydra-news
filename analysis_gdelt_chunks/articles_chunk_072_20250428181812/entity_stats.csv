@@ -1,0 +1,33 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Disney,ORGANIZATION,1,1,1.0,0.12
+Trinidad,LOCATION,1,1,1.0,0.12
+Andor Temporada,PERSON,1,1,1.0,0.12
+Star Wars,PERSON,5,5,1.0,0.6
+Islamischen Jihad,PERSON,1,1,1.0,0.12
+Befreiung Italiens,PERSON,1,1,1.0,0.12
+Die Wahrheit,PERSON,1,1,1.0,0.12
+BBC,ORGANIZATION,1,1,1.0,0.12
+Pierdavide Carone,PERSON,1,1,1.0,0.12
+Donato Metallo,PERSON,1,1,1.0,0.12
+Raul Seixas,PERSON,1,1,1.0,0.12
+Rogue One,PERSON,1,1,1.0,0.12
+Segunda Guerra Mundial,PERSON,1,1,1.0,0.12
+As It Girls,PERSON,1,1,1.0,0.12
+Notification Out For,PERSON,1,1,1.0,0.12
+Check Eligibility,PERSON,2,2,1.0,0.24
+Application Fee And,PERSON,1,1,1.0,0.12
+Apply Online,PERSON,1,1,1.0,0.12
+Last Date,PERSON,1,1,1.0,0.12
+Posts Issued At,PERSON,1,1,1.0,0.12
+Check Application Fees,PERSON,1,1,1.0,0.12
+Why You Are,PERSON,1,1,1.0,0.12
+Hard Time Finding,PERSON,1,1,1.0,0.12
+New Employees,PERSON,1,1,1.0,0.12
+Mock Test Link,PERSON,1,1,1.0,0.12
+Details Here,PERSON,1,1,1.0,0.12
+Delhi,LOCATION,1,1,1.0,0.12
+Delhi Metro Recruitment,PERSON,1,1,1.0,0.12
+President Tinubu Approves,PERSON,1,1,1.0,0.12
+Recruitment Of,PERSON,1,1,1.0,0.12
+Procurement Notices,PERSON,1,1,1.0,0.12
+Adif Isabel Pardo,PERSON,2,2,1.0,0.24

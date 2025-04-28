@@ -1,0 +1,45 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Veolia Aktie,PERSON,1,1,1.0,0.12
+Trumps Handelskrieg,PERSON,1,1,1.0,0.12
+China,LOCATION,2,2,1.0,0.24
+Wenn China,PERSON,1,1,1.0,0.12
+Venus Medtech,PERSON,1,1,1.0,0.12
+Software Solutions,ORGANIZATION,1,1,1.0,0.12
+Bregal Milestone,PERSON,1,1,1.0,0.12
+Verlockende Chancen,PERSON,1,1,1.0,0.12
+Die Berichtssaison,PERSON,1,1,1.0,0.12
+Picktan Capital,PERSON,2,1,0.5,0.13999999999999999
+Washington,LOCATION,2,2,1.0,0.24
+Partners Group,ORGANIZATION,1,1,1.0,0.12
+Generali Investments,PERSON,1,1,1.0,0.12
+Private Credit,PERSON,1,1,1.0,0.12
+Wall Street,LOCATION,1,1,1.0,0.12
+Duke Energy Foundation,ORGANIZATION,1,1,1.0,0.12
+North Carolina,PERSON,1,1,1.0,0.12
+Nexif Ratch Energy,PERSON,1,1,1.0,0.12
+Signs Amended Power,PERSON,1,1,1.0,0.12
+Purchase Agreements,PERSON,1,1,1.0,0.12
+London,LOCATION,1,1,1.0,0.12
+Tensions Over Clean,PERSON,1,1,1.0,0.12
+Power Push Highlighted,PERSON,1,1,1.0,0.12
+London Energy Security,PERSON,1,1,1.0,0.12
+Sinopec,ORGANIZATION,2,1,0.5,0.13999999999999999
+Sinopec Makes Overseas,PERSON,1,1,1.0,0.12
+Report Released,PERSON,1,1,1.0,0.12
+Burkina Faso,LOCATION,1,1,1.0,0.12
+La Banque,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Joel Santos,PERSON,1,1,1.0,0.12
+Elena Nevado,PERSON,1,1,1.0,0.12
+Alfonso Durazo,PERSON,1,1,1.0,0.12
+Plan Sonora,PERSON,1,1,1.0,0.12
+Intersolar Europe,PERSON,1,1,1.0,0.12
+Shanghai,LOCATION,1,1,1.0,0.12
+Shanghai Electric,PERSON,1,1,1.0,0.12
+Erneuerbare Energie,PERSON,1,1,1.0,0.12
+Was Herr Ing,PERSON,1,1,1.0,0.12
+Patrick Giermaier,PERSON,1,1,1.0,0.12
+Earth Day,PERSON,1,1,1.0,0.12
+Erneuerbare Energien,PERSON,1,1,1.0,0.12
+Dieses Mietshaus,PERSON,1,1,1.0,0.12
+Chef Fatih Birol,PERSON,1,1,1.0,0.12

@@ -1,0 +1,36 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Smart Living,PERSON,1,1,1.0,0.12
+Aurora,LOCATION,1,1,1.0,0.12
+Beatriz Cavalcante,PERSON,1,1,1.0,0.12
+Bajaj Finance,PERSON,1,1,1.0,0.12
+MIT,ORGANIZATION,1,1,1.0,0.12
+Bond Price,PERSON,1,1,1.0,0.12
+Issue Date,PERSON,1,1,1.0,0.12
+Maturity Date,PERSON,1,1,1.0,0.12
+Dan Son,PERSON,1,1,1.0,0.12
+Working Capital Finance,PERSON,1,1,1.0,0.12
+Acquis Data Services,ORGANIZATION,1,1,1.0,0.12
+Canberra,LOCATION,1,1,1.0,0.12
+The Canberra Times,PERSON,1,1,1.0,0.12
+Meanings Capital Partners,ORGANIZATION,1,1,1.0,0.12
+Vanessa Matz,PERSON,1,1,1.0,0.12
+Volvo,ORGANIZATION,1,1,1.0,0.12
+Mats Backman,PERSON,1,1,1.0,0.12
+Marine Le Pen,PERSON,1,1,1.0,0.12
+Buy America,PERSON,1,1,1.0,0.12
+Sell America,PERSON,1,1,1.0,0.12
+Luis Caputo,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Banco Mundial,PERSON,1,1,1.0,0.12
+Semana Santa,PERSON,1,1,1.0,0.12
+Bolivia,LOCATION,1,1,1.0,0.12
+Vatican,LOCATION,1,1,1.0,0.12
+Financial Services Group,ORGANIZATION,1,1,1.0,0.12
+Titel Citizens Financial Group,ORGANIZATION,1,1,1.0,0.12
+Citizens Financial Group,ORGANIZATION,1,1,1.0,0.12
+Titel Citizens Financial,PERSON,1,1,1.0,0.12
+Diese Aktien,PERSON,1,1,1.0,0.12
+Boeing,ORGANIZATION,1,1,1.0,0.12
+Hot Stocks,PERSON,2,1,0.5,0.13999999999999999
+Novo Nordisk Aktie,PERSON,2,1,0.5,0.13999999999999999
+Milliarden Euro,PERSON,1,1,1.0,0.12

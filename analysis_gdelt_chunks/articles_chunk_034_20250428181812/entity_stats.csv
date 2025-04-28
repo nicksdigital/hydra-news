@@ -1,0 +1,27 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Argentina,LOCATION,2,2,1.0,0.24
+Papa Francisco,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Strategists Who Say,PERSON,1,1,1.0,0.12
+Recession Is Likely,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Avoid These,PERSON,1,1,1.0,0.12
+Money Mistakes,PERSON,1,1,1.0,0.12
+Tariff Turmoil,PERSON,1,1,1.0,0.12
+Tucson,LOCATION,1,1,1.0,0.12
+CNN,ORGANIZATION,1,1,1.0,0.12
+Data Chief Spots,PERSON,1,1,1.0,0.12
+Blistering Scenario Trump,PERSON,1,1,1.0,0.12
+Wouldnt Be Able,PERSON,1,1,1.0,0.12
+To  Escape,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Mexico,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Deutsche Wirtschaft,PERSON,1,1,1.0,0.12
+Ray Dalio,PERSON,1,1,1.0,0.12
+Trumps Chaos,PERSON,2,2,1.0,0.24
+Sicherer Hafen,PERSON,1,1,1.0,0.12
+Peter Schiff,PERSON,1,1,1.0,0.12
+Tage Donald Trump,PERSON,1,1,1.0,0.12
+Make Stocks Drop,PERSON,1,1,1.0,0.12
+Trumps Regie,PERSON,1,1,1.0,0.12

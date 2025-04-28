@@ -1,0 +1,48 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Supply Chain Risk,PERSON,2,1,0.5,0.13999999999999999
+Sustainability Week,PERSON,1,1,1.0,0.12
+IBM,ORGANIZATION,1,1,1.0,0.12
+Earnings Say About,PERSON,1,1,1.0,0.12
+Tariff Uncertainty In Global,ORGANIZATION,1,1,1.0,0.12
+Your Strategic Weapon,PERSON,1,1,1.0,0.12
+Against Tariff Uncertainty,PERSON,1,1,1.0,0.12
+India,LOCATION,4,4,1.0,0.48
+China,LOCATION,6,6,1.0,0.72
+How Trump China,PERSON,1,1,1.0,0.12
+Google,ORGANIZATION,1,1,1.0,0.12
+Samsung,ORGANIZATION,1,1,1.0,0.12
+Google Has Reportedly,PERSON,1,1,1.0,0.12
+Ditched Samsung,PERSON,1,1,1.0,0.12
+Process As It,PERSON,1,1,1.0,0.12
+Fails To Pass,PERSON,1,1,1.0,0.12
+Qualification Tests,PERSON,1,1,1.0,0.12
+Switches To Micron,PERSON,1,1,1.0,0.12
+Business News,PERSON,1,1,1.0,0.12
+PepsiCo,ORGANIZATION,2,2,1.0,0.24
+Apple,ORGANIZATION,4,3,0.75,0.38
+Nueva Ley,PERSON,1,1,1.0,0.12
+Magic Quadrant,PERSON,1,1,1.0,0.12
+Wie Isolierungsversuche,PERSON,1,1,1.0,0.12
+Regierung Apple,PERSON,1,1,1.0,0.12
+Tariff Response,PERSON,1,1,1.0,0.12
+UBS,ORGANIZATION,1,1,1.0,0.12
+Boeing,ORGANIZATION,1,1,1.0,0.12
+Isuzu Motors,ORGANIZATION,1,1,1.0,0.12
+Investors Prefer,PERSON,1,1,1.0,0.12
+Nice  Trump,PERSON,1,1,1.0,0.12
+Want Results,PERSON,1,1,1.0,0.12
+China Says  Door,PERSON,1,1,1.0,0.12
+Open  To Trade,PERSON,1,1,1.0,0.12
+Talks After Trump,PERSON,1,1,1.0,0.12
+Signals Tariffs Will,PERSON,1,1,1.0,0.12
+Japan,LOCATION,1,1,1.0,0.12
+Japan Nomura,PERSON,1,1,1.0,0.12
+Holds Press Briefing,PERSON,1,1,1.0,0.12
+Mirae Asset Global,ORGANIZATION,1,1,1.0,0.12
+Gift City,LOCATION,1,1,1.0,0.12
+Mirae Asset Investment,PERSON,1,1,1.0,0.12
+Allocation Fund,PERSON,1,1,1.0,0.12
+Axis Bank,ORGANIZATION,1,1,1.0,0.12
+Sensex Today,PERSON,1,1,1.0,0.12
+Stock Market,PERSON,1,1,1.0,0.12
+Le Nifty,PERSON,1,1,1.0,0.12

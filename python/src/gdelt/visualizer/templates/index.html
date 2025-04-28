@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDELT News Analysis Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.4/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment@1.0.1/dist/chartjs-adapter-moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@2.1.0/dist/chartjs-plugin-annotation.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row mb-4">
+            <div class="col">
+                <nav class="navbar navbar-expand-lg navbar-light bg-white rounded-3 shadow-sm">
+                    <div class="container-fluid">
+                        <a class="navbar-brand" href="#">
+                            <i class="bi bi-globe"></i> GDELT News Analysis
+                        </a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="#" data-view="dashboard">Dashboard</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#" data-view="timelines">Timelines</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#" data-view="sentiment">Sentiment Analysis</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#" data-view="entities">Entities</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#" data-view="themes">Themes</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#" data-view="predictions">Predictions</a>
+                                </li>
+                            </ul>
+                            <div class="ms-auto">
+                                <button id="refresh-btn" class="btn btn-sm btn-outline-primary">
+                                    <i class="bi bi-arrow-clockwise"></i> Refresh
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- Status Bar -->
+        <div id="status-bar" class="d-flex align-items-center">
+            <div class="me-3">
+                <span id="status-indicator" class="loading-spinner"></span>
+                <span id="status-text">Loading data...</span>
+            </div>
+            <div class="progress flex-grow-1" style="height: 6px;">
+                <div id="status-progress" class="progress-bar" role="progressbar" style="width: 25%"></div>
+            </div>
+            <div class="ms-3">
+                <span id="status-percentage">25%</span>
+            </div>
+        </div>
+
+        <!-- View containers -->
+        <div id="dashboard-view" class="view-content"></div>
+        <div id="timelines-view" class="view-content d-none"></div>
+        <div id="sentiment-view" class="view-content d-none"></div>
+        <div id="entities-view" class="view-content d-none"></div>
+        <div id="themes-view" class="view-content d-none"></div>
+        <div id="predictions-view" class="view-content d-none"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Core JS -->
+    <script src="../js/config.js"></script>
+    <script src="../js/api.js"></script>
+    <script src="../js/utils.js"></script>
+
+    <!-- View JS -->
+    <script src="../js/views/dashboard.js"></script>
+    <script src="../js/views/timelines.js"></script>
+    <script src="../js/views/sentiment.js"></script>
+    <script src="../js/views/entities.js"></script>
+    <script src="../js/views/themes.js"></script>
+    <script src="../js/views/predictions.js"></script>
+
+    <!-- Charts JS -->
+    <script src="../js/charts/timeSeriesChart.js"></script>
+    <script src="../js/charts/pieChart.js"></script>
+    <script src="../js/charts/barChart.js"></script>
+    <script src="../js/charts/networkChart.js"></script>
+    <script src="../js/charts/heatmapChart.js"></script>
+
+    <!-- Main JS -->
+    <script src="../js/main.js"></script>
+</body>
+</html>

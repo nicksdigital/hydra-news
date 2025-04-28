@@ -1,0 +1,57 @@
+entity,type,count,num_sources,source_diversity,trust_score
+France,LOCATION,2,2,1.0,0.24
+Julian Assange,PERSON,1,1,1.0,0.12
+Papa Francesco,PERSON,2,2,1.0,0.24
+Hugo Cruz,PERSON,1,1,1.0,0.12
+Italy,LOCATION,2,2,1.0,0.24
+Israel,LOCATION,1,1,1.0,0.12
+Omri Miran,PERSON,1,1,1.0,0.12
+Donald Trump,PERSON,1,1,1.0,0.12
+Steve Witkoff,PERSON,1,1,1.0,0.12
+Cairo,LOCATION,2,2,1.0,0.24
+Gaza City,LOCATION,1,1,1.0,0.12
+Lafarge Africa Engages,PERSON,1,1,1.0,0.12
+Based Violence Awareness,PERSON,1,1,1.0,0.12
+Kenya,LOCATION,1,1,1.0,0.12
+Sewing And Discussions,PERSON,1,1,1.0,0.12
+Valletta Event Explores,PERSON,1,1,1.0,0.12
+Realities Of Gender,PERSON,1,1,1.0,0.12
+Based Violence During,PERSON,1,1,1.0,0.12
+Zambia,LOCATION,1,1,1.0,0.12
+Tackling Zambia,PERSON,1,1,1.0,0.12
+Cuba,LOCATION,1,1,1.0,0.12
+Granma Province,LOCATION,1,1,1.0,0.12
+Cuban Mother Killer,PERSON,1,1,1.0,0.12
+Found Dead,PERSON,1,1,1.0,0.12
+South Africa,LOCATION,1,1,1.0,0.12
+London,LOCATION,1,1,1.0,0.12
+Oakland,LOCATION,1,1,1.0,0.12
+La Justicia,PERSON,1,1,1.0,0.12
+Sponichi Annex,PERSON,1,1,1.0,0.12
+Centro Calabrese,PERSON,1,1,1.0,0.12
+Ilaria Sula,PERSON,1,1,1.0,0.12
+Luca Zingaretti,PERSON,1,1,1.0,0.12
+Luiza Brunet,PERSON,1,1,1.0,0.12
+Kristen Stewart,PERSON,1,1,1.0,0.12
+Semana Santa,PERSON,1,1,1.0,0.12
+Levante Feminista,PERSON,1,1,1.0,0.12
+Secretaria Estadual,PERSON,1,1,1.0,0.12
+Projeto  Cidadania Itinerante,PERSON,1,1,1.0,0.12
+Passes Away After Hospital,ORGANIZATION,1,1,1.0,0.12
+Baby Passes Away,PERSON,1,1,1.0,0.12
+Remove Ventilator Without,PERSON,1,1,1.0,0.12
+Life Leader David,PERSON,1,1,1.0,0.12
+Passes Away,PERSON,1,1,1.0,0.12
+Melinda Gates,PERSON,1,1,1.0,0.12
+Very Liberal  Priest,PERSON,1,1,1.0,0.12
+White House,ORGANIZATION,1,1,1.0,0.12
+Senate,ORGANIZATION,1,1,1.0,0.12
+India,LOCATION,7,7,1.0,0.8400000000000001
+Pakistan,LOCATION,3,3,1.0,0.36
+Erie News Now,PERSON,1,1,1.0,0.12
+Nepal,LOCATION,1,1,1.0,0.12
+Review Nepal News,PERSON,1,1,1.0,0.12
+World Bank,ORGANIZATION,3,3,1.0,0.36
+Welfare Schemes,PERSON,1,1,1.0,0.12
+Reforms Slash Poverty,PERSON,1,1,1.0,0.12
+Congress,ORGANIZATION,1,1,1.0,0.12

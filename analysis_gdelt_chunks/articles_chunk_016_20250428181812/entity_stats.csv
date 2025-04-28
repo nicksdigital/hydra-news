@@ -1,0 +1,41 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Etu Energias,PERSON,1,1,1.0,0.12
+China,LOCATION,2,2,1.0,0.24
+Zimbabwe,LOCATION,1,1,1.0,0.12
+Newsday Zimbabwe,PERSON,1,1,1.0,0.12
+South Africa,LOCATION,1,1,1.0,0.12
+Bangkok,LOCATION,2,1,0.5,0.13999999999999999
+Bangkok Post,PERSON,2,1,0.5,0.13999999999999999
+Hinghoi Project,PERSON,1,1,1.0,0.12
+Mongolia,LOCATION,1,1,1.0,0.12
+Inner Mongolia,PERSON,1,1,1.0,0.12
+Tata Motors,ORGANIZATION,2,2,1.0,0.24
+Charles Sturt University,ORGANIZATION,1,1,1.0,0.12
+Snowy Energy,PERSON,1,1,1.0,0.12
+Southeast Asia,PERSON,1,1,1.0,0.12
+Tata Power Renewable,PERSON,1,1,1.0,0.12
+Foods Launches First,PERSON,1,1,1.0,0.12
+Renewable Energy Farm,PERSON,1,1,1.0,0.12
+Mazal International,ORGANIZATION,3,2,0.6666666666666666,0.26
+Ukraine,LOCATION,3,2,0.6666666666666666,0.26
+Rob Brezsny,PERSON,1,1,1.0,0.12
+Telamon Borea,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,1,1,1.0,0.12
+Gran Muralla Solar,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Mainstream Renewable Power,PERSON,1,1,1.0,0.12
+Vietnam,LOCATION,1,1,1.0,0.12
+Ventus Energy,PERSON,1,1,1.0,0.12
+Shell,ORGANIZATION,1,1,1.0,0.12
+Portugal,LOCATION,1,1,1.0,0.12
+Berlin,LOCATION,1,1,1.0,0.12
+Weil Deutschland,PERSON,1,1,1.0,0.12
+Berliner Unternehmen Enpal,PERSON,1,1,1.0,0.12
+Erneuerbare Energie,PERSON,2,2,1.0,0.24
+Unternehmer Martin Winkler,PERSON,1,1,1.0,0.12
+Klimaneutrale Zukunft,PERSON,1,1,1.0,0.12
+We Do,PERSON,1,1,1.0,0.12
+Campus Life,PERSON,1,1,1.0,0.12
+Events Calendar,PERSON,1,1,1.0,0.12
+Apple,ORGANIZATION,1,1,1.0,0.12

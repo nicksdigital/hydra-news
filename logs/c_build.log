@@ -1,0 +1,23 @@
+mkdir -p build lib include
+gcc -Wall -Wextra -fPIC -O2 -Isrc -c src/hydra_cgo.c -o build/hydra_cgo.o
+In file included from src/hydra_cgo.c:12:
+src/postquantum/crypto_adapter.h:22:5: error: redeclaration of enumerator ‘KEY_TYPE_SYMMETRIC’
+   22 |     KEY_TYPE_SYMMETRIC,   // Symmetric key (e.g., AES)
+      |     ^~~~~~~~~~~~~~~~~~
+In file included from src/hydra_cgo.c:7:
+src/hydra_cgo.h:20:5: note: previous definition of ‘KEY_TYPE_SYMMETRIC’ with type ‘enum <anonymous>’
+   20 |     KEY_TYPE_SYMMETRIC = 0,
+      |     ^~~~~~~~~~~~~~~~~~
+src/postquantum/crypto_adapter.h:23:5: error: redeclaration of enumerator ‘KEY_TYPE_KYBER’
+   23 |     KEY_TYPE_KYBER,       // Kyber key (post-quantum KEM)
+      |     ^~~~~~~~~~~~~~
+src/hydra_cgo.h:21:5: note: previous definition of ‘KEY_TYPE_KYBER’ with type ‘enum <anonymous>’
+   21 |     KEY_TYPE_KYBER = 1,
+      |     ^~~~~~~~~~~~~~
+src/postquantum/crypto_adapter.h:24:5: error: redeclaration of enumerator ‘KEY_TYPE_FALCON’
+   24 |     KEY_TYPE_FALCON       // Falcon key (post-quantum signatures)
+      |     ^~~~~~~~~~~~~~~
+src/hydra_cgo.h:22:5: note: previous definition of ‘KEY_TYPE_FALCON’ with type ‘enum <anonymous>’
+   22 |     KEY_TYPE_FALCON = 2
+      |     ^~~~~~~~~~~~~~~
+make: *** [Makefile:103: build/hydra_cgo.o] Error 1

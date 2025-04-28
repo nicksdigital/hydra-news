@@ -1,0 +1,29 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Milan,LOCATION,1,1,1.0,0.12
+Alto Mar,PERSON,1,1,1.0,0.12
+No Zoomarine,PERSON,1,1,1.0,0.12
+Campanha  Resex,PERSON,1,1,1.0,0.12
+Fazenda Tambauzinho,PERSON,1,1,1.0,0.12
+Santa Rita,PERSON,1,1,1.0,0.12
+Trump Administration Celebrates,PERSON,1,1,1.0,0.12
+Earth Day,PERSON,2,2,1.0,0.24
+Spotlighting  Unfair Trade,PERSON,1,1,1.0,0.12
+Practice That Harm,PERSON,1,1,1.0,0.12
+Indonesia,LOCATION,3,3,1.0,0.36
+Dakshina Kannada,PERSON,1,1,1.0,0.12
+Mangaluru News,PERSON,1,1,1.0,0.12
+Malaysia,LOCATION,2,2,1.0,0.24
+Mumbai,LOCATION,1,1,1.0,0.12
+Congo,LOCATION,2,2,1.0,0.24
+Afrique Centrale,PERSON,1,1,1.0,0.12
+Ici On Agit,PERSON,2,2,1.0,0.24
+Amazon,ORGANIZATION,1,1,1.0,0.12
+Puerto Rico,PERSON,1,1,1.0,0.12
+Honduras,LOCATION,1,1,1.0,0.12
+Sierra Nevada,PERSON,1,1,1.0,0.12
+Santa Marta,PERSON,1,1,1.0,0.12
+Der Wald,PERSON,1,1,1.0,0.12
+Wettinger Bahnhof,PERSON,1,1,1.0,0.12
+Papst Franziskus,PERSON,2,2,1.0,0.24
+France,LOCATION,1,1,1.0,0.12
+Papa Francesco,PERSON,1,1,1.0,0.12

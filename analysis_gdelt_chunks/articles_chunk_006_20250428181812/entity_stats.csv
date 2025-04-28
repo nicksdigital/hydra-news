@@ -1,0 +1,25 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Nord America,PERSON,1,1,1.0,0.12
+Milan,LOCATION,1,1,1.0,0.12
+Gran San Bernardo,PERSON,2,2,1.0,0.24
+Santa Catarina,PERSON,1,1,1.0,0.12
+Be Misused On,PERSON,1,1,1.0,0.12
+Ground That Already,PERSON,1,1,1.0,0.12
+Employed Family Member,PERSON,1,1,1.0,0.12
+Is Financially Unsupportive,PERSON,1,1,1.0,0.12
+Boss Canceled My,PERSON,1,1,1.0,0.12
+Doctor Appointment Without,PERSON,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Paris,LOCATION,1,1,1.0,0.12
+Lucane Palooza,PERSON,1,1,1.0,0.12
+La Poste,PERSON,1,1,1.0,0.12
+Philippe Wahl,PERSON,1,1,1.0,0.12
+El Supremo,PERSON,1,1,1.0,0.12
+Francoise Bettencourt Meyers,PERSON,1,1,1.0,0.12
+Richar Gamboa,PERSON,1,1,1.0,0.12
+Papst Franziskus,PERSON,1,1,1.0,0.12
+Medienminister Babler,PERSON,1,1,1.0,0.12
+Landkreis Northeim,PERSON,2,1,0.5,0.13999999999999999
+Fraktionssprecher Thomas Zach,PERSON,1,1,1.0,0.12
+Pere Ma,PERSON,1,1,1.0,0.12
+Spontane Assoziationen,PERSON,1,1,1.0,0.12

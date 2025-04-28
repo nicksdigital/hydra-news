@@ -1,0 +1,37 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Rooh Afza,PERSON,1,1,1.0,0.12
+Why Baba Ramdev,PERSON,1,1,1.0,0.12
+Syria,LOCATION,2,2,1.0,0.24
+Palestinian Islamic Jihad,PERSON,2,2,1.0,0.24
+Syria Detains Two,PERSON,1,1,1.0,0.12
+Delhi,LOCATION,1,1,1.0,0.12
+Baba Ramdev,PERSON,1,1,1.0,0.12
+Sharbat Jihad,PERSON,1,1,1.0,0.12
+Israel,LOCATION,9,9,1.0,1.0
+More Arab,PERSON,1,1,1.0,0.12
+The Jerusalem Post,PERSON,1,1,1.0,0.12
+Mali,LOCATION,1,1,1.0,0.12
+Niger,LOCATION,1,1,1.0,0.12
+Au Niger,PERSON,1,1,1.0,0.12
+La Nouvelle,PERSON,1,1,1.0,0.12
+Reuters,ORGANIZATION,1,1,1.0,0.12
+La Jornada,PERSON,1,1,1.0,0.12
+Tel Aviv,PERSON,1,1,1.0,0.12
+Rom Braslavski,PERSON,1,1,1.0,0.12
+Jeder Tag,PERSON,1,1,1.0,0.12
+Lebanon,LOCATION,1,1,1.0,0.12
+Lebanon News,PERSON,1,1,1.0,0.12
+Burkina Faso,LOCATION,1,1,1.0,0.12
+Banca Mondiale,PERSON,1,1,1.0,0.12
+Iran,LOCATION,1,1,1.0,0.12
+Congress,ORGANIZATION,1,1,1.0,0.12
+Domani Motus Liberi,PERSON,1,1,1.0,0.12
+Bryan Kohberger,PERSON,3,3,1.0,0.36
+Luigi Mangione,PERSON,7,6,0.8571428571428571,0.74
+Payton Gendron,PERSON,1,1,1.0,0.12
+Vietnam,LOCATION,1,1,1.0,0.12
+Moon Jae,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,2,1,0.5,0.13999999999999999
+Brian Thompson,PERSON,1,1,1.0,0.12
+RT,ORGANIZATION,1,1,1.0,0.12
+Presidente Boric,PERSON,1,1,1.0,0.12

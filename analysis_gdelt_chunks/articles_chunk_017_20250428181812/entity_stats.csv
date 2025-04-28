@@ -1,0 +1,53 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Reno,LOCATION,1,1,1.0,0.12
+Receive Nuclear Regulatory Commission,ORGANIZATION,1,1,1.0,0.12
+Illinois Urbana,PERSON,1,1,1.0,0.12
+Champaign Receive Nuclear,PERSON,1,1,1.0,0.12
+Fuel Qualification Methodology,PERSON,1,1,1.0,0.12
+Energy System,PERSON,1,1,1.0,0.12
+General Grossi Discusses Global,ORGANIZATION,1,1,1.0,0.12
+Washington,LOCATION,1,1,1.0,0.12
+Director General Grossi,PERSON,1,1,1.0,0.12
+Nuclear Safety Issues,PERSON,1,1,1.0,0.12
+China,LOCATION,9,8,0.8888888888888888,0.9800000000000001
+China Strategic Push,PERSON,1,1,1.0,0.12
+Africa Nuclear Energy,PERSON,1,1,1.0,0.12
+Kuwait,LOCATION,1,1,1.0,0.12
+La Banque,PERSON,1,1,1.0,0.12
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Beijing,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Intel,ORGANIZATION,1,1,1.0,0.12
+Demian Reidel,PERSON,1,1,1.0,0.12
+Inteligencia Artificial,PERSON,1,1,1.0,0.12
+Noticias La Tribuna,PERSON,1,1,1.0,0.12
+Banco Mundial,PERSON,1,1,1.0,0.12
+El Gobierno,PERSON,1,1,1.0,0.12
+Argentina,LOCATION,1,1,1.0,0.12
+Wall Street Journal,ORGANIZATION,1,1,1.0,0.12
+Wall Street,LOCATION,1,1,1.0,0.12
+Deutschlands Energiedebakel,PERSON,1,1,1.0,0.12
+Kein Vorbild,PERSON,1,1,1.0,0.12
+Absa,ORGANIZATION,2,2,1.0,0.24
+Neue Umsatzrekorde,PERSON,2,1,0.5,0.13999999999999999
+Die Antwort,PERSON,1,1,1.0,0.12
+Iran,LOCATION,1,1,1.0,0.12
+Russia,LOCATION,1,1,1.0,0.12
+La Russia,PERSON,1,1,1.0,0.12
+Officine Luigi Resta,PERSON,1,1,1.0,0.12
+Piacenza Expo,PERSON,1,1,1.0,0.12
+Analisi Cdp,PERSON,1,1,1.0,0.12
+Tribuna Online,PERSON,1,1,1.0,0.12
+Niger,LOCATION,1,1,1.0,0.12
+Niger Delta,PERSON,1,1,1.0,0.12
+Environment Week,PERSON,1,1,1.0,0.12
+Lagos,LOCATION,1,1,1.0,0.12
+Oman,LOCATION,1,1,1.0,0.12
+Environment Day,PERSON,1,1,1.0,0.12
+Environment Agency,ORGANIZATION,1,1,1.0,0.12
+England,LOCATION,2,2,1.0,0.24
+Veolia Environnement,PERSON,1,1,1.0,0.12
+Semia Gharbi,PERSON,1,1,1.0,0.12
+Projet Simandou,PERSON,1,1,1.0,0.12
+La Ministre,PERSON,1,1,1.0,0.12

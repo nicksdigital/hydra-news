@@ -1,0 +1,24 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Tiny Desk,PERSON,1,1,1.0,0.12
+Grupo Frontera,PERSON,1,1,1.0,0.12
+Los Angeles,LOCATION,2,1,0.5,0.13999999999999999
+Patrulla Fronteriza,PERSON,2,1,0.5,0.13999999999999999
+BP,ORGANIZATION,1,1,1.0,0.12
+Salzburger Politiker,PERSON,1,1,1.0,0.12
+Jahre Haft,PERSON,1,1,1.0,0.12
+Xinhua,ORGANIZATION,1,1,1.0,0.12
+Operazione  Turkish Shuttles,PERSON,1,1,1.0,0.12
+Leone Zingales,PERSON,1,1,1.0,0.12
+Receita Federal,ORGANIZATION,1,1,1.0,0.12
+Tokyo,LOCATION,1,1,1.0,0.12
+Barrister Gohar,PERSON,1,1,1.0,0.12
+Iran,LOCATION,13,13,1.0,1.0
+Oman,LOCATION,1,1,1.0,0.12
+China Commerce Ministry,ORGANIZATION,1,1,1.0,0.12
+China,LOCATION,3,3,1.0,0.36
+Tehran,LOCATION,2,2,1.0,0.24
+Middle East Monitor,PERSON,1,1,1.0,0.12
+Washington,LOCATION,3,3,1.0,0.36
+El Gobierno,PERSON,1,1,1.0,0.12
+Estados Unidos,PERSON,3,3,1.0,0.36
+Donald Trump,PERSON,1,1,1.0,0.12

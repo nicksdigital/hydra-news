@@ -1,0 +1,27 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Igor Levit,PERSON,1,1,1.0,0.12
+Brigitte Macron,PERSON,1,1,1.0,0.12
+Justin Bieber,PERSON,1,1,1.0,0.12
+Salma Hayek,PERSON,2,2,1.0,0.24
+Harvey Weinstein,PERSON,2,2,1.0,0.24
+Maltrato Residencia,PERSON,1,1,1.0,0.12
+Warum Opfer,PERSON,1,1,1.0,0.12
+Birgit Schrowange,PERSON,1,1,1.0,0.12
+Birgit Schrowange  Leben,PERSON,1,1,1.0,0.12
+Netflix,ORGANIZATION,1,1,1.0,0.12
+Silvio Almeida,PERSON,1,1,1.0,0.12
+Me Too,PERSON,1,1,1.0,0.12
+Claudia Raia,PERSON,1,1,1.0,0.12
+Australia,LOCATION,1,1,1.0,0.12
+West Virginia,PERSON,1,1,1.0,0.12
+New Medicus Healthcare Solutions,ORGANIZATION,1,1,1.0,0.12
+New Medicus Healthcare,PERSON,1,1,1.0,0.12
+Surgeon Shortage,PERSON,1,1,1.0,0.12
+Intel,ORGANIZATION,1,1,1.0,0.12
+Raptor Lake,LOCATION,1,1,1.0,0.12
+Ranchi News,PERSON,1,1,1.0,0.12
+Minister Patil,PERSON,1,1,1.0,0.12
+Hubballi News,PERSON,1,1,1.0,0.12
+Bolivia,LOCATION,1,1,1.0,0.12
+La Paz,PERSON,1,1,1.0,0.12
+Chocolat Duba,PERSON,2,2,1.0,0.24

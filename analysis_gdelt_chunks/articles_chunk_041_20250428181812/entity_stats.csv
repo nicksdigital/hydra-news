@@ -1,0 +1,40 @@
+entity,type,count,num_sources,source_diversity,trust_score
+Nord America,PERSON,1,1,1.0,0.12
+Mare Nostrum,PERSON,1,1,1.0,0.12
+Imola Oggi,PERSON,2,1,0.5,0.13999999999999999
+Milwaukee,LOCATION,1,1,1.0,0.12
+FBI,ORGANIZATION,5,4,0.8,0.5
+Canada,LOCATION,1,1,1.0,0.12
+Border Security,PERSON,9,1,0.1111111111111111,0.27999999999999997
+America Front Line,PERSON,9,1,0.1111111111111111,0.27999999999999997
+Piedras Negras,PERSON,1,1,1.0,0.12
+China,LOCATION,1,1,1.0,0.12
+Colombia,LOCATION,1,1,1.0,0.12
+Estados Unidos,PERSON,1,1,1.0,0.12
+Luis Abinader,PERSON,1,1,1.0,0.12
+Egypt,LOCATION,1,1,1.0,0.12
+France,LOCATION,1,1,1.0,0.12
+Israel,LOCATION,3,3,1.0,0.36
+Italy,LOCATION,1,1,1.0,0.12
+Japan,LOCATION,1,1,1.0,0.12
+Jordan,LOCATION,1,1,1.0,0.12
+Pakistan,LOCATION,3,3,1.0,0.36
+Russia,LOCATION,2,2,1.0,0.24
+India,LOCATION,3,3,1.0,0.36
+India News,PERSON,1,1,1.0,0.12
+Kenya,LOCATION,1,1,1.0,0.12
+Om Birla,PERSON,1,1,1.0,0.12
+Russia Working Group,ORGANIZATION,1,1,1.0,0.12
+Moscow,LOCATION,1,1,1.0,0.12
+Joint Pakistan,PERSON,1,1,1.0,0.12
+Mid West India,PERSON,1,1,1.0,0.12
+Former Foreign Secretary,PERSON,1,1,1.0,0.12
+Harsh Vardhan Shringla,PERSON,1,1,1.0,0.12
+Ahmed Souab,PERSON,3,2,0.6666666666666666,0.26
+En Tunisie,PERSON,1,1,1.0,0.12
+Mali,LOCATION,1,1,1.0,0.12
+El Cucho,PERSON,1,1,1.0,0.12
+Madrid,LOCATION,1,1,1.0,0.12
+Luis Pacheco,PERSON,1,1,1.0,0.12
+Paraguay,LOCATION,1,1,1.0,0.12
+Guardia Revolucionaria,PERSON,1,1,1.0,0.12
